@@ -191,3 +191,9 @@ https://tvpass.org/live/nbc-sports-philadelphia/hd
 
 #EXTINF:-1 group-title="Sports | Denmark",Pluto TV Sport
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+
+#EXTINF:-1 group-title="Sports | Italy",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Roku Sports Channel
+https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
