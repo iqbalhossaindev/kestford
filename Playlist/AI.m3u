@@ -860,3 +860,6 @@ http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?c
 
 #EXTINF:-1 ,Eawaz TV (CA)
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="EkhonTV.bd@SD",Ekhon TV (1080p)
+https://tplay.live/out/bangladesh/ekhontv.index.m3u8
