@@ -14,9 +14,3 @@ https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 
 #EXTINF:-1 group-title="Sports | United States",Cricket Gold
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-
-#EXTINF:-1 group-title="Sports | Bahrain",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports | Philippines",Premier Sports
-https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
