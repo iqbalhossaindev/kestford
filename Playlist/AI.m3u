@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="Sports | Italy",Aci Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
+#EXTINF:-1 group-title="Sports | France",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
 #EXTINF:-1 group-title="Sports | Qatar",Alkass Five
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 
@@ -71,15 +74,3 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:-1 group-title="Sports | Unknown",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
-#EXTINF:-1 group-title="Sports | United States",Directv Sports
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="Sports | Germany",Dyn Sport Mix
-https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
-
-#EXTINF:-1 group-title="Sports | Spain",Esport3
-https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-
-#EXTINF:-1 group-title="Sports | Poland",Extreme Sports Channel Polska
-https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc124/extremesportshdraw/extremesportshdraw.mpd
