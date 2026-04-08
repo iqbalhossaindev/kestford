@@ -182,6 +182,3 @@ https://proshls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Sports | Philippines",Nudge Sports Channel
 https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports | Switzerland",Rai Sport
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
