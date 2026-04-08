@@ -263,3 +263,6 @@ https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 
 #EXTINF:-1 group-title="Sports | United States",Swerve Sports
 https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | Macao",Tdm Sports Ch. 93
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
