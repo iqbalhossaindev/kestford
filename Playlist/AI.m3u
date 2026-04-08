@@ -197,27 +197,3 @@ https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports | United States",Roku Sports Channel
 https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
-
-#EXTINF:-1 group-title="Sports | San Marino",San Marino Rtv Sport
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-
-#EXTINF:-1 group-title="Sports | United States",Shooting Sports Life
-https://linear-1312.frequency.stream/dist/stirr/1312/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports | India",Sony Sports Ten 2
-http://103.229.254.25:7001/play/a02t/index.m3u8
-
-#EXTINF:-1 group-title="Sports | India",Sony Sports Ten 3 Hindi
-http://103.229.254.25:7001/play/a09q/index.m3u8
-
-#EXTINF:-1 group-title="Sports | India",Sony Sports Ten 5
-http://103.157.248.140:8000/play/a05x/index.m3u8
-
-#EXTINF:-1 group-title="Sports | United States",Speed Sport 1
-https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports | Unknown",Speed Sports 1
-https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports | United States",Sport Fishing TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
