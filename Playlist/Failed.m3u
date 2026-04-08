@@ -8,3 +8,6 @@ https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
 #EXTINF:-1 group-title="Sports | Germany",Auto Motor Sport
 https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Fox Sports 3 Latin America
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
