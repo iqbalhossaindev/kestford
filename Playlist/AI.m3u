@@ -689,12 +689,3 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Arirang TV UN (1080p)" group-title="South Korea",Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="RTRTV (1080p)" group-title="Ecuador",RTRTV (1080p)
-https://tv3ecuador.site/hls/stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/640px-TVP2_logo.svg.png" tvg-name="TVP2" group-title="Poland",TVP2
-https://strims.top/tv/tvp2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MoukyGs.png" tvg-name="TV5 Finland" group-title="Finland",TV5 Finland
-https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
