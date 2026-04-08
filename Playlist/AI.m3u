@@ -242,12 +242,3 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 
 #EXTINF:-1 group-title="Sports | Italy",Sports Italia
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports | India",Star Sports 1 Hindi
-http://103.157.248.140:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 group-title="Sports | India",Star Sports 1 Tamil
-http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
-
-#EXTINF:-1 group-title="Sports | India",Star Sports 2 Hindi
-http://103.157.248.140:8000/play/a01m/index.m3u8
