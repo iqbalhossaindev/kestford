@@ -162,6 +162,9 @@ https://tvpass.org/live/nbc-sports-boston/hd
 #EXTINF:-1 group-title="Sports | United States",Nbc Sports Now
 https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 
+#EXTINF:-1 group-title="Sports | United States",Nbc Sports Philadelphia
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+
 #EXTINF:-1 group-title="Sports | Oman",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
