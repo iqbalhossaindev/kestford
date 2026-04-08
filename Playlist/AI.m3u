@@ -131,21 +131,3 @@ https://amg02703-amg02703c20-samsung-au-9093.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports | North Macedonia",M-net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-
-#EXTINF:-1 group-title="Sports | United States",Midpen Media Center Youth Education And Sports Channel 28
-https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports | Mongolia",Mnb Sport
-https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-
-#EXTINF:-1 group-title="Sports | Germany",More Than Sports TV
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports | Unknown",More Then Sports TV
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports | Guatemala",Multivisión Sports
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-
-#EXTINF:-1 group-title="Sports | United States",NBA TV
-https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
