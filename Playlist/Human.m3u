@@ -50,9 +50,3 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc
 
 #EXTINF:-1 tvg-name="Sky News Extra 3 (1080p)" group-title="Australia",Sky News Extra 3 (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-
-#EXTINF:-1 tvg-id="AajEntertainment.pk@SD",Aaj Entertainment (1080p)
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
-
-#EXTINF:-1 group-title="Sports | United States",beIN SPORTS XTRA
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
