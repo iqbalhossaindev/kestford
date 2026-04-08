@@ -485,3 +485,42 @@ https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-name="France 24 العربية Ⓨ" group-title="Unknown",France 24 العربية Ⓨ
 https://www.youtube.com/c/FRANCE24Arabic/live
+
+#EXTINF:-1 tvg-name="BBC Cbeebies" group-title="Unknown",BBC Cbeebies
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-name="CGTN Documentary English Ⓢ" group-title="Unknown",CGTN Documentary English Ⓢ
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-name="CNN International" group-title="Unknown",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9q3Q9d.png" tvg-name="SABC News" group-title="Unknown",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
+
+#EXTINF:-1 tvg-name="BBC News Pashto (720p)" group-title="United Kingdom",BBC News Pashto (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="CBC News Toronto (720p)" group-title="Canada",CBC News Toronto (720p)
+https://jmp2.uk/plu-6536721dbfbaec00088687c0.m3u8
+
+#EXTINF:-1 tvg-name="BBC News Europe" group-title="Slovakia",BBC News Europe
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Euronews French (720p)" group-title="France",Euronews French (720p)
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-name="Euronews Italian Ⓨ" group-title="Italy",Euronews Italian Ⓨ
+https://www.youtube.com/user/euronewsit/live
+
+#EXTINF:-1 tvg-name="BBC Arabic (720p)" group-title="United Kingdom",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="BBC Persian (540p)" group-title="United Kingdom",BBC Persian (540p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aObcudw.png" tvg-name="ABC News Albania Ⓣ" group-title="Albania",ABC News Albania Ⓣ
+https://www.twitch.tv/abcnewsal
+
+#EXTINF:-1 tvg-name="CBC News British Columbia" group-title="Canada",CBC News British Columbia
+https://jmp2.uk/plu-66a8f01914a2bb00084dd86c.m3u8
