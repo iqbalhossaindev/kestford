@@ -9,9 +9,6 @@ https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 #EXTINF:-1 group-title="Sports | Qatar",Alkass Four
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 
-#EXTINF:-1 group-title="Sports | Qatar",Alkass One
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-
 #EXTINF:-1 group-title="Sports | Qatar",Alkass Seven
 https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 
@@ -83,3 +80,54 @@ https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 
 #EXTINF:-1 group-title="Sports | Poland",Extreme Sports Channel Polska
 https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc124/extremesportshdraw/extremesportshdraw.mpd
+
+#EXTINF:-1 group-title="Sports | United States",Fox Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Fox Sports 2
+https://tvpass.org/live/FoxSports2/hd
+
+#EXTINF:-1 group-title="Sports | United States",Fox Sports 3 Latin America
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Fox Sports En Espanol
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Ftf Sports
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Fubo Sports Network
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+
+#EXTINF:-1 group-title="Sports | Japan",Gaora Sports
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
+#EXTINF:-1 group-title="Sports | United States",Golf Channel
+https://tvpass.org/live/GolfChannel/hd
+
+#EXTINF:-1 group-title="Sports | United States",Golf Channel Latin America
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+
+#EXTINF:-1 group-title="Sports | Japan",J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+#EXTINF:-1 group-title="Sports | Japan",J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+#EXTINF:-1 group-title="Sports | Japan",J Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+#EXTINF:-1 group-title="Sports | Japan",J Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+#EXTINF:-1 group-title="Sports | Kuwait",Ktv Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports | Kuwait",Ktv Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports | Australia",Leaderboard Sports News
+https://amg02703-amg02703c20-samsung-au-9093.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | North Macedonia",M-net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
