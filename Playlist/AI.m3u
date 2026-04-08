@@ -182,3 +182,6 @@ https://proshls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Sports | Unknown",Pro Sports International
 https://proshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Sports | Philippines",Nudge Sports Channel
+https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
