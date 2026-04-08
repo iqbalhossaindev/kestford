@@ -899,3 +899,6 @@ https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
 
 #EXTINF:-1 ,India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.bd@SD",Jamuna TV (1080p)
+https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8
