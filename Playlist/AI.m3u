@@ -254,3 +254,12 @@ http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
 
 #EXTINF:-1 group-title="Sports | India",Star Sports 2 Hindi
 http://103.157.248.140:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 group-title="Sports | Unknown",Star Sports Sl 1
+https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+
+#EXTINF:-1 group-title="Sports | Ukraine",Suspilne. Sport
+https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Swerve Sports
+https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
