@@ -1,9 +1,10 @@
 {
-  "running": false,
-  "scheduled": false,
-  "lastStartedAt": null,
+  "running": true,
+  "scheduled": true,
+  "lastStartedAt": "2026-04-08T06:15:55.850Z",
   "lastFinishedAt": null,
   "lastError": null,
   "lastSummary": null,
+  "intervalMinutes": 60,
   "botName": "AI"
 }
