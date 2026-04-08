@@ -245,12 +245,3 @@ https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports | India",Sports Connect
 https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
-
-#EXTINF:-1 group-title="Sports | India",Star Sports 1 Hindi
-http://103.157.248.140:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 group-title="Sports | India",Star Sports 1 Tamil
-http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
-
-#EXTINF:-1 group-title="Sports | India",Star Sports 2 Hindi
-http://103.157.248.140:8000/play/a01m/index.m3u8
