@@ -84,9 +84,6 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 group-title="Sports | United States",Fox Sports 2
 https://tvpass.org/live/FoxSports2/hd
 
-#EXTINF:-1 group-title="Sports | United States",Fox Sports 3 Latin America
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-
 #EXTINF:-1 group-title="Sports | United States",Fox Sports En Espanol
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 
@@ -182,3 +179,6 @@ https://proshls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Sports | Philippines",Nudge Sports Channel
 https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | Switzerland",Rai Sport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
