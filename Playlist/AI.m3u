@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports | Italy",Aci Sport TV
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-
 #EXTINF:-1 group-title="Sports | Qatar",Alkass Five
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 
@@ -794,3 +791,6 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 #EXTINF:-1 ,CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.bd@SD",Channel 24 (1080p)
+https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
