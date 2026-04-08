@@ -632,3 +632,18 @@ https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Azteca Deportes Network (720p)" group-title="Mexico",Azteca Deportes Network (720p)
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
+
+#EXTINF:-1 tvg-name="Azteca Deportes Premium (720p)" group-title="Mexico",Azteca Deportes Premium (720p)
+https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g0jPOcC.png" tvg-name="TRT" group-title="Greece",TRT
+https://av.hellasnet.tv/rst/trt/index.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg HT (720p)" group-title="Türkiye",Bloomberg HT (720p)
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV Mongolia HD (1080p)" group-title="Mongolia",Bloomberg TV Mongolia HD (1080p)
+https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
+
+#EXTINF:-1 tvg-name="TV5 (1080p)" group-title="Mongolia",TV5 (1080p)
+https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
