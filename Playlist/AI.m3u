@@ -821,3 +821,6 @@ http://103.229.254.25:7001/play/a0ds/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzhwJYDJ/DD-Bangla.jpg" group-title="Bangla",DD Bangla Source 3
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+
+#EXTINF:-1 ,DD Vyas
+http://playhls.media.nic.in/live/vyas-360p/index.m3u8
