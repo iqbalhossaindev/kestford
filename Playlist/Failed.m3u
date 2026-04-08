@@ -14,3 +14,6 @@ http://103.229.254.25:7001/play/a064/index.m3u8
 
 #EXTINF:-1 group-title="Sports | Italy",Aci Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+
+#EXTINF:-1 group-title="Sports | Georgia",Adjarasport 1
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
