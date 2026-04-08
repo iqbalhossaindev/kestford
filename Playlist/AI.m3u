@@ -455,3 +455,33 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Espreso TV" group-title="Ukraine",Espreso TV
 https://liveovh009.cda.pl/2mwlMj_cpciQwY9XKkuwooIeujskIie828C5uElA/1760154894/24372638/enc024/espresotvraw/espresotvraw.m3u8
+
+#EXTINF:-1 tvg-name="C5N" group-title="Argentina",C5N
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
+
+#EXTINF:-1 tvg-name="ADN 40" group-title="Mexico",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-name="Azteca Internacional" group-title="Mexico",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" tvg-name="TV Cultura" group-title="Brazil",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-name="Canal Gov" group-title="Brazil",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-name="NHK World Premium (720p)" group-title="Mongolia",NHK World Premium (720p)
+https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-10 (576i)" group-title="China",CCTV-10 (576i)
+https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-name="France 24 Español Ⓨ" group-title="Unknown",France 24 Español Ⓨ
+https://www.youtube.com/c/FRANCE24Espanol/live
+
+#EXTINF:-1 tvg-name="France 24 FAST English (1080p)" group-title="France",France 24 FAST English (1080p)
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-name="France 24 العربية Ⓨ" group-title="Unknown",France 24 العربية Ⓨ
+https://www.youtube.com/c/FRANCE24Arabic/live
