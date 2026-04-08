@@ -542,3 +542,24 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrQVoOg.png" tvg-name="Euronews Bulgaria Ⓨ" group-title="Bulgaria",Euronews Bulgaria Ⓨ
 https://www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-name="Euronews Deutsch Ⓨ" group-title="Germany",Euronews Deutsch Ⓨ
+https://www.youtube.com/euronewsde/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-name="Euronews em Português Ⓨ" group-title="Portugal",Euronews em Português Ⓨ
+https://www.youtube.com/euronewspt/live
+
+#EXTINF:-1 tvg-name="Euronews German (720p)" group-title="France",Euronews German (720p)
+https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-name="Euronews Hungarian Ⓨ" group-title="Hungary",Euronews Hungarian Ⓨ
+https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live
+
+#EXTINF:-1 tvg-name="Euronews Português (720p)" group-title="Brazil",Euronews Português (720p)
+https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
+
+#EXTINF:-1 tvg-name="Euronews Romania" group-title="Romania",Euronews Romania
+https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jUOVUXt.png" tvg-name="Euronews România Ⓨ" group-title="Romania",Euronews România Ⓨ
+https://www.youtube.com/euronewsro/live
