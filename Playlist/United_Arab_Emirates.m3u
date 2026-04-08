@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/2560px-Abu_Dhabi_Sports_logo_2023.svg.png" tvg-id="AbuDhabiSports2.ae" tvg-country="AE" group-title="United Arab Emirates",Abu Dhabi Sports 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/2560px-Abu_Dhabi_Sports_logo_2023.svg.png" tvg-id="AbuDhabiSports2.ae" tvg-country="AE" group-title="United Arab Emirates",Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-name="Abu Dhabi TV" tvg-logo="https://i.imgur.com/7cNke07.png" tvg-id="AbuDhabiTV.ae" tvg-country="AE" group-title="United Arab Emirates",Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="Ajman TV" tvg-logo="https://pbs.twimg.com/profile_images/1085187553563561990/KRKuK_iW_400x400.jpg" tvg-id="AjmanTV.ae" tvg-country="AE" group-title="United Arab Emirates",Ajman TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/index.m3u8
+#EXTINF:-1 tvg-id="AjmanTV.ae@SD",Ajman TV (1080p)
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Aan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Al_Aan_TV_new_Logo.png" tvg-id="AlAanTV.ae" tvg-country="AE" group-title="United Arab Emirates",Al Aan TV
+https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Arabiya Business" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" tvg-id="AlArabiyaBusiness.ae" tvg-country="AE" group-title="United Arab Emirates",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae@SD",Al Arabiya Business (1080p)
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD",Al Arabiya Programs (1280p)
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQamarTV.ae@SD",Al Qamar TV (1080p)
+https://streamer3.premio.link/alqamar/playlist.m3u8
+#EXTINF:-1 tvg-id="AlShallalTV.ae@SD",Al Shallal TV (1080p)
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae@SD",Al Sharqiya Min Kabla (1080p)
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Wousta" tvg-logo="https://i5.satexpat.com/cha/ae/al-wousta-95x90.gif" tvg-id="SharjahSports.ae" tvg-country="AE" group-title="United Arab Emirates",Al Wousta
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlWoustaTV.ae@SD",Al Wousta TV (1080p)
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlYaumTV.ae@SD",Al Yaum TV (1080p)
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD",Alarabiya (1080p) Source 1
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD",Alarabiya (1080p) Source 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
+#EXTINF:-1 tvg-name="Baynounah TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Baynounah_tv_2023.png" tvg-id="BaynounahTV.ae" tvg-country="AE" group-title="United Arab Emirates",Baynounah TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" tvg-id="CartoonNetworkArabic.ae" tvg-country="AE" group-title="United Arab Emirates",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="CNBCArabiya.ae@SD",CNBC Arabiya (1080p)
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-name="Dubai One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" tvg-id="DubaiOne.ae" tvg-country="AE" group-title="United Arab Emirates",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png" tvg-id="DubaiRacing1.ae" tvg-country="AE" group-title="United Arab Emirates",Dubai Racing 1
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png" tvg-id="DubaiRacing2.ae" tvg-country="AE" group-title="United Arab Emirates",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Dubai Racing 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png" tvg-id="DubaiRacing3.ae" tvg-country="AE" group-title="United Arab Emirates",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports1.ae" tvg-country="AE" group-title="United Arab Emirates",Dubai Sports 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports2.ae" tvg-country="AE" group-title="United Arab Emirates",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports3.ae" tvg-country="AE" group-title="United Arab Emirates",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-name="Dubai TV" tvg-logo="https://i.imgur.com/wZMkKF7.png" tvg-id="DubaiTV.ae" tvg-country="AE" group-title="United Arab Emirates",Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Dubai Zaman" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-zaman-ae.png" tvg-id="DubaiZaman.ae" tvg-country="AE" group-title="United Arab Emirates",Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FujairahTV.ae@SD",Fujairah TV (720p)
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC 1" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-id="MBC1.ae" tvg-country="AE" group-title="United Arab Emirates",MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="MBC1.ae@SD",MBC 1 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:-1 tvg-name="MBC 2 Ⓢ" tvg-logo="https://i.imgur.com/n9mSHuP.png" tvg-id="MBC2.ae" tvg-country="AE" group-title="United Arab Emirates",MBC 2 Ⓢ
+http://37.122.156.107:4000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-name="MBC 3" tvg-logo="https://i.imgur.com/PVt8OPN.png" tvg-id="MBC3.ae" tvg-country="AE" group-title="United Arab Emirates",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-name="MBC 4" tvg-logo="https://i.imgur.com/BcXASJp.png" tvg-id="MBC4.ae" tvg-country="AE" group-title="United Arab Emirates",MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae@SD",MBC 4 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 tvg-name="MBC 5" tvg-logo="https://i.imgur.com/fRWaDyF.png" tvg-id="MBC5.ae" tvg-country="AE" group-title="United Arab Emirates",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae@SD",MBC 5 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-name="MBC Action Ⓢ" tvg-logo="https://i.imgur.com/OWZAghw.png" tvg-id="MBCAction.ae" tvg-country="AE" group-title="United Arab Emirates",MBC Action Ⓢ
+http://37.122.156.107:4000/play/a07h/index.m3u8
+#EXTINF:-1 tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/TTAGFHG.png" tvg-id="MBCBollywood.ae" tvg-country="AE" group-title="United Arab Emirates",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="MBCBollywood.ae@SD",MBC Bollywood (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-name="MBC Drama" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-id="MBCDrama.ae" tvg-country="AE" group-title="United Arab Emirates",MBC Drama
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae@SD",MBC Drama (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+#EXTINF:-1 tvg-id="MBCFM.ae@SD",MBC FM (1080p) Source 1
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+#EXTINF:-1 tvg-id="MBCFM.ae@SD",MBC FM (1080p) Source 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8
+#EXTINF:-1 tvg-name="MBC Max Ⓢ" tvg-logo="https://i.imgur.com/A02CptP.png" tvg-id="MBCMax.ae" tvg-country="AE" group-title="United Arab Emirates",MBC Max Ⓢ
+http://37.122.156.107:4000/play/a07i/index.m3u8
+#EXTINF:-1 tvg-name="MBC Persia" tvg-logo="https://i.imgur.com/4FXiyjn.png" tvg-id="MBCPersia.ae" tvg-country="AE" group-title="United Arab Emirates",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="MBCPersia.ae@SD",MBC Persia (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1 tvg-id="MBCPersia.ae@SD",MBC Persia (720p)
+https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="National Geographic Abu Dhabi" tvg-logo="https://i.imgur.com/fNA00VF.png" tvg-id="NationalGeographicAbuDhabi.ae" tvg-country="AE" group-title="United Arab Emirates",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Noor Dubai" tvg-logo="https://i.imgur.com/DLe7ZuM.png" tvg-id="NoorDubai.ae" tvg-country="AE" group-title="United Arab Emirates",Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OSNMoviesAction.ae@SD",OSN Movies Action (1080p)
+http://116.90.120.151:8000/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae@SD",Peace TV Bangla (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-id="PeaceTVChinese.ae@SD",Peace TV Chinese (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 tvg-id="PeaceTVEnglish.ae@SD",Peace TV English (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="PeaceTVUrdu.ae@SD",Peace TV Urdu (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 tvg-id="Pulse95Radio.ae@SD",Pulse95 Radio (1080p)
+https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
+#EXTINF:-1 tvg-name="Sama Dubai" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" tvg-id="SamaDubai.ae" tvg-country="AE" group-title="United Arab Emirates",Sama Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sharjah2.ae@SD",Sharjah 2 (1080p)
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahRadio.ae@SD",Sharjah Radio (1080p)
+https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahRadioQuran.ae@SD",Sharjah Radio Quran (1080p)
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:-1 tvg-name="Sharjah Sports" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-id="SharjahSports.ae" tvg-country="AE" group-title="United Arab Emirates",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahSports.ae@SD",Sharjah Sports (1080p) [Geo-blocked] Source 1
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahSports.ae@SD",Sharjah Sports (1080p) [Geo-blocked] Source 2
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sharjah TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sharjah-tv-ae.png" tvg-id="SharjahTV.ae" tvg-country="AE" group-title="United Arab Emirates",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahTV.ae@SD",Sharjah TV (1080p) Source 1
+https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahTV.ae@SD",Sharjah TV (1080p) Source 2
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahTV.ae@SD",Sharjah TV (360p)
+https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8
+#EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-id="SkyNewsArabia.ae" tvg-country="AE" group-title="United Arab Emirates",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae@HD",Sky News Arabia (1080p)
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD",Sky News Arabia (1080p) [Not 24/7]
+https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD",Sky News Arabia (720p) [Not 24/7]
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae@SD",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae@HD",Sky News Arabia Vertical (1080p)
+https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD",Spacetoon Arabic (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1 tvg-name="Wanasah" tvg-logo="https://i.imgur.com/nLtiXNf.png" tvg-id="Wanasah.ae" tvg-country="AE" group-title="United Arab Emirates",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="Wanasah.ae@SD",Wanasah (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+#EXTINF:-1 tvg-id="WatarRadio.ae@SD",Watar Radio (1080p)
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8

@@ -1,0 +1,519 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sports | Unknown",A Sports
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1775526010&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aa28e8795513d5a598abb14b075dde7c
+#EXTINF:-1 group-title="Sports | United Arab Emirates",Abu Dhabi Sports 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 group-title="Sports | United Arab Emirates",Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Italy",Aci Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="Sports | Georgia",Adjarasport 1
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",ADS Sport Cricket
+http://212.47.252.54/hls/stream.m3u8
+#EXTINF:-1 group-title="Sports | France",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="Sports | Cyprus",Alfa Sport
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 group-title="Sports | Qatar",Alkass Five
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 group-title="Sports | Qatar",Alkass Four
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 group-title="Sports | Qatar",Alkass One
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 group-title="Sports | Qatar",Alkass Seven
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+#EXTINF:-1 group-title="Sports | Qatar",Alkass Shoof
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+#EXTINF:-1 group-title="Sports | Qatar",Alkass Shoof 2
+https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
+#EXTINF:-1 group-title="Sports | Qatar",Alkass Six
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 group-title="Sports | Qatar",Alkass Three
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 group-title="Sports | Qatar",Alkass Two
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 group-title="Sports | Venezuela",As3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="Sports | Germany",Auto Motor Sport
+https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
+#EXTINF:-1 group-title="Sports | El Salvador",Awapa Sports TV
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 group-title="Sports | Bahrain",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Bahrain",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="Sports | United Kingdom",Bbc Radio 5 Sports Extra
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",beIN Sports
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",beIN Sports 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",beIN Sports 2
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652311.ts
+#EXTINF:-1 group-title="Sports | Unknown",beIN Sports 3
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
+#EXTINF:-1 group-title="Sports | Unknown",beIN Sports Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",beIN Sports Haber
+http://94.46.195.170:9000/bein-sports-haber/live.m3u8
+#EXTINF:-1 group-title="Sports | United States",beIN SPORTS XTRA
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports | United States",beIN Sports Xtra En Espanol
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports | United States",Bek TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Bt Sport 1
+https://tvsen6.aynascope.net/btSport1/index.m3u8?e=1775526033&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=76b363828dce869ecd580a5b9e56d1a9
+#EXTINF:-1 group-title="Sports | Unknown",Bt Sports 2
+https://tvsen6.aynascope.net/btSport2/index.m3u8?e=1775526018&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c18f30604982f4a1030374a39d2b36ef
+#EXTINF:-1 group-title="Sports | Azerbaijan",CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 group-title="Sports | United States",Cbs Sports Golazo Network
+https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
+#EXTINF:-1 group-title="Sports | United States",Cbs Sports Hq
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 group-title="Sports | Mexico",Claro Sports Mexico
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+#EXTINF:-1 group-title="Sports | United States",Cricket Gold
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",D Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1 group-title="Sports | India",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",DD Sports 2.0
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="Sports | India",DD Sports(bd3)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="Sports | United States",Directv Sports
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+#EXTINF:-1 group-title="Sports | Bangladesh",Discovery Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Dubai Sports
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports | United Arab Emirates",Dubai Sports 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports | United Arab Emirates",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="Sports | United Arab Emirates",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="Sports | Hungary",Duna World / M4+ Sport
+http://152.66.115.226:33391/bysid/103
+#EXTINF:-1 group-title="Sports | Germany",Dyn Sport Mix
+https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Greece",Ert Sports 1
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:-1 group-title="Sports | Greece",Ert Sports 2
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 group-title="Sports | Greece",Ert Sports 4
+https://ertflix.ascdn.broadpeak.io/ertlive/seasonal/default/index.mpd
+#EXTINF:-1 group-title="Sports | Unknown",ESPN
+https://tvsen5.aynascope.net/espn/index.m3u8?e=1775526019&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d5df0b2bb86b7ceb4048abf1700be6bd
+#EXTINF:-1 group-title="Sports | Unknown",ESPN 1
+https://n100.zohanayaan.com:1686/hls/espnusa.m3u8?md5=ZRuhoIESz_23U7ZGdDXzUw&expires=1775522563
+#EXTINF:-1 group-title="Sports | Bangladesh",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 group-title="Sports | United States",ESPN Deportes
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",ESPN News
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="Sports | Spain",Esport3
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",Eurosport
+http://iptv.kitv.live:1935/live/Shari/MTV-P/157.m3u8
+#EXTINF:-1 group-title="Sports | Poland",Extreme Sports Channel Polska
+https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc124/extremesportshdraw/extremesportshdraw.mpd
+#EXTINF:-1 group-title="Sports | Canada",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",Fight Sports
+http://45.126.83.51/uq2663/h/h05/index.m3u8
+#EXTINF:-1 group-title="Sports | United States",Fox Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Fox Sports 1
+https://tvsen7.aynascope.net/foxsports1/index.m3u8?e=1775526033&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=66c90fe0ab6d9d6f2fd433f76a0943c7
+#EXTINF:-1 group-title="Sports | United States",Fox Sports 2
+https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 group-title="Sports | Unknown",Fox Sports 2 Asia (thai)
+https://example.com/playlist.m3u8
+#EXTINF:-1 group-title="Sports | United States",Fox Sports 3 Latin America
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",Fox Sports 501
+http://45.58.62.92:8080
+#EXTINF:-1 group-title="Sports | United States",Fox Sports En Espanol
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="Sports | United States",Ftf Sports
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+#EXTINF:-1 group-title="Sports | United States",Fubo Sports Network
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Sports | Japan",Gaora Sports
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 group-title="Sports | Türkiye",Gem Sport
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",Geo Super
+https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Sports | United States",Golf Channel
+https://tvpass.org/live/GolfChannel/hd
+#EXTINF:-1 group-title="Sports | United States",Golf Channel Latin America
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+#EXTINF:-1 group-title="Sports | Japan",J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="Sports | Japan",J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="Sports | Japan",J Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="Sports | Japan",J Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="Sports | Jordan",Jordan Sport
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 group-title="Sports | Jordan",Jordan Sport 2
+https://jrtv-live.ercdn.net/learning2/learning2.m3u8
+#EXTINF:-1 group-title="Sports | Kuwait",Ktv Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports | Kuwait",Ktv Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports | Australia",Leaderboard Sports News
+https://amg02703-amg02703c20-samsung-au-9093.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Live Sports
+http://103.161.153.165:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Live Sports-4
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/196347.ts
+#EXTINF:-1 group-title="Sports | Unknown",Live Sports-5
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/2494.ts
+#EXTINF:-1 group-title="Sports | North Macedonia",M-net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 group-title="Sports | Hungary",M4 Sport
+https://c401-node62-cdn.connectmedia.hu/110110/5dd8dc6d853c9b7f94db85646ed44326/641177e3/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Marquee Sports Network
+https://tvsen6.aynascope.net/MarqueeSportsNetwork/index.m3u8?e=1775526023&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b0a2fcd07ec329ee06b926e72c7ac7c6
+#EXTINF:-1 group-title="Sports | United States",Midpen Media Center Youth Education And Sports Channel 28
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Mongolia",Mnb Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 group-title="Sports | Germany",More Than Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",More Then Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Motor Sports TV
+https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Guatemala",Multivisión Sports
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 group-title="Sports | United Kingdom",Mutv
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="Sports | United States",NBA TV
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Canada",NBA TV Canada
+http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+#EXTINF:-1 group-title="Sports | United States",Nbc Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Sports | United States",Nbc Sports Bay Area
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 group-title="Sports | United States",Nbc Sports Boston
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 group-title="Sports | United States",Nbc Sports Now
+https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Sports | United States",Nbc Sports Philadelphia
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 group-title="Sports | Unknown",NFL Network
+https://tvsen6.aynascope.net/nfl/index.m3u8?e=1775526032&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f4e20a0b1d2eee64ed47d6115e36156c
+#EXTINF:-1 group-title="Sports | Philippines",Nudge Sports Channel
+https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Oman",Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports | Austria",ORF Sport +
+https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
+#EXTINF:-1 group-title="Sports | Mexico",Pluto TV E-sports
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 group-title="Sports | Denmark",Pluto TV Sport
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 group-title="Sports | Poland",Polsat Sport 1
+http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
+#EXTINF:-1 group-title="Sports | Poland",Polsat Sport Premium 2
+http://78.130.250.2:8023/play/a05r/index.m3u8
+#EXTINF:-1 group-title="Sports | Philippines",Premier Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Premier Sports 1
+https://n100.zohanayaan.com:1686/hls/premieruk.m3u8?md5=t7hEve4dJE2qo2afwn52Dg&expires=1775522562
+#EXTINF:-1 group-title="Sports | Philippines",Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Iran",Pro Sport International
+https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Pro Sports International
+https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Psl Willow
+http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Psn 1 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Psn 2 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Psn 4 Sports
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Psn 5 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:-1 group-title="Sports | Pakistan",Ptv Sports
+http://103.250.28.74:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Sports | Switzerland",Rai Sport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+#EXTINF:-1 group-title="Sports | Italy",Rai Sport 2
+http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
+#EXTINF:-1 group-title="Sports | Italy",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1 group-title="Sports | United States",Roku Sports Channel
+https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
+#EXTINF:-1 group-title="Sports | Afghanistan",RTA Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 group-title="Sports | Albania",RTSH Sport
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Türkiye",S Sport
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Sports | Türkiye",S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Sports | San Marino",San Marino Rtv Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="Sports | United Arab Emirates",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Sharjah Sports TV
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports | United States",Shooting Sports Life
+https://linear-1312.frequency.stream/dist/stirr/1312/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sport 6 Nz
+https://n100.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=CP2eb7-7fbXuvobjGULnjw&expires=1775522561
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sport Nz 1
+https://n100.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=ATroQ1XVhN1goHYd6HnJSg&expires=1775522560
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sport Nz 2
+https://n100.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=QjVK6UjQ-YmO5kYNnyBnFA&expires=1775522560
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sport Nz 3
+https://n100.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=LzRZ3ghe9zzNpIJ7IpIu6Q&expires=1775522561
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sport Nz 4
+https://n100.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=TSkIwwb8WNcaC9jKRR5bNQ&expires=1775522561
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sport Nz 5
+https://n100.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=RPM9eoy6diUEmU0CwRVfZQ&expires=1775522561
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sport Nz 7
+https://n100.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=Ew46Ed70KoJkv-7mdv5VqQ&expires=1775522561
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sport Nz 8
+https://n100.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=jS2Dm-Ffz41wxe8PmB2ZAA&expires=1775522561
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sport Nz 9
+https://n100.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=4LZxfoPmnryrpjzNUR8Kqw&expires=1775522561
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports Action
+https://n100.zohanayaan.com:1686/hls/skysact.m3u8?md5=s9MRqBzarSosPJxrBwacBQ&expires=1775522561
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports Arena
+https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=LXofqMWGFfQQwbWHMvZ15g&expires=1775522563
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports Cricket
+https://n100.zohanayaan.com:1686/hls/skyscric.m3u8?md5=uMfXAcpBARp5pApNw0QGuw&expires=1775522556
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports F1
+https://n100.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=C7ClseykdvOK9LcxElZIgA&expires=1775522562
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports Football
+https://n100.zohanayaan.com:1686/hls/skysfott.m3u8?md5=amMxboiaeItIKscTr3RtNw&expires=1775522562
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports Golf
+https://n100.zohanayaan.com:1686/hls/skysgol.m3u8?md5=6MqUhpcAz-K8KE2VrTT5Ww&expires=1775522562
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports Main Event
+https://n100.zohanayaan.com:1686/hls/skysme.m3u8?md5=6HIXXRHdOdGd1ryojl9zxw&expires=1775522556
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports Mix
+https://n100.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=BpOsvpJMVkfzbeqWcCxZnA&expires=1775522563
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports New
+http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/505.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports Plus
+https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=iH_JAviK0BISJ08E9beU4Q&expires=1775522562
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports Premier League
+https://n100.zohanayaan.com:1686/hls/skysprem.m3u8?md5=LNmwORGgNx-J7uMuUJrVzg&expires=1775522562
+#EXTINF:-1 group-title="Sports | Unknown",Sky Sports Tennis
+https://n100.zohanayaan.com:1686/hls/skystennis.m3u8?md5=GxF9pNXID8ZiWEDdzK9nPQ&expires=1775522563
+#EXTINF:-1 group-title="Sports | Unknown",Sony Sports 1
+http://cdn.ihub.live:8082/SonyTen1/tracks-v1a1/mono.m3u8?token=19199fd3e3f6d6eebbde1dcebcdc8fa29d2dfdc4-2b256685e8225bf60dabf7b983852f53-1668515740-1668504940
+#EXTINF:-1 group-title="Sports | Unknown",Sony Sports 2
+http://cdn.ihub.live:8082/SonyTen2/tracks-v1a1/mono.m3u8?token=a11178fdd226a02edd39e187afc89f6741d818f0-26f6b6510737de660efc66921afb49bc-1668515815-1668505015
+#EXTINF:-1 group-title="Sports | Unknown",Sony Sports 3
+http://cdn.ihub.live:8082/SonyTen3/tracks-v1a1/mono.m3u8?token=7a0fde2d0cf89a0990737216c0dbd50217759fb0-eeb95e38b4814a2dc28a246e340b9277-1668515900-1668505100
+#EXTINF:-1 group-title="Sports | Unknown",Sony Sports Ten 1
+http://103.182.170.32:8888/play/a039
+#EXTINF:-1 group-title="Sports | India",Sony Sports Ten 2
+http://103.229.254.25:7001/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Sony Sports Ten 3
+http://103.182.170.32:8888/play/a03a
+#EXTINF:-1 group-title="Sports | India",Sony Sports Ten 3 Hindi
+http://103.229.254.25:7001/play/a09q/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Sony Sports Ten 4
+http://103.182.170.32:8888/play/a036
+#EXTINF:-1 group-title="Sports | India",Sony Sports Ten 5
+http://103.157.248.140:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="Sports | United States",Speed Sport 1
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Speed Sports 1
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports | United States",Sport Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 group-title="Sports | Italy",Sport Italia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Sport – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Sports | Italy",Sportitalia 24
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Sportitalia Live24
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Italy",Sportitalia Motori
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Italy",Sportitalia Plus
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Italy",Sportitalia Solocalcio
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Italy",Sportitalia TV/sportitalia/si
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Sports 18
+https://sendgbxt.ruscfd.lat/720p.m3u8
+#EXTINF:-1 group-title="Sports | India",Sports Connect
+https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
+#EXTINF:-1 group-title="Sports | United States",Sports First
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Sports First TV
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Sports Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Sports Grid
+https://tvsen6.aynascope.net/SportsGrid/index.m3u8?e=1775526025&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=429466b2a1d77f4569e1b2c85f990307
+#EXTINF:-1 group-title="Sports | Italy",Sports Italia
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Türkiye",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Star Sport Select 1
+https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1775526024&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1534ff0bcb6585a04da45e8cfb58a249
+#EXTINF:-1 group-title="Sports | Bangladesh",Star Sports
+http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
+#EXTINF:-1 group-title="Sports | India",Star Sports 1
+http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
+#EXTINF:-1 group-title="Sports | India",Star Sports 1 Hindi
+http://103.157.248.140:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Sports | India",Star Sports 1 Tamil
+http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Star Sports 2
+https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1775526043&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1aec8089e590df654a683d7fe7ec0e56
+#EXTINF:-1 group-title="Sports | India",Star Sports 2 Hindi
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Sports | India",Star Sports 3
+http://103.161.153.165:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Star Sports Hindi
+http://103.182.170.32:8888/play/a04e
+#EXTINF:-1 group-title="Sports | Bangladesh",Star Sports Select 1
+http://45.249.187.238:8081/hls/new2.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",Star Sports Select 2
+http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Star Sports Sl 1
+https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Super Sport Cricket
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
+#EXTINF:-1 group-title="Sports | Ukraine",Suspilne. Sport
+https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+#EXTINF:-1 group-title="Sports | United States",Swerve Sports
+https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Bangladesh",T Sports
+https://tvsen7.aynaott.com/tsportshd/index.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Talk Sport
+https://tvsen6.aynascope.net/talkSPORT/index.m3u8?e=1775526021&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=afb351d93b6ddce20e1fdb239725d080
+#EXTINF:-1 group-title="Sports | Macao",Tdm Sport
+https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Macao",Tdm Sports Ch. 93
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Ten Sports
+https://n100.zohanayaan.com:1686/hls/tenspk.m3u8?md5=ZBE_ZZSKB5Yrfq1Yj5wnsQ&expires=1775522556
+#EXTINF:-1 group-title="Sports | Unknown",Ten Sports Cricket
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/514856.ts
+#EXTINF:-1 group-title="Sports | Pakistan",Ten Sports Pakistan
+http://121.91.61.106:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Sports | Paraguay",Tigo Sports
+https://live.enhdtv.com:8081/8160/index.m3u8
+#EXTINF:-1 group-title="Sports | El Salvador",Tigo Sports TV El Salvador
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
+#EXTINF:-1 group-title="Sports | Belize",Tnc Sports
+https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports | Italy",Tr Sport
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Spain",Trace Sport Stars
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Australia",Trace Sport Stars (australia)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports | New Zealand",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",TSN 1
+https://tvsen7.aynascope.net/tsn1/index.m3u8?e=1775526034&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=332e4cd9f150ee4e966cabff03ec30d0
+#EXTINF:-1 group-title="Sports | Unknown",TSN 2
+https://tvsen7.aynascope.net/tsn2/index.m3u8?e=1775526020&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a24d04f021b01d07f1a393ad96ae4b08
+#EXTINF:-1 group-title="Sports | Unknown",TSN 3
+https://tvsen7.aynascope.net/tsn3/index.m3u8?e=1775526035&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=02d07b239509fd5adf2f29e1ce0e1439
+#EXTINF:-1 group-title="Sports | Italy",TSN Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Canada",TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 group-title="Sports | Norway",TV 2 Sport 1
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 group-title="Sports | Poland",Tvp Sport
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 group-title="Sports | Romania",Tvr Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 group-title="Sports | Indonesia",Tvri Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="Sports | United States",Tvs Classic Sports
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 group-title="Sports | United States",Tvs Sports
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 group-title="Sports | United States",Tvs Sports Bureau
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 group-title="Sports | United States",Tvs Women Sports
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 group-title="Sports | Argentina",Tyc Sports
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1 group-title="Sports | Argentina",Tyc Sports Latin America
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
+#EXTINF:-1 group-title="Sports | Turkmenistan",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="Sports | United States",Unbeaten Sports Channel
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Unbeaten Sports – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106dac71b00080a26d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Sports | United States",W14dk-d 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",W_300,q_85/py5j-jqbv9knk3ahxdty/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",[bd] Sony Ten Sports 1
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",W_300,q_85/sy5m-jqbv9knk3ahyttk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",[bd] Sony Ten Sports 2
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",W_300,q_85/uy6q-jqbv9knk3ahcduq/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp",[bd] Eurosport
+https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",W_300,q_85/vi5n-jqbv9knk3ahqztc/posters/241705c1-06a9-4694-92c6-0013d1879e42.webp",[bd] Sony Ten Sports 5
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Willow
+https://n100.zohanayaan.com:1686/hls/willowusa.m3u8?md5=nJF0JWFiDc51x_Xy7Bc3HQ&expires=1775522556
+#EXTINF:-1 group-title="Sports | Unknown",Willow 2
+https://n100.zohanayaan.com:1686/hls/willowextra.m3u8?md5=l932dqeBaGfqp5vZR3KOiw&expires=1775522556
+#EXTINF:-1 group-title="Sports | Unknown",Willow Cricket
+https://d1bz14289ojrvl.cloudfront.net/out/v1/828288b4f25c407189eb6104893fad9e/index.m3u8
+#EXTINF:-1 group-title="Sports | United States",Willow Sports
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Willow TV
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1775526031&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4c25eef84c19bf46306a5358cd1310b6
+#EXTINF:-1 group-title="Sports | United States",Women's Sports Network
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:-1 group-title="Sports | Unknown",Xtream Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 group-title="Sports | United States",Xtrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 group-title="Sports | United States",Yahoo! Sports Network
+https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
+#EXTINF:-1 group-title="Sports | Bolivia",Zoy TV Sports 1
+https://mio.zoymilton.com/ZoyEventos/index.m3u8
+#EXTINF:-1 group-title="Sports | Czechia",Čt Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="Sports | Czechia",Čt Sport Plus
+https://sktv.plainrock127.xyz/get.php?x=CTsportPlus
+#EXTINF:-1 group-title="Sports | Russia",Астрахань.ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
