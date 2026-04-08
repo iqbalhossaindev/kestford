@@ -41,3 +41,33 @@ https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
 
 #EXTINF:-1 group-title="Sports | Bahrain",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | Bahrain",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | Unknown",beIN Sports 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",beIN SPORTS XTRA
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",beIN Sports Xtra En Espanol
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Bek TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Cbs Sports Golazo Network
+https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Cbs Sports Hq
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Cricket Gold
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
+#EXTINF:-1 group-title="Sports | India",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 group-title="Sports | Unknown",DD Sports 2.0
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
