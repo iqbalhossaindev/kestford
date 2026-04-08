@@ -30,9 +30,6 @@ https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 #EXTINF:-1 group-title="Sports | Venezuela",As3 Sport TV
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Sports | Germany",Auto Motor Sport
-https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
-
 #EXTINF:-1 group-title="Sports | Bahrain",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
