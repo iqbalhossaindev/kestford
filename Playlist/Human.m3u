@@ -29,3 +29,6 @@ https://proshls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Sports | Qatar",Alkass Shoof 2
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
+
+#EXTINF:-1 group-title="Sports | Qatar",Alkass Six
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
