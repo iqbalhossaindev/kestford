@@ -18,5 +18,8 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 group-title="Sports | Georgia",Adjarasport 1
 https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
 
-#EXTINF:-1 tvg-id="8XM.pk@SD",8XM (576p)
-http://115.42.65.142:9981/stream/channelid/582886861
+#EXTINF:-1 tvg-id="4Music.fr@SD",4 Music
+https://itthls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="92NewsHD.pk@SD",92 News HD (720p)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
