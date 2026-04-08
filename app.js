@@ -228,8 +228,8 @@ function isUnderReview(channelId) {
 function getChannelBadges(channelId) {
   const badges = [];
   if (isUnderReview(channelId)) badges.push('<span class="status-badge review">UNDER REVIEW</span>');
-  if (isHumanVerified(channelId)) badges.push('<span class="status-badge human">HUMAN VERIFIED</span>');
-  if (isAiVerified(channelId)) badges.push('<span class="status-badge ai">AI VERIFIED</span>');
+  if (isHumanVerified(channelId)) badges.push('<span class="status-badge human">HUMAN</span>');
+  if (isAiVerified(channelId)) badges.push('<span class="status-badge ai">AI</span>');
   return badges.join(' ');
 }
 

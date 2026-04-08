@@ -1089,11 +1089,15 @@ body.in-fullscreen #filter-search-bar { display: none; }
 .status-badge {
   display: inline-flex;
   align-items: center;
-  padding: 2px 6px;
+  justify-content: center;
+  min-width: 34px;
+  padding: 2px 8px;
   border-radius: 999px;
-  font-size: 9px;
+  font-size: 8px;
   font-weight: 700;
-  letter-spacing: 0.6px;
+  letter-spacing: 0.5px;
+  line-height: 1.1;
+  white-space: nowrap;
   color: #fff;
 }
 
@@ -1109,17 +1113,3 @@ body.in-fullscreen #filter-search-bar { display: none; }
   background: linear-gradient(135deg, #ffb347, #ff5e62);
 }
 
-#ai-bot-note {
-  margin: 0 16px 16px;
-  padding: 12px 14px;
-  border: 1px solid var(--border);
-  border-radius: 16px;
-  background: rgba(255,255,255,0.04);
-  color: var(--text-dim);
-  font-size: 13px;
-  line-height: 1.5;
-}
-
-#ai-bot-note strong {
-  color: var(--text);
-}
