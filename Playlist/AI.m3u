@@ -734,3 +734,6 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV (1080p)
 https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
+
+#EXTINF:-1 ,Arirang Source 1
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
