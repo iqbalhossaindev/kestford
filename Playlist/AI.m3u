@@ -353,3 +353,33 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-name="France 24 Arabic" group-title="France",France 24 Arabic
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-name="France 2" group-title="France",France 2
+http://69.64.57.208/france2/mono.m3u8
+
+#EXTINF:-1 tvg-name="Das Erste" group-title="Germany",Das Erste
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="DW English" group-title="Germany",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:-1 tvg-name="DW Arabic" group-title="Germany",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+
+#EXTINF:-1 tvg-name="DW Espanol" group-title="Germany",DW Espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-name="ABC TV" group-title="Australia",ABC TV
+https://c.mjh.nz/abc-act.m3u8
+
+#EXTINF:-1 tvg-name="NHK G" group-title="Japan",NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+
+#EXTINF:-1 tvg-name="Fuji TV" group-title="Japan",Fuji TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+
+#EXTINF:-1 tvg-name="TV Tokyo" group-title="Japan",TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+
+#EXTINF:-1 tvg-name="TBS News" group-title="Japan",TBS News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
