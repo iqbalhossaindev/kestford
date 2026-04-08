@@ -3,9 +3,6 @@
 #EXTINF:-1 group-title="Sports | Italy",Aci Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
-#EXTINF:-1 group-title="Sports | France",Africa 24 Sport
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-
 #EXTINF:-1 group-title="Sports | Qatar",Alkass Five
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 
