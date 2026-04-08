@@ -8,3 +8,6 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
 #EXTINF:-1 group-title="Sports | Qatar",Alkass Four
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+
+#EXTINF:-1 group-title="Sports | Qatar",Alkass Shoof
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
