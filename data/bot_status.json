@@ -1,0 +1,9 @@
+{
+  "running": false,
+  "scheduled": false,
+  "lastStartedAt": null,
+  "lastFinishedAt": null,
+  "lastError": null,
+  "lastSummary": null,
+  "botName": "AI"
+}
