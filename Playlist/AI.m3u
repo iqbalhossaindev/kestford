@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports | Italy",Aci Sport TV
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-
 #EXTINF:-1 group-title="Sports | Qatar",Alkass Five
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 
@@ -740,6 +737,9 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="Bangla",ATN Bangla UK Source 1
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GRCWbI5ZSFg/maxresdefault.jpg" group-title="Bangla",ATN BANGLA UK Source 2
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATNNews.bd@SD",ATN News (1080p)
 https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
