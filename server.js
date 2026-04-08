@@ -25,6 +25,13 @@ const BOT_START_DELAY_MS = Math.max(3000, Number(process.env.BOT_START_DELAY_MS 
 const BOT_REQUEST_TIMEOUT_MS = Math.max(3000, Number(process.env.BOT_REQUEST_TIMEOUT_MS || 12000));
 const AI_FAILURE_THRESHOLD = 10;
 const AI_BOT_NAME = 'AI';
+const GITHUB_SYNC_ENABLED = /^(1|true|yes)$/i.test(String(process.env.GITHUB_SYNC_ENABLED || ''));
+const GITHUB_TOKEN = String(process.env.GITHUB_TOKEN || '').trim();
+const GITHUB_OWNER = String(process.env.GITHUB_OWNER || '').trim();
+const GITHUB_REPO = String(process.env.GITHUB_REPO || '').trim();
+const GITHUB_BRANCH = String(process.env.GITHUB_BRANCH || 'main').trim() || 'main';
+const GITHUB_PATH_PREFIX = String(process.env.GITHUB_PATH_PREFIX || '').trim().replace(/^\/+|\/+$/g, '');
+const GITHUB_SYNC_DEBOUNCE_MS = Math.max(1000, Number(process.env.GITHUB_SYNC_DEBOUNCE_MS || 5000));
 
 const SYNTHETIC = {
   ai: {
@@ -93,6 +100,17 @@ const botRuntime = {
   lastFinishedAt: null,
   lastError: null,
   lastSummary: null,
+};
+
+const githubSyncRuntime = {
+  enabled: false,
+  pending: new Set(),
+  timer: null,
+  flushing: false,
+  lastStartedAt: null,
+  lastFinishedAt: null,
+  lastError: null,
+  lastResults: [],
 };
 
 function defaultPlaylists() {
@@ -258,6 +276,139 @@ async function migrateSyntheticFile(def) {
   await ensureFileWithHeader(targetPath);
 }
 
+
+function buildGitHubRepoPath(relativePath) {
+  const cleanRelative = String(relativePath || '').replace(/^\/+/, '');
+  return GITHUB_PATH_PREFIX ? `${GITHUB_PATH_PREFIX}/${cleanRelative}` : cleanRelative;
+}
+
+function isGitHubSyncConfigured() {
+  return GITHUB_SYNC_ENABLED && Boolean(GITHUB_TOKEN && GITHUB_OWNER && GITHUB_REPO);
+}
+
+function updateGitHubSyncEnabledState() {
+  githubSyncRuntime.enabled = isGitHubSyncConfigured();
+  if (!githubSyncRuntime.enabled && GITHUB_SYNC_ENABLED) {
+    githubSyncRuntime.lastError = 'GitHub sync is enabled but missing GITHUB_TOKEN, GITHUB_OWNER, or GITHUB_REPO.';
+  }
+}
+
+async function githubRequest(method, repoPath, body = null) {
+  const apiUrl = `https://api.github.com/repos/${encodeURIComponent(GITHUB_OWNER)}/${encodeURIComponent(GITHUB_REPO)}/contents/${repoPath}?ref=${encodeURIComponent(GITHUB_BRANCH)}`;
+  const response = await fetch(apiUrl, {
+    method,
+    headers: {
+      'Authorization': `Bearer ${GITHUB_TOKEN}`,
+      'Accept': 'application/vnd.github+json',
+      'User-Agent': 'KestfordGitHubSync/1.0',
+      ...(body ? { 'Content-Type': 'application/json' } : {}),
+    },
+    body: body ? JSON.stringify(body) : undefined,
+  });
+
+  const text = await response.text();
+  let data = {};
+  try {
+    data = text ? JSON.parse(text) : {};
+  } catch {
+    data = { message: text };
+  }
+
+  if (!response.ok) {
+    const error = new Error(data.message || `GitHub API returned ${response.status}`);
+    error.status = response.status;
+    error.payload = data;
+    throw error;
+  }
+
+  return data;
+}
+
+async function syncFileToGitHub(relativePath) {
+  const localPath = path.join(ROOT, relativePath);
+  const repoPath = buildGitHubRepoPath(relativePath);
+  const content = await fsp.readFile(localPath);
+  let sha = undefined;
+
+  try {
+    const existing = await githubRequest('GET', repoPath);
+    sha = existing.sha;
+    if (existing.content) {
+      const normalizedRemote = Buffer.from(String(existing.content).replace(/\n/g, ''), 'base64').toString('utf8').replace(/\r\n/g, '\n');
+      const normalizedLocal = content.toString('utf8').replace(/\r\n/g, '\n');
+      if (normalizedRemote === normalizedLocal) {
+        return { path: relativePath, repoPath, updated: false, skipped: true };
+      }
+    }
+  } catch (error) {
+    if (error.status !== 404) throw error;
+  }
+
+  await githubRequest('PUT', repoPath, {
+    message: `Auto sync ${relativePath}`,
+    content: content.toString('base64'),
+    branch: GITHUB_BRANCH,
+    ...(sha ? { sha } : {}),
+  });
+
+  return { path: relativePath, repoPath, updated: true, skipped: false };
+}
+
+function queueGitHubSync(relativePath) {
+  if (!githubSyncRuntime.enabled) return;
+  githubSyncRuntime.pending.add(relativePath.replace(/^\/+/, ''));
+  if (githubSyncRuntime.timer) return;
+  githubSyncRuntime.timer = setTimeout(() => {
+    flushGitHubSyncQueue().catch(error => {
+      console.error('GitHub sync flush failed:', error);
+    });
+  }, GITHUB_SYNC_DEBOUNCE_MS);
+}
+
+async function flushGitHubSyncQueue() {
+  if (!githubSyncRuntime.enabled) return { ok: false, skipped: true, reason: 'disabled' };
+  if (githubSyncRuntime.flushing) return { ok: false, skipped: true, reason: 'already_flushing' };
+  if (githubSyncRuntime.timer) {
+    clearTimeout(githubSyncRuntime.timer);
+    githubSyncRuntime.timer = null;
+  }
+
+  const paths = [...githubSyncRuntime.pending];
+  githubSyncRuntime.pending.clear();
+  if (!paths.length) return { ok: true, skipped: true, reason: 'nothing_pending', results: [] };
+
+  githubSyncRuntime.flushing = true;
+  githubSyncRuntime.lastStartedAt = new Date().toISOString();
+  githubSyncRuntime.lastError = null;
+  const results = [];
+
+  try {
+    for (const relativePath of paths) {
+      const result = await syncFileToGitHub(relativePath);
+      results.push(result);
+    }
+    githubSyncRuntime.lastResults = results;
+    githubSyncRuntime.lastFinishedAt = new Date().toISOString();
+    return { ok: true, results };
+  } catch (error) {
+    githubSyncRuntime.lastError = error.message;
+    githubSyncRuntime.lastFinishedAt = new Date().toISOString();
+    githubSyncRuntime.lastResults = results;
+    throw error;
+  } finally {
+    githubSyncRuntime.flushing = false;
+  }
+}
+
+async function flushGitHubSyncQueueSafe() {
+  try {
+    return await flushGitHubSyncQueue();
+  } catch (error) {
+    console.error('GitHub sync failed:', error);
+    return { ok: false, error: error.message };
+  }
+}
+
 async function ensurePaths() {
   await fsp.mkdir(PLAYLIST_DIR, { recursive: true });
   await fsp.mkdir(DATA_DIR, { recursive: true });
@@ -340,6 +491,7 @@ async function saveManifest(playlists) {
   await writeJson(MANIFEST_PATH, {
     playlists: visible.map(item => ({ name: item.name, code: item.code, file: item.file })),
   });
+  queueGitHubSync('Playlist/playlists.json');
 }
 
 function syntheticPlaylistPath(def) {
@@ -386,6 +538,7 @@ async function loadSyntheticParsed(def, canonicalMap = null) {
 async function saveSyntheticChannels(def, channels, header = '#EXTM3U') {
   const filePath = syntheticPlaylistPath(def);
   await fsp.writeFile(filePath, serializeM3U(header, channels), 'utf8');
+  queueGitHubSync(`Playlist/${def.filename}`);
 }
 
 async function removeChannelFromSynthetic(def, channelId) {
@@ -808,6 +961,7 @@ async function runBotCycle({ manual = false } = {}) {
     botRuntime.lastFinishedAt = summary.finishedAt;
     botRuntime.lastSummary = summary;
     await writeBotStatusFile();
+    await flushGitHubSyncQueueSafe();
     return summary;
   } catch (error) {
     botRuntime.lastError = error.message;
@@ -948,6 +1102,7 @@ async function handleReportSuccess(req, res) {
   const failedRemoval = await removeChannelFromSynthetic(SYNTHETIC.failed, channelId);
   const reviewRemoval = await removeChannelFromSynthetic(SYNTHETIC.review, channelId);
 
+  const githubSync = await flushGitHubSyncQueueSafe();
   sendJson(res, 200, {
     ok: true,
     addedToHumanVerified: humanResult.added,
@@ -957,6 +1112,7 @@ async function handleReportSuccess(req, res) {
     message: reviewRemoval.removed
       ? `${channel.name} is now Human Verified and removed from Under Review.`
       : `${channel.name} is now Human Verified.`,
+    githubSync,
   });
 }
 
@@ -999,6 +1155,7 @@ async function handleReportFailure(req, res) {
     messageParts.push('It stays Human Verified until it is permanently confirmed dead.');
   }
 
+  const githubSync = await flushGitHubSyncQueueSafe();
   sendJson(res, 200, {
     ok: true,
     removedGlobally: false,
@@ -1006,25 +1163,61 @@ async function handleReportFailure(req, res) {
     removedFromAiVerified,
     addedToUnderReview,
     message: messageParts.join(' '),
+    githubSync,
   });
 }
 
 async function handleBotStatus(_req, res) {
-  sendJson(res, 200, await readJson(BOT_STATUS_PATH, {
-    running: botRuntime.running,
-    scheduled: botRuntime.scheduled,
-    lastStartedAt: botRuntime.lastStartedAt,
-    lastFinishedAt: botRuntime.lastFinishedAt,
-    lastError: botRuntime.lastError,
-    lastSummary: botRuntime.lastSummary,
-    intervalMinutes: BOT_INTERVAL_MINUTES,
-    botName: AI_BOT_NAME,
-  }));
+  sendJson(res, 200, {
+    ...(await readJson(BOT_STATUS_PATH, {
+      running: botRuntime.running,
+      scheduled: botRuntime.scheduled,
+      lastStartedAt: botRuntime.lastStartedAt,
+      lastFinishedAt: botRuntime.lastFinishedAt,
+      lastError: botRuntime.lastError,
+      lastSummary: botRuntime.lastSummary,
+      intervalMinutes: BOT_INTERVAL_MINUTES,
+      botName: AI_BOT_NAME,
+    })),
+    githubSync: {
+      enabled: githubSyncRuntime.enabled,
+      branch: GITHUB_BRANCH,
+      repo: githubSyncRuntime.enabled ? `${GITHUB_OWNER}/${GITHUB_REPO}` : null,
+      pendingCount: githubSyncRuntime.pending.size,
+      flushing: githubSyncRuntime.flushing,
+      lastStartedAt: githubSyncRuntime.lastStartedAt,
+      lastFinishedAt: githubSyncRuntime.lastFinishedAt,
+      lastError: githubSyncRuntime.lastError,
+      lastResults: githubSyncRuntime.lastResults,
+    },
+  });
+}
+
+
+async function handleGitHubSyncStatus(_req, res) {
+  sendJson(res, 200, {
+    ok: true,
+    enabled: githubSyncRuntime.enabled,
+    branch: GITHUB_BRANCH,
+    repo: githubSyncRuntime.enabled ? `${GITHUB_OWNER}/${GITHUB_REPO}` : null,
+    pendingCount: githubSyncRuntime.pending.size,
+    flushing: githubSyncRuntime.flushing,
+    lastStartedAt: githubSyncRuntime.lastStartedAt,
+    lastFinishedAt: githubSyncRuntime.lastFinishedAt,
+    lastError: githubSyncRuntime.lastError,
+    lastResults: githubSyncRuntime.lastResults,
+  });
+}
+
+async function handleRunGitHubSync(_req, res) {
+  const result = await flushGitHubSyncQueueSafe();
+  sendJson(res, 200, { ok: !result.error, ...result });
 }
 
 async function handleRunBot(_req, res) {
   const summary = await runBotCycle({ manual: true });
-  sendJson(res, 200, { ok: true, summary });
+  const githubSync = await flushGitHubSyncQueueSafe();
+  sendJson(res, 200, { ok: true, summary, githubSync });
 }
 
 async function serveStatic(_req, res, requestPath) {
@@ -1068,7 +1261,9 @@ async function route(req, res) {
   if (req.method === 'POST' && pathname === '/api/report-success') return handleReportSuccess(req, res);
   if (req.method === 'POST' && pathname === '/api/report-failure') return handleReportFailure(req, res);
   if (req.method === 'GET' && pathname === '/api/bot-status') return handleBotStatus(req, res);
+  if (req.method === 'GET' && pathname === '/api/github-sync-status') return handleGitHubSyncStatus(req, res);
   if (req.method === 'POST' && pathname === '/api/run-bot') return handleRunBot(req, res);
+  if (req.method === 'POST' && pathname === '/api/run-github-sync') return handleRunGitHubSync(req, res);
   if (req.method === 'GET' && pathname === '/proxy') return handleProxy(req, res, urlObj);
   if (req.method === 'GET' && pathname === '/health') {
     return sendJson(res, 200, {
@@ -1081,6 +1276,7 @@ async function route(req, res) {
       underReviewPlaylist: SYNTHETIC.review.filename,
       failedPlaylist: SYNTHETIC.failed.filename,
       permanentDeleteAfterAiFailures: AI_FAILURE_THRESHOLD,
+      githubSyncEnabled: githubSyncRuntime.enabled,
     });
   }
 
@@ -1088,7 +1284,13 @@ async function route(req, res) {
 }
 
 async function start() {
+  updateGitHubSyncEnabledState();
   await ensurePaths();
+  if (githubSyncRuntime.enabled) {
+    queueGitHubSync('Playlist/playlists.json');
+    for (const def of Object.values(SYNTHETIC)) queueGitHubSync(`Playlist/${def.filename}`);
+    flushGitHubSyncQueueSafe().catch(() => {});
+  }
   scheduleBotCycle();
 
   const server = http.createServer((req, res) => {
