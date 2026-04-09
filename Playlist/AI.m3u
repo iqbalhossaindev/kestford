@@ -1010,3 +1010,27 @@ https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/c
 
 #EXTINF:-1 ,Zindagi TV Source 2
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Andpictures.in@HD",&pictures HD (1080p) Source 2
+http://103.229.254.25:7001/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-id="AndTV.in@SD",&TV (576p)
+http://103.229.254.25:7001/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-id="AndTV.in@HD",&TV HD (1080p) Source 2
+http://103.229.254.25:7001/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-id="AndTV.in@International",&TV International (1080p)
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+
+#EXTINF:-1 tvg-id="10TV.in@SD",10 TV (576p)
+https://cdn-1.pishow.tv/live/391/master.m3u8
+
+#EXTINF:-1 tvg-id="",1S News (576p)
+https://mumt03.tangotv.in/1SNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="22ScopeNews.in@SD",22Scope News (1080p)
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="24News.in@SD",24 News (576p)
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
