@@ -1034,36 +1034,3 @@ https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="24News.in@SD",24 News (576p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-
-#EXTINF:-1 tvg-id="4TVNews.in@SD",4TV News (576p)
-https://cdn-4.pishow.tv/live/1007/master.m3u8
-
-#EXTINF:-1 tvg-id="6TVTelugu.in@SD",6 TV Telugu (576p)
-https://cdn-1.pishow.tv/live/232/master.m3u8
-
-#EXTINF:-1 tvg-id="7SMusic.in@SD",7S Music (576p)
-https://mumt03.tangotv.in/7SMUSIC/index.m3u8
-
-#EXTINF:-1 tvg-id="99TV.in@SD",99TV (720p)
-https://cdn-1.pishow.tv/live/1211/master.m3u8
-
-#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (1080p) Source 1
-https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
-
-#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (576p)
-https://mumt03.tangotv.in/9XJALWA/index.m3u8
-
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas (1080p) Source 1
-https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
-
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas (1080p) Source 2
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas (576p)
-https://cdn-3.pishow.tv/live/6/master.m3u8
-
-#EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan (1080p) Source 1
-https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
-
-#EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan (1080p) Source 2
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
