@@ -1034,3 +1034,12 @@ https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="24News.in@SD",24 News (576p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4TVNews.in@SD",4TV News (576p)
+https://cdn-4.pishow.tv/live/1007/master.m3u8
+
+#EXTINF:-1 tvg-id="6TVTelugu.in@SD",6 TV Telugu (576p)
+https://cdn-1.pishow.tv/live/232/master.m3u8
+
+#EXTINF:-1 tvg-id="7SMusic.in@SD",7S Music (576p)
+https://mumt03.tangotv.in/7SMUSIC/index.m3u8
