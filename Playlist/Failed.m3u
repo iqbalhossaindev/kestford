@@ -20,3 +20,6 @@ https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
 
 #EXTINF:-1 tvg-id="JamunaTV.bd@SD",Jamuna TV (1080p)
 https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8
+
+#EXTINF:-1 group-title="Sports | Bangladesh",ADS Sport Cricket
+http://212.47.252.54/hls/stream.m3u8
