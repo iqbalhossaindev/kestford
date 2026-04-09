@@ -1184,3 +1184,9 @@ https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="AmarUjala.in@SD",AmarUjala (1080p)
 https://amarujala.ottlive.co.in/amarujala/index.m3u8
+
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+#EXTINF:-1 ,AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
