@@ -1073,3 +1073,54 @@ https://9xjio.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in@SD",9XM (576p)
 https://b.jsrdn.com/strm/channels/9xm/master.m3u8
+
+#EXTINF:-1 tvg-id="AadinathTV.in@SD",Aadinath TV (576p)
+https://mumt01.tangotv.in/AADINATHTV/index.m3u8
+
+#EXTINF:-1 ,Aaj Tak (404p)
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (720p)
+https://feeds.intoday.in/aajtak/api/master.m3u8
+
+#EXTINF:-1 ,Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AajTak.in@HD",Aaj Tak HD (1080p) Source 1
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-id="AajTak.in@HD",Aaj Tak HD (1080p) Source 2
+https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
+
+#EXTINF:-1 tvg-name="Aaj Tak Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" tvg-id="AajTak.in" tvg-country="IN" group-title="India",Aaj Tak Ⓨ
+https://www.youtube.com/watch?v=Nq2wYlWFucg
+
+#EXTINF:-1 tvg-id="AakaashAath.in@SD",Aakaash Aath (576p)
+https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
+
+#EXTINF:-1 tvg-id="AamarBangla.in@SD",Aamar Bangla (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AaseervathamTV.in@SD",Aaseervatham TV (576p)
+https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Aastha.in@SD",Aastha (720p)
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="AasthaBhajan.in@SD",Aastha Bhajan (480p)
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AasthaGujarati.in@SD",Aastha Gujarati (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AasthaKannada.in@SD",Aastha Kannada (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AasthaPrime1.in@SD",Aastha Prime 1 (720p)
+https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="AasthaTamil.in@SD",Aastha Tamil (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AasthaTelugu.in@SD",Aastha Telugu (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
