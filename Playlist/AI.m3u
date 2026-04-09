@@ -998,3 +998,6 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 #EXTINF:-1 ,Vyas Higher Education Channel
 http://playhls.media.nic.in/live/vyas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Bangla",Zee 24 Ghanta Source 2
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
