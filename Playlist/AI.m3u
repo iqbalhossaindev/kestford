@@ -2003,36 +2003,3 @@ https://mumt04.tangotv.in/HMTV/index.m3u8
 
 #EXTINF:-1 tvg-id="HMTV.in@SD",HMTV (720p)
 https://cdn-1.pishow.tv/live/280/master.m3u8
-
-#EXTINF:-1 tvg-id="HNN24x7.in@SD",HNN 24x7 (576p) Source 2
-https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD",Hope Channel India (576p)
-https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8
-
-#EXTINF:-1 tvg-id="HornbillTV.in@SD",Hornbill TV (576p)
-https://cdn-2.pishow.tv/live/1463/master.m3u8
-
-#EXTINF:-1 ,Horse and Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HumorMill.us@SD",Humor Mill (1080p)
-https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
-
-#EXTINF:-1 tvg-id="HungamaTV.in@SD",Hungama TV (576p)
-http://ajkiptv.ridsys.in/riptv/live/HUNGAMA/index.m3u8
-
-#EXTINF:-1 tvg-id="IBC24.in@SD",IBC 24 (576p)
-https://mumt05.tangotv.in/IBC24/index.m3u8
-
-#EXTINF:-1 tvg-id="IBC24.in@SD",IBC 24 (720p)
-https://cdn-3.pishow.tv/live/220/master.m3u8
-
-#EXTINF:-1 tvg-id="",In Touch+ (1080p)
-https://amg01540-amg01540c2-distrotv-us-8133.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-distrotvus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IndiaAhead.in@SD",India Ahead (576p)
-https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8
-
-#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD",India Daily Live (1080p)
-https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
