@@ -32,3 +32,6 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/in
 
 #EXTINF:-1 tvg-name="Italia 1" group-title="Italy",Italia 1
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+
+#EXTINF:-1 tvg-name="CBC News BC (1080p) [Geo-blocked]" group-title="Canada",CBC News BC (1080p) [Geo-blocked]
+https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
