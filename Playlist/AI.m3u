@@ -1616,3 +1616,30 @@ https://mumt04.tangotv.in/DDKISAN/index.m3u8
 
 #EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (720p)
 https://cdn-6.pishow.tv/live/9/master.m3u8
+
+#EXTINF:-1 tvg-name="DD Kisan Ⓨ" tvg-logo="https://i.imgur.com/x56WJEa.png" tvg-id="DDKisan.in" tvg-country="IN" group-title="India",DD Kisan Ⓨ
+https://www.youtube.com/@DDKisan/live
+
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD",DD Madhya Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8
+
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD",DD Madhya Pradesh (576p)
+https://mumt04.tangotv.in/DDMADHYAPRADESH/index.m3u8
+
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD",DD Madhya Pradesh (720p)
+https://cdn-1.pishow.tv/live/31/master.m3u8
+
+#EXTINF:-1 tvg-id="DDMalayalam.in@SD",DD Malayalam (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+
+#EXTINF:-1 tvg-id="DDManipur.in@SD",DD Manipur (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+
+#EXTINF:-1 tvg-id="DDMeghalaya.in@SD",DD Meghalaya (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+
+#EXTINF:-1 tvg-id="DDMizoram.in@SD",DD Mizoram (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNagaland.in@SD",DD Nagaland (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
