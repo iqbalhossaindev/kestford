@@ -1373,3 +1373,21 @@ https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BigMagic.in@SD",Big Magic (576p)
+https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+
+#EXTINF:-1 tvg-id="BIGTV.in@SD",BIG TV (720p)
+https://cdn-1.pishow.tv/live/1059/master.m3u8
+
+#EXTINF:-1 tvg-id="BigTV24x7.in@SD",Big TV 24x7 (576i)
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BrioTV.in@SD",Brio TV (576p)
+https://mumt02.tangotv.in/BRIOTV/index.m3u8
+
+#EXTINF:-1 tvg-id="BRKNews.in@SD",BRK News (576p)
+https://cdn-1.pishow.tv/live/1037/master.m3u8
+
+#EXTINF:-1 tvg-id="",BS TV (576p)
+https://mumt02.tangotv.in/BSTV/index.m3u8
