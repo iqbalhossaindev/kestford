@@ -1670,3 +1670,30 @@ https://www.youtube.com/c/ddnews/live
 
 #EXTINF:-1 tvg-id="DDOdia.in@SD",DD Odia (504p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+
+#EXTINF:-1 tvg-id="DDOdia.in@SD",DD Odia (576p)
+https://mumt05.tangotv.in/DDODIA/index.m3u8
+
+#EXTINF:-1 tvg-id="DDPunjabi.in@SD",DD Punjabi (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+
+#EXTINF:-1 tvg-id="DDRajasthan.in@SD",DD Rajasthan (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8
+
+#EXTINF:-1 tvg-id="DDRajasthan.in@SD",DD Rajasthan (720p)
+https://cdn-1.pishow.tv/live/34/master.m3u8
+
+#EXTINF:-1 tvg-id="DDRajasthan.in@SD",DD Rajasthan (Fastway) (576p)
+https://mumt05.tangotv.in/DDRAJASTHAN/index.m3u8
+
+#EXTINF:-1 tvg-id="DDSahyadri.in@SD",DD Sahyadri (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+
+#EXTINF:-1 tvg-id="DDSahyadri.in@SD",DD Sahyadri (576p)
+https://mumt01.tangotv.in/DDSAHYADRI/index.m3u8
+
+#EXTINF:-1 tvg-id="DDSaptagiri.in@SD",DD Saptagiri
+https://cdn-1.pishow.tv/live/22/master.m3u8
+
+#EXTINF:-1 tvg-id="DDSaptagiri.in@SD",DD Saptagiri (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
