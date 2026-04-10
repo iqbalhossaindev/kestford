@@ -1643,3 +1643,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/in
 
 #EXTINF:-1 tvg-id="DDNagaland.in@SD",DD Nagaland (504p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNagaland.in@SD",DD Nagaland (576p)
+https://mumt01.tangotv.in/DDNAGALAND/index.m3u8
