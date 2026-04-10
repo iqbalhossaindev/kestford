@@ -1967,3 +1967,42 @@ https://cdn-1.pishow.tv/live/224/master.m3u8
 
 #EXTINF:-1 tvg-id="HighNews.in@SD",High News (480p)
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+
+#EXTINF:-1 tvg-id="",Hindi Hits (576p)
+https://mumt01.tangotv.in/HINDIHITS/index.m3u8
+
+#EXTINF:-1 tvg-id="HindiKhabar.in@SD",Hindi Khabar (576p) Source 1
+https://cdn-2.pishow.tv/live/1041/master.m3u8
+
+#EXTINF:-1 tvg-id="HindiKhabar.in@SD",Hindi Khabar (576p) Source 2
+https://mumt04.tangotv.in/HINDIKHABAR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Hindi",Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+
+#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi | 24/7",Hindi Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,Hindi TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+
+#EXTINF:-1 tvg-id="HinduDharmam.in@SD",Hindu Dharmam (576p) Source 1
+https://cdn-1.pishow.tv/live/959/master.m3u8
+
+#EXTINF:-1 tvg-id="HinduDharmam.in@SD",Hindu Dharmam (576p) Source 2
+https://mumt01.tangotv.in/HINDUDHARMAM/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD (1080p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD Hindi (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HMTV.in@SD",HMTV (576p)
+https://mumt04.tangotv.in/HMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HMTV.in@SD",HMTV (720p)
+https://cdn-1.pishow.tv/live/280/master.m3u8
