@@ -1475,3 +1475,27 @@ https://mumt05.tangotv.in/BVG/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p)
 http://103.157.248.140:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsTamil.in@SD",Colors Tamil (576p)
+http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsTamil.in@HD",Colors Tamil HD (1080p) Source 1
+http://103.157.248.140:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsTamil.in@HD",Colors Tamil HD (1080p) Source 2
+http://ptuf.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
+
+#EXTINF:-1 tvg-id="",Comercio TV (1080p)
+https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca@SD",Cowboy Channel (1080p)
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD",CTVN AKD Plus (1080p) Source 2
+https://live.legitpro.co.in/ctvnakdplus/index.m3u8
+
+#EXTINF:-1 tvg-id="CVREnglish.in@SD",CVR English (720p)
+https://cdn-2.pishow.tv/live/425/master.m3u8
+
+#EXTINF:-1 tvg-id="CVRHealth.in@SD",CVR Health (576p)
+https://cdn-6.pishow.tv/live/395/master.m3u8
