@@ -1421,3 +1421,21 @@ https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playl
 
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD",Chardikla Time TV North America (1080p)
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Chaukas TV (576p)
+https://mumt02.tangotv.in/CHAUKASTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Chithiram.in@SD",Chithiram (576p)
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+
+#EXTINF:-1 tvg-id="CinemaHausa.za@SD",Cinema Hausa (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8
+
+#EXTINF:-1 tvg-id="",Cinema Yoruba (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1457f33a61a45801a4f/afxpstr/CinemaYoruba/index.m3u8
+
+#EXTINF:-1 tvg-id="",Classic Hits
+https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBCAwaaz.in@SD",CNBC Awaaz (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
