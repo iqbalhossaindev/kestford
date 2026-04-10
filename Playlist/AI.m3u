@@ -591,9 +591,6 @@ https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-name="IMPD TV Worldwide (1080p)" group-title="Brazil",IMPD TV Worldwide (1080p)
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="CBC News BC (1080p) [Geo-blocked]" group-title="Canada",CBC News BC (1080p) [Geo-blocked]
-https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
-
 #EXTINF:-1 tvg-name="CBC News Explore (1080p) [Geo-blocked]" group-title="Canada",CBC News Explore (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 
