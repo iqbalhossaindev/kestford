@@ -1331,3 +1331,12 @@ https://mumt02.tangotv.in/B4UKADAK/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (1080p) [Geo-blocked]
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (576p)
+https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5088d0894a79b329031d5f4669bbb0fe" group-title="Hindi",B4U Movies India
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies India (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
