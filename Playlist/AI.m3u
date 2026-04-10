@@ -1589,3 +1589,78 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/in
 
 #EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (576p)
+https://mumt05.tangotv.in/DDINDIA/index.m3u8
+
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (no logo) (576p)
+https://cdn-1.pishow.tv/live/23/master.m3u8
+
+#EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" tvg-country="IN" group-title="India",DD India Ⓨ
+https://www.youtube.com/DDIndia/live
+
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD",DD Jharkhand (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKashir.in@SD",DD Kashir (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKashir.in@SD",DD Kashir (576p)
+https://mumt05.tangotv.in/DDKASHIR/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (576p)
+https://mumt04.tangotv.in/DDKISAN/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (720p)
+https://cdn-6.pishow.tv/live/9/master.m3u8
+
+#EXTINF:-1 tvg-name="DD Kisan Ⓨ" tvg-logo="https://i.imgur.com/x56WJEa.png" tvg-id="DDKisan.in" tvg-country="IN" group-title="India",DD Kisan Ⓨ
+https://www.youtube.com/@DDKisan/live
+
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD",DD Madhya Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8
+
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD",DD Madhya Pradesh (576p)
+https://mumt04.tangotv.in/DDMADHYAPRADESH/index.m3u8
+
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD",DD Madhya Pradesh (720p)
+https://cdn-1.pishow.tv/live/31/master.m3u8
+
+#EXTINF:-1 tvg-id="DDMalayalam.in@SD",DD Malayalam (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+
+#EXTINF:-1 tvg-id="DDManipur.in@SD",DD Manipur (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+
+#EXTINF:-1 tvg-id="DDMeghalaya.in@SD",DD Meghalaya (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+
+#EXTINF:-1 tvg-id="DDMizoram.in@SD",DD Mizoram (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNagaland.in@SD",DD Nagaland (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNagaland.in@SD",DD Nagaland (576p)
+https://mumt01.tangotv.in/DDNAGALAND/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.in@HD",DD National HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.in@HD",DD National HD (576p)
+https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.in@SD",DD National SD (576p)
+https://cdn-1.pishow.tv/live/11/master.m3u8
+
+#EXTINF:-1 tvg-name="DD National Ⓨ" tvg-logo="https://i.imgur.com/MohlE5B.png" tvg-id="DDNational.in" tvg-country="IN" group-title="India",DD National Ⓨ
+https://www.youtube.com/doordarshan/live
+
+#EXTINF:-1 tvg-id="DDNews.in@SD",DD News (576p)
+https://mumt04.tangotv.in/DDNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNews.in@HD",DD News HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
