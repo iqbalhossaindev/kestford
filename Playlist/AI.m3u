@@ -1865,3 +1865,24 @@ https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-id="FoodFood.in@SD",Food Food (576p) Source 2
 https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+
+#EXTINF:-1 tvg-id="GangaurTV.in@SD",Gangaur TV (1080p)
+https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
+
+#EXTINF:-1 ,Global Punjab (1080p)
+https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+
+#EXTINF:-1 tvg-id="GoUSATV.us@SD",Go USA
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Goa365.in@SD",Goa365 (1080p)
+https://ktismaservers.in:3086/live/goa365live.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines.in@SD",Goldmines (576p) Source 1
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines.in@SD",Goldmines (576p) Source 2
+https://mumt04.tangotv.in/GOLDMINES/index.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines2.in@SD",Goldmines 2 (576p)
+https://cdn-2.pishow.tv/live/1460/master.m3u8
