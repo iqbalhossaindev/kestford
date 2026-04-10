@@ -32,6 +32,3 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/in
 
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV (1080p)
 https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
-
-#EXTINF:-1 tvg-name="Canale 5" group-title="Italy",Canale 5
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
