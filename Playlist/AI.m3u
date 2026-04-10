@@ -1982,3 +1982,27 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 
 #EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi | 24/7",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,Hindi TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+
+#EXTINF:-1 tvg-id="HinduDharmam.in@SD",Hindu Dharmam (576p) Source 1
+https://cdn-1.pishow.tv/live/959/master.m3u8
+
+#EXTINF:-1 tvg-id="HinduDharmam.in@SD",Hindu Dharmam (576p) Source 2
+https://mumt01.tangotv.in/HINDUDHARMAM/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD (1080p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD Hindi (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HMTV.in@SD",HMTV (576p)
+https://mumt04.tangotv.in/HMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HMTV.in@SD",HMTV (720p)
+https://cdn-1.pishow.tv/live/280/master.m3u8
