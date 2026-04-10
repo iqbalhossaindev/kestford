@@ -1508,3 +1508,111 @@ https://cdn-1.pishow.tv/live/957/master.m3u8
 
 #EXTINF:-1 tvg-id="",DA News Plus (576p)
 https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dangal2.in@SD",Dangal 2 (720p)
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DangalTV.in@SD",Dangal TV (720p)
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Darshan24.in@SD",Darshan 24 (576p)
+https://mumt05.tangotv.in/DARSHAN24/index.m3u8
+
+#EXTINF:-1 tvg-id="DarshanaTV.in@SD",Darshana TV (576p)
+https://mumt04.tangotv.in/DARSHANATV/index.m3u8
+
+#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD",Daystar Español (720p)
+https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (1080p)
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDArunPrabha.in@SD",DD Arun Prabha (360p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+
+#EXTINF:-1 tvg-id="DDAssam.in@SD",DD Assam (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+
+#EXTINF:-1 tvg-id="DDAssam.in@SD",DD Assam (576p)
+https://mumt05.tangotv.in/DDASSAM/index.m3u8
+
+#EXTINF:-1 tvg-id="DDBangla.in@SD",DD Bangla (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+
+#EXTINF:-1 tvg-id="DDBangla.in@SD",DD Bangla (576p)
+https://mumt05.tangotv.in/DDBANGLA/index.m3u8
+
+#EXTINF:-1 tvg-id="DDBharati.in@SD",DD Bharati (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+
+#EXTINF:-1 tvg-id="DDBharati.in@SD",DD Bharati (576p)
+https://mumt01.tangotv.in/DDBHARATI/index.m3u8
+
+#EXTINF:-1 tvg-id="DDBharati.in@SD",DD Bharati (720p)
+https://cdn-1.pishow.tv/live/10/master.m3u8
+
+#EXTINF:-1 tvg-name="DD Bharati Ⓨ" tvg-logo="https://i.imgur.com/4tfUIEo.png" tvg-id="DDBharati.in" tvg-country="IN" group-title="India",DD Bharati Ⓨ
+https://www.youtube.com/@ddbharati/live
+
+#EXTINF:-1 tvg-id="DDBihar.in@SD",DD Bihar (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8
+
+#EXTINF:-1 tvg-id="DDBihar.in@SD",DD Bihar (576p)
+https://mumt03.tangotv.in/DDBIHAR/index.m3u8
+
+#EXTINF:-1 tvg-id="DDBihar.in@SD",DD Bihar (720p)
+https://cdn-4.pishow.tv/live/35/master.m3u8
+
+#EXTINF:-1 tvg-id="DDChandana.in@SD",DD Chandana (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
+
+#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD",DD Chhattisgarh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
+
+#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD",DD Chhattisgarh (720p)
+https://cdn-1.pishow.tv/live/15/master.m3u8
+
+#EXTINF:-1 tvg-id="DDGirnar.in@SD",DD Girnar (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+
+#EXTINF:-1 tvg-id="DDGirnar.in@SD",DD Girnar (576p)
+https://mumt01.tangotv.in/DDGIRNAR/index.m3u8
+
+#EXTINF:-1 tvg-id="DDGoa.in@SD",DD Goa (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+
+#EXTINF:-1 tvg-id="DDHaryana.in@SD",DD Haryana (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+
+#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD",DD Himachal Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (576p)
+https://mumt05.tangotv.in/DDINDIA/index.m3u8
+
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (no logo) (576p)
+https://cdn-1.pishow.tv/live/23/master.m3u8
+
+#EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" tvg-country="IN" group-title="India",DD India Ⓨ
+https://www.youtube.com/DDIndia/live
+
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD",DD Jharkhand (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKashir.in@SD",DD Kashir (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKashir.in@SD",DD Kashir (576p)
+https://mumt05.tangotv.in/DDKASHIR/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (576p)
+https://mumt04.tangotv.in/DDKISAN/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (720p)
+https://cdn-6.pishow.tv/live/9/master.m3u8
