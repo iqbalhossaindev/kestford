@@ -1919,3 +1919,15 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 
 #EXTINF:-1 tvg-id="GTCPunjabi.in@SD",GTC Punjabi (1080p) Source 2
 https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in@SD",GTC Punjabi (576p)
+https://mumt01.tangotv.in/GTC/index.m3u8
+
+#EXTINF:-1 tvg-id="GuaranteeNews.in@SD",Guarantee News (1080p)
+https://guaranteenews.in:8443/live/gnews/index.m3u8
+
+#EXTINF:-1 tvg-id="GujaratFirst.in@SD",Gujarat First (576p)
+https://mumt01.tangotv.in/GUJARATFIRST/index.m3u8
+
+#EXTINF:-1 tvg-id="GulistanNews.in@SD",Gulistan News (720p) [Not 24/7]
+https://live.gulistannews.in/hls/gul.m3u8
