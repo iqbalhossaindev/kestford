@@ -1364,3 +1364,51 @@ https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
 
 #EXTINF:-1 tvg-id="BharatExpress.in@SD",Bharat Express (480p)
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
+
+#EXTINF:-1 tvg-id="BharatSamachar.in@SD",Bharat Samachar (480p)
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+
+#EXTINF:-1 tvg-id="Bharat24.in@SD",Bharat24 (1080p)
+https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD",Bhojpuri Cinema (720p)
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BigMagic.in@SD",Big Magic (576p)
+https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+
+#EXTINF:-1 tvg-id="BIGTV.in@SD",BIG TV (720p)
+https://cdn-1.pishow.tv/live/1059/master.m3u8
+
+#EXTINF:-1 tvg-id="BigTV24x7.in@SD",Big TV 24x7 (576i)
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BrioTV.in@SD",Brio TV (576p)
+https://mumt02.tangotv.in/BRIOTV/index.m3u8
+
+#EXTINF:-1 tvg-id="BRKNews.in@SD",BRK News (576p)
+https://cdn-1.pishow.tv/live/1037/master.m3u8
+
+#EXTINF:-1 tvg-id="",BS TV (576p)
+https://mumt02.tangotv.in/BSTV/index.m3u8
+
+#EXTINF:-1 tvg-id="CalvaryTV.in@SD",Calvary TV (576p)
+https://mumt04.tangotv.in/CALVARYTV/index.m3u8
+
+#EXTINF:-1 ,Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Captain.in@SD",Captain (576p)
+https://mumt01.tangotv.in/CAPTAIN/index.m3u8
+
+#EXTINF:-1 tvg-id="CCV.in@SD",CCV (480p)
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelDivya.in@SD",Channel Divya (1080p)
+https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelWIN.in@SD",Channel WIN (720p)
+https://cdn-4.pishow.tv/live/229/master.m3u8
+
+#EXTINF:-1 ,Channel Y (720p) [Not 24/7]
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
