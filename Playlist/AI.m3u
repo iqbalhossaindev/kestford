@@ -1766,3 +1766,27 @@ http://ajkiptv.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="DivyavaniTV.in@SD",Divyavani TV (576p)
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
+
+#EXTINF:-1 tvg-id="DY365.in@SD",DY 365 (576p)
+https://mumt04.tangotv.in/DY365/index.m3u8
+
+#EXTINF:-1 tvg-id="E24.in@SD",E 24 (576p)
+https://mumt04.tangotv.in/E24/index.m3u8
+
+#EXTINF:-1 ,EET TV (1080p) [Not 24/7]
+https://live.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (720p) [Not 24/7]
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EpicTV.in@SD",Epic TV (1080p)
+https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+
+#EXTINF:-1 ,ET Now
+https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ETNow.in@SD",ET Now (720p)
+https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
+
+#EXTINF:-1 ,ET Now Swadesh (720p)
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
