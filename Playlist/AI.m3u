@@ -1931,3 +1931,21 @@ https://mumt01.tangotv.in/GUJARATFIRST/index.m3u8
 
 #EXTINF:-1 tvg-id="GulistanNews.in@SD",Gulistan News (720p) [Not 24/7]
 https://live.gulistannews.in/hls/gul.m3u8
+
+#EXTINF:-1 tvg-id="Gyandarshan.in@SD",Gyandarshan (720p)
+https://cdn-6.pishow.tv/live/14/master.m3u8
+
+#EXTINF:-1 ,Hamdard TV (1080p)
+https://tv.hamdardtv.com/hamdard/index.m3u8
+
+#EXTINF:-1 tvg-id="HarKhabar.in@SD",Har Khabar (576p)
+https://mumt01.tangotv.in/HARKHABAR/index.m3u8
+
+#EXTINF:-1 tvg-id="HardKnocks.ca@SD",Hard Knocks (1080p)
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (1080p)
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (576p)
+https://mumt05.tangotv.in/HAREKRSNA/index.m3u8
