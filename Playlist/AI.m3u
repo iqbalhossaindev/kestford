@@ -1901,3 +1901,21 @@ https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/
 
 #EXTINF:-1 tvg-id="GoodNewsToday.in@SD",Good News Today (720p) Source 2
 https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoodNewsTV.in@SD",Goodnews TV (576p)
+https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8
+
+#EXTINF:-1 ,GoodNews TV (720p)
+https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GraceTV.in@SD",Grace TV (576p)
+https://mumt03.tangotv.in/GRACETV/index.m3u8
+
+#EXTINF:-1 tvg-id="GSTV.in@SD",GS TV (576p)
+https://mumt05.tangotv.in/GSTV/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCNews.in@SD",GTC News (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in@SD",GTC Punjabi (1080p) Source 2
+https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
