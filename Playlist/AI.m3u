@@ -1499,3 +1499,12 @@ https://cdn-2.pishow.tv/live/425/master.m3u8
 
 #EXTINF:-1 tvg-id="CVRHealth.in@SD",CVR Health (576p)
 https://cdn-6.pishow.tv/live/395/master.m3u8
+
+#EXTINF:-1 tvg-id="CVRNews.in@SD",CVR News (576p)
+https://mumt04.tangotv.in/CVRNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="CVROMSpiritual.in@SD",CVR OM Spiritual (576p)
+https://cdn-1.pishow.tv/live/957/master.m3u8
+
+#EXTINF:-1 tvg-id="",DA News Plus (576p)
+https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
