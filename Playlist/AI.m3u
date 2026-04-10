@@ -1163,3 +1163,120 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/in
 
 #EXTINF:-1 tvg-id="AbzyMovies.in@SD",Abzy Movies (504p)
 http://57.129.53.130:21001/ABZY_Movies/master.m3u8
+
+#EXTINF:-1 tvg-id="AdhyatmTV.in@SD",Adhyatm TV (720p)
+https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AfriwoodBlockbuster.za@SD",Afriwood Blockbuster (720p)
+https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
+
+#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD",AKD Calcutta News (1080p)
+https://live.legitpro.co.in/cnnnews/index.m3u8
+
+#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD",AKD Calcutta News (576p)
+https://cdn-2.pishow.tv/live/237/master.m3u8
+
+#EXTINF:-1 tvg-id="AlankarTV.in@SD",Alankar TV (720p)
+https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="AmarUjala.in@SD",AmarUjala (1080p)
+https://amarujala.ottlive.co.in/amarujala/index.m3u8
+
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+#EXTINF:-1 ,AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="AmritaTV.in@SD",Amrita TV (720p) Source 1
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="AnandTV.in@SD",Anand TV (1080p) Source 2
+https://live.legitpro.co.in/anandtv/index.m3u8
+
+#EXTINF:-1 tvg-id="AnandaBarta.in@SD",Ananda Barta (720p)
+https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
+
+#EXTINF:-1 tvg-id="",Anandam Abi TV (576p)
+https://mumt02.tangotv.in/ABITV/index.m3u8
+
+#EXTINF:-1 tvg-id="",Anandam TV (576p)
+https://mumt02.tangotv.in/ANANDAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="ANBNews.in@SD",ANB News (576p)
+https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" group-title="Hindi",And TV HD
+http://103.229.254.25:7001/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@India",Angel TV (720p)
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@Africa",Angel TV Africa (720p)
+https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@America",Angel TV America (720p)
+https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@Arabia",Angel TV Arabia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@Australia",Angel TV Australia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@Chinese",Angel TV Chinese (720p)
+https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@Europe",Angel TV Europe (720p)
+https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@FarEast",Angel TV FarEast (720p)
+https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@Hebrew",Angel TV Hebrew (720p)
+https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@IndoChina",Angel TV Indo-China (720p)
+https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@Indonesia",Angel TV Indonesia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@Portuguese",Angel TV Portuguese (720p)
+https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@Russian",Angel TV Russian (720p)
+https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@Spanish",Angel TV Spanish (720p)
+https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnjanTV.in@SD",Anjan TV (576p)
+https://cdn-1.pishow.tv/live/993/master.m3u8
+
+#EXTINF:-1 tvg-id="ANNNews.in@HD",ANN News (1080p)
+https://legitpro.co.in/annnews/annnews/index.m3u8
+
+#EXTINF:-1 tvg-id="ANNNews.in@HD",ANN News (720p)
+https://cdn.ottlive.co.in/annnews/index.m3u8
+
+#EXTINF:-1 tvg-id="APN.in@SD",APN (576p)
+https://mumt01.tangotv.in/APN/index.m3u8
+
+#EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD",Apna Punjab
+https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8
+
+#EXTINF:-1 ,Apna Punjab TV (720p)
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AradanaTV.in@SD",Aradana TV (576p)
+https://cdn-1.pishow.tv/live/961/master.m3u8
+
+#EXTINF:-1 tvg-id="ArgusNews.in@SD",Argus News (576p)
+https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="AryanTVNational.in@SD",Aryan TV National (576p)
+https://mumt04.tangotv.in/ARYANTVNATIONAL/index.m3u8
