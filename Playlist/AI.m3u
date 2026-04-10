@@ -2036,3 +2036,27 @@ https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiaDailyLive.in@SD",India Daily Live (1080p)
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiaToday.in@SD",India Today
+https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8
+
+#EXTINF:-1 tvg-id="IndiaToday.in@SD",India Today (720p) [Geo-blocked]
+https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
+
+#EXTINF:-1 ,India Today (720p) [Not 24/7]
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IndiaTV.in@SD",India TV (576p)
+https://mumt01.tangotv.in/INDIATV/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiaTV.in@SD",India TV (720p)
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in@SD",India TV Aap Ki Adalat (1080p) [Geo-blocked]
+https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD",India TV Speed News (1080p) Source 1
+https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
+
+#EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD",India TV Speed News (1080p) Source 2
+https://cc-lyf4c0hwzg5dd.akamaized.net/v1/vglive-sk-479089/main.m3u8
