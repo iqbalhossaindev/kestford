@@ -1340,3 +1340,27 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 
 #EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies India (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/75f6b460a3b05eb2614b04ab013710dc" group-title="Hindi",B4u Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music (1080p) Source 1
+https://cdn-2.pishow.tv/live/415/master.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music (1080p) Source 2
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+#EXTINF:-1 ,Balle Balle (720p)
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 tvg-id="BansalNews.in@SD",Bansal News (576p)
+https://cdn-2.pishow.tv/live/1051/master.m3u8
+
+#EXTINF:-1 tvg-id="BhakthiTV.in@SD",Bhakthi TV (720p)
+https://cdn-1.pishow.tv/live/397/master.m3u8
+
+#EXTINF:-1 tvg-id="BhaktiSagar.in@SD",Bhakti Sagar (576p)
+https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in@SD",Bharat Express (480p)
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
