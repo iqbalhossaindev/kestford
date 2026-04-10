@@ -1280,3 +1280,30 @@ https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="AryanTVNational.in@SD",Aryan TV National (576p)
 https://mumt04.tangotv.in/ARYANTVNATIONAL/index.m3u8
+
+#EXTINF:-1 tvg-id="Asianet.in@HD",Asianet HD (1080p)
+http://103.157.248.140:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD",Asianet Middle East (576p)
+https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
+
+#EXTINF:-1 tvg-id="AsianetNews.in@SD",Asianet News (1080p)
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianetNews.in@SD",Asianet News (360p)
+https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD",Asianet Suvarna News (1080p) [Not 24/7]
+https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AssamTalks.in@SD",Assam Talks (576p)
+https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10" group-title="Hindi",Awaaz India
+http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+
+#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD",Awaaz India TV (720p) [Not 24/7]
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+
+#EXTINF:-1 tvg-id="AwakeningTV.in@SD",Awakening TV (576p)
+https://mumt03.tangotv.in/AWAKENINGTV/index.m3u8
