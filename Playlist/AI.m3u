@@ -2303,3 +2303,12 @@ https://cdn-1.pishow.tv/live/1011/master.m3u8
 
 #EXTINF:-1 tvg-id="ManoranjanTV.in@SD",Manoranjan TV (720p)
 https://cdn-1.pishow.tv/live/1013/master.m3u8
+
+#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD",Mathrubhumi News (576p) [Not 24/7] Source 2
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Matti TV (576p)
+https://mumt03.tangotv.in/MATTITV/index.m3u8
+
+#EXTINF:-1 tvg-id="MaxMovies.in@HD",Max Movies (1080p)
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
