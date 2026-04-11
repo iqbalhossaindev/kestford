@@ -2348,9 +2348,3 @@ https://livestream.jswk.online/mhonenews/live/index.m3u8
 
 #EXTINF:-1 tvg-id="Mh1News.in@SD",Mh 1 News (576p)
 https://mumt04.tangotv.in/MHONENEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="MHOneDilSe.in@SD",MH One Dil Se (576p)
-https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
-
-#EXTINF:-1 tvg-id="MHOneMovies.in@SD",MH One Movies (576p)
-https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
