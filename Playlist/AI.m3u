@@ -2273,3 +2273,12 @@ https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8
 
 #EXTINF:-1 tvg-id="MahaaNews.in@SD",Mahaa News (720p)
 https://d8wpu6ewxtzy0.cloudfront.net/mahaanews/index.m3u8
+
+#EXTINF:-1 tvg-id="",Maina TV (576p)
+https://mumt03.tangotv.in/MAINATV/index.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in@SD",Makkal TV (576i)
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MalabarNews.in@SD",Malabar News (720p)
+http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
