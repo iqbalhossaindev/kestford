@@ -2312,3 +2312,39 @@ https://mumt03.tangotv.in/MATTITV/index.m3u8
 
 #EXTINF:-1 tvg-id="MaxMovies.in@HD",Max Movies (1080p)
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+
+#EXTINF:-1 ,Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in@SD",Mazhavil Manorama (396p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in@HD",Mazhavil Manorama HD (1080p)
+https://cdn-7.pishow.tv/live/1129/master.m3u8
+
+#EXTINF:-1 tvg-name="MBC tv" group-title="Hindi",MBC tv
+http://93.184.10.248/MBCBollywood/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCTV.in@SD",MBC TV (576p)
+https://mumt03.tangotv.in/MBCTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MediaOne.in@SD",Media One (720p)
+https://cdn-3.pishow.tv/live/1481/master.m3u8
+
+#EXTINF:-1 tvg-id="MelodyHits.ca@SD",Melody Hits (576p)
+https://mumt03.tangotv.in/MELODYHITS/index.m3u8
+
+#EXTINF:-1 ,Mercy TV (1080p)
+https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.in@SD",Metro TV (1080p)
+https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="Mh1Music.in@SD",Mh 1 Music (576p)
+https://mumt04.tangotv.in/MHONE/index.m3u8
+
+#EXTINF:-1 tvg-id="Mh1News.in@SD",Mh 1 News (360p)
+https://livestream.jswk.online/mhonenews/live/index.m3u8
+
+#EXTINF:-1 tvg-id="Mh1News.in@SD",Mh 1 News (576p)
+https://mumt04.tangotv.in/MHONENEWS/index.m3u8
