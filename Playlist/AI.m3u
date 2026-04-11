@@ -2282,3 +2282,24 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 
 #EXTINF:-1 tvg-id="MalabarNews.in@SD",Malabar News (720p)
 http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
+
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD",Malai Murasu TV (1080p) [Geo-blocked]
+https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD",Malai Murasu TV (720p) [Not 24/7]
+https://cdn-3.pishow.tv/live/1606/master.m3u8
+
+#EXTINF:-1 tvg-id="MalarTV.in@SD",Malar TV (720p) [Not 24/7]
+https://cdn-3.pishow.tv/live/473/master.m3u8
+
+#EXTINF:-1 tvg-id="MangoMobileTV.in@HD",Mango Mobile TV (1080p)
+https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ManoramaNews.in@SD",Manorama News (1080p)
+https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanGrand.in@SD",Manoranjan Grand (720p)
+https://cdn-1.pishow.tv/live/1011/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanTV.in@SD",Manoranjan TV (720p)
+https://cdn-1.pishow.tv/live/1013/master.m3u8
