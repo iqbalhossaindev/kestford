@@ -2078,18 +2078,3 @@ https://www.youtube.com/watch?v=sYZtOFzM78M
 
 #EXTINF:-1 tvg-name="India TV Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/India_tv_logo-en.png/500px-India_tv_logo-en.png" tvg-id="IndiaTV.in" tvg-country="IN" group-title="India",India TV Ⓨ
 https://www.youtube.com/watch?v=e1FIApIafWE
-
-#EXTINF:-1 tvg-id="INews.in@SD",INews (720p)
-https://cdn-1.pishow.tv/live/411/master.m3u8
-
-#EXTINF:-1 ,INH 24x7 (360p)
-https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="INH24x7.in@SD",INH 24x7 (576p)
-https://mumt01.tangotv.in/INH24X7/index.m3u8
-
-#EXTINF:-1 tvg-id="Insync.in@SD",Insync (576p)
-https://mumt04.tangotv.in/INSYNC/index.m3u8
-
-#EXTINF:-1 tvg-id="IsaiAruvi.in@SD",Isai Aruvi (396p)
-https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
