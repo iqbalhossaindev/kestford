@@ -2249,12 +2249,3 @@ https://stream.ottlive.co.in/livingindia/index.m3u8
 
 #EXTINF:-1 tvg-id="LivingIndiaNews.in@SD",Living India News (576p)
 https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="LoneStar.us@US",Lone Star (1080p)
-https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8
-
-#EXTINF:-1 ,Lotus Macau
-http://anren.live/HK/BiIOU11uLA.m3u8
-
-#EXTINF:-1 tvg-id="MNaduTV.in@SD",M Nadu TV (576p)
-https://mumt01.tangotv.in/MNADU/index.m3u8
