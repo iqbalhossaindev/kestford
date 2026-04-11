@@ -2165,3 +2165,9 @@ https://cdn-3.pishow.tv/live/1469/master.m3u8
 
 #EXTINF:-1 tvg-id="KairaliTV.in@SD",Kairali TV (576p)
 https://mumt01.tangotv.in/KAIRALI/index.m3u8
+
+#EXTINF:-1 tvg-id="KairaliWe.in@SD",Kairali We (576p) Source 2
+https://cdn-3.pishow.tv/live/1530/master.m3u8
+
+#EXTINF:-1 tvg-id="KairaliWe.in@SD",Kairali We (576p) Source 3
+https://mumt01.tangotv.in/WETV/index.m3u8
