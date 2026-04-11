@@ -2180,3 +2180,6 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD",Kalaignar Seithigal (720p)
 https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
+
+#EXTINF:-1 tvg-id="KalaignarTV.in@SD",Kalaignar TV (396p)
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
