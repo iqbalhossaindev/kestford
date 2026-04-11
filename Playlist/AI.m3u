@@ -2093,3 +2093,45 @@ https://mumt04.tangotv.in/INSYNC/index.m3u8
 
 #EXTINF:-1 tvg-id="IsaiAruvi.in@SD",Isai Aruvi (396p)
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IsaiAruvi.in@SD",Isai Aruvi (576p) Source 2
+http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8
+
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD",Ishwar Bhakti TV (576p)
+https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8
+
+#EXTINF:-1 ,Ishwar Bhakti TV (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JaiMaharashtra.in@SD",Jai Maharashtra (576p) Source 1
+https://cdn-3.pishow.tv/live/1465/master.m3u8
+
+#EXTINF:-1 tvg-id="JaiMaharashtra.in@SD",Jai Maharashtra (576p) Source 2
+https://mumt03.tangotv.in/JAIMAHARASHTRA/index.m3u8
+
+#EXTINF:-1 tvg-id="JaihindTV.in@SD",Jaihind TV (396p)
+https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="JaihindTV.in@SD",Jaihind TV (576p)
+https://mumt03.tangotv.in/JAIHIND/index.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies.in@HD",Jalsha Movies HD (1080p)
+http://103.229.254.25:7001/play/a0dt/index.m3u8
+
+#EXTINF:-1 tvg-id="JanTV.in@SD",Jan TV (576p) Source 1
+https://cdn-6.pishow.tv/live/10004/master.m3u8
+
+#EXTINF:-1 tvg-id="JanTV.in@SD",Jan TV (576p) Source 2
+https://mumt03.tangotv.in/JANTV/index.m3u8
+
+#EXTINF:-1 tvg-id="JanamTV.in@SD",Janam TV (576p) Source 1
+https://mumt03.tangotv.in/JANAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="JanamTV.in@SD",Janam TV (576p) Source 2
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JantaTV.in@SD",Janta TV (1080p)
+https://live.jswk.online/IK_RTPM/live/index.m3u8
+
+#EXTINF:-1 tvg-id="JayaPlus.in@SD",Jaya Plus (576p)
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
