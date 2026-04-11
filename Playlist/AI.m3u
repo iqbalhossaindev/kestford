@@ -2258,3 +2258,18 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 
 #EXTINF:-1 tvg-id="MNaduTV.in@SD",M Nadu TV (576p)
 https://mumt01.tangotv.in/MNADU/index.m3u8
+
+#EXTINF:-1 tvg-id="MadhimugamTV.in@SD",Madhimugam TV (576p)
+https://cdn-3.pishow.tv/live/1476/master.m3u8
+
+#EXTINF:-1 tvg-id="MahaMovie.in@SD",Maha Movie (576p) Source 1
+https://cdn-6.pishow.tv/live/10007/master.m3u8
+
+#EXTINF:-1 tvg-id="MahaaBhakti.in@SD",Mahaa Bhakti (1080p)
+https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaaMax.in@SD",Mahaa Max (1080p) Source 2
+https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaaNews.in@SD",Mahaa News (720p)
+https://d8wpu6ewxtzy0.cloudfront.net/mahaanews/index.m3u8
