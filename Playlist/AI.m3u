@@ -2201,18 +2201,3 @@ https://mumt03.tangotv.in/KASHISHNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="KashishNews.in@SD",Kashish News (720p)
 https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
-
-#EXTINF:-1 tvg-id="KaumudyTV.in@SD",Kaumudy TV (576p)
-https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8
-
-#EXTINF:-1 tvg-id="KaumudyTV.in@SD",Kaumudy TV (720p)
-https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KeralaVision.in@SD",Kerala Vision (576p)
-https://mumt03.tangotv.in/KERALAVISION/index.m3u8
-
-#EXTINF:-1 tvg-id="KhabarFast.in@SD",Khabar Fast (576p)
-https://mumt04.tangotv.in/KHABARFAST/index.m3u8
-
-#EXTINF:-1 tvg-id="KhabrainAbhiTak.in@SD",Khabrain Abhi Tak (576p)
-https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
