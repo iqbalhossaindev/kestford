@@ -2390,3 +2390,21 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-id="MusicIndia.in@SD",Music India (720p) [Not 24/7]
 https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-id="NagalandTV.in@SD",Nagaland TV (576p)
+https://cdn-6.pishow.tv/live/10014/master.m3u8
+
+#EXTINF:-1 ,Namdhari (404p) [Not 24/7]
+https://namdhari.tv/live/sbs1.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD",National Geographic HD (1080p)
+http://103.157.248.140:8000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD",National Geographic Wild HD (1080p)
+http://103.157.248.140:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="Nazara.in@SD",Nazara (1080p)
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+
+#EXTINF:-1 ,NDTV 24X7 (480p) [Not 24/7]
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
