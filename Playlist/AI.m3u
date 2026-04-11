@@ -2372,18 +2372,3 @@ https://cdn-3.pishow.tv/live/1253/master.m3u8
 
 #EXTINF:-1 tvg-id="MarutamTV.in@SD",MNTV (1080p)
 https://mntv.livebox.co.in/mntvhls/live.m3u8
-
-#EXTINF:-1 tvg-id="MoviePlex.in@SD",Movieplex (576p)
-https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
-
-#EXTINF:-1 ,MOVIES RUSSIAN
-http://myott.top/stream/DEKA6YA5JRN/107.m3u8
-
-#EXTINF:-1 tvg-id="MTV.in@HD",MTV HD (1080p)
-http://103.157.248.140:8000/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011_logo.png" group-title="India",MU | 8XM
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3" group-title="Hindi",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
