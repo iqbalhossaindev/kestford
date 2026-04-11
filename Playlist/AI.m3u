@@ -2135,3 +2135,30 @@ https://live.jswk.online/IK_RTPM/live/index.m3u8
 
 #EXTINF:-1 tvg-id="JayaPlus.in@SD",Jaya Plus (576p)
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+
+#EXTINF:-1 tvg-id="JeevanTV.in@SD",Jeevan TV (576p) Source 2
+https://cdn-3.pishow.tv/live/1467/master.m3u8
+
+#EXTINF:-1 tvg-id="JeevanTV.in@SD",Jeevan TV (576p) Source 3
+https://mumt04.tangotv.in/JEEVANTV/index.m3u8
+
+#EXTINF:-1 tvg-id="JinvaniChannel.in@SD",Jinvani Channel (576p)
+https://mumt03.tangotv.in/JINVANI/index.m3u8
+
+#EXTINF:-1 tvg-id="JinvaniChannel.in@SD",Jinvani Channel (720p)
+https://cdn-2.pishow.tv/live/989/master.m3u8
+
+#EXTINF:-1 tvg-id="JK24x7News.in@SD",JK 24x7 News (720p) [Not 24/7]
+https://live.gulistannews.in/hls/jk.m3u8
+
+#EXTINF:-1 tvg-id="",Josh TV (576p)
+https://mumt03.tangotv.in/JOSHTV/index.m3u8
+
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD",Kairali Arabia (576p)
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
+
+#EXTINF:-1 tvg-id="KairaliNews.in@SD",Kairali News (576p)
+https://mumt01.tangotv.in/KAIRALINEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="KairaliNews.in@SD",Kairali News (720p)
+https://cdn-3.pishow.tv/live/1469/master.m3u8
