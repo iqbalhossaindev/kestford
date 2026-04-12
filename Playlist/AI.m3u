@@ -2711,3 +2711,27 @@ https://mumt01.tangotv.in/RANG/index.m3u8
 
 #EXTINF:-1 ,Real News Kerala (1080p) [Not 24/7]
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rengoni.in@SD",Rengoni (576p)
+https://mumt05.tangotv.in/RENGONI/index.m3u8
+
+#EXTINF:-1 tvg-id="ReporterTV.in@SD",Reporter TV (576p)
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RepublicBangla.in@SD",Republic Bangla (1080p)
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+
+#EXTINF:-1 tvg-id="RepublicBharat.in@SD",Republic Bharat (1080p) [Geo-blocked]
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
+
+#EXTINF:-1 tvg-id="RepublicKannada.in@SD",Republic Kannada (1080p)
+https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
+
+#EXTINF:-1 tvg-id="RepublicTV.in@SD",Republic TV (1080p)
+https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RepublicTV.in@SD",Republic TV (1080p) [Geo-blocked]
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+
+#EXTINF:-1 tvg-id="RojaMovies.in@SD",Roja Movies (1080p)
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
