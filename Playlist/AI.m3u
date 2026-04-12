@@ -2996,15 +2996,3 @@ http://ptuf.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Hindi",Star Plus
 http://103.229.254.25:7001/play/a09z/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD",Star Sports 1 Hindi (576p)
-http://103.157.248.140:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@SD",Star Sports 1 Tamil (576p) Source 1
-http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD",Star Sports 1 Tamil HD (1080p)
-http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (1080p)
-http://103.157.248.140:8000/play/a01m/index.m3u8
