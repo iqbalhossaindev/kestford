@@ -2936,3 +2936,6 @@ http://103.157.248.140:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 group-title="Sports | United States",W14dk-d 14.5 All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Republic Bharat Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" tvg-id="RepublicBharat.in" tvg-country="IN" group-title="India",Republic Bharat Ⓨ
+https://www.youtube.com/watch?v=3DbTO_AMhhc
