@@ -2489,3 +2489,33 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/mas
 
 #EXTINF:-1 tvg-id="News18Kerala.in@SD",News18 Kerala (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News18Lokmat.in@SD",News18 Lokmat (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News18MadhyaPradeshChhattisgarh.in@SD",News18 Madhya Pradesh/Chhattisgarh (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News18Odia.in@SD",News18 Odia (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News18PunjabHaryanaHimachal.in@SD",News18 Punjab/Haryana/Himachal (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News18Rajasthan.in@SD",News18 Rajasthan (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News18TamilNadu.in@SD",News18 Tamil Nadu (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News18Urdu.in@SD",News18 Urdu (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in@SD",News18 Uttar Pradesh Uttarakhand (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News9Live.in@SD",News9Live (720p) Source 2
+https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in@SD",Nick Jr. (576p) Source 2
+http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8
