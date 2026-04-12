@@ -2615,3 +2615,6 @@ https://live-cf-polimernews.dailyhunt.in/master.m3u8
 
 #EXTINF:-1 tvg-id="PolimerTV.in@SD",Polimer TV (720p)
 https://cdn-2.pishow.tv/live/1241/master.m3u8
+
+#EXTINF:-1 tvg-id="News24.in@SD",News 24 (720p)
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
