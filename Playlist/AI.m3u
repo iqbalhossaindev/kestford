@@ -3050,3 +3050,6 @@ https://stream.galaxyott.live/live/subintv/index.m3u8
 
 #EXTINF:-1 tvg-id="SudarshanNews.in@SD",Sudarshan News (1080p) Source 2
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="KCLTV.in@SD",KCL TV (720p)
+https://kcltv.livebox.co.in/kclhls/live.m3u8
