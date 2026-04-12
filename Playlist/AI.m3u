@@ -2750,3 +2750,27 @@ https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
 
 #EXTINF:-1 tvg-id="RTIndia.in@HD",RT India (1080p)
 https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaamTV.in@SD",Saam TV
+https://cdn-3.pishow.tv/live/437/master.m3u8
+
+#EXTINF:-1 tvg-id="SachBedhadak.in@SD",Sach Bedhadak (576p)
+https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8
+
+#EXTINF:-1 ,Sadhna (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SadhnaPlusNews.in@SD",Sadhna Plus News (576p)
+https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8
+
+#EXTINF:-1 ,Sadhna Plus News (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+
+#EXTINF:-1 ,Safari TV (480p) [Not 24/7]
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SahanaNews.in@SD",Sahana News (576p)
+https://mumt03.tangotv.in/SAHANANEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="SairamTV.in@SD",Sairam TV (576p)
+https://mumt04.tangotv.in/SAIRAMTV/index.m3u8
