@@ -2552,3 +2552,66 @@ https://mumt01.tangotv.in/OMTV/index.m3u8
 
 #EXTINF:-1 tvg-id="OnTV.in@SD",On TV (576p)
 https://mumt03.tangotv.in/ONTV/index.m3u8
+
+#EXTINF:-1 tvg-id="OnkarOnlyTruthTV.in@SD",Onkar Only Truth TV (576p)
+https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnTV4U.us@SD",ONTV4U (1080p)
+https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8
+
+#EXTINF:-1 tvg-id="OrangeBanglaTV.in@SD",Orange Bangla TV (720p)
+https://cdn-4.pishow.tv/live/1499/master.m3u8
+
+#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in@SD",Oscar Movies Bhojpuri (720p)
+https://cdn-4.pishow.tv/live/233/master.m3u8
+
+#EXTINF:-1 tvg-id="",OurVinyl (1080p)
+https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OurVinyl/459.m3u8?ads.vf=aJG-o6ZGH4y
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD",Outdoor Channel (1080p)
+https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G
+
+#EXTINF:-1 tvg-id="",Padharo Sa (576p)
+https://mumt03.tangotv.in/PADHAROSA/index.m3u8
+
+#EXTINF:-1 tvg-id="",Pankh (576p)
+https://mumt04.tangotv.in/PANKH/index.m3u8
+
+#EXTINF:-1 tvg-id="ParasGold.in@SD",Paras Gold (576p)
+https://mumt04.tangotv.in/PARASGOLD/index.m3u8
+
+#EXTINF:-1 tvg-id="PasandTV.in@SD",Pasand TV (576p)
+https://mumt01.tangotv.in/PASANDTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD",Peace Of Mind TV (576p)
+https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
+
+#EXTINF:-1 tvg-id="",Pear TV (576p)
+https://mumt01.tangotv.in/PEARTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD",People are Awesome
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeppersTV.in@SD",Peppers TV (751p)
+https://cdn-2.pishow.tv/live/1383/master.m3u8
+
+#EXTINF:-1 tvg-id="Pitaara.in@SD",Pitaara (720p)
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PMCTelugu.in@SD",PMC Telugu (1080p)
+https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in@SD",Polimer News (576p)
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in@SD",Polimer News (720p)
+https://live-cf-polimernews.dailyhunt.in/master.m3u8
+
+#EXTINF:-1 tvg-id="PolimerTV.in@SD",Polimer TV (720p)
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.in@SD",Power TV (576p)
+https://powertvkannada.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PrarthanaTV.in@SD",Prarthana TV (720p)
+https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
