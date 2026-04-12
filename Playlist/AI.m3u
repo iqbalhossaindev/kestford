@@ -2534,3 +2534,21 @@ https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 
 #EXTINF:-1 ,NPL TV
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+
+#EXTINF:-1 tvg-id="NTCTV.in@SD",NTC TV (720p)
+https://galaxyott.live/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="NTVTelugu.in@SD",NTV Telugu (576p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OdishaTV.in@SD",Odisha TV (720p)
+https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OliTV.in@SD",Oli TV (1080p)
+https://live.olidigital.in/olitv/olitv/index.m3u8
+
+#EXTINF:-1 tvg-id="OMTV.in@SD",OM TV (576p)
+https://mumt01.tangotv.in/OMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="OnTV.in@SD",On TV (576p)
+https://mumt03.tangotv.in/ONTV/index.m3u8
