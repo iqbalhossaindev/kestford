@@ -2657,18 +2657,3 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/in
 
 #EXTINF:-1 tvg-id="PublicMovies.in@SD",Public Movies (576p)
 https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
-
-#EXTINF:-1 tvg-id="PublicMusic.in@SD",Public Music (720p) [Not 24/7]
-https://cdn-3.pishow.tv/live/441/master.m3u8
-
-#EXTINF:-1 tvg-id="PublicTV.in@SD",Public TV (720p)
-https://cdn-3.pishow.tv/live/439/master.m3u8
-
-#EXTINF:-1 tvg-id="PunjabiHits.in@SD",Punjabi Hits (1080p) Source 2
-https://stream.ottlive.co.in/punjabihits/index.m3u8
-
-#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
-https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PuthuyugamTV.in@SD",Puthuyugam TV (576p)
-https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
