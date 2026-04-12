@@ -2951,3 +2951,9 @@ http://103.135.208.14/live/ibox/bd/20.m3u8
 
 #EXTINF:-1 ,Nagorik TV Source 1
 http://103.135.208.14/live/ibox/bd/100.m3u8
+
+#EXTINF:-1 tvg-name="South Movies" group-title="Hindi | 24/7",South Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="SouthStation.in@HD",South Station (1080p)
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
