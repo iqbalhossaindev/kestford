@@ -2633,3 +2633,42 @@ https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="PravasiChannel.in@SD",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prime9News.in@SD",Prime9 News (1080p)
+https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
+
+#EXTINF:-1 ,Prudent Media (1080p)
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+
+#EXTINF:-1 tvg-id="PTCChakde.in@SD",PTC Chakde (720p)
+https://cdn-1.pishow.tv/live/449/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCMusic.in@SD",PTC Music (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCNews.in@SD",PTC News (576p)
+https://cdn-4.pishow.tv/live/1502/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabi.in@SD",PTC Punjabi (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD",PTC Punjabi Gold (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+
+#EXTINF:-1 tvg-id="PublicMovies.in@SD",Public Movies (576p)
+https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="PublicMusic.in@SD",Public Music (720p) [Not 24/7]
+https://cdn-3.pishow.tv/live/441/master.m3u8
+
+#EXTINF:-1 tvg-id="PublicTV.in@SD",Public TV (720p)
+https://cdn-3.pishow.tv/live/439/master.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiHits.in@SD",Punjabi Hits (1080p) Source 2
+https://stream.ottlive.co.in/punjabihits/index.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD",Puthiya Thalaimurai (576p)
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PuthuyugamTV.in@SD",Puthuyugam TV (576p)
+https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
