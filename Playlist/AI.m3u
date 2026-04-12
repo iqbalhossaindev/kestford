@@ -3053,3 +3053,6 @@ https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u
 
 #EXTINF:-1 tvg-id="KCLTV.in@SD",KCL TV (720p)
 https://kcltv.livebox.co.in/kclhls/live.m3u8
+
+#EXTINF:-1 tvg-id="SportsConnect.za@SD",Sports Connect (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
