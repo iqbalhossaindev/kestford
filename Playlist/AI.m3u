@@ -2678,21 +2678,3 @@ https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 tvg-id="",Ragni TV (576p)
 https://mumt04.tangotv.in/RAGNITV/index.m3u8
-
-#EXTINF:-1 tvg-id="RajMusixKannada.in@SD",Raj Musix Kannada (576p)
-https://mumt01.tangotv.in/RAJMUSIXKANDA/index.m3u8
-
-#EXTINF:-1 tvg-id="RajMusixMalayalam.in@SD",Raj Musix Malayalam (576p)
-https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
-
-#EXTINF:-1 tvg-id="RajMusixTamil.in@SD",Raj Musix Tamil (576p)
-http://ajkiptv.ridsys.in/riptv/live/RAJ_MUSIX/index.m3u8
-
-#EXTINF:-1 tvg-id="RajMusixTelugu.in@SD",Raj Musix Telugu (720p)
-https://cdn-1.pishow.tv/live/1213/master.m3u8
-
-#EXTINF:-1 tvg-id="RajNewsKannada.in@SD",Raj News Kannada (576p)
-https://mumt03.tangotv.in/RAJNEWSKANDA/index.m3u8
-
-#EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD",Raj News Malayalam (576p)
-https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
