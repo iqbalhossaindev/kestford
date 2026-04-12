@@ -3113,30 +3113,3 @@ https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474
 
 #EXTINF:-1 tvg-id="ThanthiTV.in@SD",Thanthi TV (576p)
 https://cdn-3.pishow.tv/live/1612/master.m3u8
-
-#EXTINF:-1 tvg-id="TheMovieClub.in@HD",The Movie Club (1080p)
-https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
-
-#EXTINF:-1 tvg-id="TheMovieClub.in@Plus2",The Movie Club +2 (1080p)
-https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
-
-#EXTINF:-1 tvg-id="ThePetCollective.us@India",The Pet Collective
-https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheReuters60.pl@FAST",The Reuters 60 (1080p)
-https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TimesNow.in@SD",Times Now (720p) [Geo-blocked] Source 2
-https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
-
-#EXTINF:-1 ,Times Now [Geo-blocked]
-https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
-
-#EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD",Times Now Navbharat (1080p) [Geo-blocked] Source 1
-https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNPNews.in@SD",TNP News (1080p)
-https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
-
-#EXTINF:-1 tvg-id="TOIGlobal.in@SD",TOI Global (1080p)
-https://live.sli.ke/live/npnhm84gz9/master.m3u8
