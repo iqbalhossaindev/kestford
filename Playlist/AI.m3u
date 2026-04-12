@@ -2552,33 +2552,3 @@ https://mumt01.tangotv.in/OMTV/index.m3u8
 
 #EXTINF:-1 tvg-id="OnTV.in@SD",On TV (576p)
 https://mumt03.tangotv.in/ONTV/index.m3u8
-
-#EXTINF:-1 tvg-id="OnkarOnlyTruthTV.in@SD",Onkar Only Truth TV (576p)
-https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OnTV4U.us@SD",ONTV4U (1080p)
-https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8
-
-#EXTINF:-1 tvg-id="OrangeBanglaTV.in@SD",Orange Bangla TV (720p)
-https://cdn-4.pishow.tv/live/1499/master.m3u8
-
-#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in@SD",Oscar Movies Bhojpuri (720p)
-https://cdn-4.pishow.tv/live/233/master.m3u8
-
-#EXTINF:-1 tvg-id="",OurVinyl (1080p)
-https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OurVinyl/459.m3u8?ads.vf=aJG-o6ZGH4y
-
-#EXTINF:-1 tvg-id="OutdoorChannel.us@SD",Outdoor Channel (1080p)
-https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G
-
-#EXTINF:-1 tvg-id="",Padharo Sa (576p)
-https://mumt03.tangotv.in/PADHAROSA/index.m3u8
-
-#EXTINF:-1 tvg-id="",Pankh (576p)
-https://mumt04.tangotv.in/PANKH/index.m3u8
-
-#EXTINF:-1 tvg-id="ParasGold.in@SD",Paras Gold (576p)
-https://mumt04.tangotv.in/PARASGOLD/index.m3u8
-
-#EXTINF:-1 tvg-id="PasandTV.in@SD",Pasand TV (576p)
-https://mumt01.tangotv.in/PASANDTV/index.m3u8
