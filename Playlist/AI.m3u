@@ -2582,3 +2582,9 @@ https://mumt04.tangotv.in/PARASGOLD/index.m3u8
 
 #EXTINF:-1 tvg-id="PasandTV.in@SD",Pasand TV (576p)
 https://mumt01.tangotv.in/PASANDTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in@SD",Nick Jr. (576p) Source 1
+http://103.157.248.140:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD",Nickelodeon (576p) Source 1
+http://103.157.248.140:8000/play/a01n/index.m3u8
