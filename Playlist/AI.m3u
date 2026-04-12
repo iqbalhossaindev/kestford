@@ -2696,3 +2696,18 @@ https://mumt03.tangotv.in/RAJNEWSKANDA/index.m3u8
 
 #EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD",Raj News Malayalam (576p)
 https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
+
+#EXTINF:-1 tvg-id="RajNewsTelugu.in@SD",Raj News Telugu (576p)
+https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8
+
+#EXTINF:-1 tvg-id="RajTV.in@SD",Raj TV (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+
+#EXTINF:-1 tvg-id="Ramdhenu.in@SD",Ramdhenu (576p)
+https://mumt01.tangotv.in/RAMDHENU/index.m3u8
+
+#EXTINF:-1 tvg-id="Rang.in@SD",Rang (576p)
+https://mumt01.tangotv.in/RANG/index.m3u8
+
+#EXTINF:-1 ,Real News Kerala (1080p) [Not 24/7]
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
