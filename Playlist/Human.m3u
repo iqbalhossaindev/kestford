@@ -59,3 +59,6 @@ https://vods2.aynascope.net/gseriesDrama/index.m3u8
 
 #EXTINF:-1 group-title="Sports | Qatar",Alkass Three
 https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204" group-title="Bangla",Channel I Source 7
+https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
