@@ -3266,3 +3266,9 @@ https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 
 #EXTINF:-1 tvg-id="WayanadVision.in@SD",Wayanad Vision (1080p)
 https://cloudsavre.in.net/hls/stream.m3u8
+
+#EXTINF:-1 ,Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="AyushTV.in@SD",Ayush TV (360p) [Not 24/7]
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
