@@ -3131,3 +3131,6 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 
 #EXTINF:-1 ,Subrang TV (USA)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="Pakistani",224.Subrang TV
+https://cdn20.liveonlineservices.com/hls/subrang.m3u8
