@@ -2,3 +2,6 @@
 
 #EXTINF:-1 group-title="Sports | France",Africa 24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ATNNews.bd@SD",ATN News (1080p)
+https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
