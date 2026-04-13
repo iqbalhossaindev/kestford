@@ -3482,3 +3482,6 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JoshuaTV.pk@SD",Joshua TV (720p)
 https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD",Boishakhi TV Source 1
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
