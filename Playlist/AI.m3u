@@ -3278,3 +3278,27 @@ http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.
 
 #EXTINF:-1 tvg-id="VijaySuper.in@SD",Vijay Super (576p) Source 3
 http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
+
+#EXTINF:-1 tvg-id="WeatherSpy.in@SD",Weatherspy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",WFN: World Fishing Network (1080p)
+https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=mDHh59pDPYW
+
+#EXTINF:-1 tvg-id="WinTV.in@SD",Win TV (576p)
+https://cdn-4.pishow.tv/live/1531/master.m3u8
+
+#EXTINF:-1 tvg-id="WION.in@SD",WION (1080p) Source 1
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+#EXTINF:-1 tvg-id="WION.in@SD",WION (240p)
+https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
+
+#EXTINF:-1 tvg-id="WION.in@SD",WION (360p)
+https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="WION.in@SD",WION (480p)
+https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-id="WION.in@SD",WION (504p)
+https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
