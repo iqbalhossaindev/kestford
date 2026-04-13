@@ -3485,3 +3485,6 @@ https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BoishakhiTV.bd@SD",Boishakhi TV Source 1
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-id="KingTV.pk@SD",King TV (720p) [Not 24/7]
+https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
