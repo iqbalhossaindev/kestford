@@ -3410,3 +3410,6 @@ http://103.229.254.25:7001/play/a0cs/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD",Zee Uttar Pradesh/Uttarakhand (720p)
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
+
+#EXTINF:-1 tvg-id="ZeeZest.in@HD",Zee Zest HD (1080p)
+http://103.229.254.25:7001/play/a0dp/index.m3u8
