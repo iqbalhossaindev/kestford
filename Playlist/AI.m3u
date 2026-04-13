@@ -3413,24 +3413,3 @@ https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 
 #EXTINF:-1 tvg-id="ZeeZest.in@HD",Zee Zest HD (1080p)
 http://103.229.254.25:7001/play/a0dp/index.m3u8
-
-#EXTINF:-1 tvg-id="ZillarBartaNews.in@HD",ZillarBarta News
-https://server.zillarbarta.com/zillarbarta/index.m3u8
-
-#EXTINF:-1 ,Zindagi TV
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u
-
-#EXTINF:-1 tvg-id="Zoom.in@SD",Zoom (720p)
-https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-#EXTINF:-1 tvg-id="Zoom.in@Global",Zoom Global (720p)
-https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
-
-#EXTINF:-1 tvg-id="",Zoomer TV (1080p)
-https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Zoomer-DistroTV/316.m3u8?ads.vf=DoYjaTaR5sC
-
-#EXTINF:-1 tvg-id="92NewsHD.pk@SD",92 News HD (720p)
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AajEntertainment.pk@SD",Aaj Entertainment (1080p)
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
