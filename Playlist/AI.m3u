@@ -3245,24 +3245,3 @@ http://ajkiptv.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
 
 #EXTINF:-1 tvg-id="VijayTakkar.in@SD",Vijay Takkar (576p)
 http://ajkiptv.ridsys.in/riptv/live/VIJAY_TAKKAR/index.m3u8
-
-#EXTINF:-1 tvg-id="VillageTV.in@SD",Village TV (576p)
-https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
-
-#EXTINF:-1 tvg-id="VIPNews.in@SD",VIP News (360p)
-https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-
-#EXTINF:-1 ,Vision (1080p)
-http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VistaarNews.in@SD",Vistaar News (576p)
-https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="VyasChannel.in@SD",Vyas NIC (480p)
-https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
-
-#EXTINF:-1 tvg-id="VyasChannel.in@SD",Vyas NIC (576p)
-https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
-
-#EXTINF:-1 tvg-id="WayanadVision.in@SD",Wayanad Vision (1080p)
-https://cloudsavre.in.net/hls/stream.m3u8
