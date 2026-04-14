@@ -699,6 +699,9 @@ https://strims.top/tv/tvp2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MoukyGs.png" tvg-name="TV5 Finland" group-title="Finland",TV5 Finland
 https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
 
+#EXTINF:-1 ,157.Bein Sports Xtra HD
+https://chostv.mobie.in/choos/sports/beinxtra.m3u8
+
 #EXTINF:-1 ,165.Dubai Sports
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 
