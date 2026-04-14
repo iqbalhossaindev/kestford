@@ -74,3 +74,6 @@ https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EkhonTV.bd@SD",Ekhon TV (1080p)
 https://tplay.live/out/bangladesh/ekhontv.index.m3u8
+
+#EXTINF:-1 group-title="Pakistani",224.Subrang TV
+https://cdn20.liveonlineservices.com/hls/subrang.m3u8
