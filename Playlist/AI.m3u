@@ -3527,3 +3527,6 @@ https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
 
 #EXTINF:-1 tvg-id="",Guarantee News (576p)
 https://mumt02.tangotv.in/GUARANTEENEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="HNN24x7.in@SD",HNN 24x7 (576p) Source 1
+https://mumt02.tangotv.in/HNN24X7/index.m3u8
