@@ -101,3 +101,6 @@ https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+#EXTINF:-1 tvg-id="DeshiTV.ca@SD",Deshi TV (720p)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
