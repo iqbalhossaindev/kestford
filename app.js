@@ -85,6 +85,8 @@ const prevBtn = document.getElementById('prev-btn');
 const nextBtn = document.getElementById('next-btn');
 const fullscreenBtn = document.getElementById('fullscreen-btn');
 const minimizeBtn = document.getElementById('minimize-btn');
+const fullscreenIcon = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 3 21 3 21 9"/><polyline points="9 21 3 21 3 15"/><line x1="21" y1="3" x2="14" y2="10"/><line x1="3" y1="21" x2="10" y2="14"/></svg>';
+const unfoldIcon = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="4 14 10 14 10 20"/><polyline points="20 10 14 10 14 4"/><line x1="10" y1="14" x2="21" y2="3"/><line x1="3" y1="21" x2="14" y2="10"/></svg>';
 const filterToggle = document.getElementById('filter-toggle-btn');
 const filterPanel = document.getElementById('filter-panel');
 const searchInput = document.getElementById('search-input');
@@ -534,7 +536,6 @@ function createCard(channel) {
 
   card.addEventListener('click', () => {
     playChannelById(channel.id, { autoPlay: true });
-    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
   return card;
@@ -901,8 +902,9 @@ function buildLangList() {
 function updateFoldUI() {
   document.body.classList.toggle('player-folded', state.isPlayerFolded);
   overlay.classList.add('controls-visible');
-  fullscreenBtn.title = state.isPlayerFolded ? 'Unfold Player' : 'Fold Player';
+  fullscreenBtn.title = state.isPlayerFolded ? 'Unfold Player' : 'Full screen';
   fullscreenBtn.setAttribute('aria-label', fullscreenBtn.title);
+  fullscreenBtn.innerHTML = state.isPlayerFolded ? unfoldIcon : fullscreenIcon;
   if (swipeHintText) {
     swipeHintText.textContent = state.isPlayerFolded ? 'Swipe down to unfold player' : 'Swipe up to fold player';
   }
@@ -990,11 +992,15 @@ function bindEvents() {
   nextBtn.addEventListener('click', () => { skipToNext(); showControls(); });
   playPauseBtn.addEventListener('click', () => { togglePlayPause(); showControls(); });
   fullscreenBtn.addEventListener('click', () => {
-    togglePlayerFold();
+    if (state.isPlayerFolded) {
+      togglePlayerFold(false);
+    } else {
+      enterFullscreen();
+    }
     showControls();
   });
   minimizeBtn.addEventListener('click', () => {
-    togglePlayerFold(false);
+    exitFullscreen();
     showControls();
   });
 
