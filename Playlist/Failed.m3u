@@ -44,3 +44,6 @@ https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg" group-title="Bangla",Star Jalsha HD Source 3
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
