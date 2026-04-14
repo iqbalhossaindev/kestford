@@ -334,11 +334,14 @@ body.player-folded .icon-btn {
 #fs-controls {
   display: none;
   position: absolute;
-  bottom: 14px;
-  left: 0; right: 0;
-  padding: 0 20px;
-  justify-content: space-between;
-  align-items: flex-end;
+  left: 0;
+  right: 0;
+  bottom: calc(10px + env(safe-area-inset-bottom, 0px));
+  padding: 0 max(12px, env(safe-area-inset-right, 0px)) 0 max(12px, env(safe-area-inset-left, 0px));
+  justify-content: center;
+  align-items: stretch;
+  gap: 10px;
+  flex-wrap: wrap;
   pointer-events: all;
 }
 
@@ -349,19 +352,23 @@ body.in-fullscreen .player-bottom .icon-btn#fullscreen-btn { display: none; }
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 4px;
   background: rgba(0,0,0,0.5);
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255,255,255,0.12);
-  border-radius: 10px;
-  padding: 8px 14px;
+  border-radius: 12px;
+  padding: 10px 12px;
   color: #fff;
   cursor: pointer;
   font-family: 'Exo 2', sans-serif;
   font-size: 10px;
   letter-spacing: 0.5px;
   transition: all var(--transition);
-  min-width: 64px;
+  min-width: 96px;
+  min-height: 56px;
+  flex: 1 1 96px;
+  max-width: 160px;
 }
 .fs-btn:active { transform: scale(0.9); }
 .fs-btn svg { width: 18px; height: 18px; }
@@ -884,25 +891,30 @@ body.player-folded #filter-search-bar {
 .popup {
   position: fixed;
   inset: 0;
-  z-index: 200;
-  background: rgba(0,0,0,0.7);
-  backdrop-filter: blur(6px);
+  z-index: 1200;
+  background: rgba(0,0,0,0.64);
+  backdrop-filter: blur(8px);
   display: flex;
   align-items: flex-end;
+  justify-content: center;
+  padding: 0 0 env(safe-area-inset-bottom, 0px);
   transition: opacity 0.25s;
 }
 .popup.hidden { display: none; }
 
 .popup-inner {
   width: 100%;
+  max-height: min(78dvh, calc(100dvh - 24px - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px)));
+  overflow-y: auto;
   background: var(--bg3);
   border-top: 1px solid var(--border);
   border-radius: 20px 20px 0 0;
-  padding: 24px 20px 32px;
+  padding: 22px 18px 24px;
   display: flex;
   flex-direction: column;
   gap: 16px;
   animation: slide-up 0.3s cubic-bezier(.4,0,.2,1);
+  box-shadow: 0 -12px 40px rgba(0,0,0,0.5);
 }
 @keyframes slide-up {
   from { transform: translateY(100%); }
@@ -957,8 +969,19 @@ body.in-fullscreen #player-wrapper {
   height: 100dvh;
   max-height: 100dvh;
 }
+body.in-fullscreen #player-overlay {
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+body.in-fullscreen .player-top {
+  padding-top: max(12px, env(safe-area-inset-top, 0px));
+}
+body.in-fullscreen .player-bottom {
+  padding-bottom: max(12px, env(safe-area-inset-bottom, 0px));
+}
 body.in-fullscreen #swipe-hint { display: none; }
 body.in-fullscreen #filter-search-bar { display: none; }
+body.in-fullscreen.menu-open #player-overlay { opacity: 1; }
 
 /* ─────────────────────────────────────────
    ANIMATIONS / ENTRY
@@ -989,6 +1012,26 @@ body.in-fullscreen #filter-search-bar { display: none; }
   }
   #filter-search-bar { padding: 14px 24px; }
   #channels-main { padding: 20px 0 32px; }
+}
+
+@media (min-width: 768px) {
+  .popup {
+    align-items: center;
+    padding: 24px;
+  }
+
+  .popup-inner {
+    width: min(440px, 100%);
+    max-height: min(72dvh, 640px);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    animation: fade-pop 0.22s cubic-bezier(.4,0,.2,1);
+  }
+
+  @keyframes fade-pop {
+    from { opacity: 0; transform: translateY(12px) scale(0.98); }
+    to { opacity: 1; transform: translateY(0) scale(1); }
+  }
 }
 
 @media (min-width: 768px) {

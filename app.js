@@ -38,6 +38,8 @@ const COUNTRY_NAMES = {
   US: 'United States'
 };
 
+const MIN_MANUAL_RESOLUTION = 180;
+
 const state = {
   playlists: [],
   channels: [],
@@ -831,21 +833,61 @@ function togglePlayPause() {
   }
 }
 
+function getSelectableQualityLevels() {
+  if (!state.hlsInstance) return [];
+
+  const levels = (state.hlsInstance.levels || []).map((level, index) => ({ level, index }));
+  if (!levels.length) return [];
+
+  let selectable = levels.filter(({ level }) => {
+    if (!level || !Number.isFinite(level.height)) return true;
+    return level.height >= MIN_MANUAL_RESOLUTION;
+  });
+
+  if (!selectable.length) selectable = levels;
+
+  selectable.sort((a, b) => {
+    const heightDelta = (b.level.height || 0) - (a.level.height || 0);
+    if (heightDelta !== 0) return heightDelta;
+    return (b.level.bitrate || 0) - (a.level.bitrate || 0);
+  });
+
+  const seenHeights = new Set();
+  return selectable.filter(({ level, index }) => {
+    const heightKey = Number.isFinite(level.height) ? String(level.height) : `unknown-${index}`;
+    if (seenHeights.has(heightKey)) return false;
+    seenHeights.add(heightKey);
+    return true;
+  });
+}
+
 function updateQualityLabel() {
-  if (!state.hlsInstance || state.hlsLevel === -1) {
+  if (!state.hlsInstance) {
     resLabel.textContent = 'Auto';
     return;
   }
+
   const levels = state.hlsInstance.levels || [];
   const current = levels[state.hlsLevel];
-  resLabel.textContent = current && current.height ? `${current.height}p` : 'Auto';
+
+  if (state.hlsInstance.currentLevel === -1) {
+    resLabel.textContent = current && Number.isFinite(current.height) ? `Auto • ${current.height}p` : 'Auto';
+    return;
+  }
+
+  if (!current || !Number.isFinite(current.height)) {
+    resLabel.textContent = 'Auto';
+    return;
+  }
+
+  resLabel.textContent = `${current.height}p`;
 }
 
 function buildQualityList() {
   resList.innerHTML = '';
   if (!state.hlsInstance) {
     const p = document.createElement('p');
-    p.textContent = 'Quality control is available for HLS streams.';
+    p.textContent = 'Manual quality is available only when the channel is using HLS in this browser.';
     p.style.color = 'var(--text-dim)';
     resList.appendChild(p);
     return;
@@ -858,19 +900,35 @@ function buildQualityList() {
     state.hlsInstance.currentLevel = -1;
     state.hlsLevel = -1;
     updateQualityLabel();
-    resPopup.classList.add('hidden');
+    closePopup(resPopup);
   });
   resList.appendChild(autoBtn);
 
-  (state.hlsInstance.levels || []).forEach((level, index) => {
+  const helper = document.createElement('p');
+  helper.textContent = `Manual quality list starts at ${MIN_MANUAL_RESOLUTION}p and ends at the channel's real maximum.`;
+  helper.style.color = 'var(--text-dim)';
+  helper.style.fontSize = '13px';
+  resList.appendChild(helper);
+
+  const selectableLevels = getSelectableQualityLevels();
+  if (!selectableLevels.length) {
+    const p = document.createElement('p');
+    p.textContent = 'No manual quality levels are available for this channel.';
+    p.style.color = 'var(--text-dim)';
+    resList.appendChild(p);
+    return;
+  }
+
+  selectableLevels.forEach(({ level, index }) => {
     const btn = document.createElement('button');
     btn.className = 'res-option' + (state.hlsInstance.currentLevel === index ? ' active' : '');
-    btn.textContent = `${level.height || '?'}p — ${Math.round((level.bitrate || 0) / 1000)} kbps`;
+    const labelHeight = Number.isFinite(level.height) ? Math.max(MIN_MANUAL_RESOLUTION, level.height) : '?';
+    btn.textContent = `${labelHeight}p — ${Math.round((level.bitrate || 0) / 1000)} kbps`;
     btn.addEventListener('click', () => {
       state.hlsInstance.currentLevel = index;
       state.hlsLevel = index;
       updateQualityLabel();
-      resPopup.classList.add('hidden');
+      closePopup(resPopup);
     });
     resList.appendChild(btn);
   });
@@ -892,12 +950,32 @@ function buildLangList() {
     btn.textContent = track.name || track.lang || `Track ${index + 1}`;
     btn.addEventListener('click', () => {
       state.hlsInstance.audioTrack = index;
-      langPopup.classList.add('hidden');
+      closePopup(langPopup);
     });
     langList.appendChild(btn);
   });
 }
 
+function openPopup(targetPopup) {
+  [langPopup, resPopup].forEach(popup => {
+    popup.classList.toggle('hidden', popup !== targetPopup);
+  });
+  document.body.classList.add('menu-open');
+  overlay.classList.add('controls-visible');
+  clearTimeout(state.controlsTimer);
+}
+
+function closePopup(targetPopup) {
+  if (targetPopup) targetPopup.classList.add('hidden');
+  const hasOpenPopup = [langPopup, resPopup].some(popup => !popup.classList.contains('hidden'));
+  document.body.classList.toggle('menu-open', hasOpenPopup);
+  if (!hasOpenPopup) showControls();
+}
+
+function closeAllPopups() {
+  closePopup(langPopup);
+  closePopup(resPopup);
+}
 
 function updateFoldUI() {
   document.body.classList.toggle('player-folded', state.isPlayerFolded);
@@ -931,6 +1009,7 @@ function enterFullscreen() {
   const request = element.requestFullscreen || element.webkitRequestFullscreen || element.mozRequestFullScreen;
   if (request) request.call(element);
   document.body.classList.add('in-fullscreen');
+  overlay.classList.add('controls-visible');
   if (screen.orientation && screen.orientation.lock) {
     screen.orientation.lock('landscape').catch(() => {});
   }
@@ -938,6 +1017,7 @@ function enterFullscreen() {
 
 function exitFullscreen() {
   const exit = document.exitFullscreen || document.webkitExitFullscreen || document.mozCancelFullScreen;
+  closeAllPopups();
   if (exit) exit.call(document);
   document.body.classList.remove('in-fullscreen');
   if (screen.orientation && screen.orientation.unlock) {
@@ -947,6 +1027,7 @@ function exitFullscreen() {
 
 document.addEventListener('fullscreenchange', () => {
   if (!document.fullscreenElement) {
+    closeAllPopups();
     document.body.classList.remove('in-fullscreen');
   }
 });
@@ -1043,16 +1124,16 @@ function bindEvents() {
 
   resBtn.addEventListener('click', () => {
     buildQualityList();
-    resPopup.classList.remove('hidden');
+    openPopup(resPopup);
   });
   langBtn.addEventListener('click', () => {
     buildLangList();
-    langPopup.classList.remove('hidden');
+    openPopup(langPopup);
   });
 
   [langPopup, resPopup].forEach(popup => {
     popup.addEventListener('click', event => {
-      if (event.target === popup) popup.classList.add('hidden');
+      if (event.target === popup) closePopup(popup);
     });
   });
 
@@ -1082,6 +1163,14 @@ function bindEvents() {
         togglePlayerFold();
         break;
       case 'Escape':
+        if (document.body.classList.contains('menu-open')) {
+          closeAllPopups();
+          break;
+        }
+        if (document.body.classList.contains('in-fullscreen')) {
+          exitFullscreen();
+          break;
+        }
         if (state.isPlayerFolded) togglePlayerFold(false);
         break;
       default:

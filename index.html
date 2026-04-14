@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
   <title>Kestford OS — Live TV</title>
   <link rel="icon" type="image/svg+xml" href="assets/icons/brand-tv.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -247,7 +247,7 @@
     <div class="popup-inner">
       <h3>Audio Language</h3>
       <div id="lang-list"></div>
-      <button class="pill-btn ghost" onclick="document.getElementById('lang-popup').classList.add('hidden')">Close</button>
+      <button class="pill-btn ghost" onclick="closePopup(document.getElementById('lang-popup'))">Close</button>
     </div>
   </div>
 
@@ -255,7 +255,7 @@
     <div class="popup-inner">
       <h3>Video Quality</h3>
       <div id="res-list"></div>
-      <button class="pill-btn ghost" onclick="document.getElementById('res-popup').classList.add('hidden')">Close</button>
+      <button class="pill-btn ghost" onclick="closePopup(document.getElementById('res-popup'))">Close</button>
     </div>
   </div>
 
