@@ -3515,3 +3515,9 @@ https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DDMalayalam.in@SD",DD Malayalam (576p)
 https://mumt02.tangotv.in/DDMALAYALAM/index.m3u8
+
+#EXTINF:-1 tvg-id="DDSaptagiri.in@SD",DD Saptagiri (576p)
+https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in@SD",DD Sports (576p)
+https://mumt02.tangotv.in/DDSPORTS/index.m3u8
