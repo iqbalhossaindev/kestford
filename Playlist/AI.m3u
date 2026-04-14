@@ -3521,3 +3521,6 @@ https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in@SD",DD Sports (576p)
 https://mumt02.tangotv.in/DDSPORTS/index.m3u8
+
+#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (576p)
+https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8
