@@ -20,3 +20,6 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
 #EXTINF:-1 ,Eawaz TV (CA)
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 ,Ekushey TV Source 1
+http://103.135.208.14/live/ibox/bd/20.m3u8
