@@ -3536,3 +3536,6 @@ https://mumt02.tangotv.in/IND24/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiaDailyLive.in@SD",India Daily Live (576p)
 https://mumt02.tangotv.in/INDIADAILY24X7/index.m3u8
+
+#EXTINF:-1 tvg-id="KNewsIndia.in@SD",K News India (576p)
+https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8
