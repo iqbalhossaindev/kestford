@@ -95,3 +95,6 @@ http://103.229.254.25:7001/play/a060/index.m3u8
 
 #EXTINF:-1 tvg-id="AikNews.pk@SD",Aik News
 https://video.primexsports.com/pnn/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Cbs Sports Hq
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
