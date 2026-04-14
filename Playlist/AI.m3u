@@ -3117,9 +3117,6 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 ,Subrang TV (USA)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="Pakistani",224.Subrang TV
-https://cdn20.liveonlineservices.com/hls/subrang.m3u8
-
 #EXTINF:-1 tvg-id="TimesNow.in@SD",Times Now (720p) [Geo-blocked] Source 2
 https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 
