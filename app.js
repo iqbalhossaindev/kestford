@@ -74,6 +74,7 @@ const state = {
   failureTimeout: null,
   searchTimer: null,
   gridRenderToken: 0,
+  suppressWrapperClickUntil: 0,
 };
 
 const video = document.getElementById('main-video');
@@ -249,6 +250,14 @@ function toggleControls() {
   } else {
     showControls();
   }
+}
+
+function isInteractivePlayerTarget(target) {
+  return Boolean(
+    target && target.closest(
+      '#fs-controls, .player-center-controls, .player-bottom button, .player-top button, .popup, .popup-inner, .side-indicator'
+    )
+  );
 }
 
 function getPlaylistFlag(code = '') {
@@ -1348,13 +1357,8 @@ function bindEvents() {
   });
 
   wrapper.addEventListener('click', event => {
-    const tappedInteractiveControl = Boolean(
-      event.target.closest(
-        '#fs-controls, .player-center-controls, .player-bottom button, .player-top button, .popup, .popup-inner, .side-indicator'
-      )
-    );
-
-    if (tappedInteractiveControl) return;
+    if (Date.now() < state.suppressWrapperClickUntil) return;
+    if (isInteractivePlayerTarget(event.target)) return;
     toggleControls();
   });
 
@@ -1437,13 +1441,14 @@ function bindEvents() {
       return;
     }
 
-    const tappedInteractiveControl = Boolean(
-      event.target.closest(
-        '#fs-controls, .player-center-controls, .player-bottom button, .player-top button, .popup, .popup-inner, .side-indicator'
-      )
-    );
+    const tappedInteractiveControl = isInteractivePlayerTarget(event.target);
 
     dragSide = null;
+
+    if (dist <= 12 && dt <= 300 && !tappedInteractiveControl) {
+      state.suppressWrapperClickUntil = Date.now() + 450;
+      toggleControls();
+    }
   }, { passive: true });
 }
 
