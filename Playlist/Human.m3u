@@ -80,3 +80,6 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 #EXTINF:-1 ,Vyas Higher Education Channel
 http://playhls.media.nic.in/live/vyas/index.m3u8
+
+#EXTINF:-1 group-title="Pakistani",225.Tag TV 1
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
