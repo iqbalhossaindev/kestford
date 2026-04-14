@@ -119,3 +119,6 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 
 #EXTINF:-1 ,Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+
+#EXTINF:-1 ,Dunya News Source 1
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
