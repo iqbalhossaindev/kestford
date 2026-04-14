@@ -89,6 +89,3 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Bangla Movies Source 1
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OVfo8Ab.png" tvg-name="TRT Haber" group-title="Türkiye",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
