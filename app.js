@@ -39,6 +39,8 @@ const COUNTRY_NAMES = {
 };
 
 const MIN_MANUAL_RESOLUTION = 180;
+const SEARCH_DEBOUNCE_MS = 120;
+const GRID_RENDER_BATCH = 72;
 
 const state = {
   playlists: [],
@@ -69,6 +71,8 @@ const state = {
   failureToken: 0,
   failureHandledToken: null,
   failureTimeout: null,
+  searchTimer: null,
+  gridRenderToken: 0,
 };
 
 const video = document.getElementById('main-video');
@@ -101,6 +105,7 @@ const clearFilterBtn = document.getElementById('clear-filter-btn');
 const secRecent = document.getElementById('sec-recent');
 const rowRecent = document.getElementById('row-recent');
 const gridAll = document.getElementById('grid-all');
+const channelsMain = document.getElementById('channels-main');
 const chCountLabel = document.getElementById('ch-count-label');
 const noResults = document.getElementById('no-results');
 const emptyLibrary = document.getElementById('empty-library');
@@ -291,13 +296,70 @@ function getActivePool() {
   return hasActiveFilter() ? state.filteredChannels : getVisibleChannels();
 }
 
+function enrichChannel(channel) {
+  const searchFields = [channel.name, channel.group, channel.playlist, channel.countryName, channel.tvgName, channel.tvgId];
+  return {
+    ...channel,
+    searchBlob: searchFields.map(value => String(value || '').toLowerCase()).join(' '),
+  };
+}
+
+function getConnectionDetails() {
+  const connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+  return {
+    saveData: Boolean(connection && connection.saveData),
+    effectiveType: String(connection && connection.effectiveType || ''),
+    downlink: Number(connection && connection.downlink || 0),
+  };
+}
+
+function getRecommendedCapHeight() {
+  const { saveData, effectiveType, downlink } = getConnectionDetails();
+
+  if (saveData) return 240;
+  if (effectiveType === 'slow-2g') return 180;
+  if (effectiveType === '2g' || (downlink && downlink < 0.7)) return 240;
+  if (effectiveType === '3g' || (downlink && downlink < 1.5)) return 360;
+  if (downlink && downlink < 3) return 480;
+  if (downlink && downlink < 5) return 720;
+  if (downlink && downlink < 10) return 1080;
+  return Number.POSITIVE_INFINITY;
+}
+
+function applyAdaptiveQualityPreference() {
+  if (!state.hlsInstance) return;
+
+  const levels = state.hlsInstance.levels || [];
+  if (!levels.length) return;
+
+  const capHeight = getRecommendedCapHeight();
+  if (!Number.isFinite(capHeight)) {
+    state.hlsInstance.autoLevelCapping = -1;
+    updateQualityLabel();
+    return;
+  }
+
+  let capIndex = -1;
+  let bestHeight = 0;
+  levels.forEach((level, index) => {
+    const height = Number(level && level.height || 0);
+    if (height && height <= capHeight && height >= bestHeight) {
+      bestHeight = height;
+      capIndex = index;
+    }
+  });
+
+  state.hlsInstance.autoLevelCapping = capIndex;
+  updateQualityLabel();
+}
+
 async function refreshCatalog({ keepCurrent = true, silent = false, autoPlayFallback = true, preferredChannelId = null } = {}) {
   if (!silent) setLoader(true, 'Loading playlists…');
   const previousChannelId = keepCurrent ? state.currentChannelId : null;
   const payload = await fetchCatalog();
 
   state.playlists = Array.isArray(payload.playlists) ? payload.playlists : [];
-  state.channels = Array.isArray(payload.channels) ? payload.channels : [];
+  state.channels = Array.isArray(payload.channels) ? payload.channels.map(enrichChannel) : [];
   state.humanVerifiedChannelIds = new Set(Array.isArray(payload.humanVerifiedChannelIds) ? payload.humanVerifiedChannelIds : []);
   state.aiVerifiedChannelIds = new Set(Array.isArray(payload.aiVerifiedChannelIds) ? payload.aiVerifiedChannelIds : []);
   state.underReviewChannelIds = new Set(Array.isArray(payload.underReviewChannelIds) ? payload.underReviewChannelIds : []);
@@ -341,9 +403,7 @@ function applyFilters() {
 
   if (query) {
     working = working.filter(channel => {
-      return [channel.name, channel.group, channel.playlist, channel.countryName, channel.tvgName].some(value =>
-        String(value || '').toLowerCase().includes(query)
-      );
+      return channel.searchBlob.includes(query);
     });
   }
 
@@ -463,6 +523,41 @@ function renderPlaylistSelectors() {
   playlistGrid.appendChild(makeVerifiedOnlyPill());
 }
 
+function buildCardsFragment(channels) {
+  const fragment = document.createDocumentFragment();
+  channels.forEach(channel => fragment.appendChild(createCard(channel)));
+  return fragment;
+}
+
+function renderGridInBatches(channels) {
+  state.gridRenderToken += 1;
+  const renderToken = state.gridRenderToken;
+  gridAll.innerHTML = '';
+
+  if (!channels.length) return;
+
+  let index = 0;
+  const renderChunk = () => {
+    if (renderToken !== state.gridRenderToken) return;
+
+    const fragment = document.createDocumentFragment();
+    const end = Math.min(index + GRID_RENDER_BATCH, channels.length);
+    for (; index < end; index += 1) {
+      fragment.appendChild(createCard(channels[index]));
+    }
+    gridAll.appendChild(fragment);
+
+    if (index < channels.length) {
+      window.requestAnimationFrame(renderChunk);
+      return;
+    }
+
+    if (state.currentChannelId) markActiveCard(state.currentChannelId);
+  };
+
+  window.requestAnimationFrame(renderChunk);
+}
+
 function renderSections() {
   const visibleChannels = getVisibleChannels();
   const hasLibrary = visibleChannels.length > 0;
@@ -473,6 +568,7 @@ function renderSections() {
     row.innerHTML = '';
     section.style.display = 'none';
   });
+  state.gridRenderToken += 1;
   gridAll.innerHTML = '';
 
   if (!hasLibrary) {
@@ -492,10 +588,11 @@ function renderSections() {
     const items = channelsForCategories.filter(channel => channel.group === group).slice(0, 8);
     if (items.length === 0) continue;
     config.section.style.display = '';
-    items.forEach(channel => config.row.appendChild(createCard(channel)));
+    config.row.appendChild(buildCardsFragment(items));
   }
 
-  displayChannels.forEach(channel => gridAll.appendChild(createCard(channel)));
+  renderGridInBatches(displayChannels);
+
   const labelParts = [`${displayChannels.length} channel${displayChannels.length === 1 ? '' : 's'}`];
   if (!queryActive && state.activePlaylist !== 'all') {
     const playlist = state.playlists.find(item => item.id === state.activePlaylist);
@@ -520,7 +617,7 @@ function createCard(channel) {
 
   card.innerHTML = `
     <div class="ch-card-thumb">
-      ${channel.logo ? `<img src="${channel.logo}" alt="${channel.name}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">` : ''}
+      ${channel.logo ? `<img src="${channel.logo}" alt="${channel.name}" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">` : ''}
       <div class="thumb-fallback" style="${channel.logo ? 'display:none' : ''}"><img class="thumb-fallback-icon" src="${groupIcon}" alt="${channel.group || 'Channel'}"></div>
     </div>
     <div class="ch-card-info">
@@ -530,15 +627,11 @@ function createCard(channel) {
       </div>
       <div class="ch-card-name">${channel.name}</div>
       <div class="ch-card-meta">
-        ${flagUrl ? `<img class="ch-card-flag" src="${flagUrl}" alt="${channel.playlist}" onerror="this.remove()">` : ''}
+        ${flagUrl ? `<img class="ch-card-flag" src="${flagUrl}" alt="${channel.playlist}" loading="lazy" decoding="async" onerror="this.remove()">` : ''}
         <span class="ch-card-cat">${channel.group}</span>
       </div>
     </div>
   `;
-
-  card.addEventListener('click', () => {
-    playChannelById(channel.id, { autoPlay: true });
-  });
 
   return card;
 }
@@ -647,8 +740,12 @@ function playChannelById(channelId, { autoPlay = true } = {}) {
 
   if (shouldUseHls && window.Hls && Hls.isSupported()) {
     const hls = new Hls({
-      maxBufferLength: 30,
-      maxMaxBufferLength: 60,
+      enableWorker: true,
+      lowLatencyMode: true,
+      capLevelToPlayerSize: true,
+      maxBufferLength: 20,
+      maxMaxBufferLength: 40,
+      backBufferLength: 20,
       startLevel: -1,
       xhrSetup: xhr => { xhr.timeout = 15000; },
     });
@@ -659,6 +756,7 @@ function playChannelById(channelId, { autoPlay = true } = {}) {
 
     hls.on(Hls.Events.MANIFEST_PARSED, () => {
       state.hlsLevel = -1;
+      applyAdaptiveQualityPreference();
       updateQualityLabel();
       clearFailureTimeout();
       setLoader(false);
@@ -1111,13 +1209,18 @@ function bindEvents() {
   clearFilterBtn.addEventListener('click', clearAllFilters);
 
   searchInput.addEventListener('input', () => {
-    state.searchQuery = searchInput.value.trim();
-    searchClear.style.display = state.searchQuery ? '' : 'none';
-    applyFilters();
+    clearTimeout(state.searchTimer);
+    const nextQuery = searchInput.value.trim();
+    searchClear.style.display = nextQuery ? '' : 'none';
+    state.searchTimer = setTimeout(() => {
+      state.searchQuery = nextQuery;
+      applyFilters();
+    }, SEARCH_DEBOUNCE_MS);
   });
   searchClear.addEventListener('click', () => {
     searchInput.value = '';
     state.searchQuery = '';
+    clearTimeout(state.searchTimer);
     searchClear.style.display = 'none';
     applyFilters();
   });
@@ -1129,6 +1232,12 @@ function bindEvents() {
   langBtn.addEventListener('click', () => {
     buildLangList();
     openPopup(langPopup);
+  });
+
+  channelsMain.addEventListener('click', event => {
+    const card = event.target.closest('.ch-card');
+    if (!card) return;
+    playChannelById(card.dataset.id, { autoPlay: true });
   });
 
   [langPopup, resPopup].forEach(popup => {
@@ -1187,6 +1296,14 @@ function bindEvents() {
       video.play().catch(() => {});
     }
   });
+
+  const connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+  if (connection && typeof connection.addEventListener === 'function') {
+    connection.addEventListener('change', () => {
+      if (!state.hlsInstance || state.hlsInstance.currentLevel !== -1) return;
+      applyAdaptiveQualityPreference();
+    });
+  }
 
   wrapper.addEventListener('mousemove', showControls);
   wrapper.addEventListener('mouseleave', () => {

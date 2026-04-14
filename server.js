@@ -6,6 +6,7 @@ const fsp = require('fs/promises');
 const path = require('path');
 const crypto = require('crypto');
 const { URL } = require('url');
+const { Readable } = require('stream');
 
 const ROOT = __dirname;
 const PLAYLIST_DIR = path.join(ROOT, 'Playlist');
@@ -1038,13 +1039,28 @@ async function handleProxy(_req, res, urlObj) {
       return res.end(rewritten);
     }
 
-    const buffer = Buffer.from(await upstream.arrayBuffer());
-    res.writeHead(200, {
+    const headers = {
       'Content-Type': contentType || 'application/octet-stream',
-      'Content-Length': buffer.length,
-      'Cache-Control': 'no-store',
+      'Cache-Control': 'public, max-age=60, stale-while-revalidate=30',
+    };
+    const contentLength = upstream.headers.get('content-length');
+    if (contentLength) headers['Content-Length'] = contentLength;
+    const acceptRanges = upstream.headers.get('accept-ranges');
+    if (acceptRanges) headers['Accept-Ranges'] = acceptRanges;
+
+    res.writeHead(200, headers);
+
+    if (!upstream.body) return res.end();
+
+    const readable = Readable.fromWeb(upstream.body);
+    readable.on('error', error => {
+      if (!res.headersSent) {
+        sendJson(res, 502, { error: 'Proxy stream failed', detail: error.message });
+        return;
+      }
+      res.destroy(error);
     });
-    res.end(buffer);
+    readable.pipe(res);
   } catch (error) {
     sendJson(res, 502, { error: 'Proxy fetch failed', detail: error.message });
   }

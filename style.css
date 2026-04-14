@@ -668,7 +668,10 @@ body.player-folded #filter-search-bar {
   gap: 28px;
 }
 
-.channel-section {}
+.channel-section {
+  content-visibility: auto;
+  contain-intrinsic-size: 320px;
+}
 
 .sec-header {
   display: flex;
@@ -708,6 +711,7 @@ body.player-folded #filter-search-bar {
   overflow-x: auto;
   padding: 0 16px 8px;
   scrollbar-width: none;
+  contain: layout paint;
 }
 .channel-row::-webkit-scrollbar { display: none; }
 
@@ -717,6 +721,7 @@ body.player-folded #filter-search-bar {
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 12px;
   padding: 0 16px;
+  contain: layout paint;
 }
 
 /* ─── Channel Card ─── */
@@ -728,8 +733,9 @@ body.player-folded #filter-search-bar {
   border-radius: var(--radius);
   overflow: hidden;
   cursor: pointer;
-  transition: all var(--transition);
+  transition: border-color var(--transition), transform var(--transition), box-shadow var(--transition);
   position: relative;
+  contain: content;
 }
 .ch-card:hover, .ch-card:active {
   border-color: var(--accent);
@@ -984,22 +990,20 @@ body.in-fullscreen #filter-search-bar { display: none; }
 body.in-fullscreen.menu-open #player-overlay { opacity: 1; }
 
 /* ─────────────────────────────────────────
-   ANIMATIONS / ENTRY
+   PERFORMANCE / REDUCED MOTION
 ───────────────────────────────────────── */
-.ch-card {
-  animation: card-in 0.4s cubic-bezier(.4,0,.2,1) both;
-}
-@keyframes card-in {
-  from { opacity: 0; transform: translateY(12px); }
-  to { opacity: 1; transform: translateY(0); }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * {
+    animation: none !important;
+    transition-duration: 0.01ms !important;
+  }
 }
 
-/* Stagger via nth-child */
-.ch-card:nth-child(1) { animation-delay: 0.04s; }
-.ch-card:nth-child(2) { animation-delay: 0.08s; }
-.ch-card:nth-child(3) { animation-delay: 0.12s; }
-.ch-card:nth-child(4) { animation-delay: 0.16s; }
-.ch-card:nth-child(5) { animation-delay: 0.20s; }
+.channel-grid .ch-card,
+.channel-row .ch-card:nth-child(n + 7) {
+  animation: none;
+}
 
 /* ─────────────────────────────────────────
    RESPONSIVE — Larger screens
