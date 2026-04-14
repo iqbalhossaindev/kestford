@@ -3512,3 +3512,6 @@ https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SamaaTV.pk@SD",Samaa TV (576p) Source 2
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDMalayalam.in@SD",DD Malayalam (576p)
+https://mumt02.tangotv.in/DDMALAYALAM/index.m3u8
