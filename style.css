@@ -19,6 +19,7 @@
   --card-h:    100px;
   --radius:    12px;
   --transition: 0.25s cubic-bezier(.4,0,.2,1);
+  --player-sticky-height: 56.25vw;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -58,6 +59,7 @@ body {
   background: #000;
   overflow: hidden;
   max-height: 56vw;
+  transition: max-height 0.35s ease, opacity 0.25s ease, aspect-ratio 0.25s ease;
 }
 
 #main-video {
@@ -66,7 +68,8 @@ body {
   object-fit: contain;
   display: block;
   background: #000;
-  transition: object-fit 0.3s ease;
+  transition: object-fit 0.3s ease, transform 0.3s ease;
+  transform-origin: center center;
 }
 
 #main-video.fit-cover { object-fit: cover; }
@@ -294,10 +297,13 @@ body {
   display: none;
   position: absolute;
   bottom: 14px;
-  left: 0; right: 0;
-  padding: 0 20px;
-  justify-content: space-between;
+  left: 0;
+  right: 0;
+  padding: 0 16px;
+  justify-content: center;
   align-items: flex-end;
+  gap: 8px;
+  flex-wrap: wrap;
   pointer-events: all;
 }
 
@@ -324,6 +330,11 @@ body.in-fullscreen .player-bottom .icon-btn#fullscreen-btn { display: none; }
 }
 .fs-btn:active { transform: scale(0.9); }
 .fs-btn svg { width: 18px; height: 18px; }
+.mode-btn.active {
+  background: rgba(0,198,255,0.16);
+  border-color: var(--accent);
+  color: var(--accent);
+}
 
 /* Side indicators (volume / brightness) */
 .side-indicator {
@@ -390,6 +401,108 @@ body.in-fullscreen .player-bottom .icon-btn#fullscreen-btn { display: none; }
 #fit-hint.visible { opacity: 1; }
 #fit-hint svg { width: 16px; height: 16px; }
 
+
+#player-fold-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 16px;
+  background: linear-gradient(180deg, rgba(11,11,22,0.92), rgba(8,8,15,0.96));
+  border-top: 1px solid rgba(255,255,255,0.08);
+  cursor: pointer;
+}
+
+.fold-bar-meta {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.fold-bar-title {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  color: var(--accent);
+  text-transform: uppercase;
+}
+
+.fold-bar-channel {
+  font-size: 13px;
+  color: rgba(255,255,255,0.84);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 220px;
+}
+
+.fold-action-btn {
+  border: 1px solid rgba(255,255,255,0.14);
+  background: rgba(255,255,255,0.06);
+  color: #fff;
+  border-radius: 999px;
+  padding: 8px 14px;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.fold-action-btn:hover,
+.fold-action-btn:focus-visible {
+  border-color: var(--accent);
+  color: var(--accent);
+  outline: none;
+}
+
+#player-open-fab {
+  position: fixed;
+  top: 14px;
+  right: 14px;
+  z-index: 980;
+  display: none;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(8,8,15,0.92);
+  color: #fff;
+  backdrop-filter: blur(12px);
+  box-shadow: 0 10px 26px rgba(0,0,0,0.38);
+  cursor: pointer;
+}
+
+#player-open-fab svg {
+  width: 16px;
+  height: 16px;
+}
+
+body.player-folded #player-wrapper {
+  max-height: 0 !important;
+  aspect-ratio: unset;
+  opacity: 0;
+  pointer-events: none;
+}
+
+body.player-folded #swipe-hint {
+  display: none;
+}
+
+body.player-folded #player-section {
+  box-shadow: 0 8px 26px rgba(0,0,0,0.35);
+}
+
+body.player-folded #player-open-fab:not(.hidden) {
+  display: inline-flex;
+}
+
+body.player-folded #player-fold-bar {
+  border-top: none;
+}
+
 /* Swipe hint below player */
 #swipe-hint {
   display: flex;
@@ -419,7 +532,7 @@ body.in-fullscreen .player-bottom .icon-btn#fullscreen-btn { display: none; }
   background: var(--bg2);
   border-bottom: 1px solid var(--border);
   position: sticky;
-  top: calc(56.25vw);
+  top: var(--player-sticky-height);
   z-index: 90;
 }
 
@@ -907,6 +1020,16 @@ body.in-fullscreen #player-wrapper {
   height: 100dvh;
   max-height: 100dvh;
 }
+body.in-fullscreen #main-video.screen-normal {
+  transform: scale(0.9);
+}
+body.in-fullscreen #main-video.screen-custom {
+  transform: scale(var(--video-scale, 1));
+}
+body.in-fullscreen #player-fold-bar,
+body.in-fullscreen #player-open-fab {
+  display: none !important;
+}
 body.in-fullscreen #swipe-hint { display: none; }
 body.in-fullscreen #filter-search-bar { display: none; }
 
@@ -940,7 +1063,7 @@ body.in-fullscreen #filter-search-bar { display: none; }
 @media (min-width: 768px) {
   :root { --card-w: 200px; --card-h: 124px; }
   #player-wrapper { max-height: 450px; }
-  #filter-search-bar { top: 450px; }
+  #filter-search-bar { top: var(--player-sticky-height); }
   .ctrl-btn { width: 52px; height: 52px; }
   .ctrl-play { width: 72px; height: 72px; }
 }
@@ -948,7 +1071,7 @@ body.in-fullscreen #filter-search-bar { display: none; }
 @media (min-width: 1024px) {
   #player-section { position: sticky; }
   #player-wrapper { max-height: 520px; }
-  #filter-search-bar { top: 520px; }
+  #filter-search-bar { top: var(--player-sticky-height); }
   .channel-grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
 }
 
@@ -992,6 +1115,15 @@ body.in-fullscreen #filter-search-bar { display: none; }
     aspect-ratio: unset !important;
     max-height: none !important;
     height: auto;
+  }
+
+  body.player-folded #player-section {
+    flex: 0 0 auto;
+  }
+
+  body.player-folded #player-wrapper {
+    flex: 0 0 0 !important;
+    height: 0 !important;
   }
 
   #swipe-hint { display: none; }
@@ -1287,3 +1419,54 @@ body.in-fullscreen #filter-search-bar { display: none; }
   background: linear-gradient(135deg, #ffb347, #ff5e62);
 }
 
+
+
+.size-popup-body {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.size-popup-body label {
+  font-size: 13px;
+  color: rgba(255,255,255,0.8);
+}
+
+#custom-size-range {
+  width: 100%;
+  accent-color: var(--accent);
+}
+
+.size-value-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+#custom-size-value {
+  font-size: 15px;
+  font-weight: 700;
+  color: #fff;
+}
+
+@media (max-width: 767px) {
+  #player-open-fab {
+    top: auto;
+    bottom: 14px;
+    right: 14px;
+  }
+
+  #fs-controls {
+    padding: 0 10px;
+  }
+
+  .fs-btn {
+    min-width: 58px;
+    padding: 8px 10px;
+  }
+
+  .fold-bar-channel {
+    max-width: 150px;
+  }
+}

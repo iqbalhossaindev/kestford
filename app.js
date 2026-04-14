@@ -60,7 +60,8 @@ const state = {
   wasPlayingBeforeHide: false,
   volume: 1,
   brightness: 1,
-  isFitCover: false,
+  screenMode: 'fit',
+  customScreenScale: 1,
   hlsInstance: null,
   controlsTimer: null,
   failureToken: 0,
@@ -111,8 +112,21 @@ const fitHintText = document.getElementById('fit-hint-text');
 const langBtn = document.getElementById('lang-btn');
 const resBtn = document.getElementById('res-btn');
 const resLabel = document.getElementById('res-label');
+const fitScreenBtn = document.getElementById('fit-screen-btn');
+const normalScreenBtn = document.getElementById('normal-screen-btn');
+const customScreenBtn = document.getElementById('custom-screen-btn');
+const customSizeLabel = document.getElementById('custom-size-label');
+const playerSection = document.getElementById('player-section');
+const playerFoldBar = document.getElementById('player-fold-bar');
+const playerFoldToggle = document.getElementById('player-fold-toggle');
+const playerOpenFab = document.getElementById('player-open-fab');
+const foldBarChannel = document.getElementById('fold-bar-channel');
 const langPopup = document.getElementById('lang-popup');
 const resPopup = document.getElementById('res-popup');
+const customSizePopup = document.getElementById('screen-size-popup');
+const customSizeRange = document.getElementById('custom-size-range');
+const customSizeValue = document.getElementById('custom-size-value');
+const customSizeReset = document.getElementById('custom-size-reset');
 const langList = document.getElementById('lang-list');
 const resList = document.getElementById('res-list');
 const toast = document.getElementById('toast');
@@ -524,6 +538,7 @@ function resetPlayerUI() {
   chNumber.textContent = 'CH 00';
   chName.textContent = 'No channel available';
   chPlaylistName.textContent = 'Add or repair playlist files';
+  foldBarChannel.textContent = 'No channel available';
   chFlag.innerHTML = '';
   setPlaying(false);
   setLoader(false);
@@ -556,6 +571,7 @@ function updateNowPlayingUI(channel) {
   if (isHumanVerified(channel.id)) statusParts.push('Human Verified');
   if (isAiVerified(channel.id)) statusParts.push('AI Verified');
   chPlaylistName.textContent = `${channel.playlist} • ${channel.group}${statusParts.length ? ` • ${statusParts.join(' • ')}` : ''}`;
+  foldBarChannel.textContent = channel.name;
   updateFlagUI(channel);
   markActiveCard(channel.id);
 }
@@ -863,6 +879,8 @@ function enterFullscreen() {
   const request = element.requestFullscreen || element.webkitRequestFullscreen || element.mozRequestFullScreen;
   if (request) request.call(element);
   document.body.classList.add('in-fullscreen');
+  applyScreenMode('fit');
+  updatePlayerStickyOffset();
   if (screen.orientation && screen.orientation.lock) {
     screen.orientation.lock('landscape').catch(() => {});
   }
@@ -872,6 +890,7 @@ function exitFullscreen() {
   const exit = document.exitFullscreen || document.webkitExitFullscreen || document.mozCancelFullScreen;
   if (exit) exit.call(document);
   document.body.classList.remove('in-fullscreen');
+  updatePlayerStickyOffset();
   if (screen.orientation && screen.orientation.unlock) {
     screen.orientation.unlock();
   }
@@ -881,6 +900,7 @@ document.addEventListener('fullscreenchange', () => {
   if (!document.fullscreenElement) {
     document.body.classList.remove('in-fullscreen');
   }
+  updatePlayerStickyOffset();
 });
 
 function applyBrightness() {
@@ -911,12 +931,63 @@ function showIndicator(type, value) {
   showIndicator.timer = setTimeout(hideIndicators, 1500);
 }
 
-function toggleFitToScreen() {
-  state.isFitCover = !state.isFitCover;
-  video.classList.toggle('fit-cover', state.isFitCover);
-  fitHintText.textContent = state.isFitCover ? 'Fill Screen' : 'Fit to Screen';
+function showFitModeHint(message) {
+  fitHintText.textContent = message;
   fitHint.classList.add('visible');
-  setTimeout(() => fitHint.classList.remove('visible'), 1500);
+  clearTimeout(showFitModeHint.timer);
+  showFitModeHint.timer = setTimeout(() => fitHint.classList.remove('visible'), 1500);
+}
+
+function syncCustomSizeUI() {
+  const percent = Math.round(state.customScreenScale * 100);
+  customSizeRange.value = String(percent);
+  customSizeValue.textContent = `${percent}%`;
+  customSizeLabel.textContent = state.screenMode === 'custom' ? `Size ${percent}%` : 'Size';
+}
+
+function applyScreenMode(mode, { showHint = false } = {}) {
+  state.screenMode = mode;
+  video.classList.remove('fit-cover', 'screen-normal', 'screen-custom');
+
+  if (mode === 'normal') {
+    video.classList.add('screen-normal');
+  } else if (mode === 'custom') {
+    video.classList.add('screen-custom');
+    video.style.setProperty('--video-scale', state.customScreenScale.toFixed(2));
+  } else {
+    video.style.setProperty('--video-scale', '1');
+  }
+
+  fitScreenBtn.classList.toggle('active', mode === 'fit');
+  normalScreenBtn.classList.toggle('active', mode === 'normal');
+  customScreenBtn.classList.toggle('active', mode === 'custom');
+  syncCustomSizeUI();
+
+  if (showHint) {
+    const percent = Math.round(state.customScreenScale * 100);
+    const label = mode === 'fit' ? 'Fit to Screen' : mode === 'normal' ? 'Normal Screen' : `Custom Size ${percent}%`;
+    showFitModeHint(label);
+  }
+}
+
+function toggleFitToScreen() {
+  applyScreenMode(state.screenMode === 'fit' ? 'normal' : 'fit', { showHint: true });
+}
+
+function updatePlayerStickyOffset() {
+  const height = document.body.classList.contains('in-fullscreen') ? 0 : Math.round(playerSection.getBoundingClientRect().height || 0);
+  document.documentElement.style.setProperty('--player-sticky-height', `${height}px`);
+}
+
+function setPlayerFolded(nextFolded) {
+  if (document.body.classList.contains('in-fullscreen')) return;
+  document.body.classList.toggle('player-folded', nextFolded);
+  const expanded = String(!nextFolded);
+  playerFoldBar.setAttribute('aria-expanded', expanded);
+  playerFoldToggle.textContent = nextFolded ? 'Open' : 'Fold';
+  playerFoldToggle.setAttribute('aria-label', nextFolded ? 'Open player' : 'Fold player');
+  playerOpenFab.classList.toggle('hidden', !nextFolded);
+  requestAnimationFrame(updatePlayerStickyOffset);
 }
 
 function bindEvents() {
@@ -980,12 +1051,53 @@ function bindEvents() {
     buildLangList();
     langPopup.classList.remove('hidden');
   });
+  fitScreenBtn.addEventListener('click', () => applyScreenMode('fit', { showHint: true }));
+  normalScreenBtn.addEventListener('click', () => applyScreenMode('normal', { showHint: true }));
+  customScreenBtn.addEventListener('click', () => {
+    syncCustomSizeUI();
+    customSizePopup.classList.remove('hidden');
+  });
+  customSizeRange.addEventListener('input', () => {
+    state.customScreenScale = Number(customSizeRange.value) / 100;
+    applyScreenMode('custom', { showHint: true });
+  });
+  customSizeReset.addEventListener('click', () => {
+    state.customScreenScale = 1;
+    applyScreenMode('fit', { showHint: true });
+    customSizePopup.classList.add('hidden');
+  });
 
-  [langPopup, resPopup].forEach(popup => {
+  [langPopup, resPopup, customSizePopup].forEach(popup => {
     popup.addEventListener('click', event => {
       if (event.target === popup) popup.classList.add('hidden');
     });
   });
+
+  const openPlayerFromAnywhere = () => setPlayerFolded(false);
+  playerFoldToggle.addEventListener('click', event => {
+    event.stopPropagation();
+    setPlayerFolded(!document.body.classList.contains('player-folded'));
+  });
+  playerFoldBar.addEventListener('click', () => {
+    if (document.body.classList.contains('player-folded')) {
+      openPlayerFromAnywhere();
+    }
+  });
+  playerFoldBar.addEventListener('keydown', event => {
+    if (event.key === 'Enter' || event.key === ' ') {
+      event.preventDefault();
+      if (document.body.classList.contains('player-folded')) {
+        openPlayerFromAnywhere();
+      } else {
+        setPlayerFolded(true);
+      }
+    }
+  });
+  playerOpenFab.addEventListener('click', openPlayerFromAnywhere);
+  window.addEventListener('resize', updatePlayerStickyOffset);
+  if (window.ResizeObserver) {
+    new ResizeObserver(updatePlayerStickyOffset).observe(playerSection);
+  }
 
   document.querySelectorAll('.see-all-btn').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -1014,6 +1126,10 @@ function bindEvents() {
         break;
       case 'Escape':
         exitFullscreen();
+        break;
+      case 'p':
+      case 'P':
+        setPlayerFolded(!document.body.classList.contains('player-folded'));
         break;
       default:
         return;
@@ -1120,7 +1236,11 @@ async function init() {
   state.recentChannels = loadRecentChannels();
   video.volume = state.volume;
   applyBrightness();
+  applyScreenMode('fit');
+  syncCustomSizeUI();
   bindEvents();
+  setPlayerFolded(false);
+  updatePlayerStickyOffset();
 
   try {
     await refreshCatalog({ keepCurrent: false, silent: false });
