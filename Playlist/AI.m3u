@@ -3563,3 +3563,12 @@ https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimeNews.in@SD",Prime News (576p)
 https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="",Punjabi Music HD (720p)
+https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
+
+#EXTINF:-1 tvg-id="",Punjabi TV (720p)
+https://mumt02.tangotv.in/PUNJABITV/index.m3u8
+
+#EXTINF:-1 tvg-id="RaftaarMedia.in@SD",Raftaar Media (240p)
+https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8
