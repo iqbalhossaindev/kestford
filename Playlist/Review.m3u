@@ -17,3 +17,6 @@ https://cdn20.liveonlineservices.com/hls/subrang.m3u8
 
 #EXTINF:-1 ,5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Global TV Source 1" group-title="Bangla",Global TV Source 1
+http://sm-monirul.top/AyNa/play.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&e=.m3u8
