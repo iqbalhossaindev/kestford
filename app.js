@@ -5,6 +5,7 @@ const API_REPORT_FAILURE = '/api/report-failure';
 const API_REPORT_SUCCESS = '/api/report-success';
 const HIDDEN_KEY = 'kos_hidden_channels';
 const RECENT_KEY = 'kos_recent';
+const LAST_CHANNEL_KEY = 'kos_last_channel';
 const USER_ID_KEY = 'kos_user_id';
 const CONTROLS_TIMEOUT = 2500;
 const FAILURE_TIMEOUT_MS = 18000;
@@ -180,6 +181,25 @@ function loadRecentChannels() {
 
 function saveRecentChannels() {
   localStorage.setItem(RECENT_KEY, JSON.stringify(state.recentChannels.slice(0, 12)));
+}
+
+function loadLastChannelId() {
+  try {
+    return localStorage.getItem(LAST_CHANNEL_KEY) || '';
+  } catch {
+    return '';
+  }
+}
+
+function saveLastChannelId(channelId) {
+  try {
+    if (channelId) {
+      localStorage.setItem(LAST_CHANNEL_KEY, channelId);
+    } else {
+      localStorage.removeItem(LAST_CHANNEL_KEY);
+    }
+  } catch {
+  }
 }
 
 function showToast(message) {
@@ -740,6 +760,7 @@ function playChannelById(channelId, { autoPlay = true } = {}) {
   state.currentList = displayList;
   state.currentIndex = displayList.findIndex(item => item.id === channelId);
   state.currentChannelId = channelId;
+  saveLastChannelId(channelId);
   state.failureToken += 1;
   const token = state.failureToken;
   state.failureHandledToken = null;
@@ -1319,9 +1340,22 @@ function bindEvents() {
     });
   }
 
-  wrapper.addEventListener('mousemove', showControls);
+  wrapper.addEventListener('mousemove', () => {
+    if (!document.body.classList.contains('touch-device')) showControls();
+  });
   wrapper.addEventListener('mouseleave', () => {
-    hideControls();
+    if (!document.body.classList.contains('touch-device')) hideControls();
+  });
+
+  wrapper.addEventListener('click', event => {
+    const tappedInteractiveControl = Boolean(
+      event.target.closest(
+        '#fs-controls, .player-center-controls, .player-bottom button, .player-top button, .popup, .popup-inner, .side-indicator'
+      )
+    );
+
+    if (tappedInteractiveControl) return;
+    toggleControls();
   });
 
   let touchStartX = 0;
@@ -1334,6 +1368,7 @@ function bindEvents() {
   let dragging = false;
 
   wrapper.addEventListener('touchstart', event => {
+    document.body.classList.add('touch-device');
     touchCount = event.touches.length;
     touchStartX = event.touches[0].clientX;
     touchStartY = event.touches[0].clientY;
@@ -1408,7 +1443,6 @@ function bindEvents() {
       )
     );
 
-    if (dist < 15 && dt < 300 && !tappedInteractiveControl) toggleControls();
     dragSide = null;
   }, { passive: true });
 }
@@ -1417,13 +1451,14 @@ async function init() {
   state.userId = getUserId();
   state.hiddenChannels = loadHiddenChannels();
   state.recentChannels = loadRecentChannels();
+  const lastChannelId = loadLastChannelId();
   video.volume = state.volume;
   applyBrightness();
   updateFoldUI();
   bindEvents();
 
   try {
-    await refreshCatalog({ keepCurrent: false, silent: false });
+    await refreshCatalog({ keepCurrent: false, silent: false, preferredChannelId: lastChannelId || null });
     if (!state.channels.length) {
       resetPlayerUI();
       showToast('No active playlists found. Add valid M3U files to the Playlist folder.');
