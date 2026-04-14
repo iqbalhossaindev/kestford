@@ -3527,3 +3527,6 @@ https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8
 
 #EXTINF:-1 tvg-id="FaktMarathi.in@SD",Fakt Marathi (576p)
 https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8
+
+#EXTINF:-1 tvg-id="GoodnessTV.in@SD",Goodness TV (576p)
+https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
