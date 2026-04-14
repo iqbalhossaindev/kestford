@@ -14,3 +14,6 @@ https://tplay.live/out/bangladesh/ekhontv.index.m3u8
 
 #EXTINF:-1 group-title="Pakistani",224.Subrang TV
 https://cdn20.liveonlineservices.com/hls/subrang.m3u8
+
+#EXTINF:-1 ,Bloomberg Asia Source 2
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
