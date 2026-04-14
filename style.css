@@ -952,10 +952,184 @@ body.in-fullscreen #filter-search-bar { display: none; }
   .channel-grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
 }
 
+/* ═══════════════════════════════════════════
+   PC LAYOUT — Two-column sidebar design
+   ═══════════════════════════════════════════ */
+@media (min-width: 1200px) {
+  html, body {
+    height: 100dvh;
+    overflow: hidden;
+  }
+
+  #layout-shell {
+    display: flex;
+    height: 100dvh;
+    overflow: hidden;
+  }
+
+  /* ── Left sidebar: player only ── */
+  #pc-sidebar {
+    width: 420px;
+    flex-shrink: 0;
+    height: 100dvh;
+    background: #000;
+    border-right: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  #player-section {
+    position: relative !important;
+    top: auto !important;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #player-wrapper {
+    flex: 1;
+    aspect-ratio: unset !important;
+    max-height: none !important;
+    height: auto;
+  }
+
+  #swipe-hint { display: none; }
+
+  /* ── Right content column: scrollable ── */
+  #pc-content {
+    flex: 1;
+    min-width: 0;
+    height: 100dvh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    background: var(--bg);
+  }
+
+  /* Filter bar sticks at top of pc-content column */
+  #filter-search-bar {
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 90;
+  }
+
+  /* Wider grid on desktop */
+  :root { --card-w: 210px; --card-h: 130px; }
+  .channel-grid { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+  #channels-main { padding: 24px 0 40px; }
+
+  /* Playlist strip wider pills */
+  .playlist-pill-label { max-width: 200px; }
+
+  /* Footer always at bottom of scroll */
+  #main-footer { margin-top: auto; }
+
+  /* Fullscreen: cover the whole viewport */
+  body.in-fullscreen #player-section {
+    position: fixed !important;
+    inset: 0;
+    z-index: 999;
+    width: 100vw;
+    height: 100dvh;
+  }
+  body.in-fullscreen #player-wrapper {
+    height: 100dvh !important;
+  }
+}
+
+@media (min-width: 1440px) {
+  #pc-sidebar { width: 500px; }
+  :root { --card-w: 220px; --card-h: 138px; }
+}
+
+@media (min-width: 1800px) {
+  #pc-sidebar { width: 580px; }
+  :root { --card-w: 240px; --card-h: 150px; }
+  .channel-grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+}
+
 /* Landscape phone fullscreen */
 @media (orientation: landscape) and (max-height: 500px) {
   body.in-fullscreen #player-wrapper { height: 100dvh; }
 }
+
+/* ─────────────────────────────────────────
+   VERIFIED TOGGLE SWITCH
+───────────────────────────────────────── */
+.verified-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 14px 7px 10px;
+  background: var(--glass);
+  border: 1px solid var(--border);
+  border-radius: 50px;
+  color: var(--text-dim);
+  cursor: pointer;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: all var(--transition);
+  position: relative;
+  flex-shrink: 0;
+}
+
+.verified-switch:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.verified-switch.active {
+  background: linear-gradient(135deg, rgba(0,114,255,0.2), rgba(0,198,255,0.15));
+  border-color: var(--accent);
+  color: var(--accent);
+  box-shadow: 0 0 16px rgba(0,198,255,0.2);
+}
+
+/* Track */
+.vs-track {
+  display: inline-block;
+  width: 32px;
+  height: 18px;
+  background: rgba(255,255,255,0.12);
+  border-radius: 999px;
+  position: relative;
+  transition: background 0.25s;
+  flex-shrink: 0;
+}
+.verified-switch.active .vs-track {
+  background: linear-gradient(135deg, var(--accent2), var(--accent));
+}
+
+/* Thumb */
+.vs-thumb {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 14px;
+  height: 14px;
+  background: #fff;
+  border-radius: 50%;
+  transition: transform 0.25s cubic-bezier(.4,0,.2,1), box-shadow 0.25s;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.35);
+}
+.verified-switch.active .vs-thumb {
+  transform: translateX(14px);
+  box-shadow: 0 0 8px rgba(0,198,255,0.5);
+}
+
+.vs-icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  color: inherit;
+}
+
+.vs-label { line-height: 1; }
+
 
 /* ─────────────────────────────────────────
    BACKEND MODE / PLAYLIST STRIP

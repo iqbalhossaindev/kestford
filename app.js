@@ -52,6 +52,7 @@ const state = {
   underReviewChannelIds: new Set(),
   activePlaylist: 'all',
   activeType: 'all',
+  verifiedOnly: false,
   searchQuery: '',
   userId: '',
   hlsLevel: -1,
@@ -347,6 +348,12 @@ function applyFilters() {
     working = working.filter(channel => channel.group === state.activeType);
   }
 
+  if (state.verifiedOnly) {
+    working = working.filter(channel =>
+      state.humanVerifiedChannelIds.has(channel.id) || state.aiVerifiedChannelIds.has(channel.id)
+    );
+  }
+
   state.filteredChannels = working;
   state.currentList = working;
   renderSections();
@@ -355,9 +362,12 @@ function applyFilters() {
 function clearAllFilters() {
   state.activePlaylist = 'all';
   state.activeType = 'all';
+  state.verifiedOnly = false;
   state.searchQuery = '';
   searchInput.value = '';
   searchClear.style.display = 'none';
+  const verifiedToggle = document.getElementById('verified-toggle');
+  if (verifiedToggle) verifiedToggle.classList.remove('active');
   typeBtns.forEach(btn => btn.classList.toggle('active', btn.dataset.type === 'all'));
   renderPlaylistSelectors();
   applyFilters();
@@ -486,7 +496,6 @@ function createCard(channel) {
 
   card.addEventListener('click', () => {
     playChannelById(channel.id, { autoPlay: true });
-    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
   return card;
@@ -928,6 +937,15 @@ function bindEvents() {
   });
 
   filterToggle.addEventListener('click', () => filterPanel.classList.toggle('hidden'));
+
+  const verifiedToggleBtn = document.getElementById('verified-toggle');
+  if (verifiedToggleBtn) {
+    verifiedToggleBtn.addEventListener('click', () => {
+      state.verifiedOnly = !state.verifiedOnly;
+      verifiedToggleBtn.classList.toggle('active', state.verifiedOnly);
+      applyFilters();
+    });
+  }
 
   typeBtns.forEach(btn => {
     btn.addEventListener('click', () => {
