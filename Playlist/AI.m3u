@@ -918,6 +918,9 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="Bangla",NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 
+#EXTINF:-1 ,Punjabi TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg" group-title="Bangla",R Plus News Source 1
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
@@ -2924,6 +2927,9 @@ https://www.youtube.com/watch?v=3DbTO_AMhhc
 
 #EXTINF:-1 ,YTN Source 1
 http://103.135.208.14/live/ibox/bd/74.m3u8
+
+#EXTINF:-1 ,Ekushey TV Source 1
+http://103.135.208.14/live/ibox/bd/20.m3u8
 
 #EXTINF:-1 ,Nagorik TV Source 1
 http://103.135.208.14/live/ibox/bd/100.m3u8
