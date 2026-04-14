@@ -6,6 +6,7 @@ const API_REPORT_SUCCESS = '/api/report-success';
 const HIDDEN_KEY = 'kos_hidden_channels';
 const RECENT_KEY = 'kos_recent';
 const USER_ID_KEY = 'kos_user_id';
+const VERIFIED_ONLY_KEY = 'kos_verified_only';
 const CONTROLS_TIMEOUT = 3500;
 const FAILURE_TIMEOUT_MS = 18000;
 const HUMAN_VERIFIED_PLAYLIST_ID = 'human_verified';
@@ -52,16 +53,16 @@ const state = {
   underReviewChannelIds: new Set(),
   activePlaylist: 'all',
   activeType: 'all',
-  verifiedOnly: false,
   searchQuery: '',
+  showVerifiedOnly: false,
+  playerFolded: false,
   userId: '',
   hlsLevel: -1,
   isPlaying: false,
   wasPlayingBeforeHide: false,
   volume: 1,
   brightness: 1,
-  screenMode: 'fit',
-  customScreenScale: 1,
+  isFitCover: false,
   hlsInstance: null,
   controlsTimer: null,
   failureToken: 0,
@@ -69,6 +70,7 @@ const state = {
   failureTimeout: null,
 };
 
+const playerSection = document.getElementById('player-section');
 const video = document.getElementById('main-video');
 const overlay = document.getElementById('player-overlay');
 const loader = document.getElementById('loader');
@@ -86,14 +88,16 @@ const nextBtn = document.getElementById('next-btn');
 const fullscreenBtn = document.getElementById('fullscreen-btn');
 const minimizeBtn = document.getElementById('minimize-btn');
 const filterToggle = document.getElementById('filter-toggle-btn');
+const filterSearchBar = document.getElementById('filter-search-bar');
 const filterPanel = document.getElementById('filter-panel');
 const searchInput = document.getElementById('search-input');
 const searchClear = document.getElementById('search-clear');
 const playlistGrid = document.getElementById('country-grid');
 const playlistStrip = document.getElementById('playlist-strip');
-const typeBtns = document.querySelectorAll('.type-btn');
+const typeBtns = document.querySelectorAll('#content-type-filters .type-btn');
 const applyFilterBtn = document.getElementById('apply-filter-btn');
 const clearFilterBtn = document.getElementById('clear-filter-btn');
+const verifiedOnlyBtn = document.getElementById('verified-only-btn');
 const secRecent = document.getElementById('sec-recent');
 const rowRecent = document.getElementById('row-recent');
 const gridAll = document.getElementById('grid-all');
@@ -109,24 +113,13 @@ const volValue = document.getElementById('vol-value');
 const brightValue = document.getElementById('bright-value');
 const fitHint = document.getElementById('fit-hint');
 const fitHintText = document.getElementById('fit-hint-text');
+const swipeHint = document.getElementById('swipe-hint');
+const swipeHintText = document.getElementById('swipe-hint-text');
 const langBtn = document.getElementById('lang-btn');
 const resBtn = document.getElementById('res-btn');
 const resLabel = document.getElementById('res-label');
-const fitScreenBtn = document.getElementById('fit-screen-btn');
-const normalScreenBtn = document.getElementById('normal-screen-btn');
-const customScreenBtn = document.getElementById('custom-screen-btn');
-const customSizeLabel = document.getElementById('custom-size-label');
-const playerSection = document.getElementById('player-section');
-const playerFoldBar = document.getElementById('player-fold-bar');
-const playerFoldToggle = document.getElementById('player-fold-toggle');
-const playerOpenFab = document.getElementById('player-open-fab');
-const foldBarChannel = document.getElementById('fold-bar-channel');
 const langPopup = document.getElementById('lang-popup');
 const resPopup = document.getElementById('res-popup');
-const customSizePopup = document.getElementById('screen-size-popup');
-const customSizeRange = document.getElementById('custom-size-range');
-const customSizeValue = document.getElementById('custom-size-value');
-const customSizeReset = document.getElementById('custom-size-reset');
 const langList = document.getElementById('lang-list');
 const resList = document.getElementById('res-list');
 const toast = document.getElementById('toast');
@@ -161,6 +154,14 @@ function loadHiddenChannels() {
   } catch {
     return new Set();
   }
+}
+
+function loadVerifiedOnlyPreference() {
+  return localStorage.getItem(VERIFIED_ONLY_KEY) === '1';
+}
+
+function saveVerifiedOnlyPreference() {
+  localStorage.setItem(VERIFIED_ONLY_KEY, state.showVerifiedOnly ? '1' : '0');
 }
 
 function saveHiddenChannels() {
@@ -210,8 +211,9 @@ function setPlaying(active) {
 function showControls() {
   overlay.classList.add('controls-visible');
   clearTimeout(state.controlsTimer);
+  if (state.playerFolded) return;
   state.controlsTimer = setTimeout(() => {
-    if (state.isPlaying) overlay.classList.remove('controls-visible');
+    if (state.isPlaying && !state.playerFolded) overlay.classList.remove('controls-visible');
   }, CONTROLS_TIMEOUT);
 }
 
@@ -238,6 +240,10 @@ function isAiVerified(channelId) {
 
 function isUnderReview(channelId) {
   return state.underReviewChannelIds.has(channelId);
+}
+
+function isVerifiedChannel(channelId) {
+  return isHumanVerified(channelId) || isAiVerified(channelId);
 }
 
 function getChannelBadges(channelId) {
@@ -282,8 +288,41 @@ async function fetchCatalog() {
   return res.json();
 }
 
+function updateStickyOffset() {
+  if (!filterSearchBar || document.body.classList.contains('in-fullscreen')) return;
+  filterSearchBar.style.top = `${playerSection.offsetHeight}px`;
+}
+
+function updateSwipeHint() {
+  if (!swipeHintText) return;
+  swipeHintText.textContent = state.playerFolded
+    ? 'Swipe up to open player'
+    : 'Swipe down to fold • swipe up fullscreen';
+  swipeHint.setAttribute('aria-expanded', state.playerFolded ? 'false' : 'true');
+}
+
+function setPlayerFolded(folded) {
+  if (document.body.classList.contains('in-fullscreen')) return;
+  state.playerFolded = Boolean(folded);
+  document.body.classList.toggle('player-folded', state.playerFolded);
+  clearTimeout(state.controlsTimer);
+  if (state.playerFolded) {
+    overlay.classList.add('controls-visible');
+  } else {
+    showControls();
+  }
+  updateSwipeHint();
+  requestAnimationFrame(updateStickyOffset);
+}
+
+function syncVerifiedOnlyButton() {
+  if (!verifiedOnlyBtn) return;
+  verifiedOnlyBtn.classList.toggle('active', state.showVerifiedOnly);
+  verifiedOnlyBtn.setAttribute('aria-pressed', state.showVerifiedOnly ? 'true' : 'false');
+}
+
 function hasActiveFilter() {
-  return Boolean(state.searchQuery.trim()) || state.activePlaylist !== 'all' || state.activeType !== 'all';
+  return Boolean(state.searchQuery.trim()) || state.activePlaylist !== 'all' || state.activeType !== 'all' || state.showVerifiedOnly;
 }
 
 function getVisibleChannels() {
@@ -343,29 +382,29 @@ function applyFilters() {
   let working = baseChannels;
 
   if (query) {
-    working = baseChannels.filter(channel => {
+    working = working.filter(channel => {
       return [channel.name, channel.group, channel.playlist, channel.countryName, channel.tvgName].some(value =>
         String(value || '').toLowerCase().includes(query)
       );
     });
-  } else if (state.activePlaylist === HUMAN_VERIFIED_PLAYLIST_ID) {
-    working = baseChannels.filter(channel => state.humanVerifiedChannelIds.has(channel.id));
+  }
+
+  if (state.activePlaylist === HUMAN_VERIFIED_PLAYLIST_ID) {
+    working = working.filter(channel => state.humanVerifiedChannelIds.has(channel.id));
   } else if (state.activePlaylist === AI_VERIFIED_PLAYLIST_ID) {
-    working = baseChannels.filter(channel => state.aiVerifiedChannelIds.has(channel.id));
+    working = working.filter(channel => state.aiVerifiedChannelIds.has(channel.id));
   } else if (state.activePlaylist === UNDER_REVIEW_PLAYLIST_ID) {
-    working = baseChannels.filter(channel => state.underReviewChannelIds.has(channel.id));
+    working = working.filter(channel => state.underReviewChannelIds.has(channel.id));
   } else if (state.activePlaylist !== 'all') {
-    working = baseChannels.filter(channel => channel.playlistId === state.activePlaylist);
+    working = working.filter(channel => channel.playlistId === state.activePlaylist);
+  }
+
+  if (state.showVerifiedOnly) {
+    working = working.filter(channel => isVerifiedChannel(channel.id));
   }
 
   if (state.activeType !== 'all') {
     working = working.filter(channel => channel.group === state.activeType);
-  }
-
-  if (state.verifiedOnly) {
-    working = working.filter(channel =>
-      state.humanVerifiedChannelIds.has(channel.id) || state.aiVerifiedChannelIds.has(channel.id)
-    );
   }
 
   state.filteredChannels = working;
@@ -376,13 +415,13 @@ function applyFilters() {
 function clearAllFilters() {
   state.activePlaylist = 'all';
   state.activeType = 'all';
-  state.verifiedOnly = false;
   state.searchQuery = '';
+  state.showVerifiedOnly = false;
   searchInput.value = '';
   searchClear.style.display = 'none';
-  const verifiedToggle = document.getElementById('verified-toggle');
-  if (verifiedToggle) verifiedToggle.classList.remove('active');
   typeBtns.forEach(btn => btn.classList.toggle('active', btn.dataset.type === 'all'));
+  saveVerifiedOnlyPreference();
+  syncVerifiedOnlyButton();
   renderPlaylistSelectors();
   applyFilters();
 }
@@ -454,7 +493,7 @@ function renderSections() {
   }
 
   const queryActive = Boolean(state.searchQuery.trim());
-  const filterActive = queryActive || state.activePlaylist !== 'all' || state.activeType !== 'all';
+  const filterActive = queryActive || state.activePlaylist !== 'all' || state.activeType !== 'all' || state.showVerifiedOnly;
   const displayChannels = state.filteredChannels;
   const isEmpty = filterActive && displayChannels.length === 0;
   noResults.style.display = isEmpty ? '' : 'none';
@@ -475,6 +514,9 @@ function renderSections() {
     if (playlist) labelParts.push(playlist.name);
   } else if (queryActive) {
     labelParts.push('global search');
+  }
+  if (state.showVerifiedOnly) {
+    labelParts.push('verified only');
   }
   chCountLabel.textContent = labelParts.join(' • ');
 
@@ -510,6 +552,7 @@ function createCard(channel) {
 
   card.addEventListener('click', () => {
     playChannelById(channel.id, { autoPlay: true });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
   return card;
@@ -538,7 +581,6 @@ function resetPlayerUI() {
   chNumber.textContent = 'CH 00';
   chName.textContent = 'No channel available';
   chPlaylistName.textContent = 'Add or repair playlist files';
-  foldBarChannel.textContent = 'No channel available';
   chFlag.innerHTML = '';
   setPlaying(false);
   setLoader(false);
@@ -571,7 +613,6 @@ function updateNowPlayingUI(channel) {
   if (isHumanVerified(channel.id)) statusParts.push('Human Verified');
   if (isAiVerified(channel.id)) statusParts.push('AI Verified');
   chPlaylistName.textContent = `${channel.playlist} • ${channel.group}${statusParts.length ? ` • ${statusParts.join(' • ')}` : ''}`;
-  foldBarChannel.textContent = channel.name;
   updateFlagUI(channel);
   markActiveCard(channel.id);
 }
@@ -879,8 +920,6 @@ function enterFullscreen() {
   const request = element.requestFullscreen || element.webkitRequestFullscreen || element.mozRequestFullScreen;
   if (request) request.call(element);
   document.body.classList.add('in-fullscreen');
-  applyScreenMode('fit');
-  updatePlayerStickyOffset();
   if (screen.orientation && screen.orientation.lock) {
     screen.orientation.lock('landscape').catch(() => {});
   }
@@ -890,17 +929,17 @@ function exitFullscreen() {
   const exit = document.exitFullscreen || document.webkitExitFullscreen || document.mozCancelFullScreen;
   if (exit) exit.call(document);
   document.body.classList.remove('in-fullscreen');
-  updatePlayerStickyOffset();
   if (screen.orientation && screen.orientation.unlock) {
     screen.orientation.unlock();
   }
+  requestAnimationFrame(updateStickyOffset);
 }
 
 document.addEventListener('fullscreenchange', () => {
   if (!document.fullscreenElement) {
     document.body.classList.remove('in-fullscreen');
+    requestAnimationFrame(updateStickyOffset);
   }
-  updatePlayerStickyOffset();
 });
 
 function applyBrightness() {
@@ -931,66 +970,17 @@ function showIndicator(type, value) {
   showIndicator.timer = setTimeout(hideIndicators, 1500);
 }
 
-function showFitModeHint(message) {
-  fitHintText.textContent = message;
-  fitHint.classList.add('visible');
-  clearTimeout(showFitModeHint.timer);
-  showFitModeHint.timer = setTimeout(() => fitHint.classList.remove('visible'), 1500);
-}
-
-function syncCustomSizeUI() {
-  const percent = Math.round(state.customScreenScale * 100);
-  customSizeRange.value = String(percent);
-  customSizeValue.textContent = `${percent}%`;
-  customSizeLabel.textContent = state.screenMode === 'custom' ? `Size ${percent}%` : 'Size';
-}
-
-function applyScreenMode(mode, { showHint = false } = {}) {
-  state.screenMode = mode;
-  video.classList.remove('fit-cover', 'screen-normal', 'screen-custom');
-
-  if (mode === 'normal') {
-    video.classList.add('screen-normal');
-  } else if (mode === 'custom') {
-    video.classList.add('screen-custom');
-    video.style.setProperty('--video-scale', state.customScreenScale.toFixed(2));
-  } else {
-    video.style.setProperty('--video-scale', '1');
-  }
-
-  fitScreenBtn.classList.toggle('active', mode === 'fit');
-  normalScreenBtn.classList.toggle('active', mode === 'normal');
-  customScreenBtn.classList.toggle('active', mode === 'custom');
-  syncCustomSizeUI();
-
-  if (showHint) {
-    const percent = Math.round(state.customScreenScale * 100);
-    const label = mode === 'fit' ? 'Fit to Screen' : mode === 'normal' ? 'Normal Screen' : `Custom Size ${percent}%`;
-    showFitModeHint(label);
-  }
-}
-
 function toggleFitToScreen() {
-  applyScreenMode(state.screenMode === 'fit' ? 'normal' : 'fit', { showHint: true });
-}
-
-function updatePlayerStickyOffset() {
-  const height = document.body.classList.contains('in-fullscreen') ? 0 : Math.round(playerSection.getBoundingClientRect().height || 0);
-  document.documentElement.style.setProperty('--player-sticky-height', `${height}px`);
-}
-
-function setPlayerFolded(nextFolded) {
-  if (document.body.classList.contains('in-fullscreen')) return;
-  document.body.classList.toggle('player-folded', nextFolded);
-  const expanded = String(!nextFolded);
-  playerFoldBar.setAttribute('aria-expanded', expanded);
-  playerFoldToggle.textContent = nextFolded ? 'Open' : 'Fold';
-  playerFoldToggle.setAttribute('aria-label', nextFolded ? 'Open player' : 'Fold player');
-  playerOpenFab.classList.toggle('hidden', !nextFolded);
-  requestAnimationFrame(updatePlayerStickyOffset);
+  state.isFitCover = !state.isFitCover;
+  video.classList.toggle('fit-cover', state.isFitCover);
+  fitHintText.textContent = state.isFitCover ? 'Fill Screen' : 'Fit to Screen';
+  fitHint.classList.add('visible');
+  setTimeout(() => fitHint.classList.remove('visible'), 1500);
 }
 
 function bindEvents() {
+  window.addEventListener('resize', updateStickyOffset);
+
   prevBtn.addEventListener('click', () => { skipToPrev(); showControls(); });
   nextBtn.addEventListener('click', () => { skipToNext(); showControls(); });
   playPauseBtn.addEventListener('click', () => { togglePlayPause(); showControls(); });
@@ -1009,14 +999,20 @@ function bindEvents() {
 
   filterToggle.addEventListener('click', () => filterPanel.classList.toggle('hidden'));
 
-  const verifiedToggleBtn = document.getElementById('verified-toggle');
-  if (verifiedToggleBtn) {
-    verifiedToggleBtn.addEventListener('click', () => {
-      state.verifiedOnly = !state.verifiedOnly;
-      verifiedToggleBtn.classList.toggle('active', state.verifiedOnly);
-      applyFilters();
-    });
-  }
+  verifiedOnlyBtn.addEventListener('click', () => {
+    state.showVerifiedOnly = !state.showVerifiedOnly;
+    saveVerifiedOnlyPreference();
+    syncVerifiedOnlyButton();
+    applyFilters();
+  });
+
+  swipeHint.addEventListener('click', () => setPlayerFolded(!state.playerFolded));
+  swipeHint.addEventListener('keydown', event => {
+    if (event.key === 'Enter' || event.key === ' ') {
+      event.preventDefault();
+      setPlayerFolded(!state.playerFolded);
+    }
+  });
 
   typeBtns.forEach(btn => {
     btn.addEventListener('click', () => {
@@ -1051,53 +1047,12 @@ function bindEvents() {
     buildLangList();
     langPopup.classList.remove('hidden');
   });
-  fitScreenBtn.addEventListener('click', () => applyScreenMode('fit', { showHint: true }));
-  normalScreenBtn.addEventListener('click', () => applyScreenMode('normal', { showHint: true }));
-  customScreenBtn.addEventListener('click', () => {
-    syncCustomSizeUI();
-    customSizePopup.classList.remove('hidden');
-  });
-  customSizeRange.addEventListener('input', () => {
-    state.customScreenScale = Number(customSizeRange.value) / 100;
-    applyScreenMode('custom', { showHint: true });
-  });
-  customSizeReset.addEventListener('click', () => {
-    state.customScreenScale = 1;
-    applyScreenMode('fit', { showHint: true });
-    customSizePopup.classList.add('hidden');
-  });
 
-  [langPopup, resPopup, customSizePopup].forEach(popup => {
+  [langPopup, resPopup].forEach(popup => {
     popup.addEventListener('click', event => {
       if (event.target === popup) popup.classList.add('hidden');
     });
   });
-
-  const openPlayerFromAnywhere = () => setPlayerFolded(false);
-  playerFoldToggle.addEventListener('click', event => {
-    event.stopPropagation();
-    setPlayerFolded(!document.body.classList.contains('player-folded'));
-  });
-  playerFoldBar.addEventListener('click', () => {
-    if (document.body.classList.contains('player-folded')) {
-      openPlayerFromAnywhere();
-    }
-  });
-  playerFoldBar.addEventListener('keydown', event => {
-    if (event.key === 'Enter' || event.key === ' ') {
-      event.preventDefault();
-      if (document.body.classList.contains('player-folded')) {
-        openPlayerFromAnywhere();
-      } else {
-        setPlayerFolded(true);
-      }
-    }
-  });
-  playerOpenFab.addEventListener('click', openPlayerFromAnywhere);
-  window.addEventListener('resize', updatePlayerStickyOffset);
-  if (window.ResizeObserver) {
-    new ResizeObserver(updatePlayerStickyOffset).observe(playerSection);
-  }
 
   document.querySelectorAll('.see-all-btn').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -1127,10 +1082,6 @@ function bindEvents() {
       case 'Escape':
         exitFullscreen();
         break;
-      case 'p':
-      case 'P':
-        setPlayerFolded(!document.body.classList.contains('player-folded'));
-        break;
       default:
         return;
     }
@@ -1149,7 +1100,7 @@ function bindEvents() {
   wrapper.addEventListener('mousemove', showControls);
   wrapper.addEventListener('mouseleave', () => {
     clearTimeout(state.controlsTimer);
-    if (state.isPlaying) overlay.classList.remove('controls-visible');
+    if (state.isPlaying && !state.playerFolded) overlay.classList.remove('controls-visible');
   });
 
   let touchStartX = 0;
@@ -1220,9 +1171,19 @@ function bindEvents() {
       return;
     }
 
-    if (dy < -60 && Math.abs(dx) < 60 && !document.body.classList.contains('in-fullscreen')) {
-      enterFullscreen();
-      return;
+    if (!document.body.classList.contains('in-fullscreen') && Math.abs(dx) < 70) {
+      if (!state.playerFolded && dy > 60) {
+        setPlayerFolded(true);
+        return;
+      }
+      if (state.playerFolded && dy < -50) {
+        setPlayerFolded(false);
+        return;
+      }
+      if (!state.playerFolded && dy < -60) {
+        enterFullscreen();
+        return;
+      }
     }
 
     if (dist < 15 && dt < 300) showControls();
@@ -1234,13 +1195,13 @@ async function init() {
   state.userId = getUserId();
   state.hiddenChannels = loadHiddenChannels();
   state.recentChannels = loadRecentChannels();
+  state.showVerifiedOnly = loadVerifiedOnlyPreference();
   video.volume = state.volume;
   applyBrightness();
-  applyScreenMode('fit');
-  syncCustomSizeUI();
   bindEvents();
-  setPlayerFolded(false);
-  updatePlayerStickyOffset();
+  syncVerifiedOnlyButton();
+  updateSwipeHint();
+  requestAnimationFrame(updateStickyOffset);
 
   try {
     await refreshCatalog({ keepCurrent: false, silent: false });

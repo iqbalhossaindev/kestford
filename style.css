@@ -19,7 +19,6 @@
   --card-h:    100px;
   --radius:    12px;
   --transition: 0.25s cubic-bezier(.4,0,.2,1);
-  --player-sticky-height: 56.25vw;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -59,7 +58,6 @@ body {
   background: #000;
   overflow: hidden;
   max-height: 56vw;
-  transition: max-height 0.35s ease, opacity 0.25s ease, aspect-ratio 0.25s ease;
 }
 
 #main-video {
@@ -68,8 +66,7 @@ body {
   object-fit: contain;
   display: block;
   background: #000;
-  transition: object-fit 0.3s ease, transform 0.3s ease;
-  transform-origin: center center;
+  transition: object-fit 0.3s ease;
 }
 
 #main-video.fit-cover { object-fit: cover; }
@@ -297,13 +294,10 @@ body {
   display: none;
   position: absolute;
   bottom: 14px;
-  left: 0;
-  right: 0;
-  padding: 0 16px;
-  justify-content: center;
+  left: 0; right: 0;
+  padding: 0 20px;
+  justify-content: space-between;
   align-items: flex-end;
-  gap: 8px;
-  flex-wrap: wrap;
   pointer-events: all;
 }
 
@@ -330,11 +324,6 @@ body.in-fullscreen .player-bottom .icon-btn#fullscreen-btn { display: none; }
 }
 .fs-btn:active { transform: scale(0.9); }
 .fs-btn svg { width: 18px; height: 18px; }
-.mode-btn.active {
-  background: rgba(0,198,255,0.16);
-  border-color: var(--accent);
-  color: var(--accent);
-}
 
 /* Side indicators (volume / brightness) */
 .side-indicator {
@@ -401,125 +390,88 @@ body.in-fullscreen .player-bottom .icon-btn#fullscreen-btn { display: none; }
 #fit-hint.visible { opacity: 1; }
 #fit-hint svg { width: 16px; height: 16px; }
 
-
-#player-fold-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  padding: 12px 16px;
-  background: linear-gradient(180deg, rgba(11,11,22,0.92), rgba(8,8,15,0.96));
-  border-top: 1px solid rgba(255,255,255,0.08);
-  cursor: pointer;
-}
-
-.fold-bar-meta {
-  min-width: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-}
-
-.fold-bar-title {
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 1.2px;
-  color: var(--accent);
-  text-transform: uppercase;
-}
-
-.fold-bar-channel {
-  font-size: 13px;
-  color: rgba(255,255,255,0.84);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 220px;
-}
-
-.fold-action-btn {
-  border: 1px solid rgba(255,255,255,0.14);
-  background: rgba(255,255,255,0.06);
-  color: #fff;
-  border-radius: 999px;
-  padding: 8px 14px;
-  font: inherit;
-  font-size: 12px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all var(--transition);
-}
-
-.fold-action-btn:hover,
-.fold-action-btn:focus-visible {
-  border-color: var(--accent);
-  color: var(--accent);
-  outline: none;
-}
-
-#player-open-fab {
-  position: fixed;
-  top: 14px;
-  right: 14px;
-  z-index: 980;
-  display: none;
-  align-items: center;
-  gap: 8px;
-  padding: 10px 14px;
-  border-radius: 999px;
-  border: 1px solid rgba(255,255,255,0.12);
-  background: rgba(8,8,15,0.92);
-  color: #fff;
-  backdrop-filter: blur(12px);
-  box-shadow: 0 10px 26px rgba(0,0,0,0.38);
-  cursor: pointer;
-}
-
-#player-open-fab svg {
-  width: 16px;
-  height: 16px;
-}
-
-body.player-folded #player-wrapper {
-  max-height: 0 !important;
-  aspect-ratio: unset;
-  opacity: 0;
-  pointer-events: none;
-}
-
-body.player-folded #swipe-hint {
-  display: none;
-}
-
-body.player-folded #player-section {
-  box-shadow: 0 8px 26px rgba(0,0,0,0.35);
-}
-
-body.player-folded #player-open-fab:not(.hidden) {
-  display: inline-flex;
-}
-
-body.player-folded #player-fold-bar {
-  border-top: none;
-}
-
 /* Swipe hint below player */
 #swipe-hint {
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 6px;
+  width: 100%;
   padding: 8px;
   font-size: 11px;
   color: var(--text-dim);
   letter-spacing: 0.5px;
   animation: nudge 3s ease-in-out infinite;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+}
+#swipe-hint:focus-visible {
+  outline: 2px solid rgba(0,198,255,0.5);
+  outline-offset: -2px;
 }
 @keyframes nudge {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-3px); }
 }
 #swipe-hint svg { width: 14px; height: 14px; }
+
+body.player-folded #player-wrapper {
+  display: flex;
+  align-items: stretch;
+  height: 78px;
+  max-height: none;
+  aspect-ratio: auto;
+}
+body.player-folded #main-video {
+  flex: 0 0 126px;
+  width: 126px;
+  height: 100%;
+  object-fit: cover;
+}
+body.player-folded #player-overlay {
+  opacity: 1;
+  background: linear-gradient(to right, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 28%, rgba(0,0,0,0.3) 44%, rgba(0,0,0,0.88) 100%);
+}
+body.player-folded .player-top,
+body.player-folded .player-center-controls,
+body.player-folded #fs-controls,
+body.player-folded #fullscreen-btn,
+body.player-folded #fit-hint,
+body.player-folded #vol-indicator,
+body.player-folded #bright-indicator {
+  display: none;
+}
+body.player-folded .player-bottom {
+  position: absolute;
+  inset: 0;
+  padding: 12px 16px 12px 140px;
+  align-items: center;
+}
+body.player-folded #channel-name-display {
+  max-width: 100%;
+}
+body.player-folded .ch-num {
+  font-size: 10px;
+}
+body.player-folded .ch-name,
+body.player-folded .channel-subtitle {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+body.player-folded .ch-name {
+  font-size: 14px;
+}
+body.player-folded .channel-subtitle {
+  font-size: 10px;
+}
+body.player-folded #swipe-hint {
+  padding: 6px 10px;
+}
+body.player-folded #swipe-hint svg {
+  transform: rotate(180deg);
+}
 
 /* ─────────────────────────────────────────
    FILTER & SEARCH BAR
@@ -532,7 +484,7 @@ body.player-folded #player-fold-bar {
   background: var(--bg2);
   border-bottom: 1px solid var(--border);
   position: sticky;
-  top: var(--player-sticky-height);
+  top: calc(56.25vw);
   z-index: 90;
 }
 
@@ -686,6 +638,12 @@ body.player-folded #player-fold-bar {
 }
 
 #content-type-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+#status-filters {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
@@ -1020,16 +978,6 @@ body.in-fullscreen #player-wrapper {
   height: 100dvh;
   max-height: 100dvh;
 }
-body.in-fullscreen #main-video.screen-normal {
-  transform: scale(0.9);
-}
-body.in-fullscreen #main-video.screen-custom {
-  transform: scale(var(--video-scale, 1));
-}
-body.in-fullscreen #player-fold-bar,
-body.in-fullscreen #player-open-fab {
-  display: none !important;
-}
 body.in-fullscreen #swipe-hint { display: none; }
 body.in-fullscreen #filter-search-bar { display: none; }
 
@@ -1063,7 +1011,7 @@ body.in-fullscreen #filter-search-bar { display: none; }
 @media (min-width: 768px) {
   :root { --card-w: 200px; --card-h: 124px; }
   #player-wrapper { max-height: 450px; }
-  #filter-search-bar { top: var(--player-sticky-height); }
+  #filter-search-bar { top: 450px; }
   .ctrl-btn { width: 52px; height: 52px; }
   .ctrl-play { width: 72px; height: 72px; }
 }
@@ -1071,197 +1019,14 @@ body.in-fullscreen #filter-search-bar { display: none; }
 @media (min-width: 1024px) {
   #player-section { position: sticky; }
   #player-wrapper { max-height: 520px; }
-  #filter-search-bar { top: var(--player-sticky-height); }
+  #filter-search-bar { top: 520px; }
   .channel-grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
-}
-
-/* ═══════════════════════════════════════════
-   PC LAYOUT — Two-column sidebar design
-   ═══════════════════════════════════════════ */
-@media (min-width: 1200px) {
-  html, body {
-    height: 100dvh;
-    overflow: hidden;
-  }
-
-  #layout-shell {
-    display: flex;
-    height: 100dvh;
-    overflow: hidden;
-  }
-
-  /* ── Left sidebar: player only ── */
-  #pc-sidebar {
-    width: 420px;
-    flex-shrink: 0;
-    height: 100dvh;
-    background: #000;
-    border-right: 1px solid var(--border);
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-  }
-
-  #player-section {
-    position: relative !important;
-    top: auto !important;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-  }
-
-  #player-wrapper {
-    flex: 1;
-    aspect-ratio: unset !important;
-    max-height: none !important;
-    height: auto;
-  }
-
-  body.player-folded #player-section {
-    flex: 0 0 auto;
-  }
-
-  body.player-folded #player-wrapper {
-    flex: 0 0 0 !important;
-    height: 0 !important;
-  }
-
-  #swipe-hint { display: none; }
-
-  /* ── Right content column: scrollable ── */
-  #pc-content {
-    flex: 1;
-    min-width: 0;
-    height: 100dvh;
-    overflow-y: auto;
-    overflow-x: hidden;
-    display: flex;
-    flex-direction: column;
-    background: var(--bg);
-  }
-
-  /* Filter bar sticks at top of pc-content column */
-  #filter-search-bar {
-    position: sticky !important;
-    top: 0 !important;
-    z-index: 90;
-  }
-
-  /* Wider grid on desktop */
-  :root { --card-w: 210px; --card-h: 130px; }
-  .channel-grid { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
-  #channels-main { padding: 24px 0 40px; }
-
-  /* Playlist strip wider pills */
-  .playlist-pill-label { max-width: 200px; }
-
-  /* Footer always at bottom of scroll */
-  #main-footer { margin-top: auto; }
-
-  /* Fullscreen: cover the whole viewport */
-  body.in-fullscreen #player-section {
-    position: fixed !important;
-    inset: 0;
-    z-index: 999;
-    width: 100vw;
-    height: 100dvh;
-  }
-  body.in-fullscreen #player-wrapper {
-    height: 100dvh !important;
-  }
-}
-
-@media (min-width: 1440px) {
-  #pc-sidebar { width: 500px; }
-  :root { --card-w: 220px; --card-h: 138px; }
-}
-
-@media (min-width: 1800px) {
-  #pc-sidebar { width: 580px; }
-  :root { --card-w: 240px; --card-h: 150px; }
-  .channel-grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
 }
 
 /* Landscape phone fullscreen */
 @media (orientation: landscape) and (max-height: 500px) {
   body.in-fullscreen #player-wrapper { height: 100dvh; }
 }
-
-/* ─────────────────────────────────────────
-   VERIFIED TOGGLE SWITCH
-───────────────────────────────────────── */
-.verified-switch {
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-  padding: 7px 14px 7px 10px;
-  background: var(--glass);
-  border: 1px solid var(--border);
-  border-radius: 50px;
-  color: var(--text-dim);
-  cursor: pointer;
-  font-family: 'Exo 2', sans-serif;
-  font-size: 12px;
-  font-weight: 600;
-  white-space: nowrap;
-  transition: all var(--transition);
-  position: relative;
-  flex-shrink: 0;
-}
-
-.verified-switch:hover {
-  border-color: var(--accent);
-  color: var(--accent);
-}
-
-.verified-switch.active {
-  background: linear-gradient(135deg, rgba(0,114,255,0.2), rgba(0,198,255,0.15));
-  border-color: var(--accent);
-  color: var(--accent);
-  box-shadow: 0 0 16px rgba(0,198,255,0.2);
-}
-
-/* Track */
-.vs-track {
-  display: inline-block;
-  width: 32px;
-  height: 18px;
-  background: rgba(255,255,255,0.12);
-  border-radius: 999px;
-  position: relative;
-  transition: background 0.25s;
-  flex-shrink: 0;
-}
-.verified-switch.active .vs-track {
-  background: linear-gradient(135deg, var(--accent2), var(--accent));
-}
-
-/* Thumb */
-.vs-thumb {
-  position: absolute;
-  top: 2px;
-  left: 2px;
-  width: 14px;
-  height: 14px;
-  background: #fff;
-  border-radius: 50%;
-  transition: transform 0.25s cubic-bezier(.4,0,.2,1), box-shadow 0.25s;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.35);
-}
-.verified-switch.active .vs-thumb {
-  transform: translateX(14px);
-  box-shadow: 0 0 8px rgba(0,198,255,0.5);
-}
-
-.vs-icon {
-  width: 14px;
-  height: 14px;
-  flex-shrink: 0;
-  color: inherit;
-}
-
-.vs-label { line-height: 1; }
-
 
 /* ─────────────────────────────────────────
    BACKEND MODE / PLAYLIST STRIP
@@ -1419,54 +1184,3 @@ body.in-fullscreen #filter-search-bar { display: none; }
   background: linear-gradient(135deg, #ffb347, #ff5e62);
 }
 
-
-
-.size-popup-body {
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
-}
-
-.size-popup-body label {
-  font-size: 13px;
-  color: rgba(255,255,255,0.8);
-}
-
-#custom-size-range {
-  width: 100%;
-  accent-color: var(--accent);
-}
-
-.size-value-row {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-}
-
-#custom-size-value {
-  font-size: 15px;
-  font-weight: 700;
-  color: #fff;
-}
-
-@media (max-width: 767px) {
-  #player-open-fab {
-    top: auto;
-    bottom: 14px;
-    right: 14px;
-  }
-
-  #fs-controls {
-    padding: 0 10px;
-  }
-
-  .fs-btn {
-    min-width: 58px;
-    padding: 8px 10px;
-  }
-
-  .fold-bar-channel {
-    max-width: 150px;
-  }
-}

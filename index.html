@@ -11,8 +11,6 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div id="layout-shell">
-  <div id="pc-sidebar">
   <section id="player-section">
     <div id="player-wrapper">
       <video id="main-video" playsinline></video>
@@ -75,18 +73,6 @@
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>
             <span id="res-label">Auto</span>
           </button>
-          <button class="fs-btn mode-btn active" id="fit-screen-btn">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h6M4 4v6M20 4h-6M20 4v6M4 20h6M4 20v-6M20 20h-6M20 20v-6"/></svg>
-            <span>Fit</span>
-          </button>
-          <button class="fs-btn mode-btn" id="normal-screen-btn">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="5" y="5" width="14" height="14" rx="2"/></svg>
-            <span>Normal</span>
-          </button>
-          <button class="fs-btn mode-btn" id="custom-screen-btn">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18M12 3v18"/><circle cx="12" cy="12" r="8"/></svg>
-            <span id="custom-size-label">Size</span>
-          </button>
           <button class="fs-btn" id="minimize-btn">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="4 14 10 14 10 20"/><polyline points="20 10 14 10 14 4"/><line x1="10" y1="14" x2="21" y2="3"/><line x1="3" y1="21" x2="14" y2="10"/></svg>
             <span>Exit</span>
@@ -107,33 +93,16 @@
       </div>
     </div>
 
-    <div id="player-fold-bar" role="button" tabindex="0" aria-expanded="true">
-      <div class="fold-bar-meta">
-        <span class="fold-bar-title">Pinned Player</span>
-        <span class="fold-bar-channel" id="fold-bar-channel">Choose a channel</span>
-      </div>
-      <button class="fold-action-btn" id="player-fold-toggle" type="button" aria-label="Fold player">Fold</button>
-    </div>
-
-    <div id="swipe-hint">
+    <div id="swipe-hint" role="button" tabindex="0" aria-label="Toggle player size">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg>
-      Swipe up for fullscreen
+      <span id="swipe-hint-text">Swipe down to fold • swipe up fullscreen</span>
     </div>
   </section>
-  </div><!-- /pc-sidebar -->
 
-  <div id="pc-content">
   <section id="filter-search-bar">
     <button id="filter-toggle-btn" class="pill-btn">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/></svg>
       Filter
-    </button>
-    <button id="verified-toggle" class="verified-switch" title="Show verified channels only">
-      <span class="vs-track">
-        <span class="vs-thumb"></span>
-      </span>
-      <svg class="vs-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/></svg>
-      <span class="vs-label">Verified</span>
     </button>
     <div id="search-wrapper">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
@@ -159,6 +128,14 @@
         <button class="type-btn" data-type="Movies"><img class="type-icon" src="assets/icons/movies.svg" alt=""> <span>Movies</span></button>
         <button class="type-btn" data-type="Songs"><img class="type-icon" src="assets/icons/songs.svg" alt=""> <span>Songs</span></button>
         <button class="type-btn" data-type="Cartoons"><img class="type-icon" src="assets/icons/cartoons.svg" alt=""> <span>Cartoons</span></button>
+      </div>
+
+      <div class="filter-section-label" style="margin-top:20px">Channel Status</div>
+      <div id="status-filters">
+        <button id="verified-only-btn" class="type-btn" type="button" aria-pressed="false">
+          <svg class="type-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 12l2 2 4-4"/><path d="M12 3l7 4v5c0 5-3.5 8.5-7 9-3.5-.5-7-4-7-9V7l7-4z"/></svg>
+          <span>Verified</span>
+        </button>
       </div>
 
       <div style="display:flex;gap:10px;margin-top:20px">
@@ -273,13 +250,6 @@
       </button>
     </div>
   </footer>
-  </div><!-- /pc-content -->
-</div><!-- /layout-shell -->
-
-  <button id="player-open-fab" type="button" aria-label="Open player">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14"/><path d="M5 12h14"/></svg>
-    <span>Open Player</span>
-  </button>
 
   <div id="lang-popup" class="popup hidden">
     <div class="popup-inner">
@@ -294,21 +264,6 @@
       <h3>Video Quality</h3>
       <div id="res-list"></div>
       <button class="pill-btn ghost" onclick="document.getElementById('res-popup').classList.add('hidden')">Close</button>
-    </div>
-  </div>
-
-  <div id="screen-size-popup" class="popup hidden">
-    <div class="popup-inner">
-      <h3>Custom Screen Size</h3>
-      <div class="size-popup-body">
-        <label for="custom-size-range">Adjust video size</label>
-        <input type="range" id="custom-size-range" min="70" max="150" step="5" value="100">
-        <div class="size-value-row">
-          <span id="custom-size-value">100%</span>
-          <button class="pill-btn ghost" id="custom-size-reset" type="button">Reset to Fit</button>
-        </div>
-      </div>
-      <button class="pill-btn ghost" onclick="document.getElementById('screen-size-popup').classList.add('hidden')">Close</button>
     </div>
   </div>
 
