@@ -6,7 +6,7 @@ const API_REPORT_SUCCESS = '/api/report-success';
 const HIDDEN_KEY = 'kos_hidden_channels';
 const RECENT_KEY = 'kos_recent';
 const USER_ID_KEY = 'kos_user_id';
-const CONTROLS_TIMEOUT = 3500;
+const CONTROLS_TIMEOUT = 2500;
 const FAILURE_TIMEOUT_MS = 18000;
 const HUMAN_VERIFIED_PLAYLIST_ID = 'human_verified';
 const AI_VERIFIED_PLAYLIST_ID = 'ai_verified';
@@ -204,13 +204,31 @@ function setPlaying(active) {
   pauseIcon.style.display = active ? 'block' : 'none';
 }
 
+function areControlsVisible() {
+  return overlay.classList.contains('controls-visible');
+}
+
+function hideControls() {
+  clearTimeout(state.controlsTimer);
+  overlay.classList.remove('controls-visible');
+}
+
 function showControls() {
   overlay.classList.add('controls-visible');
   clearTimeout(state.controlsTimer);
-  if (state.isPlayerFolded) return;
+  if (document.body.classList.contains('menu-open')) return;
   state.controlsTimer = setTimeout(() => {
-    if (state.isPlaying && !state.isPlayerFolded) overlay.classList.remove('controls-visible');
+    if (!document.body.classList.contains('menu-open')) hideControls();
   }, CONTROLS_TIMEOUT);
+}
+
+function toggleControls() {
+  if (document.body.classList.contains('menu-open')) return;
+  if (areControlsVisible()) {
+    hideControls();
+  } else {
+    showControls();
+  }
 }
 
 function getPlaylistFlag(code = '') {
@@ -1089,11 +1107,7 @@ function updateFoldUI() {
 function setPlayerFolded(shouldFold) {
   state.isPlayerFolded = Boolean(shouldFold);
   updateFoldUI();
-  if (state.isPlayerFolded) {
-    clearTimeout(state.controlsTimer);
-  } else {
-    showControls();
-  }
+  showControls();
 }
 
 function togglePlayerFold(forceValue) {
@@ -1307,8 +1321,7 @@ function bindEvents() {
 
   wrapper.addEventListener('mousemove', showControls);
   wrapper.addEventListener('mouseleave', () => {
-    clearTimeout(state.controlsTimer);
-    if (state.isPlaying && !state.isPlayerFolded) overlay.classList.remove('controls-visible');
+    hideControls();
   });
 
   let touchStartX = 0;
@@ -1389,7 +1402,13 @@ function bindEvents() {
       return;
     }
 
-    if (dist < 15 && dt < 300) showControls();
+    const tappedInteractiveControl = Boolean(
+      event.target.closest(
+        '#fs-controls, .player-center-controls, .player-bottom button, .player-top button, .popup, .popup-inner, .side-indicator'
+      )
+    );
+
+    if (dist < 15 && dt < 300 && !tappedInteractiveControl) toggleControls();
     dragSide = null;
   }, { passive: true });
 }
