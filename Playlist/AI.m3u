@@ -993,6 +993,9 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Bangla",Zee 24 Ghanta Source 2
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Bangla",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 ,Zindagi TV Source 1
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 
