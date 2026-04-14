@@ -3551,3 +3551,6 @@ https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="MathrubhumiNews.in@SD",Mathrubhumi News (576p)
 https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="",Mojo TV (576p)
+https://mumt02.tangotv.in/MOJOTV/index.m3u8
