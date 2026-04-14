@@ -18,6 +18,7 @@
   --card-w:    160px;
   --card-h:    100px;
   --radius:    12px;
+  --player-folded-height: 96px;
   --transition: 0.25s cubic-bezier(.4,0,.2,1);
 }
 
@@ -58,6 +59,7 @@ body {
   background: #000;
   overflow: hidden;
   max-height: 56vw;
+  transition: height var(--transition), max-height var(--transition), transform var(--transition);
 }
 
 #main-video {
@@ -70,6 +72,45 @@ body {
 }
 
 #main-video.fit-cover { object-fit: cover; }
+
+body.player-folded #player-wrapper {
+  aspect-ratio: auto;
+  height: var(--player-folded-height);
+  max-height: var(--player-folded-height);
+}
+
+body.player-folded #main-video {
+  object-fit: cover;
+}
+
+body.player-folded #player-overlay {
+  opacity: 1;
+}
+
+body.player-folded .player-top,
+body.player-folded .player-center-controls,
+body.player-folded #fs-controls,
+body.player-folded .channel-subtitle {
+  display: none;
+}
+
+body.player-folded .player-bottom {
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+}
+
+body.player-folded #channel-name-display {
+  min-width: 0;
+}
+
+body.player-folded .ch-name {
+  max-width: min(60vw, 320px);
+}
+
+body.player-folded .icon-btn {
+  flex-shrink: 0;
+}
 
 /* Brightness overlay */
 #brightness-overlay {
@@ -396,82 +437,22 @@ body.in-fullscreen .player-bottom .icon-btn#fullscreen-btn { display: none; }
   align-items: center;
   justify-content: center;
   gap: 6px;
-  width: 100%;
   padding: 8px;
   font-size: 11px;
   color: var(--text-dim);
   letter-spacing: 0.5px;
   animation: nudge 3s ease-in-out infinite;
-  cursor: pointer;
-  background: transparent;
-  border: none;
-}
-#swipe-hint:focus-visible {
-  outline: 2px solid rgba(0,198,255,0.5);
-  outline-offset: -2px;
 }
 @keyframes nudge {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-3px); }
 }
-#swipe-hint svg { width: 14px; height: 14px; }
-
-body.player-folded #player-wrapper {
-  display: flex;
-  align-items: stretch;
-  height: 78px;
-  max-height: none;
-  aspect-ratio: auto;
+#swipe-hint svg {
+  width: 14px;
+  height: 14px;
+  transition: transform var(--transition);
 }
-body.player-folded #main-video {
-  flex: 0 0 126px;
-  width: 126px;
-  height: 100%;
-  object-fit: cover;
-}
-body.player-folded #player-overlay {
-  opacity: 1;
-  background: linear-gradient(to right, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 28%, rgba(0,0,0,0.3) 44%, rgba(0,0,0,0.88) 100%);
-}
-body.player-folded .player-top,
-body.player-folded .player-center-controls,
-body.player-folded #fs-controls,
-body.player-folded #fullscreen-btn,
-body.player-folded #fit-hint,
-body.player-folded #vol-indicator,
-body.player-folded #bright-indicator {
-  display: none;
-}
-body.player-folded .player-bottom {
-  position: absolute;
-  inset: 0;
-  padding: 12px 16px 12px 140px;
-  align-items: center;
-}
-body.player-folded #channel-name-display {
-  max-width: 100%;
-}
-body.player-folded .ch-num {
-  font-size: 10px;
-}
-body.player-folded .ch-name,
-body.player-folded .channel-subtitle {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-body.player-folded .ch-name {
-  font-size: 14px;
-}
-body.player-folded .channel-subtitle {
-  font-size: 10px;
-}
-body.player-folded #swipe-hint {
-  padding: 6px 10px;
-}
-body.player-folded #swipe-hint svg {
-  transform: rotate(180deg);
-}
+body.player-folded #swipe-hint svg { transform: rotate(180deg); }
 
 /* ─────────────────────────────────────────
    FILTER & SEARCH BAR
@@ -486,6 +467,10 @@ body.player-folded #swipe-hint svg {
   position: sticky;
   top: calc(56.25vw);
   z-index: 90;
+}
+
+body.player-folded #filter-search-bar {
+  top: var(--player-folded-height);
 }
 
 .pill-btn {
@@ -638,12 +623,6 @@ body.player-folded #swipe-hint svg {
 }
 
 #content-type-filters {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-#status-filters {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
@@ -1003,13 +982,21 @@ body.in-fullscreen #filter-search-bar { display: none; }
    RESPONSIVE — Larger screens
 ───────────────────────────────────────── */
 @media (min-width: 480px) {
-  :root { --card-w: 180px; --card-h: 112px; }
+  :root {
+    --card-w: 180px;
+    --card-h: 112px;
+    --player-folded-height: 102px;
+  }
   #filter-search-bar { padding: 14px 24px; }
   #channels-main { padding: 20px 0 32px; }
 }
 
 @media (min-width: 768px) {
-  :root { --card-w: 200px; --card-h: 124px; }
+  :root {
+    --card-w: 200px;
+    --card-h: 124px;
+    --player-folded-height: 108px;
+  }
   #player-wrapper { max-height: 450px; }
   #filter-search-bar { top: 450px; }
   .ctrl-btn { width: 52px; height: 52px; }
@@ -1069,6 +1056,27 @@ body.in-fullscreen #filter-search-bar { display: none; }
   color: inherit;
   opacity: 0.75;
   font-size: 11px;
+}
+
+.verified-only-pill {
+  border-style: dashed;
+}
+
+.verified-only-pill .playlist-pill-check {
+  width: 18px;
+  height: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1px solid currentColor;
+  font-size: 11px;
+  line-height: 1;
+}
+
+.verified-only-pill.active .playlist-pill-check {
+  background: rgba(255,255,255,0.22);
+  border-color: rgba(255,255,255,0.4);
 }
 
 #toast {
