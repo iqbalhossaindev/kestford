@@ -128,6 +128,3 @@ http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?c
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangla",Ekushey TV Source 8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 tvg-id="EkusheyTV.bd@SD",Ekushey TV (480p)
-https://ekusheyserver.com/etvlivesn.m3u8
