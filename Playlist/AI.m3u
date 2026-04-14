@@ -3554,3 +3554,6 @@ https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="",Mojo TV (576p)
 https://mumt02.tangotv.in/MOJOTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NambikkaiTV.in@SD",Nambikkai TV (576p) Source 2
+https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
