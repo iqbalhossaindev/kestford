@@ -107,3 +107,6 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 
 #EXTINF:-1 ,130.Mr Bean Show
 http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
+
+#EXTINF:-1 ,131.Sonic
+https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
