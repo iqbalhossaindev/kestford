@@ -110,3 +110,6 @@ http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.f
 
 #EXTINF:-1 ,131.Sonic
 https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
+
+#EXTINF:-1 ,154.Sony Ten 2 [Extra]
+http://103.205.133.14/hls/ten2.m3u8
