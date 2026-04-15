@@ -1120,64 +1120,55 @@ async function init() {
 
 document.addEventListener('DOMContentLoaded', init);
 
+
 const APK_DOWNLOAD_URL = '/Apk/KestFord.apk';
-const APK_PROMPT_NEVER_KEY = 'kestford_apk_prompt_never';
-const apkModal = document.getElementById('apk-download-modal');
-const apkDownloadYes = document.getElementById('apk-download-yes');
-const apkDownloadNo = document.getElementById('apk-download-no');
-const apkNeverAgain = document.getElementById('apk-never-again');
 
-function isAndroidWebView() {
-  const ua = navigator.userAgent || '';
-  return /; wv\)/i.test(ua) || /\bwv\b/i.test(ua) || (/Version\/\d+\.\d+/i.test(ua) && /Chrome\/\d+/i.test(ua) && /Android/i.test(ua));
-}
+(function() {
+  const popup = document.getElementById('apk-popup');
+  const cancelBtn = document.getElementById('apk-cancel-btn');
+  const closeBtn = document.getElementById('apk-popup-close');
+  const downloadBtn = document.getElementById('apk-download-btn');
+  const neverShowCheck = document.getElementById('apk-never-show-check');
+  if (!popup || !cancelBtn || !downloadBtn) return;
 
-function shouldShowApkPrompt() {
-  const ua = navigator.userAgent || '';
-  const isAndroid = /Android/i.test(ua);
-  const isStandalone = window.matchMedia && window.matchMedia('(display-mode: standalone)').matches;
-  const neverShow = localStorage.getItem(APK_PROMPT_NEVER_KEY) === '1';
-  return Boolean(isAndroid && !isStandalone && !isAndroidWebView() && !neverShow && apkModal);
-}
+  const isAndroid = /Android/i.test(navigator.userAgent);
+  const path = (window.location.pathname || '').toLowerCase();
+  const isApkFile = path.endsWith('.apk');
+  const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+  const shouldHideForever = localStorage.getItem('hideApkPopup') === 'true';
 
-function saveApkPromptPreference() {
-  if (apkNeverAgain && apkNeverAgain.checked) {
-    localStorage.setItem(APK_PROMPT_NEVER_KEY, '1');
+  downloadBtn.setAttribute('href', APK_DOWNLOAD_URL);
+
+  function closePopup() {
+    popup.classList.remove('show');
+    popup.setAttribute('aria-hidden', 'true');
   }
-}
 
-function openApkPrompt() {
-  if (!apkModal) return;
-  apkModal.classList.remove('hidden');
-  apkModal.setAttribute('aria-hidden', 'false');
-  document.body.classList.add('modal-open');
-}
-
-function closeApkPrompt() {
-  if (!apkModal) return;
-  saveApkPromptPreference();
-  apkModal.classList.add('hidden');
-  apkModal.setAttribute('aria-hidden', 'true');
-  document.body.classList.remove('modal-open');
-}
-
-function setupApkPrompt() {
-  if (!apkModal || !apkDownloadYes || !apkDownloadNo) return;
-  apkDownloadYes.href = APK_DOWNLOAD_URL;
-  apkDownloadYes.addEventListener('click', () => {
-    saveApkPromptPreference();
-    closeApkPrompt();
-  });
-  apkDownloadNo.addEventListener('click', closeApkPrompt);
-  apkModal.addEventListener('click', (event) => {
-    if (event.target.classList.contains('apk-modal-backdrop')) closeApkPrompt();
-  });
-  window.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape') closeApkPrompt();
-  });
-  if (shouldShowApkPrompt()) {
-    setTimeout(openApkPrompt, 900);
+  if (isAndroid && !isApkFile && !isStandalone && !shouldHideForever) {
+    popup.classList.add('show');
+    popup.setAttribute('aria-hidden', 'false');
   }
-}
 
-setupApkPrompt();
+  cancelBtn.addEventListener('click', function() {
+    if (neverShowCheck && neverShowCheck.checked) {
+      localStorage.setItem('hideApkPopup', 'true');
+    }
+    closePopup();
+  });
+
+  if (closeBtn) {
+    closeBtn.addEventListener('click', function() {
+      if (neverShowCheck && neverShowCheck.checked) {
+        localStorage.setItem('hideApkPopup', 'true');
+      }
+      closePopup();
+    });
+  }
+
+  downloadBtn.addEventListener('click', function() {
+    if (neverShowCheck && neverShowCheck.checked) {
+      localStorage.setItem('hideApkPopup', 'true');
+    }
+    closePopup();
+  });
+})();
