@@ -3587,3 +3587,6 @@ https://mumt02.tangotv.in/UTVANANDAM/index.m3u8
 
 #EXTINF:-1 tvg-id="VaanavilTV.in@SD",Vaanavil TV (360p)
 http://198.27.83.207:2550/VAANAVIL_SD/index.m3u8
+
+#EXTINF:-1 tvg-id="VissaTV.in@SD",Vissa TV (576p)
+https://mumt02.tangotv.in/VISSATV/index.m3u8
