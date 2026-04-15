@@ -3572,9 +3572,3 @@ https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc4
 
 #EXTINF:-1 tvg-id="",Saang TV (720p)
 https://mumt02.tangotv.in/SAANGTV/index.m3u8
-
-#EXTINF:-1 group-title="Sports | Italy",Aci Sport TV
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-
-#EXTINF:-1 group-title="Sports | France",Africa 24 Sport
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
