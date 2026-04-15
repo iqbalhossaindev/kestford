@@ -3617,3 +3617,42 @@ https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
 
 #EXTINF:-1 tvg-id="SuchTV.pk@SD",Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZindagiTV.pk@SD",Zindagi TV (576p) [Not 24/7]
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainInternational.bh@SD",Bahrain International (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainQuran.bh@SD",Bahrain Quran (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports1.bh@SD",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports2.bh@SD",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainTV.bh@SD",Bahrain TV (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Aghapy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" tvg-id="AghapyTV.eg" tvg-country="EG" group-title="Egypt",Aghapy TV
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AghapyTV.eg@SD",Aghapy TV (1080p) [Not 24/7]
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Ghad Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png" tvg-id="AlGhadPlus.eg" tvg-country="EG" group-title="Egypt",Al Ghad Plus
+https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Ghad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png" tvg-id="AlGhadTV.eg" tvg-country="EG" group-title="Egypt",Al Ghad TV
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+
+#EXTINF:-1 tvg-id="AlGhadTV.eg@SD",Al Ghad TV (1080p)
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+
+#EXTINF:-1 tvg-name="Alhayat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Al-Hayat_Media_Center_Logo_%28variant_2%29.svg" tvg-id="AlhayatTV.eg" tvg-country="EG" group-title="Egypt",Alhayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATVSat.us@SD",ATVSat (1080p) [Not 24/7]
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
