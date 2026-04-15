@@ -78,6 +78,9 @@ https://tplay.live/out/bangladesh/ekhontv.index.m3u8
 #EXTINF:-1 group-title="Pakistani",224.Subrang TV
 https://cdn20.liveonlineservices.com/hls/subrang.m3u8
 
+#EXTINF:-1 ,5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
 #EXTINF:-1 ,Bloomberg Asia Source 2
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
@@ -114,5 +117,5 @@ http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1 ,154.Sony Ten 3 [Extra] Source 2
 http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
 
-#EXTINF:-1 group-title="Pakistani",226.Tag TV 2
-https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+#EXTINF:-1 ,159.Sky Sports Cricket
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
