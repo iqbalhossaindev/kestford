@@ -3872,3 +3872,24 @@ https://live.presstv.ir/hls/ifilmfa.m3u8
 
 #EXTINF:-1 tvg-id="IlamTV.ir@SD",Ilam
 https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IranJewishTV.ir@SD",Iran Jewish TV
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IranPress.ir@SD",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+
+#EXTINF:-1 tvg-id="IRIBUHD.ir@4K",IRIB UHD (2160p)
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IRIB1.ir@SD",IRIB1
+https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IRIB2.ir@SD",IRIB2
+https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IRIB3.ir@SD",IRIB3
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IRIB4.ir@SD",IRIB4
+https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
