@@ -2,19 +2,18 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>Kestford OS — Live TV</title>
   <link rel="icon" type="image/svg+xml" href="assets/icons/brand-tv.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preconnect" href="https://flagcdn.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Exo+2:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <section id="player-section">
     <div id="player-wrapper">
-      <video id="main-video" playsinline preload="metadata"></video>
+      <video id="main-video" playsinline></video>
       <div id="brightness-overlay"></div>
 
       <div id="fit-hint">
@@ -60,7 +59,7 @@
             <span class="ch-name" id="ch-name">Choose a channel</span>
             <span class="channel-subtitle" id="ch-playlist-name">Waiting for playlists…</span>
           </div>
-          <button class="icon-btn" id="fullscreen-btn" title="Full screen">
+          <button class="icon-btn" id="fullscreen-btn" title="Fullscreen">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 3 21 3 21 9"/><polyline points="9 21 3 21 3 15"/><line x1="21" y1="3" x2="14" y2="10"/><line x1="3" y1="21" x2="10" y2="14"/></svg>
           </button>
         </div>
@@ -76,7 +75,7 @@
           </button>
           <button class="fs-btn" id="minimize-btn">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="4 14 10 14 10 20"/><polyline points="20 10 14 10 14 4"/><line x1="10" y1="14" x2="21" y2="3"/><line x1="3" y1="21" x2="14" y2="10"/></svg>
-            <span>Exit full screen</span>
+            <span>Exit</span>
           </button>
         </div>
 
@@ -96,7 +95,7 @@
 
     <div id="swipe-hint">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg>
-      <span id="swipe-hint-text">Swipe up to fold player</span>
+      Swipe up for fullscreen
     </div>
   </section>
 
@@ -237,18 +236,40 @@
       </div>
       <p class="footer-copy">Copyright © 2025 Kestford OS</p>
       <p class="footer-launch">Launch Year: 2025</p>
-      <button class="footer-dev-btn" onclick="window.open('https://iqbalhossain.bio.link','_blank')">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-        Meet the Developer
-      </button>
+      <div class="footer-actions">
+        <a class="footer-apk-btn" href="/Apk/KestFord.apk" download>
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M3 20.5V3.5C3 2.67 3.67 2 4.5 2h15c.83 0 1.5.67 1.5 1.5v17c0 .83-.67 1.5-1.5 1.5h-15c-.83 0-1.5-.67-1.5-1.5zm9-16.75c-.41 0-.75.34-.75.75v7.19l-2.47-2.47a.75.75 0 1 0-1.06 1.06l3.75 3.75c.29.29.77.29 1.06 0l3.75-3.75a.75.75 0 1 0-1.06-1.06l-2.47 2.47V4.5c0-.41-.34-.75-.75-.75zM8 18a.75.75 0 0 0 0 1.5h8A.75.75 0 0 0 16 18H8z"/></svg>
+          <span>Download APK</span>
+        </a>
+        <button class="footer-dev-btn" onclick="window.open('https://iqbalhossain.bio.link','_blank')">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          Meet the Developer
+        </button>
+      </div>
     </div>
   </footer>
+
+  <div id="apk-download-modal" class="apk-modal hidden" aria-hidden="true">
+    <div class="apk-modal-backdrop"></div>
+    <div class="apk-modal-card" role="dialog" aria-modal="true" aria-labelledby="apk-modal-title">
+      <div class="apk-modal-icon-wrap">
+        <img src="assets/icons/brand-tv.svg" alt="KestFord TV">
+      </div>
+      <p class="apk-modal-kicker">Android App Available</p>
+      <h3 id="apk-modal-title">Download KestFord TV APK?</h3>
+      <p class="apk-modal-text">Install the Android app for faster access, a full screen experience, and your TV channels on the go.</p>
+      <div class="apk-modal-actions">
+        <a id="apk-download-yes" class="apk-yes-btn" href="/Apk/KestFord.apk" download>Yes, Download</a>
+        <button id="apk-download-no" class="apk-no-btn" type="button">No, Thanks</button>
+      </div>
+    </div>
+  </div>
 
   <div id="lang-popup" class="popup hidden">
     <div class="popup-inner">
       <h3>Audio Language</h3>
       <div id="lang-list"></div>
-      <button class="pill-btn ghost" onclick="closePopup(document.getElementById('lang-popup'))">Close</button>
+      <button class="pill-btn ghost" onclick="document.getElementById('lang-popup').classList.add('hidden')">Close</button>
     </div>
   </div>
 
@@ -256,7 +277,7 @@
     <div class="popup-inner">
       <h3>Video Quality</h3>
       <div id="res-list"></div>
-      <button class="pill-btn ghost" onclick="closePopup(document.getElementById('res-popup'))">Close</button>
+      <button class="pill-btn ghost" onclick="document.getElementById('res-popup').classList.add('hidden')">Close</button>
     </div>
   </div>
 
