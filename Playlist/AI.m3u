@@ -3572,3 +3572,6 @@ https://mumt02.tangotv.in/PUNJABITV/index.m3u8
 
 #EXTINF:-1 tvg-id="RaftaarMedia.in@SD",Raftaar Media (240p)
 https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Saang TV (720p)
+https://mumt02.tangotv.in/SAANGTV/index.m3u8
