@@ -3773,3 +3773,27 @@ https://familyhls.avatv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="AVASeries.ir@SD",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD",Azerbaijan Gharbi
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BaranTV.ir@SD",Baran
+https://ncdn.telewebion.ir/baran/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BoushehrTV.ir@SD",Bushehr
+https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CafeFilm.ir@SD",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="CafeTradeTV.ir@SD",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTV.ir@SD",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="DatisTV.ir@SD",Datis TV Source 1
+https://dathls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="DejTV.ir@HD",Dej TV
+https://rdejhls.wns.live/hls/stream.m3u8
