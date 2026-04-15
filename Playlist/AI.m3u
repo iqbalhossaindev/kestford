@@ -3578,3 +3578,6 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
 #EXTINF:-1 tvg-id="SiriKannada.in@SD",Siri Kannada (576p)
 https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiOne.in@SD",Thanthi One (576p)
+https://mumt02.tangotv.in/THANTHIONE/index.m3u8
