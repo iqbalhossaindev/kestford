@@ -3581,3 +3581,9 @@ https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="ThanthiOne.in@SD",Thanthi One (576p)
 https://mumt02.tangotv.in/THANTHIONE/index.m3u8
+
+#EXTINF:-1 tvg-id="",UTV Anandam (576p)
+https://mumt02.tangotv.in/UTVANANDAM/index.m3u8
+
+#EXTINF:-1 tvg-id="VaanavilTV.in@SD",Vaanavil TV (360p)
+http://198.27.83.207:2550/VAANAVIL_SD/index.m3u8
