@@ -236,34 +236,18 @@
       </div>
       <p class="footer-copy">Copyright © 2025 Kestford OS</p>
       <p class="footer-launch">Launch Year: 2025</p>
-      <div class="footer-actions">
-        <a class="footer-apk-btn" href="/Apk/KestFord.apk" download>
-          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M3 20.5V3.5C3 2.67 3.67 2 4.5 2h15c.83 0 1.5.67 1.5 1.5v17c0 .83-.67 1.5-1.5 1.5h-15c-.83 0-1.5-.67-1.5-1.5zm9-16.75c-.41 0-.75.34-.75.75v7.19l-2.47-2.47a.75.75 0 1 0-1.06 1.06l3.75 3.75c.29.29.77.29 1.06 0l3.75-3.75a.75.75 0 1 0-1.06-1.06l-2.47 2.47V4.5c0-.41-.34-.75-.75-.75zM8 18a.75.75 0 0 0 0 1.5h8A.75.75 0 0 0 16 18H8z"/></svg>
-          <span>Download APK</span>
-        </a>
-        <button class="footer-dev-btn" onclick="window.open('https://iqbalhossain.bio.link','_blank')">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-          Meet the Developer
-        </button>
-      </div>
+      <button class="footer-dev-btn" onclick="window.open('https://iqbalhossain.bio.link','_blank')">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+        Meet the Developer
+      </button>
     </div>
-  </footer>
+  
+<a class="footer-apk-btn" href="/Apk/KestFord.apk" download aria-label="Download Android APK">
+  <span class="footer-apk-icon">▶</span>
+  <span>Download APK</span>
+</a>
 
-  <div id="apk-download-modal" class="apk-modal hidden" aria-hidden="true">
-    <div class="apk-modal-backdrop"></div>
-    <div class="apk-modal-card" role="dialog" aria-modal="true" aria-labelledby="apk-modal-title">
-      <div class="apk-modal-icon-wrap">
-        <img src="assets/icons/brand-tv.svg" alt="KestFord TV">
-      </div>
-      <p class="apk-modal-kicker">Android App Available</p>
-      <h3 id="apk-modal-title">Download KestFord TV APK?</h3>
-      <p class="apk-modal-text">Install the Android app for faster access, a full screen experience, and your TV channels on the go.</p>
-      <div class="apk-modal-actions">
-        <a id="apk-download-yes" class="apk-yes-btn" href="/Apk/KestFord.apk" download>Yes, Download</a>
-        <button id="apk-download-no" class="apk-no-btn" type="button">No, Thanks</button>
-      </div>
-    </div>
-  </div>
+</footer>
 
   <div id="lang-popup" class="popup hidden">
     <div class="popup-inner">
@@ -285,5 +269,22 @@
 
   <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.7/dist/hls.min.js"></script>
   <script src="app.js"></script>
+
+<div id="apk-popup" class="apk-popup-overlay" aria-hidden="true">
+  <div class="apk-popup-card" role="dialog" aria-modal="true" aria-labelledby="apk-popup-title">
+    <div class="apk-popup-badge">Android App</div>
+    <h2 id="apk-popup-title">Download the KestFord Android app?</h2>
+    <p class="apk-popup-text">Install the latest APK directly from the website for a faster app experience.</p>
+    <label class="apk-never-show">
+      <input type="checkbox" id="apk-never-show-check">
+      <span>Never show this again</span>
+    </label>
+    <div class="apk-popup-actions">
+      <a id="apk-download-btn" class="apk-download-btn" href="/Apk/KestFord.apk" download>Download APK</a>
+      <button id="apk-cancel-btn" class="apk-cancel-btn" type="button">Cancel</button>
+    </div>
+  </div>
+</div>
+
 </body>
 </html>
