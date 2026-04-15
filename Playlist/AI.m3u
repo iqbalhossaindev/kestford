@@ -3614,3 +3614,6 @@ https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
 
 #EXTINF:-1 tvg-id="GodStandsTV.pk@Urdu",God Stands TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
+
+#EXTINF:-1 tvg-id="SuchTV.pk@SD",Such TV
+https://video.primexsports.com/suchnews/live/playlist.m3u8
