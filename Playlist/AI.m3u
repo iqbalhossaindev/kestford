@@ -3797,3 +3797,72 @@ https://dathls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="DejTV.ir@HD",Dej TV
 https://rdejhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="DenaTV.ir@SD",Dena
+https://ncdn.telewebion.ir/dena/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Energy.ir@SD",Energy
+https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EshraghNetwork.ir@SD",Eshragh
+https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FarsTV.ir@SD",Fars
+https://ncdn.telewebion.ir/fars/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX1.ir@SD",FX TV 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="FX2.ir@SD",FX TV 2
+https://toonixhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GoldStar.ir@SD",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GolkhaneTv.ir@SD",Golkhane TV
+https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GrandCinema.tr@SD",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="HabibTV.ir@SD",Habib TV
+https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HamedanTV.ir@SD",Hamedan
+https://ncdn.telewebion.ir/sina/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HamoonTV.ir@SD",Hamoon
+https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomePlus.ir@SD",Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ICCplus.us@SD",ICC Plus (1080p)
+https://icchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ICnet1.ca@SD",icnet 1
+https://icnet1hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ICnet2.ca@SD",icnet 2
+https://icnet2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="icnet3.ca@SD",icnet 3
+https://ic3hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD",iFilm
+https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="iFilm2.ir@SD",iFilm 2
+https://live.presstv.ir/hls/ifilm2.m3u8
+
+#EXTINF:-1 tvg-id="iFilmArabic.ir@SD",iFilm Arabic
+https://live.presstv.ir/hls/ifilmar.m3u8
+
+#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD",iFilm English
+https://live.presstv.ir/hls/ifilmen.m3u8
+
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD",iFilm Persian
+https://live.presstv.ir/hls/ifilmfa.m3u8
+
+#EXTINF:-1 tvg-id="IlamTV.ir@SD",Ilam
+https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
