@@ -3824,3 +3824,6 @@ https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports | France",Africa 24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg@SD",Rotana Cinema Egypt (1080p) [Geo-blocked]
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
