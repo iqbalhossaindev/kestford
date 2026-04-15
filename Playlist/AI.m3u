@@ -4058,3 +4058,30 @@ https://ncdn.telewebion.ir/sabz/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SahandTV.ir@SD",Sahand
 https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SalamatTV.ir@SD",Salamat
+https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SarbedaranTV.ir@SD",Sarbedaran
+https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sat7Pars.cy@SD",Sat7 Pars
+https://sat7phls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SemnanTV.ir@SD",Semnan
+https://ncdn.telewebion.ir/semnan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SepehrTV.ir@SD",Sepehr
+https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SetarehTV.uk@HD",Setareh TV
+https://setarehhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Shabakeh7.us@SD",Shabakeh 7
+https://sh7hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL1.ir@SD",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL2.ir@SD",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
