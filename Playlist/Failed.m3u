@@ -125,6 +125,3 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV Source 5
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 group-title="Sports | Italy",Aci Sport TV
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
