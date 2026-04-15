@@ -4085,3 +4085,27 @@ https://slonehls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="SL2.ir@SD",SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="T2TV.ir@SD",T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TabarestanTV.ir@SD",Tabarestan
+https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Taftan
+https://ncdn.telewebion.ir/taftan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tamasha.ir@SD",Tamasha
+https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBNNejatTV.ir@SD",TBN Nejat TV
+https://hls.nejat.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TehranTV.ir@SD",Tehran
+https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tekyemadahi.ir@SD",Tekyemadahi
+https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVITN.ir@SD",TV ITN
+https://itnhls.wns.live/hls/stream.m3u8
