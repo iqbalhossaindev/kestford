@@ -3743,3 +3743,33 @@ https://live2.alalam.ir/alalam.m3u8
 
 #EXTINF:-1 tvg-id="AlborzTV.ir@SD",Alborz
 https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmouzeshTV.ir@SD",Amouzesh
+https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AraTV.ir@SD",Ara
+https://ncdn.telewebion.ir/ara/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AraxTV.ir@SD",Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ArkoTV.ir@SD",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ArvanTV.ir@SD",Arvan TV Source 1
+https://arvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AsilTV.ir@SD",Asil TV (576p)
+https://live.asil.tv/asiltv/index.m3u8
+
+#EXTINF:-1 tvg-id="AssiratTV.ir@SD",Assirat TV (576p)
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtrakTV.ir@SD",Atrak
+https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AVAFamily.ir@SD",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AVASeries.ir@SD",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
