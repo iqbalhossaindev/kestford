@@ -113,3 +113,6 @@ https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
 
 #EXTINF:-1 ,154.Sony Ten 2 [Extra]
 http://103.205.133.14/hls/ten2.m3u8
+
+#EXTINF:-1 ,154.Sony Ten 3 [Extra] Source 2
+http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
