@@ -146,3 +146,6 @@ http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg" group-title="Bangla",R Plus News Source 1
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
+#EXTINF:-1 ,Arirang Source 1
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
