@@ -3893,12 +3893,3 @@ https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIB4.ir@SD",IRIB4
 https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IRINN.ir@SD",IRINN Live Farsi News
-https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IRINN2.ir@SD",IRINN2 Live Farsi News
-https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IsfahanTV.ir@SD",Isfahan
-https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
