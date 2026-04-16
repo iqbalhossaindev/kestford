@@ -4958,3 +4958,24 @@ https://live.enhdtv.com:8081/8150/index.m3u8
 
 #EXTINF:-1 tvg-id="",60 Days In by A&E (720p)
 https://d2b8jic9gadlvy.cloudfront.net/v1/aenetworks_60daysin_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",60 Minutes
+https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
+
+#EXTINF:-1 tvg-id="70sCinema.us@SD",70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+
+#EXTINF:-1 tvg-id="80sRewind.us@SD",80s Rewind
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+
+#EXTINF:-1 tvg-id="",90's Kids
+https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+
+#EXTINF:-1 tvg-id="",90s Kids TV 2
+https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
+
+#EXTINF:-1 tvg-id="90sThrowback.us@SD",90s Throwback
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+
+#EXTINF:-1 tvg-id="",A&E Crime 360 (720p) Source 1
+https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
