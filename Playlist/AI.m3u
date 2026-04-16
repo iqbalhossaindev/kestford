@@ -4847,3 +4847,123 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b2
 
 #EXTINF:-1 tvg-id="WatarRadio.ae@SD",Watar Radio (1080p)
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",00s Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+
+#EXTINF:-1 tvg-id="",21 Jump Street (720p)
+https://d1oefjzrirx6fc.cloudfront.net/21_Jump_Street_SONO6.m3u8
+
+#EXTINF:-1 tvg-id="KERODT1.us@SD",23 ABC Bakersfield CA (KERO) (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
+#EXTINF:-1 tvg-id="24HourFreeMovies.us@SD",24 Hour Free Movies (720p) Source 1
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
+
+#EXTINF:-1 tvg-id="24HourFreeMovies.us@SD",24 Hour Free Movies (720p) Source 2
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us@SD",30A Darcizzle Offshore (720p)
+https://30a-tv.com/darcizzle.m3u8
+
+#EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us@SD",30A Georgia Hollywood Review TV (720p)
+https://30a-tv.com/gh.m3u8
+
+#EXTINF:-1 tvg-id="30AGolfKingdom.us@SD",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+
+#EXTINF:-1 tvg-id="30AInvestmentPitch.us@SD",30A Investment Pitch (720p) Source 1
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+
+#EXTINF:-1 tvg-id="30AInvestmentPitch.us@SD",30A Investment Pitch (720p) Source 2
+https://www.30a-tv.com/InvPit.m3u8
+
+#EXTINF:-1 tvg-id="30ALionelNation.us@SD",30A Lionel Nation TV
+https://30a-tv.com/ln.m3u8
+
+#EXTINF:-1 tvg-id="30ALoomeredTV.us@SD",30A Loomered TV
+https://30a-tv.com/loomer.m3u8
+
+#EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us@SD",30A Luxe Life Discovered (720p)
+https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+
+#EXTINF:-1 tvg-id="30AMusic.us@SD",30A Music (720p)
+https://30a-tv.com/music.m3u8
+
+#EXTINF:-1 tvg-id="30AMusic.us@SD",30A Music Channel (720p)
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+
+#EXTINF:-1 tvg-id="30ARidiculousTV.us@SD",30A Ridiculous TV (720p)
+https://30a-tv.com/feeds/720p/63.m3u8
+
+#EXTINF:-1 tvg-id="30ASidewalks.us@SD",30A Sidewalks (720p)
+https://30a-tv.com/sidewalks.m3u8
+
+#EXTINF:-1 tvg-id="30ATelevisionChannel.us@SD",30A Television Channel (720p)
+https://30a-tv.com/feeds/masters/30atv.m3u8
+
+#EXTINF:-1 tvg-id="30ATheBeachShow.us@SD",30A The Beach Show (720p)
+https://30a-tv.com/beachy.m3u8
+
+#EXTINF:-1 tvg-id="30ATVClassicMovies.us@SD",30A TV Classic Movies (720p)
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+
+#EXTINF:-1 tvg-id="30AWeLoveCars.us@SD",30A We Love Cars (720p)
+https://30a-tv.com/feeds/vidaa/cars.m3u8
+
+#EXTINF:-1 tvg-id="3ABNCanada.ca@SD",3ABN Canada (720p)
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
+
+#EXTINF:-1 tvg-id="DareToDreamNetwork.us@SD",3ABN Dare To Dream Network
+https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNEnglish.us@SD",3ABN English
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNFrench.us@SD",3ABN French
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNInternational.us@SD",3ABN International Network
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNKids.us@SD",3ABN Kids Network
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNLatino.us@SD",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us@SD",3ABN Praise Him Music Network
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us@SD",3ABN Proclaim! Network
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="48Hours.us@US",48 Hours (1080p)
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+
+#EXTINF:-1 tvg-id="48Hours.us@US",48 Hours (720p)
+https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
+
+#EXTINF:-1 tvg-id="",4K Travel TV (1080p)
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="",4UV (1080p)
+https://d3qg1liq0unuxm.cloudfront.net/4UV.m3u8
+
+#EXTINF:-1 tvg-id="",50 Cent Action (720p)
+https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
+
+#EXTINF:-1 tvg-id="6WiseTv.us@SD",6 Wise Tv (720p)
+https://live.enhdtv.com:8081/8150/index.m3u8
+
+#EXTINF:-1 tvg-id="",60 Days In by A&E (720p)
+https://d2b8jic9gadlvy.cloudfront.net/v1/aenetworks_60daysin_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",60 Minutes
+https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
+
+#EXTINF:-1 tvg-id="70sCinema.us@SD",70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+
+#EXTINF:-1 tvg-id="80sRewind.us@SD",80s Rewind
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
