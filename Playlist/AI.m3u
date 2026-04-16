@@ -5303,3 +5303,75 @@ https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playl
 
 #EXTINF:-1 tvg-id="DUST.us@SD",Alien Nation by DUST (1080p) Source 2
 https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlientoVision.us@SD",Aliento Vision (720p) [Not 24/7]
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us@SD",Alkarma TV Australia (1080p)
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us@SD",Alkarma TV Australia (1080p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVFamily.us@SD",Alkarma TV Family (1080p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVMiddleEast.us@SD",Alkarma TV Middle East (1080p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVNorthAmericaCanada.us@SD",Alkarma TV North America & Canada (1080p) [Not 24/7]
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVPraise.us@SD",Alkarma TV Praise (720p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVTalmazaDiscipleship.us@SD",Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us@SD",Alkarma TV Youth & English (1080p) [Not 24/7]
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",All Babies Channel (720p)
+https://d390zi2w1jc4t4.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="",All Out Reality (1080p)
+https://d3kyucsyhwa3ht.cloudfront.net/All_Out_Reality.m3u8
+
+#EXTINF:-1 tvg-id="AllRealitybyWEtv.us@SD",All Reality WE tv (720p)
+https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
+
+#EXTINF:-1 tvg-id="AllRealitybyWEtv.us@SD",All Reality We TV (720p) [Geo-blocked]
+https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AllWeddingsWEtv.us@SD",All Weddings We TV
+https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AllWeddingsWEtv.us@SD",All Weddings We TV (720p) [Geo-blocked]
+https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ALLBLKGems.us@SD",ALLBLK Gems
+https://jmp2.uk/plu-6793ea255225b515b4ba91a7.m3u8
+
+#EXTINF:-1 tvg-id="ALLBLKGems.us@SD",ALLBLK Gems (720p)
+https://df1zke3zj042m.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlmagdTVMiddleEast.us@SD",Almagd TV Middle East (1080p) [Not 24/7]
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlmagdTVNorthAmerica.us@SD",Almagd TV North America (1080p)
+https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Alone By History (720p)
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us@SD",Always Funny Videos (720p) Source 1
+https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us@SD",Always Funny Videos (720p) Source 2
+https://d24l3uppudokci.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us@SD",AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMCenEspanol.us@SD",AMC en Español (720p) [Geo-blocked]
+https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
