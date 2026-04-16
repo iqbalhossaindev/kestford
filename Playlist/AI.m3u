@@ -5087,3 +5087,90 @@ https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327
 
 #EXTINF:-1 tvg-id="KGUNDT1.us@SD",ABC 9 Tucson AZ (KGUN) (720p)
 https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD",ABC News Live (1080p) [Geo-blocked]
+https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD",ABC News Live (720p) Source 1
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD",ABC News Live (720p) Source 2
+https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive1.us@SD",ABC News Live 1 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive10.us@SD",ABC News Live 10 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive2.us@SD",ABC News Live 2 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive3.us@SD",ABC News Live 3 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive4.us@SD",ABC News Live 4 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master_4000.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive5.us@SD",ABC News Live 5 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master_4000.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive6.us@SD",ABC News Live 6 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive7.us@SD",ABC News Live 7 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive8.us@SD",ABC News Live 8 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive9.us@SD",ABC News Live 9 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
+
+#EXTINF:-1 tvg-id="WTXLDT1.us@SD",ABC Tallahassee (720p) [Not 24/7]
+https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
+
+#EXTINF:-1 tvg-id="WWAYDT1.us@SD",ABC WWAY 3
+https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
+
+#EXTINF:-1 tvg-id="ABNAfghanistan.us@SD",ABN Afghanistan (540p)
+https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
+
+#EXTINF:-1 tvg-id="ABNAfrica.us@SD",ABN Africa (480p)
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us@SD",ABN Bible Movies (720p)
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="ABNChina.us@SD",ABN China (720p)
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+
+#EXTINF:-1 tvg-id="",ABN Freedom of Speech
+https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8
+
+#EXTINF:-1 tvg-id="",ABN I AM
+https://mediaserver.abnvideos.com/streams/i_am_.m3u8
+
+#EXTINF:-1 tvg-id="",ABN Son of God
+https://mediaserver.abnvideos.com/streams/son_of_god_.m3u8
+
+#EXTINF:-1 tvg-id="ABNTVIndia.us@SD",ABN TV India (540p)
+https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+
+#EXTINF:-1 tvg-id="ABNUrdu.us@SD",ABN Urdu (540p)
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+
+#EXTINF:-1 tvg-id="",Absinthe TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/254b2fef-a3dd-4a6d-af18-38711e02e31c/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AcapulcoShore.us@SD",Acapulco Shore
+https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
+
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD",ACC Digital Network (1080p)
+https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
+
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD",ACCDN (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD",ACCDN (1080p) Source 2
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
