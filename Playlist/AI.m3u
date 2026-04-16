@@ -4967,3 +4967,27 @@ https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 
 #EXTINF:-1 tvg-id="80sRewind.us@SD",80s Rewind
 https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+
+#EXTINF:-1 tvg-id="",90's Kids
+https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+
+#EXTINF:-1 tvg-id="",90s Kids TV 2
+https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
+
+#EXTINF:-1 tvg-id="90sThrowback.us@SD",90s Throwback
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+
+#EXTINF:-1 tvg-id="",A&E Crime 360 (720p) Source 1
+https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
+
+#EXTINF:-1 tvg-id="Crime360.us@SD",A&E Crime 360 (720p) Source 2
+https://live-manifest.production-public.tubi.io/live/d65f6697-9fd2-477f-a56d-26cea1b939b7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AE.us@East",A&E East (360p) [Not 24/7]
+https://tvpass.org/live/AEEast/sd
+
+#EXTINF:-1 tvg-id="AE.us@East",A&E East (720p) [Not 24/7]
+https://tvpass.org/live/AEEast/hd
+
+#EXTINF:-1 tvg-id="AELatinAmerica.us@South",A&E Latin America South (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8
