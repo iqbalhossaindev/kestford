@@ -4748,3 +4748,9 @@ https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MaxMusic.in@HD",Max Music (1080p)
 https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+
+#EXTINF:-1 tvg-name="Dijlah TV" tvg-logo="https://i.imgur.com/FJEeYiz.png" tvg-id="DijlahTV.iq" tvg-country="IQ" group-title="Iraq",Dijlah TV
+https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DijlahTV.iq@SD",Dijlah TV (1080p)
+https://ghaasiflu.online/Dijlah/index.m3u8
