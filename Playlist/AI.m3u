@@ -4139,36 +4139,3 @@ https://zedhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="ABNsat.iq@SD",ABNsat (720p)
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
-
-#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD",Afarin Baxcha (1080p)
-https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AfarinTV.iq@SD",Afarin TV (720p) [Not 24/7]
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Al-Hurra" tvg-logo="https://i.imgur.com/0izeu5z.png" tvg-id="AlHurra.iq" tvg-country="IQ" group-title="Iraq",Al-Hurra
-https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Al-Hurra Iraq" tvg-logo="https://i.imgur.com/mXBZEQP.png" tvg-id="AlhurraTVIraq.iq" tvg-country="IQ" group-title="Iraq",Al-Hurra Iraq
-https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlJawadainTV.iq@SD",Al-Jawadain TV (1080p) [Not 24/7]
-https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Al-Sharqiya" tvg-logo="https://i.imgur.com/bPYyXNf.png" tvg-id="AlSharqiya.iq" tvg-country="IQ" group-title="Iraq",Al-Sharqiya
-https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlSharqiya.iq@SD",Al-Sharqiya (1080p)
-https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Al-Sharqiya News" tvg-logo="https://i.imgur.com/P6p17ZY.jpg" tvg-id="AlSharqiyaNews.iq" tvg-country="IQ" group-title="Iraq",Al-Sharqiya News
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq@SD",Al-Sharqiya News (1080p)
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlQanat9.tr@SD",Alqanat9 TV (1080p)
-https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-
-#EXTINF:-1 tvg-id="Alquran.iq@SD",Alquran (1080p)
-https://ktvlive.online/stream/hls/ch1.m3u8
