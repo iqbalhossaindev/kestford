@@ -4721,27 +4721,3 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 
 #EXTINF:-1 tvg-id="AlResalah.sa@SD",Al Resalah (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LBC.sa@SD",LBC (1080p) [Geo-blocked]
-https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD",Rotana Cinema KSA (1080p) [Geo-blocked]
-https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RotanaClassic.sa@SD",Rotana Classic (1080p) [Geo-blocked]
-https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RotanaClip.sa@SD",Rotana Clip (1080p) [Geo-blocked]
-https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RotanaComedy.sa@SD",Rotana Comedy (1080p) [Geo-blocked]
-https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RotanaDrama.sa@SD",Rotana Drama (1080p) [Geo-blocked]
-https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa@SD",Rotana Khalijia (1080p) [Geo-blocked]
-https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RotanaMusic.sa@SD",Rotana Music (1080p) [Geo-blocked]
-https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
