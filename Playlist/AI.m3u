@@ -4337,3 +4337,84 @@ https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 
 #EXTINF:-1 tvg-id="KantipurTV.np@SD",Kantipur TV (1080p)
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlistiqamaTV.om@SD",Alistiqama TV (576p)
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+
+#EXTINF:-1 tvg-id="OmanTVCultural.om@SD",Oman Althakafia (1080p)
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="OmanTVMubashir.om@SD",Oman Mubashir (1080p)
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="OmanSportsTV.om@SD",Oman Sports TV (1080p) [Not 24/7]
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="OmanTV.om@SD",Oman TV (1080p)
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="OmanTV.om@SD",Oman TV (360p)
+https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="AlArabyTV.qa@SD",Al Araby TV (1080p) Source 1
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlArabyTV.qa@SD",Al Araby TV (1080p) Source 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616
+
+#EXTINF:-1 tvg-id="AlArabyTV2.qa@SD",Al Araby TV 2 (1080p) Source 1
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlArabyTV2.qa@SD",Al Araby TV 2 (1080p) Source 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic",Al Jazeera (1080p) Source 1
+https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic",Al Jazeera (1080p) Source 2
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic",Al Jazeera (1080p) Source 3
+https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic",Al Jazeera (1080p) Source 4
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic",Al Jazeera Arabic (1080p) Source 1
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic",Al Jazeera Arabic (1080p) Source 2
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English (1080p) Source 1
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English (1080p) Source 2
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English (1080p) Source 3
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" tvg-country="QA" group-title="Qatar",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa@SD",Al Jazeera Mubasher (1080p) Source 1
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa@SD",Al Jazeera Mubasher (1080p) Source 2
+https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa@SD",Al Jazeera Mubasher (1080p) Source 3
+https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa@SD",Al Jazeera Mubasher (1080p) Source 4
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa@SD",Al Jazeera Mubasher 24 (1080p) Source 1
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa@SD",Al Jazeera Mubasher 24 (1080p) Source 2
+https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa@SD",Al Jazeera Mubasher 24 (1080p) Source 3
+https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8
