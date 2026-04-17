@@ -6278,3 +6278,45 @@ https://delivery.macan.live/stream/id_animax/index.m3u8?token=gratisan
 
 #EXTINF:-1 ,Asian Food Network
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=gratisan
+
+#EXTINF:-1 tvg-id="",CBS News Philadelphia (720p) Source 2
+https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us@SD",CBS News Pittsburgh (720p) Source 1
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us@SD",CBS News Pittsburgh (720p) Source 2
+https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsSacramento.us@SD",CBS News Sacramento (720p) Source 1
+https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsSacramento.us@SD",CBS News Sacramento (720p) Source 2
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
+
+#EXTINF:-1 tvg-id="",CBS News Texas (720p) Source 1
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+
+#EXTINF:-1 tvg-id="",CBS News Texas (720p) Source 2
+https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD",CBS Sports Golazo Network (720p)
+https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsHQ.us@SD",CBS Sports HQ (1080p) [Geo-blocked]
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsHQ.us@SD",CBS Sports HQ (720p)
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+
+#EXTINF:-1 tvg-id="CCX1.us@SD",CCX1 (1080p)
+http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="",Celebrity Name Game (1080p) [Geo-blocked]
+https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CelebritySceneTV.us@SD",Celebrity Scene TV (720p)
+https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+
+#EXTINF:-1 tvg-id="CerritosTV3.us@SD",Cerritos TV3 (360p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
