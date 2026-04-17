@@ -5774,3 +5774,66 @@ https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 
 #EXTINF:-1 tvg-id="",BET x Tyler Perry Comedy (1080p)
 https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",BET x Tyler Perry Comedy (720p)
+https://jmp2.uk/plu-666b265722acab000885c6aa.m3u8
+
+#EXTINF:-1 tvg-id="",BET x Tyler Perry Drama (1080p)
+https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",BET x Tyler Perry Drama (720p)
+https://jmp2.uk/plu-666b38a5efa2a10008b15b3a.m3u8
+
+#EXTINF:-1 tvg-id="BetterHealthTV.us@SD",Better Health TV (480p)
+https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
+
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us@SD",Better Life Nature Channel (480p)
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+
+#EXTINF:-1 tvg-id="BetterLifeTV.us@SD",Better Life TV (720p)
+https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
+
+#EXTINF:-1 tvg-id="BeverlyHillbillies.us@US",Beverly Hillbillies
+https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
+
+#EXTINF:-1 tvg-id="BeverlyHills90210.us@Germany",Beverly Hills 90210
+https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
+
+#EXTINF:-1 tvg-id="BHTV10.us@SD",Beverly Hills Television 10 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BHTV35.us@SD",Beverly Hills Television 35 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Beyond Paranormal (1080p)
+https://videoelephantlimited-beyondparanormal-1-us.ohlscdn.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Beyond the Gates
+https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
+
+#EXTINF:-1 tvg-id="",Big 12 Studios (1080p) Source 1
+https://amg01258-raycom-amg01258c7-xumo-us-5514.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Big 12 Studios (1080p) Source 2
+https://d18pj8s9gbivdq.cloudfront.net/The_Big_12.m3u8
+
+#EXTINF:-1 tvg-id="",Big 12 Studios (720p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/d61265ac-4c98-4243-8e23-31fff4d399e1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Big Brother
+https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
+
+#EXTINF:-1 tvg-id="BIGCivicChannel.us@SD",BIG Civic Channel
+https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-id="BIGCommunityChannel.us@SD",BIG Community Channel
+https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="",Billboard TV (1080p)
+https://d2zmd59prfyzho.cloudfront.net/Billboard_TV.m3u8
+
+#EXTINF:-1 tvg-id="BilliardTV.us@SD",Billiard TV (1080p) Source 1
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+
+#EXTINF:-1 tvg-id="BilliardTV.us@SD",Billiard TV (1080p) [Geo-blocked]
+https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
