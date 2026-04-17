@@ -7313,3 +7313,63 @@ https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
 
 #EXTINF:-1 tvg-id="",FGTEEV (1080p) [Geo-blocked]
 https://amg00285-amg00285c3-firetv-us-6596.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates",FIFA+ (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FightNetwork.ca@SD",Fight Network (1080p)
+https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FightNetwork.ca@SD",Fight Network (720p)
+https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Fight TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD",FilAmTV Network (1080p)
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filmex.mx@SD",Filmex (Xumo) (1080p) [Geo-blocked]
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmexClasico.mx@SD",Filmex Clásico (1080p) [Geo-blocked]
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseAnime.us@SD",FilmRise Anime (720p)
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us@SD",FilmRise Classic TV (720p)
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseWestern.us@SD",FilmRise Westerns (720p)
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="",Fireplace Vibes (2160p) [Geo-blocked]
+https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8
+
+#EXTINF:-1 tvg-id="FITE247.us@SD",FITE 24/7 (1080p) Source 1
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+
+#EXTINF:-1 tvg-id="",FITE 24/7 (1080p) Source 2
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8?ads.vf=d4xngnNL060
+
+#EXTINF:-1 tvg-id="FITE247.us@SD",FITE 24/7 (720p)
+https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FlicksofFury.us@SD",Flicks of Fury
+https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
+
+#EXTINF:-1 tvg-id="",Flipping Nation (720p)
+https://d21mkcgtx2frod.cloudfront.net/v1/aenetworks_flippingnation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FlowersTVUSA.us@SD",Flowers TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FNX.us@SD",FNX (1080p)
+https://fnx.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="KVCRDT2.us@SD",FNX [Geo-blocked]
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-id="KFONTV.us@SD",Fontana Community Television (720p) [Geo-blocked]
+https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
