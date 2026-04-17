@@ -7532,3 +7532,9 @@ https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8
 
 #EXTINF:-1 tvg-id="CMAC2.us@SD",Fresno CMAC 2 Education Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+
+#EXTINF:-1 ,Discovery Asia
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=gratisan
+
+#EXTINF:-1 ,Discovery HD Source 2
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
