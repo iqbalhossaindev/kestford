@@ -6269,3 +6269,9 @@ https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 
 #EXTINF:-1 tvg-id="CBSNewsPhilly.us@SD",CBS News Philadelphia (720p) Source 1
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+
+#EXTINF:-1 ,Animal Planet Source 2
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=gratisan
+
+#EXTINF:-1 ,Animax
+https://delivery.macan.live/stream/id_animax/index.m3u8?token=gratisan
