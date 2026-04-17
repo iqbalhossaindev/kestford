@@ -5522,3 +5522,39 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-718
 
 #EXTINF:-1 tvg-id="ATXN2.us@SD",ATXN2 (1080p)
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
+
+#EXTINF:-1 tvg-id="ATXN3.us@SD",ATXN3 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
+
+#EXTINF:-1 tvg-id="AuroraTV.us@SD",AuroraTV (Aurora CO) (720p)
+https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
+
+#EXTINF:-1 tvg-id="",Automotion (1080p)
+https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="AvangTV.us@SD",Avang TV (1080p)
+https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AWE.us@SD",AWE (720p)
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AWEEncore.us@SD",AWE Encore (720p) Source 1
+https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AWEEncore.us@SD",AWE Encore (720p) Source 2
+https://aweencore-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AWEEncore.us@SD",AWE Encore (720p) [Geo-blocked]
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AWEInternational.us@SD",AWE International (720p)
+https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",AWSN (720p)
+https://jmp2.uk/plu-682e43b21295f98347710917.m3u8
+
+#EXTINF:-1 tvg-id="",Ax Men (720p) Source 1
+https://d3kx0b11i5yg0n.cloudfront.net/v1/aenetworks_axmen_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Ax Men (720p) Source 2
+https://live-manifest.production-public.tubi.io/live/b1fdb228-c169-48b3-b6a3-8dee2dd91839/playlist.m3u8
