@@ -6749,3 +6749,63 @@ https://5d12bc59c4748.streamlock.net/redirect/csat.tv/csat.smil?type=m3u8
 
 #EXTINF:-1 tvg-id="CSI.us@SD",CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+
+#EXTINF:-1 tvg-id="CSIenespanol.us@SD",CSI en Español
+https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
+
+#EXTINF:-1 tvg-id="",CSI: Miami
+https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
+
+#EXTINF:-1 tvg-id="",CSI: Miami en español
+https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
+
+#EXTINF:-1 tvg-id="",CSI: NY
+https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
+
+#EXTINF:-1 tvg-id="",CSI: NY en español
+https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
+
+#EXTINF:-1 tvg-id="CTNCourtFeed.us@SD",CT-N Court Feed (360p) [Not 24/7]
+http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
+
+#EXTINF:-1 tvg-id="CTNLiveStream2.us@SD",CT-N Live Stream 2 (360p) [Not 24/7]
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTNTVConneticut.us@SD",CT-N TV Conneticut (720p) [Not 24/7]
+http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
+
+#EXTINF:-1 tvg-id="",Cuisine Culture (1080p)
+https://streams2.sofast.tv/umaxx/v1/01970b146c091ebd470414fa6dc31a/01970b14d5f11ea506ec1fab16cfb0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CupertinoCityChannel.us@SD",Cupertino City Channel (720p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Curiosity Animales (1080p)
+https://d2j2obpavpuw3t.cloudfront.net/CuriosityAnimales.m3u8
+
+#EXTINF:-1 tvg-id="",Curiosity Explora (1080p)
+https://d2bvy2sb4c0dbv.cloudfront.net/CuriosityEspanol.m3u8
+
+#EXTINF:-1 tvg-id="",Curiosity Motores (1080p)
+https://d5ts03kapml2e.cloudfront.net/CuriosityMotores.m3u8
+
+#EXTINF:-1 tvg-id="",Cutlers Court (1080p)
+https://d19h40d1rxo1la.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CVTVChannel192.us@SD",CVTV Channel 192 (1080p)
+https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CVTVChannel194.us@SD",CVTV Channel 194 (1080p)
+https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",CW FOREVER (1080p)
+https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",CW Gold (1080p)
+https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CypressChannel36.us@SD",Cypress Public Access Channel 36 (Cypress CA) (360p)
+https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dance Moms (1080p)
+https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
