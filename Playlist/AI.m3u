@@ -6809,3 +6809,45 @@ https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playli
 
 #EXTINF:-1 tvg-id="",Dance Moms (1080p)
 https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dance Moms (1080p) [Geo-blocked]
+https://pb-z02izgi68rhao.akamaized.net/Dance_Moms.m3u8
+
+#EXTINF:-1 tvg-id="",Danger Vision (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DangerTV.us@SD",DangerTV (720p)
+https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DarkMatterTV.us@SD",Dark Matter TV (720p)
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) Source 2
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) Source 3
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) [Geo-blocked]
+https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (720p)
+https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
+
+#EXTINF:-1 tvg-id="",Dating Disasters
+https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8
+
+#EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (1080p) Source 1
+https://hls-live-media-gc.cdn01.net/mpegts/232076_2222904/ApFvejWjRVUzPbyYzS8d9g/1776816000/master_mpegts.m3u8
+
+#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD",Daystar TV Espanol (1080p)
+https://hls-live-media-gc.cdn01.net/mpegts/232076_2222907/karlKyiKToEdHsTFUcjs9g/1776816000/master_mpegts.m3u8
+
+#EXTINF:-1 tvg-id="",DAZN Ringside
+https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
+
+#EXTINF:-1 tvg-id="",Dazn Ringside (1080p)
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
