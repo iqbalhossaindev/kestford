@@ -7259,3 +7259,57 @@ https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
 
 #EXTINF:-1 tvg-id="",Family Feud (720p) Source 1
 https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/master.m3u8
+
+#EXTINF:-1 tvg-id="",Family Feud (720p) Source 2
+https://jmp2.uk/plu-672e4d915534bb0008c50168.m3u8
+
+#EXTINF:-1 tvg-id="",Family Feud Classic (1080p)
+https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Family Feud Classic (720p)
+https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
+
+#EXTINF:-1 tvg-id="FamilyTies.us@SD",Family Ties
+https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
+
+#EXTINF:-1 tvg-id="FanDuelRacing.us@SD",FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+
+#EXTINF:-1 tvg-id="FanDuelTV.us@SD",FanDuel TV (720p)
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+
+#EXTINF:-1 tvg-id="",FanDuel TV Extra (1080p)
+https://d1x2mlky5ieruz.cloudfront.net/v1/fanduelgroup_fandueltv_01/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Fanduel TV Extra (720p) Source 1
+https://aegis-cloudfront-1.tubi.video/bf25c5e4-9d1e-4b3e-a6c3-5f5578a81382/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",FanDuel TV Extra (720p) Source 2
+https://jmp2.uk/plu-650b68bc2ce8e40008ac9c14.m3u8
+
+#EXTINF:-1 tvg-id="FashionFinds.us@SD",Fashion Finds (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+
+#EXTINF:-1 tvg-id="FCPublicMedia.us@SD",FC Public Media (Fort Collins CO) (1080p)
+https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="FearFactor.us@US",Fear Factor (1080p)
+https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8
+
+#EXTINF:-1 tvg-id="FearFactor.us@US",Fear Factor (720p)
+https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Feel Good Drama
+https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
+
+#EXTINF:-1 tvg-id="FernandinaBeachChannel.us@SD",Fernandina Beach City Meeting (Fernandina Beach FL) (720p) [Not 24/7]
+https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Feva Music (1080p)
+https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8
+
+#EXTINF:-1 tvg-id="FEVATV.ca@SD",Feva TV (1080p)
+https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
+
+#EXTINF:-1 tvg-id="",FGTEEV (1080p) [Geo-blocked]
+https://amg00285-amg00285c3-firetv-us-6596.playouts.now.amagi.tv/playlist.m3u8
