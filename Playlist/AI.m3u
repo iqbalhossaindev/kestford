@@ -5378,3 +5378,72 @@ https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/lat
 
 #EXTINF:-1 tvg-id="PeaceTVEnglish.ae@SD",Peace TV English (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD",AMC Latin America (1280p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
+
+#EXTINF:-1 tvg-id="",America's Boating Channel (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",America's Funniest Home Videos
+https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8
+
+#EXTINF:-1 tvg-id="",America's Got Talent (720p)
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
+
+#EXTINF:-1 tvg-id="",America's Next Top Model
+https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
+
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD",America's Test Kitchen (1080p) [Geo-blocked] Source 1
+https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD",America's Test Kitchen (1080p) [Geo-blocked] Source 2
+https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8
+
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD",America's Test Kitchen (720p)
+https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
+
+#EXTINF:-1 tvg-id="AmericasVoice.us@SD",America's Voice (720p)
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+
+#EXTINF:-1 tvg-id="AmericasVoiceNews.us@SD",America's Voice News (720p)
+https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
+
+#EXTINF:-1 tvg-id="",American Crimes (1080p)
+https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",American Crimes (1080p) [Geo-blocked]
+https://pb-kdyzf3w51y7oz.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-id="",American Crimes (720p)
+https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
+
+#EXTINF:-1 tvg-id="AmericanHorrors.us@SD",American Horrors (480p)
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",American Ninja Warrior (1080p)
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",American Pickers by History (1080p) [Geo-blocked]
+https://pb-k9ikw6ov8z4qi.akamaized.net/American_Pickers_by_History.m3u8
+
+#EXTINF:-1 tvg-id="",American Stories (1080p)
+https://linear-1016.frequency.stream/dist/stirr/1016/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",American Stories (720p)
+https://a-cdn.klowdtv.com/live2/asn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD",Americas Test Kitchen (720p)
+https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFV.us@SD",America’s Funniest Home Videos (1080p)
+https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ameritrade.us@SD",Ameritrade (1080p) [Not 24/7]
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMGTV.us@SD",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMGATV.us@SD",Amga TV (720p) [Not 24/7]
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
