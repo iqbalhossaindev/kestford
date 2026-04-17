@@ -6704,3 +6704,48 @@ https://delivery.macan.live/stream/boomerang/index.m3u8?token=gratisan
 
 #EXTINF:-1 ,Channel V
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD",Crime + Investigation (360p) [Not 24/7]
+https://tvpass.org/live/CrimePlusInvestigation/sd
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD",Crime + Investigation (720p) [Not 24/7]
+https://tvpass.org/live/CrimePlusInvestigation/hd
+
+#EXTINF:-1 tvg-id="",Crime 24/7 (720p) [Geo-blocked]
+https://pb-l3ocdsysqugbb.akamaized.net/v1/aenetworks_crime247_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Crime ThrillHer (720p)
+https://d1x6vwh5kyhcyb.cloudfront.net/v1/aenetworks_thrillher_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",CrimeFlix (1080p)
+https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
+
+#EXTINF:-1 tvg-id="",Crimen (720p)
+https://jmp2.uk/plu-6732499ce40c4a0008bb9894.m3u8
+
+#EXTINF:-1 tvg-id="",Crimes Cults Killers (720p)
+https://d3ox1t0pcya837.cloudfront.net/v1/aenetworks_kriminal_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Criminal Minds
+https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8
+
+#EXTINF:-1 tvg-id="",Crunchyroll (720p)
+https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+
+#EXTINF:-1 tvg-id="CruzTV.us@SD",Cruz TV
+https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-id="CrimenesImperfectos.us@SD",Crímenes imperfectos
+https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8
+
+#EXTINF:-1 tvg-id="CSatTV.us@SD",CSat TV (1080p) [Not 24/7] Source 1
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CSatTV.us@SD",CSat TV (1080p) [Not 24/7] Source 2
+https://5b622f07944df.streamlock.net/csat.tv/csat.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CSatTV.us@SD",CSat TV (1080p) [Not 24/7] Source 3
+https://5d12bc59c4748.streamlock.net/redirect/csat.tv/csat.smil?type=m3u8
+
+#EXTINF:-1 tvg-id="CSI.us@SD",CSI
+https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
