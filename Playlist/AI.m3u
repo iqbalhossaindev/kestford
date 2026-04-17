@@ -6371,3 +6371,39 @@ https://pb-yu0ylzo7vk8v4.akamaized.net/Cheaters_SONO39.m3u8
 
 #EXTINF:-1 tvg-id="CheddarNews.us@SD",Cheddar News (1080p)
 https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CheddarNews.us@SD",Cheddar News (720p)
+https://aegis-cloudfront-1.tubi.video/27ff1997-507a-41c4-8433-08875fe5f40f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Cheers + Frasier
+https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
+
+#EXTINF:-1 tvg-id="ChefChampion.us@SD",Chef Champion (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+
+#EXTINF:-1 tvg-id="ChefRocShow.us@SD",Chef Roc Show (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 tvg-id="",Chef vs Chef by Food Network (720p)
+https://jmp2.uk/plu-68bb16a500a2f063fdf89f8c.m3u8
+
+#EXTINF:-1 tvg-id="ChinaTravel.cn@SD",China Travel (1080p)
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityTVChannel341.us@SD",Chino Hills City TV Channel 3/41 (360p)
+https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Chip & Jo: Feels Like Home by Magnolia Network (720p)
+https://jmp2.uk/plu-68bb16e7f89c82a68bcc4397.m3u8
+
+#EXTINF:-1 tvg-id="Choppertown.us@SD",Choppertown (720p)
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Choppertown.us@SD",Choppertown (720p) [Not 24/7]
+https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD",Christian Youth Channel (CYC) (1080p) Source 1
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD",Christian Youth Channel (CYC) (1080p) Source 2
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
