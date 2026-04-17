@@ -6944,3 +6944,66 @@ https://tvpass.org/live/DisneyXDEast/hd
 
 #EXTINF:-1 tvg-id="",Divorce Court (720p)
 https://d2ydcdd81wyosr.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",DIY Art (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US",Doctor Who Classic
+https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US",Doctor Who Classic (1080p)
+https://aegis-cloudfront-1.tubi.video/34cd3ae2-bb20-4594-af20-01f241a525ba/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US",Doctor Who Classic (720p)
+https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
+
+#EXTINF:-1 tvg-id="",Docu Vision (1080p)
+https://streams2.sofast.tv/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US",Documentary+ (1080p) Source 1
+https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US",Documentary+ (1080p) Source 2
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@International",Documentary+ International (1080p)
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US",Dog the Bounty Hunter
+https://jmp2.uk/plu-5bee1a7359ee03633e780238.m3u8
+
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US",Dog the Bounty Hunter (1080p)
+https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US",Dog the Bounty Hunter (1080p) [Geo-blocked]
+https://pb-f3c3g3zxfdxte.akamaized.net/DogTheBountyHunter_US.m3u8
+
+#EXTINF:-1 tvg-id="DogWhisperer.us@UK",Dog Whisperer (1080p) [Geo-blocked]
+https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
+
+#EXTINF:-1 tvg-id="",Dog Whisperer with Cesar Millan (1080p) [Geo-blocked] Source 1
+https://amg01201-amg01201c30-cineverse-us-3100.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dog Whisperer with Cesar Millan (1080p) [Geo-blocked] Source 2
+https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dog Whisperer with Cesar Millan (720p)
+https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
+
+#EXTINF:-1 tvg-id="",Donut (1080p)
+https://d274b7i6eihzn5.cloudfront.net/do.m3u8
+
+#EXTINF:-1 tvg-id="DoveChannel.us@SD",Dove Channel (1080p) Source 1
+https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoveChannel.us@SD",Dove Channel (1080p) Source 2
+https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoveChannel.us@SD",Dove Channel (1080p) Source 3
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MeritStreet.us@SD",Dr Phil's MeritTV (1080p)
+https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
+
+#EXTINF:-1 tvg-id="",Dr. G Medical Examiner (1080p)
+https://d3gjnizphdm6xi.cloudfront.net/Dr_G_Medical_Examiner_SONO15.m3u8
