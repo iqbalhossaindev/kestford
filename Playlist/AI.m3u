@@ -6461,3 +6461,60 @@ https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 
 #EXTINF:-1 tvg-id="CineLife.us@SD",CineLife (1080p) Source 2
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinevault80s.us@SD",Cinevault 80s (540p) [Geo-blocked]
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Cinevault Classics (540p)
+https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Cinevault Murder and Mayhem (540p)
+https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinevaultWesterns.us@SD",Cinevault Westerns (540p) [Geo-blocked]
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinevaultWesterns.us@SD",Cinevault Westerns (720p)
+https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Circle.us@SD",Circle (1080p) Source 1
+https://circle-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Circle.us@SD",Circle (1080p) Source 2
+https://circle-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Circle.us@SD",Circle (1080p) Source 4
+https://circle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Circle.us@SD",Circle (1080p) [Geo-blocked] Source 1
+https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Circle.us@SD",Circle (1080p) [Geo-blocked] Source 2
+https://circle-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Cirque du Soleil (1080p) [Geo-blocked]
+https://amg01439-amg01439c1-amgplt0081.playout.now3.amagi.tv/playlist/amg01439-amg01439c1-amgplt0081/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTOP.us@SD",City of Oakland (KTOP) (480p)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us@SD",City TV Capital City Connection [Not 24/7]
+https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="CityTVSanDiego.us@SD",CityTV San Diego (360p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Clarity4K.us@SD",Clarity 4K (2160p) [Geo-blocked]
+https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
+
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us@SD",Classic Arts Showcase (720p)
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 tvg-id="ClassicCinema.us@SD",Classic Cinema (240p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+
+#EXTINF:-1 tvg-id="",Classic Movie Westerns
+https://jmp2.uk/plu-61f33318210549000806a530.m3u8
+
+#EXTINF:-1 tvg-id="ClassicMoviesChannel.us@SD",Classic Movies Channel
+https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
