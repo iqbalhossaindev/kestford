@@ -6557,3 +6557,105 @@ https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p) [Not 24/7]
 https://tvpass.org/live/CNBC/hd
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNBC Ⓨ" tvg-logo="https://i.imgur.com/BTasyOy.png" tvg-id="CNBC.us" tvg-country="US" group-title="USA",CNBC Ⓨ
+https://www.youtube.com/c/CNBC/live
+
+#EXTINF:-1 tvg-id="ColdCaseFiles.us@SD",Cold Case Files (1080p)
+https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ColdCaseFiles.us@SD",Cold Case Files (1080p) [Geo-blocked]
+https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8
+
+#EXTINF:-1 tvg-id="",Cold Case Files by A&E
+https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8
+
+#EXTINF:-1 tvg-id="CollierTV.us@SD",Collier Television CTV (Naples FL) (720p)
+https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="",Colour Blind (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD",Comedy Central en español
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central Latin America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US",Comedy Central Pluto TV
+https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
+
+#EXTINF:-1 tvg-id="ComedyDynamics.us@SD",Comedy Dynamics (1080p) Source 2
+https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyDynamics.us@SD",Comedy Dynamics (1080p) Source 3
+https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyDynamics.us@SD",Comedy Dynamics (720p)
+https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Comedy Tadka (1080p)
+https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us@SD",Comet (1080p)
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="",Conan O'Brien TV (1080p) [Geo-blocked]
+https://pb-nhrhhcia276e2.akamaized.net/Conan_OBrien_TV.m3u8
+
+#EXTINF:-1 tvg-id="ConcordTV.us@SD",Concord TV (Concord CA) (720p)
+https://concordca.cablecast.tv/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-id="",Confess by Nosey
+https://jmp2.uk/plu-634ee8f95aa9870007248333.m3u8
+
+#EXTINF:-1 tvg-id="",Construcciones Asombrosas
+https://jmp2.uk/plu-673249433a61d400087a51ed.m3u8
+
+#EXTINF:-1 tvg-id="ContraCostaTV.us@SD",Contra Costa College TV [Geo-blocked]
+https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8
+
+#EXTINF:-1 tvg-id="",Cook's Country Channel (1080p) [Geo-blocked]
+https://amg01420-amg01420c5-xumo-us-3817.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CookingPanda.us@SD",Cooking Panda (576p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
+#EXTINF:-1 tvg-id="Cops.us@SD",COPS
+https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
+
+#EXTINF:-1 tvg-id="",Coreano by CJ ENM (1080p)
+https://d32e935uzaanj4.cloudfront.net/e66911c8_a9c5_4206_979f_1ad694dcb8ad/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CornerstoneTV.us@SD",Cornerstone TV (720p)
+https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMTV.us@SD",Costa Mesa's Municipal Access Channel CMTV 3 (720p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="COStv.us@SD",COStv
+https://irctv.cablecast.tv/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV (1080p) [Geo-blocked]
+https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV (720p) Source 1
+https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV (720p) Source 2
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV (720p) Source 3
+https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
+
+#EXTINF:-1 tvg-id="",Cowboy Movie Channel (1080p)
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="",Cox Meriden Public Access Channel 15 (Meriden CT) (720p)
+http://applevalley.coxctv.com/live-1/live/live.m3u8
