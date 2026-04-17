@@ -6893,3 +6893,54 @@ https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8
 
 #EXTINF:-1 tvg-id="Denver8TV.us@SD",Denver 8 TV (Denver CO) (720p)
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DerryTV17.us@SD",DerryTV 17 (720p)
+https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DerryTV23.us@SD",DerryTV 23 (720p)
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Designated Survivor (1080p) [Geo-blocked]
+https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dhar Mann TV (1080p)
+https://d3p03mkvhnk6ll.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DidgahTV.us@SD",Didgah TV (576p)
+https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dinos 24/7
+https://jmp2.uk/plu-673bf05ddaad7f0008ac7a5c.m3u8
+
+#EXTINF:-1 tvg-id="",Dinos 24/7 (1080p)
+https://d3jxyaglfha0h3.cloudfront.net/Dinos_247.m3u8
+
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional",DirecTV Sports (1080p)
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-id="DiscoveringChina.cn@SD",Discovering China (1080p)
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel Source 2
+https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyChannelEast/sd
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyChannelEast/hd
+
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/sd
+
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/hd
+
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyXDEast/sd
+
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyXDEast/hd
+
+#EXTINF:-1 tvg-id="",Divorce Court (720p)
+https://d2ydcdd81wyosr.cloudfront.net/playlist.m3u8
