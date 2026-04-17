@@ -6557,3 +6557,24 @@ https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p) [Not 24/7]
 https://tvpass.org/live/CNBC/hd
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNBC Ⓨ" tvg-logo="https://i.imgur.com/BTasyOy.png" tvg-id="CNBC.us" tvg-country="US" group-title="USA",CNBC Ⓨ
+https://www.youtube.com/c/CNBC/live
+
+#EXTINF:-1 tvg-id="ColdCaseFiles.us@SD",Cold Case Files (1080p)
+https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ColdCaseFiles.us@SD",Cold Case Files (1080p) [Geo-blocked]
+https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8
+
+#EXTINF:-1 tvg-id="",Cold Case Files by A&E
+https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8
+
+#EXTINF:-1 tvg-id="CollierTV.us@SD",Collier Television CTV (Naples FL) (720p)
+https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="",Colour Blind (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8
