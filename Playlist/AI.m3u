@@ -6749,3 +6749,315 @@ https://5d12bc59c4748.streamlock.net/redirect/csat.tv/csat.smil?type=m3u8
 
 #EXTINF:-1 tvg-id="CSI.us@SD",CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+
+#EXTINF:-1 tvg-id="CSIenespanol.us@SD",CSI en Español
+https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
+
+#EXTINF:-1 tvg-id="",CSI: Miami
+https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
+
+#EXTINF:-1 tvg-id="",CSI: Miami en español
+https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
+
+#EXTINF:-1 tvg-id="",CSI: NY
+https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
+
+#EXTINF:-1 tvg-id="",CSI: NY en español
+https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
+
+#EXTINF:-1 tvg-id="CTNCourtFeed.us@SD",CT-N Court Feed (360p) [Not 24/7]
+http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
+
+#EXTINF:-1 tvg-id="CTNLiveStream2.us@SD",CT-N Live Stream 2 (360p) [Not 24/7]
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTNTVConneticut.us@SD",CT-N TV Conneticut (720p) [Not 24/7]
+http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
+
+#EXTINF:-1 tvg-id="",Cuisine Culture (1080p)
+https://streams2.sofast.tv/umaxx/v1/01970b146c091ebd470414fa6dc31a/01970b14d5f11ea506ec1fab16cfb0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CupertinoCityChannel.us@SD",Cupertino City Channel (720p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Curiosity Animales (1080p)
+https://d2j2obpavpuw3t.cloudfront.net/CuriosityAnimales.m3u8
+
+#EXTINF:-1 tvg-id="",Curiosity Explora (1080p)
+https://d2bvy2sb4c0dbv.cloudfront.net/CuriosityEspanol.m3u8
+
+#EXTINF:-1 tvg-id="",Curiosity Motores (1080p)
+https://d5ts03kapml2e.cloudfront.net/CuriosityMotores.m3u8
+
+#EXTINF:-1 tvg-id="",Cutlers Court (1080p)
+https://d19h40d1rxo1la.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CVTVChannel192.us@SD",CVTV Channel 192 (1080p)
+https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CVTVChannel194.us@SD",CVTV Channel 194 (1080p)
+https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",CW FOREVER (1080p)
+https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",CW Gold (1080p)
+https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CypressChannel36.us@SD",Cypress Public Access Channel 36 (Cypress CA) (360p)
+https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dance Moms (1080p)
+https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dance Moms (1080p) [Geo-blocked]
+https://pb-z02izgi68rhao.akamaized.net/Dance_Moms.m3u8
+
+#EXTINF:-1 tvg-id="",Danger Vision (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DangerTV.us@SD",DangerTV (720p)
+https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DarkMatterTV.us@SD",Dark Matter TV (720p)
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) Source 2
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) Source 3
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) [Geo-blocked]
+https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (720p)
+https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
+
+#EXTINF:-1 tvg-id="",Dating Disasters
+https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8
+
+#EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (1080p) Source 1
+https://hls-live-media-gc.cdn01.net/mpegts/232076_2222904/ApFvejWjRVUzPbyYzS8d9g/1776816000/master_mpegts.m3u8
+
+#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD",Daystar TV Espanol (1080p)
+https://hls-live-media-gc.cdn01.net/mpegts/232076_2222907/karlKyiKToEdHsTFUcjs9g/1776816000/master_mpegts.m3u8
+
+#EXTINF:-1 tvg-id="",DAZN Ringside
+https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
+
+#EXTINF:-1 tvg-id="",Dazn Ringside (1080p)
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",DCC: Making the Team
+https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD",Deal or No Deal
+https://jmp2.uk/plu-5e9debf8c881310007d7bde1.m3u8
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD",Deal or No Deal (1080p) [Geo-blocked]
+https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD",Deal or No Deal (720p)
+https://aegis-cloudfront-1.tubi.video/65eef95b-7b52-42be-8b08-faa459153ed9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Deal Zone (720p) [Geo-blocked]
+https://pb-2x4r5igjtn1o7.akamaized.net/v1/aenetworks_dealzone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Death Valley Days (1080p)
+https://d49k4i5y48mxv.cloudfront.net/SONO66.m3u8
+
+#EXTINF:-1 tvg-id="",Def Jam (720p)
+https://aegis-cloudfront-1.tubi.video/ff2a53ec-9887-4aa3-a9e4-38746eba97de/index.m3u8
+
+#EXTINF:-1 tvg-id="DeFianceMedia.pr@SD",DeFiance Media (1080p) Source 1
+https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeFianceMedia.pr@SD",DeFiance Media (1080p) Source 2
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Degrassi.us@US",Degrassi
+https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
+
+#EXTINF:-1 tvg-id="Degrassi.us@US",Degrassi (720p)
+https://d3537vnymvfque.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DMTV.us@SD",Del Mar TV (720p)
+https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Delicious Eats by Food Network (720p)
+https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8
+
+#EXTINF:-1 tvg-id="Denver8TV.us@SD",Denver 8 TV (Denver CO) (720p)
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DerryTV17.us@SD",DerryTV 17 (720p)
+https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DerryTV23.us@SD",DerryTV 23 (720p)
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Designated Survivor (1080p) [Geo-blocked]
+https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dhar Mann TV (1080p)
+https://d3p03mkvhnk6ll.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DidgahTV.us@SD",Didgah TV (576p)
+https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dinos 24/7
+https://jmp2.uk/plu-673bf05ddaad7f0008ac7a5c.m3u8
+
+#EXTINF:-1 tvg-id="",Dinos 24/7 (1080p)
+https://d3jxyaglfha0h3.cloudfront.net/Dinos_247.m3u8
+
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional",DirecTV Sports (1080p)
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-id="DiscoveringChina.cn@SD",Discovering China (1080p)
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel Source 2
+https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyChannelEast/sd
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyChannelEast/hd
+
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/sd
+
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/hd
+
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyXDEast/sd
+
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyXDEast/hd
+
+#EXTINF:-1 tvg-id="",Divorce Court (720p)
+https://d2ydcdd81wyosr.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",DIY Art (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US",Doctor Who Classic
+https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US",Doctor Who Classic (1080p)
+https://aegis-cloudfront-1.tubi.video/34cd3ae2-bb20-4594-af20-01f241a525ba/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US",Doctor Who Classic (720p)
+https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
+
+#EXTINF:-1 tvg-id="",Docu Vision (1080p)
+https://streams2.sofast.tv/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US",Documentary+ (1080p) Source 1
+https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US",Documentary+ (1080p) Source 2
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@International",Documentary+ International (1080p)
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US",Dog the Bounty Hunter
+https://jmp2.uk/plu-5bee1a7359ee03633e780238.m3u8
+
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US",Dog the Bounty Hunter (1080p)
+https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US",Dog the Bounty Hunter (1080p) [Geo-blocked]
+https://pb-f3c3g3zxfdxte.akamaized.net/DogTheBountyHunter_US.m3u8
+
+#EXTINF:-1 tvg-id="DogWhisperer.us@UK",Dog Whisperer (1080p) [Geo-blocked]
+https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
+
+#EXTINF:-1 tvg-id="",Dog Whisperer with Cesar Millan (1080p) [Geo-blocked] Source 1
+https://amg01201-amg01201c30-cineverse-us-3100.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dog Whisperer with Cesar Millan (1080p) [Geo-blocked] Source 2
+https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dog Whisperer with Cesar Millan (720p)
+https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
+
+#EXTINF:-1 tvg-id="",Donut (1080p)
+https://d274b7i6eihzn5.cloudfront.net/do.m3u8
+
+#EXTINF:-1 tvg-id="DoveChannel.us@SD",Dove Channel (1080p) Source 1
+https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoveChannel.us@SD",Dove Channel (1080p) Source 2
+https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoveChannel.us@SD",Dove Channel (1080p) Source 3
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MeritStreet.us@SD",Dr Phil's MeritTV (1080p)
+https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
+
+#EXTINF:-1 tvg-id="",Dr. G Medical Examiner (1080p)
+https://d3gjnizphdm6xi.cloudfront.net/Dr_G_Medical_Examiner_SONO15.m3u8
+
+#EXTINF:-1 tvg-id="DrGeneScott.us@SD",Dr. Gene Scott (1080p)
+https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DrGeneScott.us@SD",Dr. Gene Scott (480p)
+https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8
+
+#EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD",DraftKings Network (1080p) Source 1
+https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
+
+#EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD",DraftKings Network (1080p) Source 2
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+
+#EXTINF:-1 tvg-id="",Drive + Speed (1080p)
+https://streams2.sofast.tv/umaxx/v1/0196fce247271eb4611d16bd20c1ac/0196fce2a9361ea5064918d106ecf8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Drive In Movie Channel (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Drone TV (1080p)
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Drool (1080p)
+https://d119f55zk8yovc.cloudfront.net/Drool.m3u8
+
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD",Dry Bar Comedy (720p)
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DuckDynasty.us@US",Duck Dynasty (1080p)
+https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DuckDynasty.us@UK",Duck Dynasty (1080p) [Geo-blocked]
+https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8
+
+#EXTINF:-1 tvg-id="DuckHuntingTV.us@SD",Duck Hunting TV (1080p)
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+
+#EXTINF:-1 tvg-id="ducktv.sk@SD",ducktv (720p)
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dungeons & Dragons Adventures (1080p) [Geo-blocked]
+https://amg00461-eone-amg00461c3-firetv-us-5211.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dynasty
+https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
+
+#EXTINF:-1 tvg-id="E.us@East",E! East (1080p) [Not 24/7]
+https://tvpass.org/live/EEast/hd
+
+#EXTINF:-1 tvg-id="E.us@East",E! East (360p) [Not 24/7]
+https://tvpass.org/live/EEast/sd
+
+#EXTINF:-1 tvg-id="EKeepingUp.us@SD",E! Keeping Up (1080p)
+https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
