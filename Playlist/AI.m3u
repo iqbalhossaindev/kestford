@@ -7373,3 +7373,72 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 
 #EXTINF:-1 tvg-id="KFONTV.us@SD",Fontana Community Television (720p) [Geo-blocked]
 https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us@SD",Forensic Files
+https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseForensicFiles.us@SD",Forensic Files (720p) [Geo-blocked]
+https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
+
+#EXTINF:-1 tvg-id="ForeverKids.us@SD",Forever Kids
+https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+
+#EXTINF:-1 tvg-id="",Forged In Fire (720p) [Geo-blocked]
+https://pb-7zbm16kmdn8iw.akamaized.net/v1/aenetworks_forgedinfire_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Fork & Flight (1080p) Source 1
+https://amg00346-vizioono-amg00346c1-distrotv-us-1397.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-forkandflight-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Fork & Flight (1080p) Source 2
+https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FCTV.us@SD",Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)
+https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="CityofFortPierce.us@SD",Fort Pierce Live Stream (Fort Pierce FL) (720p)
+https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSAZDT1.us@SD",FOX 10 Phoenix AZ (KSAZ) (720p)
+https://aegis-cloudfront-1.tubi.video/6bb80abf-8f73-46f3-a520-bb810d93f1d0/index.m3u8
+
+#EXTINF:-1 tvg-id="WLUKDT1.us@SD",FOX 11 Green Bay WI (WLUK) (1080p)
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTTVDT1.us@SD",FOX 11 Los Angeles CA (KTTV) (720p)
+https://aegis-cloudfront-1.tubi.video/317a6700-b890-4066-a2e7-dea5c15fd915/index.m3u8
+
+#EXTINF:-1 tvg-id="KCPQDT1.us@SD",FOX 13 Seattle WA (KCPQ) (720p)
+https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
+
+#EXTINF:-1 tvg-id="WJBKDT1.us@SD",FOX 2 Detroit MI (WJBK) (720p)
+https://aegis-cloudfront-1.tubi.video/5689247c-331e-4444-92e1-f7cc21377360/index.m3u8
+
+#EXTINF:-1 tvg-id="KTVUDT1.us@SD",FOX 2 San Francisco CA (KTVU) (720p)
+https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
+
+#EXTINF:-1 tvg-id="KBSIDT1.us@SD",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
+https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WFXTDT1.us@SD",Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked]
+https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+
+#EXTINF:-1 tvg-id="KOKHDT1.us@SD",FOX 25 Oklahoma City OK (KOKH) (1080p)
+https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KMPHDT1.us@SD",FOX 26 Visalia CA (KMPH) (1080p)
+https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WFLDDT1.us@SD",FOX 32 Chicago IL (WFLD) (720p)
+https://aegis-cloudfront-1.tubi.video/3600d45a-dfbf-4878-9ca1-2e2bc9077fed/index.m3u8
+
+#EXTINF:-1 tvg-id="WBFFDT1.us@SD",FOX 45 Baltimore MD (WBFF) (1080p)
+https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNYWDT1.us@SD",FOX 5 New York NY (WNYW) (720p)
+https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
+
+#EXTINF:-1 tvg-id="WTTGDT1.us@SD",FOX 5 Washington DC (WTTG) (720p)
+https://aegis-cloudfront-1.tubi.video/4b125d60-5d81-4a3c-99c3-726c9cb8cf99/index.m3u8
+
+#EXTINF:-1 tvg-id="WITIDT1.us@SD",FOX 6 Milwaukee WI (WITI) (720p)
+https://aegis-cloudfront-1.tubi.video/f16a76f1-fdb8-4e18-a14b-1e40e98eb1ff/index.m3u8
