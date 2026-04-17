@@ -5837,3 +5837,60 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 
 #EXTINF:-1 tvg-id="BilliardTV.us@SD",Billiard TV (1080p) [Geo-blocked]
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
+
+#EXTINF:-1 tvg-id="",Billiards+ (1080p)
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+
+#EXTINF:-1 tvg-id="Binge.us@SD",Binge
+https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Biography The Icons (1080p)
+https://dkaiai6digij6.cloudfront.net/Lights_Legends_Icons.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.us@SD",Biz TV (1080p) Source 1
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.us@SD",Biz TV (1080p) Source 2
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",BizaarTV (720p)
+https://d3s08lnvd4zcd7.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886061/master.m3u8
+
+#EXTINF:-1 tvg-id="",Black Enterprise Streaming Network (1080p)
+https://videoelephant-limited-blackenterprisestreamingnetwork-1-us.ohlscdn.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Black Family Sitcoms
+https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
+
+#EXTINF:-1 tvg-id="BlackInkCrew.us@SD",Black Ink Crew
+https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
+
+#EXTINF:-1 tvg-id="BlackNewsChannel.us@SD",Black News Channel (1080p) Source 1
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BlackNewsChannel.us@SD",Black News Channel (1080p) Source 2
+https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BlackNewsChannel.us@SD",Black News Channel (720p)
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BlazeLive.us@SD",Blaze Live (720p)
+https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
+
+#EXTINF:-1 tvg-id="",Bleav Football (1080p)
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Blippi (1080p)
+https://d2p70ev1g5q1aj.cloudfront.net/Blippi_SONO46.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" tvg-country="US" group-title="USA",Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@SD",Bloomberg Originals (1080p) Source 1
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p) Source 2
+https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p) Source 3
+https://bloomberg.com/media-manifest/streams/qt.m3u8
