@@ -5447,3 +5447,51 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMGATV.us@SD",Amga TV (720p) [Not 24/7]
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Ancient Aliens (720p)
+https://jmp2.uk/plu-6887a8fd8e92b5e0a7244e88.m3u8
+
+#EXTINF:-1 tvg-id="",Ancient Aliens (720p) [Geo-blocked]
+https://pb-pp8kvdgef1gx5.akamaized.net/v1/ae_networks_ancientaliens_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngerManagementChannel.us@SD",Anger Management Channel (720p)
+https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimationPlus.us@SD",Animation+ (1080p) [Geo-blocked]
+https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimexHIDIVE.us@SD",ANIME x HIDIVE
+https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
+
+#EXTINF:-1 tvg-id="AnimexHIDIVE.us@SD",ANIME x HIDIVE (720p)
+https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD",Antiques Road Trip
+https://jmp2.uk/plu-615b8ec39e878900073f419a.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD",Antiques Road Trip (1080p) [Geo-blocked]
+https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD",Antiques Road Trip (720p)
+https://aegis-cloudfront-1.tubi.video/b42ac280-5300-4db0-8a63-2ec2e52c5b5c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD",Antiques Roadshow PBS (1080p)
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD",Antiques Roadshow UK
+https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD",Antiques Roadshow UK (1080p)
+https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD",Antiques Roadshow UK (720p) Source 1
+https://dbbg0ax8bgo7d.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD",Antiques Roadshow UK (720p) Source 2
+https://jmp2.uk/plu-5ce44810b421747ae467b7cd.m3u8
+
+#EXTINF:-1 tvg-id="AppleValleyChannel180.us@SD",Apple Valley Channel 180
+https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="AreWeThereYet.us@SD",Are We There Yet? (720p)
+https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8
