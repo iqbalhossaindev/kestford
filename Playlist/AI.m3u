@@ -7199,3 +7199,63 @@ https://jmp2.uk/plu-5dc0c78281eddb0009a02d5e.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD",Euronews English (720p) Source 1
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD",Euronews English (720p) Source 2
+https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD",Euronews English (720p) Source 3
+https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+
+#EXTINF:-1 tvg-id="",Everyday Refresh (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us@English",EWTN (720p) [Geo-blocked]
+https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us@AfricaAsia",EWTN Africa-Asia (720p)
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us@AsiaPacific",EWTN Asia-Pacific (720p)
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us@Canada",EWTN Canada (720p)
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTNEspana.es@SD",EWTN Espana
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us@Europe",EWTN Europe (720p)
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.de@SD",EWTN Germany (720p)
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTNPoland.pl@SD",EWTN Poland (1080p)
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us@SpainLatinAmerica",EWTN Spain & Latin America (720p)
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us@Spanish",EWTN Spanish (720p) [Geo-blocked]
+https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTNUkraine.ua@SD",EWTN Ukraine (1080p)
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExtremaTV.us@SD",Extrema TV (720p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="F1Channel.ie@SD",F1 Channel (720p)
+https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
+
+#EXTINF:-1 tvg-id="FailArmy.us@US",FailArmy
+https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
+
+#EXTINF:-1 tvg-id="FailArmy.us@US",FailArmy (720p) [Geo-blocked]
+https://pb-w5ixcojas1swl.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityofFairfieldChannel26.us@SD",Fairfield Government Access Channel 26 (Fairfield CA) (720p) [Geo-blocked]
+https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
+
+#EXTINF:-1 tvg-id="",Family Feud (720p) Source 1
+https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/master.m3u8
