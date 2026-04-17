@@ -6407,3 +6407,6 @@ http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD",Christian Youth Channel (CYC) (1080p) Source 2
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+
+#EXTINF:-1 ,AXN Source 3
+https://delivery.macan.live/stream/id_axn/index.m3u8?token=gratisan
