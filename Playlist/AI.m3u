@@ -5837,3 +5837,207 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 
 #EXTINF:-1 tvg-id="BilliardTV.us@SD",Billiard TV (1080p) [Geo-blocked]
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
+
+#EXTINF:-1 tvg-id="",Billiards+ (1080p)
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+
+#EXTINF:-1 tvg-id="Binge.us@SD",Binge
+https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Biography The Icons (1080p)
+https://dkaiai6digij6.cloudfront.net/Lights_Legends_Icons.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.us@SD",Biz TV (1080p) Source 1
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.us@SD",Biz TV (1080p) Source 2
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",BizaarTV (720p)
+https://d3s08lnvd4zcd7.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886061/master.m3u8
+
+#EXTINF:-1 tvg-id="",Black Enterprise Streaming Network (1080p)
+https://videoelephant-limited-blackenterprisestreamingnetwork-1-us.ohlscdn.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Black Family Sitcoms
+https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
+
+#EXTINF:-1 tvg-id="BlackInkCrew.us@SD",Black Ink Crew
+https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
+
+#EXTINF:-1 tvg-id="BlackNewsChannel.us@SD",Black News Channel (1080p) Source 1
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BlackNewsChannel.us@SD",Black News Channel (1080p) Source 2
+https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BlackNewsChannel.us@SD",Black News Channel (720p)
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BlazeLive.us@SD",Blaze Live (720p)
+https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
+
+#EXTINF:-1 tvg-id="",Bleav Football (1080p)
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Blippi (1080p)
+https://d2p70ev1g5q1aj.cloudfront.net/Blippi_SONO46.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" tvg-country="US" group-title="USA",Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@SD",Bloomberg Originals (1080p) Source 1
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p) Source 2
+https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p) Source 3
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p) Source 5
+https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p) Source 6
+https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us@SD",Bloomberg Originals (1080p) Source 7
+https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV (720p)
+https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus",Bloomberg TV + (2160p)
+https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV US (720p)
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@LiveEvent",Bloomberg TV US Live Event (720p)
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@PoliticsLiveEvent",Bloomberg TV US Politics Live Event (720p)
+https://bloomberg.com/media-manifest/streams/politics.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus",Bloomberg TV+ (1080p)
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus",Bloomberg TV+ (2160p)
+https://d2d98ykcmmhgd4.cloudfront.net/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus",Bloomberg TV+ (720p)
+https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
+
+#EXTINF:-1 tvg-id="BATVGovernmentTV.us@SD",Bloomfield Access Government TV (480p)
+https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="BATV.us@SD",Bloomfield Access TV Channel 5 (480p)
+https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
+
+#EXTINF:-1 tvg-id="BlueBloods.us@SD",Blue Bloods
+https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
+
+#EXTINF:-1 tvg-id="KMBYLD5.us@SD",Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BMCHDTV.us@SD",BMC-HD TV (720p)
+https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Bollywood 4U (1080p)
+https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Bollywood Masala (1080p)
+https://streams2.sofast.tv/vglive-sk-373192/index.m3u8
+
+#EXTINF:-1 tvg-id="CVCEducation.us@SD",Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
+
+#EXTINF:-1 tvg-id="CVCGovernment.us@SD",Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
+
+#EXTINF:-1 tvg-id="CVCPublic.us@SD",Bolton Community Voice Channel (CVC) Public (Bolton CT) (480p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-id="bonappetit.us@SD",bon appétit (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Bonanza
+https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+
+#EXTINF:-1 tvg-id="",Bondi Rescue (1080p) [Geo-blocked]
+https://pb-xcqdiadvt1x0q.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us@SD",Bounce XL
+https://jmp2.uk/plu-6176fd25e83a5f0007a464c9.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us@SD",Bounce XL (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us@SD",Bounce XL (1080p) [Geo-blocked]
+https://pb-xp0ozx9lyqeiv.akamaized.net/BounceXL_US.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us@SD",Bounce XL (720p)
+https://aegis-cloudfront-1.tubi.video/22eea4e9-00a6-427c-92dd-57e78cc160dc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BPXTVRadio.us@SD",BPX TV Radio
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BratTV.us@SD",Brat TV (1080p)
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BratTV.us@SD",Brat TV (720p) [Geo-blocked]
+https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Brave Wilderness (1080p)
+https://d95zc3i1pxhs7.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Bravo Vault (1080p)
+https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",Bravo Vault (720p)
+https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
+
+#EXTINF:-1 tvg-id="BrevardGovernmentAccessTV.us@SD",Brevard County Government Access TV (Brevard FL) (720p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Bring It! (1080p) [Geo-blocked]
+https://pb-46i4usnz2g1z1.akamaized.net/Bring_It.m3u8
+
+#EXTINF:-1 tvg-id="BritBoxMysteries.us@SD",BritBox Mysteries (1080p)
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BritBoxMysteries.us@SD",BritBox Mysteries (1080p) [Geo-blocked]
+https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BritBoxMysteries.us@SD",BritBox Mysteries (720p)
+https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
+
+#EXTINF:-1 tvg-id="BPTV.us@SD",Buena Park Television (360p)
+https://buenapark.cablecast.tv/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="TheBurbankChannel.us@SD",Burbank Channel (720p)
+https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BUTV10.us@SD",BUTV10 (Boston University) (1080p) [Not 24/7]
+https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="",BuzzFeed Celeb (1080p)
+https://d1gdoah3axw004.cloudfront.net/BuzzFeed_Celeb.m3u8
+
+#EXTINF:-1 tvg-id="",BuzzFeed Tasty (1080p)
+https://d2tlbbjop5ksk2.cloudfront.net/BuzzFeed_Tasty.m3u8
+
+#EXTINF:-1 tvg-id="",BuzzFeed Unsolved (1080p)
+https://d1727vwt6h9ghr.cloudfront.net/BuzzFeed_Unsolved.m3u8
+
+#EXTINF:-1 tvg-id="Buzzr.us@SD",Buzzr (1080p)
+https://buzzrota-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Buzzr.us@SD",BUZZR (720p) Source 1
+https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Buzzr.us@SD",BUZZR (720p) Source 2
+https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
+
+#EXTINF:-1 tvg-id="BXArts.us@SD",BX Arts (720p)
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
