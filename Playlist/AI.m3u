@@ -5231,3 +5231,84 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
 
 #EXTINF:-1 tvg-id="AfroLandTV.us@SD",AfroLandTV (1080p)
 https://alt-al.otteravision.com/alt/al/al.m3u8
+
+#EXTINF:-1 tvg-id="AFTV.us@SD",AFTV (1080p)
+https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFV.us@SD",AFV (720p)
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",AFV with Alfonso Ribeiro (1080p)
+https://d1o5yzickeowpa.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AghapyKids.us@SD",Aghapy Kids (1080p)
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Akaku53.us@SD",Akaku 53 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-id="Akaku54.us@SD",Akaku 54 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+
+#EXTINF:-1 tvg-id="Akaku55.us@SD",Akaku 55 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+
+#EXTINF:-1 tvg-id="AKCTV.us@SD",AKC TV
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKCTV.us@SD",AKC TV (1080p)
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us@SD",AKC TV Meet The Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVPuppies.us@SD",AKC TV Puppies 24/7
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHayatTV.us@SD",Al Hayat TV (720p)
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHorreyaTV.us@SD",Al Horreya TV (1080p)
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHorreyaTV.us@SD",Al Horreya TV (720p)
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlFadyTV.us@SD",Al-Fady TV (1080p) [Not 24/7]
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlMahdiTV.us@SD",Al-MahdiTV (1080p)
+https://iptv.almahditv.com/almahditv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlbdreamsTV.us@SD",AlbDreams TV (720p)
+http://live.albavision.net:1123/live/albdreams.m3u8
+
+#EXTINF:-1 tvg-id="",Alfred Hitchcock Presents (1080p)
+https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Alhurra.us@SD",Alhurra (720p) Source 1
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="Alhurra.us@SD",Alhurra (720p) Source 2
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
+
+#EXTINF:-1 tvg-id="AlhurraIraq.us@SD",Alhurra Iraq (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="",Alien Nation (1080p)
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Alien Nation by DUST (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DUST.us@SD",Alien Nation by DUST (1080p) Source 2
+https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlientoVision.us@SD",Aliento Vision (720p) [Not 24/7]
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us@SD",Alkarma TV Australia (1080p)
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us@SD",Alkarma TV Australia (1080p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
