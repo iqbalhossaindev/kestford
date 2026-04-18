@@ -8807,3 +8807,57 @@ https://streams2.sofast.tv/umaxx/v1/01971c1e82751ebd47042b72b0c032/01971c2023791
 
 #EXTINF:-1 tvg-id="",Mi Raza Canal Plus (1080p)
 https://streams2.sofast.tv/sofast3/v1/019835b55bef1ebd4704326f84ec86/019835ca63dd1ebd416a5a78cf461/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBTV.us@SD",Miami Beach Tv (MBTV) (Miami Beach FL) (720p)
+https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidnightPulp.us@SD",Midnight Pulp (1080p) Source 1
+https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidnightPulp.us@SD",Midnight Pulp (1080p) Source 2
+https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel30.us@SD",Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel75.us@SD",Midpen Media Center Diversity and Culture Channel 75 (720p)
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us@SD",Midpen Media Center Government etc Channel 26 (720p)
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us@SD",Midpen Media Center Government etc Channel 29 (720p)
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us@SD",Midpen Media Center Youth Education and Sports Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders Source 1
+https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders Source 2
+https://jmp2.uk/plu-5cbf6a868a1bce4a3d52a5e9.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders (1080p)
+https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders (720p)
+https://aegis-cloudfront-1.tubi.video/d76934f9-bea8-4cc2-a812-c2e8a9c5d40a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders (720p) [Geo-blocked]
+https://pb-10d2295rjh7ki.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Military Heroes (1080p)
+https://d25lps4m0jar17.cloudfront.net/Military_Heroes.m3u8
+
+#EXTINF:-1 tvg-id="MCTV.us@SD",Millbrae Community Television (720p)
+https://685c08ed6d81a.streamlock.net/live/mp4:MCTV_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Million Dollar Dream Home (1080p) [Geo-blocked]
+https://pb-tc6lcocnesxgi.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Million Dollar Listing Vault (1080p)
+https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",Million Dollar Listing Vault (720p)
+https://jmp2.uk/plu-6549322e53fc97000838febc.m3u8
