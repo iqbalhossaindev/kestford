@@ -8633,3 +8633,42 @@ https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 
 #EXTINF:-1 tvg-id="Localish.us@SD",Localish (720p)
 https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8
+
+#EXTINF:-1 tvg-id="Logo.us@East",Logo East (360p) [Not 24/7]
+https://tvpass.org/live/LogoEast/sd
+
+#EXTINF:-1 tvg-id="Logo.us@East",Logo East (720p) [Not 24/7]
+https://tvpass.org/live/LogoEast/hd
+
+#EXTINF:-1 tvg-id="LogoPlutoTV.us@SD",Logo Pluto TV
+https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.us@SD",Logos TV (1080p) [Not 24/7]
+https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.us@SD",Logos TV (720p) [Not 24/7]
+https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LogosTVEnglish.us@SD",Logos TV English (1080p) [Not 24/7]
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",LOL TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TAPTVChannel23.us@SD",Lompoc TAP TV Channel 23 (720p)
+https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPTVChannel24.us@SD",Lompoc TAP TV Channel 24 (720p)
+https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPTVChannel25.us@SD",Lompoc TAP TV Channel 25 (720p)
+https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LBTV.us@SD",Long Beach Television (720p)
+https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LA36.us@SD",Los Angeles Local Television Channel 36 (1080p)
+https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="LoveHipHop.us@SD",Love & Hip Hop
+https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
