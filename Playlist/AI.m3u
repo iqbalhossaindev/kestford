@@ -534,9 +534,6 @@ https://www.youtube.com/euronewsfr/live
 #EXTINF:-1 tvg-name="BBC Four/CBeebies (720p) [Geo-Blocked]" group-title="Switzerland",BBC Four/CBeebies (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 
-#EXTINF:-1 tvg-name="BBC Three/CBBC (720p) [Geo-Blocked]" group-title="Switzerland",BBC Three/CBBC (720p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrQVoOg.png" tvg-name="Euronews Bulgaria Ⓨ" group-title="Bulgaria",Euronews Bulgaria Ⓨ
 https://www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live
 
