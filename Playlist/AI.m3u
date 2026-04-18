@@ -2726,3 +2726,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 ,Ayush TV
 http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD",Boishakhi TV Source 1
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
