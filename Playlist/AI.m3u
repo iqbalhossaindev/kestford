@@ -8045,3 +8045,57 @@ https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=gratisan
 
 #EXTINF:-1 ,FX
 https://delivery.macan.live/stream/id_fx/index.m3u8?token=gratisan
+
+#EXTINF:-1 tvg-id="ImpactNetwork.us@SD",Impact Network (720p)
+https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
+
+#EXTINF:-1 tvg-id="ImpossibleQuizShow.us@SD",Impossible Quiz Show (1080p)
+https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",In Depth with Graham Bensinger (1080p)
+https://d3l6x4fdwxv0np.cloudfront.net/In_Depth_With_Graham_Bensinger.m3u8
+
+#EXTINF:-1 tvg-id="IntheKitchen.us@SD",In the kitchen (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+
+#EXTINF:-1 tvg-id="",In Touch+ (1080p)
+https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INFAST.nl@SD",InFast (1080p) [Geo-blocked]
+https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InfoWars.us@SD",InfoWars (720p)
+https://a-cdn.klowdtv.com/live2/infowars_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InfoWars.us@SD",InfoWars Network (1080p)
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",InfoWars The Alex Jones Show (1080p)
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",InfoWars The American Journal (1080p)
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",InfoWars War Room With Owen Shroyer (1080p)
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InkMaster.us@SD",Ink Master
+https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
+
+#EXTINF:-1 tvg-id="",Intervention by A&E (1080p) [Geo-blocked]
+https://pb-5kduxc2en4kdz.akamaized.net/Intervention_by_AE.m3u8
+
+#EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines",INTRAVEL (1080p)
+https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines",INTRAVEL (1080p) [Geo-blocked]
+https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl@SD",INTROUBLE (1080p)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl@SD",InTrouble (1080p) [Geo-blocked]
+https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Inuyasha
+https://jmp2.uk/plu-67c63b90a20c0399a381b816.m3u8
