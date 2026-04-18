@@ -8633,3 +8633,177 @@ https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 
 #EXTINF:-1 tvg-id="Localish.us@SD",Localish (720p)
 https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8
+
+#EXTINF:-1 tvg-id="Logo.us@East",Logo East (360p) [Not 24/7]
+https://tvpass.org/live/LogoEast/sd
+
+#EXTINF:-1 tvg-id="Logo.us@East",Logo East (720p) [Not 24/7]
+https://tvpass.org/live/LogoEast/hd
+
+#EXTINF:-1 tvg-id="LogoPlutoTV.us@SD",Logo Pluto TV
+https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.us@SD",Logos TV (1080p) [Not 24/7]
+https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.us@SD",Logos TV (720p) [Not 24/7]
+https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LogosTVEnglish.us@SD",Logos TV English (1080p) [Not 24/7]
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",LOL TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TAPTVChannel23.us@SD",Lompoc TAP TV Channel 23 (720p)
+https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPTVChannel24.us@SD",Lompoc TAP TV Channel 24 (720p)
+https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPTVChannel25.us@SD",Lompoc TAP TV Channel 25 (720p)
+https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LBTV.us@SD",Long Beach Television (720p)
+https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LA36.us@SD",Los Angeles Local Television Channel 36 (1080p)
+https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="LoveHipHop.us@SD",Love & Hip Hop
+https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
+
+#EXTINF:-1 tvg-id="",Love 2 Hate TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature (1080p) [Geo-blocked]
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature (720p)
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature (720p) [Geo-blocked]
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca@4K",Love Nature 4K (2160p) [Geo-blocked]
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+
+#EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD",Love Nature en Espanol (1080p) [Geo-blocked]
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Love Pets (1080p)
+https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
+
+#EXTINF:-1 tvg-id="CityofLovelandTV.us@SD",Loveland TV (Loveland CO) (1080p)
+https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="LoveWorldPersia.ng@SD",LoveWorld Persia (720p)
+https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveWorldUK.ng@SD",Loveworld UK (1080p) [Not 24/7]
+https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveWorldUSA.ng@SD",LoveWorld USA (720p)
+https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LPTV.us@SD",LPTV (1080p)
+https://livestream.telvue.com/lexmedia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia1/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LuchaLibreAAA.us@SD",Lucha Libre AAA
+https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8
+
+#EXTINF:-1 tvg-id="LuckyDog.us@SD",Lucky Dog (720p)
+https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
+
+#EXTINF:-1 tvg-id="",Luxe Fireplace Vibes (1080p) [Geo-blocked]
+https://pb-0yvknepz2ngjh.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Luxury Dreams TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8
+
+#EXTINF:-1 tvg-id="MadDogandMerrill.us@SD",Mad Dog and Merrill (540p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
+
+#EXTINF:-1 tvg-id="MagellanTVNow.us@SD",MagellanTV TV Now (1080p) [Geo-blocked]
+https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8
+
+#EXTINF:-1 tvg-id="MajestadTV.us@SD",Majestad Televisión (480p) [Not 24/7]
+https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
+
+#EXTINF:-1 tvg-id="",Mama Benz TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="MSTV.us@SD",Manatee Schools Television MSTV (Manatee County FL) (1080p)
+https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
+
+#EXTINF:-1 tvg-id="",Mark Rober TV (1080p)
+https://d217xu4o9hejvm.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MartinCountyTV.us@SD",Martin County MCTV (Martin County FL) (720p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Matched Married Meet (1080p) [Geo-blocked]
+https://pb-zrn69przatyzi.akamaized.net/Matched_Married_Meet.m3u8
+
+#EXTINF:-1 tvg-id="",Matched Married Meet by Lifetime (720p)
+https://jmp2.uk/plu-6887a86be3703b7d42b3eca3.m3u8
+
+#EXTINF:-1 tvg-id="Matlock.us@SD",Matlock
+https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
+
+#EXTINF:-1 tvg-id="",Mattel Jr. (720p)
+https://dc6v647pwrp79.cloudfront.net/matjr.m3u8
+
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD",Maverick Black Cinema (1080p)
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD",Maverick Black Cinema (720p) Source 1
+https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD",Maverick Black Cinema (720p) Source 2
+https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC1USA.us@SD",MBC 1 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC3USA.us@SD",MBC 3 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCAmerica.us@SD",MBC America (1080p)
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCDramaUSA.us@SD",MBC Drama USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasrUSA.us@SD",MBC Masr USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+
+#EXTINF:-1 tvg-id="MCN6MainChannel.us@SD",MCN6 (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="MCN6ArtsChannel.us@SD",MCN6 Arts Channel (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="MCN6MusicChannel.us@SD",MCN6 Music Channel (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="",MeatEater (1080p)
+https://d7hbn1ntae5ib.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Mercury+ (1080p)
+https://streams2.sofast.tv/sofastplayout/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="",MHz Mysteries (720p)
+https://mhz-samsung-linear-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Mi Miedo Canal (1080p)
+https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7dd1ea506ec3d330f48ad/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Mi Raza Canal (1080p)
+https://streams2.sofast.tv/umaxx/v1/01971c1e82751ebd47042b72b0c032/01971c2023791ea506492f5bf73b63/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Mi Raza Canal Plus (1080p)
+https://streams2.sofast.tv/sofast3/v1/019835b55bef1ebd4704326f84ec86/019835ca63dd1ebd416a5a78cf461/playlist.m3u8
