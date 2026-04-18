@@ -8099,3 +8099,66 @@ https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/pla
 
 #EXTINF:-1 tvg-id="",Inuyasha
 https://jmp2.uk/plu-67c63b90a20c0399a381b816.m3u8
+
+#EXTINF:-1 tvg-id="",Investiga
+https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
+
+#EXTINF:-1 tvg-id="",Investigation (1080p) Source 1
+https://amg00346-vizioono-amg00346c2-distrotv-us-1396.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-investigation-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Investigation (1080p) Source 2
+https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INWILD.nl@SD",INWILD (1080p)
+https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWild.it@SD",INWILD (1080p) [Geo-blocked]
+https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl@SD",INWONDER (1080p) Source 1
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl@SD",InWonder (1080p) Source 2
+https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl@SD",INWONDER (1080p) [Geo-blocked] Source 1
+https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl@SD",InWonder (1080p) [Geo-blocked] Source 2
+https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IONTV.us@East",ION (1080p) [Geo-blocked]
+https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
+
+#EXTINF:-1 tvg-id="",ION (720p)
+https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
+
+#EXTINF:-1 tvg-id="",ION Mystery (1080p)
+https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",ION Mystery (1080p) [Geo-blocked]
+https://pb-usmbvsgwcg8pc.akamaized.net/Ion_Mystery_US.m3u8
+
+#EXTINF:-1 tvg-id="IONPlus.us@East",ION Plus (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IONPlus.us@East",ION Plus (1080p) [Geo-blocked]
+https://pb-tcsruiaw9dc0i.akamaized.net/Ion_Plus_US.m3u8
+
+#EXTINF:-1 tvg-id="IONPlus.us@East",ION Plus (720p)
+https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IranNationalRevolutionTV.us@HD",Iran National Revolution TV
+https://hls.irannrtv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IslandLuckTV.bs@SD",Island Luck TV
+https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Island Vibes (1080p)
+https://d3fe47ml3w3qj1.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ItIsWrittenTV.us@SD",It Is Written TV (1080p)
+https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us@SD",It's Supernatural! Network (ISN Network) (1080p)
+https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
