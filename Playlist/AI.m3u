@@ -7643,3 +7643,129 @@ https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GemShoppingNetwork.us@SD",Gem Shopping Network (720p)
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Genie K Drama (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US2000012KX&channel_id=newid_351&tp=samsung_tvplus
+
+#EXTINF:-1 tvg-id="",Genie K Movie (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US200001137&channel_id=newid_350&tp=samsung_tvplus
+
+#EXTINF:-1 tvg-id="GhostHunters.us@UK",Ghost Hunters
+https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
+
+#EXTINF:-1 tvg-id="",Ghost Stories (720p)
+https://d3qindbjv75wld.cloudfront.net/v1/ae_networks_unxplainedzonehauntings_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMAPChannel17.us@SD",Gilroy CMAP TV Channel 17 (720p)
+https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMAPChannel18.us@SD",Gilroy CMAP TV Channel 18 (720p)
+https://livestream.telvue.com/cmap3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMAPChannel19.us@SD",Gilroy CMAP TV Channel 19 (720p)
+https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMAPChannel20.us@SD",Gilroy CMAP TV Channel 20 (720p)
+https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Glendale11AZ.us@SD",Glendale 11 AZ (360p)
+https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GlendaleTV.us@SD",Glendale TV (720p) [Geo-blocked]
+https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8
+
+#EXTINF:-1 tvg-id="GCNAmerica.us@SD",Global Christian Network America (GCN) (720p)
+http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GlobalFashionChannel.us@SD",Global Fashion Channel (1080p)
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GlobalWorldTV.us@SD",GlobalWorldTV (720p)
+https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GloryKickboxing.us@US",GLORY Kickboxing
+https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
+
+#EXTINF:-1 tvg-id="GMTV.us@SD",GMTV (1080p)
+https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341
+
+#EXTINF:-1 tvg-id="",Go Go Gadget!
+https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
+
+#EXTINF:-1 tvg-id="Go2Travel.us@SD",Go2Travel (1080p)
+https://go2thls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="",Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+
+#EXTINF:-1 tvg-id="",GOD TV (720p)
+https://ott.god.tv/live/us/master.m3u8
+
+#EXTINF:-1 tvg-id="KPCBDT1.us@SD",God's Learning Channel (480p)
+https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD",Golazo Network (720p)
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+#EXTINF:-1 tvg-id="",Golden Boy
+https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
+
+#EXTINF:-1 tvg-id="GCOtv.us@SD",Golden Community Television (GCO.tv) (Golden CO) (1080p)
+https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden TV (240p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
+
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel (1080p) [Not 24/7]
+https://tvpass.org/live/GolfChannel/hd
+
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel (360p) [Not 24/7]
+https://tvpass.org/live/GolfChannel/sd
+
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+
+#EXTINF:-1 tvg-id="",GolfPass (1080p)
+https://d2icntm6fhxrry.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="",GolfPass (720p)
+https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
+
+#EXTINF:-1 tvg-id="GoodLife45.us@SD",GoodLife 45 (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD",Gordon Ramsay (720p)
+https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD",Gordon Ramsay's Hell's Kitchen
+https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
+
+#EXTINF:-1 tvg-id="GBNTV.us@SD",Gospel Broadcasting Network (GBN) (1080p)
+https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GospelTruthTV.us@SD",Gospel Truth TV (1080p)
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
+
+#EXTINF:-1 tvg-id="GoTraveler.us@SD",GoTraveler (720p) [Geo-blocked]
+https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GravitasMovies.us@SD",Gravitas Movies (1080p)
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+
+#EXTINF:-1 tvg-id="GreensboroTV.us@SD",Greensboro TV (Greensboro NC) (720p)
+https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
+
+#EXTINF:-1 tvg-id="GritXtra.us@SD",Grit Xtra (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/3bda1ff3-ae32-45ab-ad49-f5e206511a70/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GritXtra.us@SD",Grit Xtra (1080p) Source 2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GritXtra.us@SD",Grit Xtra (1080p) [Geo-blocked]
+https://pb-7k9tqpp5wqdnj.akamaized.net/Grit_Xtra_US.m3u8
+
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD",Grjngo (720p) [Geo-blocked]
+https://pb-rtme7tnh9wa6k.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gunsmoke.us@SD",Gunsmoke
+https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
