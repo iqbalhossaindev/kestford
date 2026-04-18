@@ -129,5 +129,5 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 ,Channel 5 Source 1
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
-#EXTINF:-1 ,Channel 9 Source 2
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:-1 ,Channel 5 Source 2
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
