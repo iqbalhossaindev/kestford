@@ -7808,3 +7808,48 @@ https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD",Hallmark Movies & More (720p)
 https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies & Mysteries East (1080p) [Not 24/7]
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies & Mysteries East (360p) [Not 24/7]
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+
+#EXTINF:-1 tvg-id="HamaikaTelebista.es@SD",Hamaika Telebista (1080p)
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HappyDays.us@SD",Happy Days
+https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+
+#EXTINF:-1 tvg-id="HappyKids.us@SD",HappyKids (1080p)
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="HardKnocks.ca@SD",Hard Knocks (1080p) [Not 24/7]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+
+#EXTINF:-1 tvg-id="HauntTV.ca@SD",Haunt TV (1080p)
+https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
+
+#EXTINF:-1 tvg-id="HauntTV.ca@SD",Haunt TV (720p)
+https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",HeartFelt TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Heartland.us@Web",Heartland Source 2
+https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
+
+#EXTINF:-1 tvg-id="",Heartland (1080p) [Geo-blocked]
+https://pb-a0c87g3b3mtrw.akamaized.net/Heartland.m3u8
+
+#EXTINF:-1 tvg-id="HellsKitchen.us@UK",Hell's Kitchen (1080p) [Geo-blocked]
+https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8
+
+#EXTINF:-1 tvg-id="",Her Sphere (720p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/804f9e76-e98c-41fa-8d75-5986879e2168/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Heritage Tourism (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cff3309e-ded1-40dd-a6dc-e3a6d0a92d72/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Heritage+ (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8
