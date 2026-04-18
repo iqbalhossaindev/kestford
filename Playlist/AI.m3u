@@ -7643,3 +7643,39 @@ https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GemShoppingNetwork.us@SD",Gem Shopping Network (720p)
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Genie K Drama (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US2000012KX&channel_id=newid_351&tp=samsung_tvplus
+
+#EXTINF:-1 tvg-id="",Genie K Movie (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US200001137&channel_id=newid_350&tp=samsung_tvplus
+
+#EXTINF:-1 tvg-id="GhostHunters.us@UK",Ghost Hunters
+https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
+
+#EXTINF:-1 tvg-id="",Ghost Stories (720p)
+https://d3qindbjv75wld.cloudfront.net/v1/ae_networks_unxplainedzonehauntings_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMAPChannel17.us@SD",Gilroy CMAP TV Channel 17 (720p)
+https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMAPChannel18.us@SD",Gilroy CMAP TV Channel 18 (720p)
+https://livestream.telvue.com/cmap3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMAPChannel19.us@SD",Gilroy CMAP TV Channel 19 (720p)
+https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMAPChannel20.us@SD",Gilroy CMAP TV Channel 20 (720p)
+https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Glendale11AZ.us@SD",Glendale 11 AZ (360p)
+https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GlendaleTV.us@SD",Glendale TV (720p) [Geo-blocked]
+https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8
+
+#EXTINF:-1 tvg-id="GCNAmerica.us@SD",Global Christian Network America (GCN) (720p)
+http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GlobalFashionChannel.us@SD",Global Fashion Channel (1080p)
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
