@@ -7577,3 +7577,27 @@ https://tvpass.org/live/FuseEast/sd
 
 #EXTINF:-1 tvg-id="FX.us@East",FX East (360p) [Not 24/7]
 https://tvpass.org/live/FXEast/sd
+
+#EXTINF:-1 tvg-id="FX.us@East",FX East (720p) [Not 24/7]
+https://tvpass.org/live/FXEast/hd
+
+#EXTINF:-1 tvg-id="FXMovieChannel.us@SD",FX Movie Channel (360p) [Not 24/7]
+https://tvpass.org/live/FXMovieChannel/sd
+
+#EXTINF:-1 tvg-id="FXMovieChannel.us@SD",FX Movie Channel (720p) [Not 24/7]
+https://tvpass.org/live/FXMovieChannel/hd
+
+#EXTINF:-1 tvg-id="FXX.us@East",FXX East (360p) [Not 24/7]
+https://tvpass.org/live/FXXEast/sd
+
+#EXTINF:-1 tvg-id="FXX.us@East",FXX East (720p) [Not 24/7]
+https://tvpass.org/live/FXXEast/hd
+
+#EXTINF:-1 tvg-id="FYI.us@East",FYI East (360p) [Not 24/7]
+https://tvpass.org/live/FYIEast/sd
+
+#EXTINF:-1 tvg-id="FYI.us@East",FYI East (720p) [Not 24/7]
+https://tvpass.org/live/FYIEast/hd
+
+#EXTINF:-1 tvg-id="Community12TV.us@SD",Gainesville Community 12TV (Gainesville FL) (720p)
+https://lin10.isilive.ca/live/gainesville/live/index.m3u8
