@@ -8033,3 +8033,6 @@ https://d27c7ivrw07fxl.cloudfront.net/v1/aenetworks_iceroadtruckers_1/samsunghea
 
 #EXTINF:-1 tvg-id="IFC.us@East",IFC East (360p) [Not 24/7]
 https://tvpass.org/live/IFCEast/sd
+
+#EXTINF:-1 tvg-id="IFC.us@East",IFC East (720p) [Not 24/7]
+https://tvpass.org/live/IFCEast/hd
