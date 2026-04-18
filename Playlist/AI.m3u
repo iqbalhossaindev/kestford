@@ -8486,3 +8486,48 @@ https://xumo-xumoent-ch826-z0h0h.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="LakeFrontTV.us@SD",Leesburg Lakefront TV (Leesburg FL) (720p)
 https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8
+
+#EXTINF:-1 tvg-id="LegoChannel.us@SD",Lego Channel (1080p)
+https://jmp2.uk/stvp-GBBC4300005AL
+
+#EXTINF:-1 tvg-id="LEGOKidsTV.us@SD",LEGO Kids TV
+https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+
+#EXTINF:-1 tvg-id="LeominsterTVEducational.us@SD",Leominster TV Educational (720p)
+https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LeominsterTVGovernment.us@SD",Leominster TV Government (720p)
+https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LeominsterTVPublic.us@SD",Leominster TV Public (720p) [Not 24/7]
+https://livestream.telvue.com/leominster1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Let's Make A Deal (720p)
+https://jmp2.uk/plu-6267352efcf21c0007c76642.m3u8
+
+#EXTINF:-1 tvg-id="",Let's Make A Deal Classic (1080p)
+https://d35koolwpjpqaf.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LexTV.us@SD",Lex TV (720p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LGTV.us@SD",LGTV (1080p)
+https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LakeHavasuCity4.us@SD",LHCAZTV
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Life Minute (720p)
+https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSCEDT1.us@SD",Life! Christian Broadcasting Network (360p)
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSCEDT3.us@SD",LIFE! End Times TV (360p)
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime_720.m3u8
+
+#EXTINF:-1 tvg-id="",Lifetime Movie Favorites (720p)
+https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
