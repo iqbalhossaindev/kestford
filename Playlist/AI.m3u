@@ -7541,3 +7541,39 @@ https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
 
 #EXTINF:-1 ,Steelbird Music (720p) [Not 24/7] Source 1
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMAC3.us@SD",Fresno CMAC 3 Government Channel (720p)
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
+
+#EXTINF:-1 tvg-id="FTFSports.us@SD",FTF Sports (720p) Source 1
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD",fubo Sports Network (1080p)
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD",Fubo Sports Network (1080p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FUELTV.pt@SD",Fuel TV (1080p) Source 1
+https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FUELTV.pt@US",Fuel TV (1080p) [Geo-blocked]
+https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FunRoads.us@SD",Fun Roads (404p)
+http://104.143.4.5:2080/funroads.m3u8
+
+#EXTINF:-1 tvg-id="FunRoads.us@SD",Fun Roads TV (720p)
+https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FunnyAF.us@SD",Funny AF
+https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
+
+#EXTINF:-1 tvg-id="Fuse.us@East",Fuse East (1080p) [Not 24/7]
+https://tvpass.org/live/FuseEast/hd
+
+#EXTINF:-1 tvg-id="Fuse.us@East",Fuse East (360p) [Not 24/7]
+https://tvpass.org/live/FuseEast/sd
+
+#EXTINF:-1 tvg-id="FX.us@East",FX East (360p) [Not 24/7]
+https://tvpass.org/live/FXEast/sd
