@@ -2954,3 +2954,27 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 
 #EXTINF:-1 tvg-id="ShemarooTV.in@SD",Shemaroo TV (720p)
 https://cdn-3.pishow.tv/live/230/master.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD",Shemaroo Umang (720p)
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903" group-title="Hindi",ShemarooTV
+https://cdn-3.pishow.tv/live/230/master.m3u8
+
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD",Shubh Cinema TV (720p)
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+
+#EXTINF:-1 ,Shubh TV (1080p)
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
+
+#EXTINF:-1 ,Shubhsandesh (720p) [Not 24/7]
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD",Shubhsandesh TV (720p) [Not 24/7]
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="SindhTV.pk@SD",Sindh TV (576p)
+https://mumt01.tangotv.in/SINDHTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SiriKannada.in@SD",Siri Kannada (576p)
+https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
