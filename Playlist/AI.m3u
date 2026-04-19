@@ -2774,3 +2774,6 @@ https://mumt02.tangotv.in/MADHATV/index.m3u8
 
 #EXTINF:-1 tvg-id="MahaMovie.in@SD",Maha Movie (576p) Source 2
 https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8
+
+#EXTINF:-1 tvg-id="MantavyaNews.in@SD",Mantavya News (576p)
+https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
