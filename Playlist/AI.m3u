@@ -2822,3 +2822,21 @@ https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 
 #EXTINF:-1 tvg-id="RomedyNow.in@SD",Romedy Now (576p)
 http://103.157.248.140:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-id="RongeenTV.in@SD",Rongeen TV (720p) Source 2
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+
+#EXTINF:-1 tvg-id="RozanaSpokesman.in@SD",Rozana Spokesman (1080p) Source 2
+https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
+
+#EXTINF:-1 tvg-id="RTIndia.in@HD",RT India (1080p)
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaamTV.in@SD",Saam TV
+https://cdn-3.pishow.tv/live/437/master.m3u8
+
+#EXTINF:-1 tvg-id="",Saang TV (720p)
+https://mumt02.tangotv.in/SAANGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SachBedhadak.in@SD",Sach Bedhadak (576p)
+https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8
