@@ -2822,3 +2822,48 @@ https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 
 #EXTINF:-1 tvg-id="RomedyNow.in@SD",Romedy Now (576p)
 http://103.157.248.140:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-id="RongeenTV.in@SD",Rongeen TV (720p) Source 2
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+
+#EXTINF:-1 tvg-id="RozanaSpokesman.in@SD",Rozana Spokesman (1080p) Source 2
+https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
+
+#EXTINF:-1 tvg-id="RTIndia.in@HD",RT India (1080p)
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaamTV.in@SD",Saam TV
+https://cdn-3.pishow.tv/live/437/master.m3u8
+
+#EXTINF:-1 tvg-id="",Saang TV (720p)
+https://mumt02.tangotv.in/SAANGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SachBedhadak.in@SD",Sach Bedhadak (576p)
+https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8
+
+#EXTINF:-1 ,Sadhna (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SadhnaPlusNews.in@SD",Sadhna Plus News (576p)
+https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8
+
+#EXTINF:-1 ,Sadhna Plus News (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+
+#EXTINF:-1 ,Safari TV (480p) [Not 24/7]
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SahanaNews.in@SD",Sahana News (576p)
+https://mumt03.tangotv.in/SAHANANEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="SairamTV.in@SD",Sairam TV (576p)
+https://mumt04.tangotv.in/SAIRAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SakshiTV.in@SD",Sakshi TV (576p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SalaamTV.in@SD",Salaam TV (720p) Source 1
+https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-id="SalaamTV.in@SD",Salaam TV (720p) Source 2
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
