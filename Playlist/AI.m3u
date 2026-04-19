@@ -2867,3 +2867,39 @@ https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-id="SalaamTV.in@SD",Salaam TV (720p) Source 2
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
+
+#EXTINF:-1 tvg-id="SalvationTV.in@SD",Salvation TV (1080p)
+https://ktismaservers.in:3902/live/salvationtvlive.m3u8
+
+#EXTINF:-1 tvg-id="SamacharPlus24x7.in@SD",Samachar Plus 24x7 (576p)
+https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="SamayKolkata.in@SD",Samay Kolkata (1080p)
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+
+#EXTINF:-1 tvg-id="SanaPlus.in@SD",Sana Plus (1080p)
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+
+#EXTINF:-1 tvg-id="SanaPlus.in@SD",Sana Plus (1080p) [Not 24/7]
+https://galaxyott.live/hls/sanaplus.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBangla.in@SD",Sangeet Bangla (720p)
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD",Sangeet Bhojpuri (576p)
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+
+#EXTINF:-1 tvg-id="SangeetMarathi.in@SD",Sangeet Marathi (720p)
+https://cdn-3.pishow.tv/live/1229/master.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in@SD",Sankara TV (576p)
+https://cdn-3.pishow.tv/live/1135/master.m3u8
+
+#EXTINF:-1 tvg-id="SansadTV1.in@SD",Sansad TV 1 (1080p)
+https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
+
+#EXTINF:-1 tvg-id="SansadTV1.in@SD",Sansad TV 1 (1080p) [Not 24/7]
+https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+
+#EXTINF:-1 tvg-id="SansadTV1.in@HD",Sansad TV 1 HD (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
