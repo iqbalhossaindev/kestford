@@ -2801,3 +2801,24 @@ https://mumt02.tangotv.in/PUNJABITV/index.m3u8
 
 #EXTINF:-1 tvg-id="RaftaarMedia.in@SD",Raftaar Media (240p)
 https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RepublicBharat.in@SD",Republic Bharat (1080p) [Geo-blocked]
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
+
+#EXTINF:-1 tvg-id="RepublicKannada.in@SD",Republic Kannada (1080p)
+https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
+
+#EXTINF:-1 tvg-id="RepublicTV.in@SD",Republic TV (1080p)
+https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RepublicTV.in@SD",Republic TV (1080p) [Geo-blocked]
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+
+#EXTINF:-1 tvg-id="RojaMovies.in@SD",Roja Movies (1080p)
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+#EXTINF:-1 tvg-id="RojaTV.in@SD",Roja TV (1080p)
+https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+#EXTINF:-1 tvg-id="RomedyNow.in@SD",Romedy Now (576p)
+http://103.157.248.140:8000/play/a015/index.m3u8
