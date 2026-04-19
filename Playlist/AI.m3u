@@ -3011,9 +3011,3 @@ http://103.229.254.25:7001/play/a0db/index.m3u8
 
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD",Sony Sports Ten 2 HD (1080p)
 http://103.229.254.25:7001/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD",Sony Sports Ten 3 Hindi (576p)
-http://103.229.254.25:7001/play/a09q/index.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen5.in@HD",Sony Sports Ten 5 HD (1080p)
-http://103.157.248.140:8000/play/a05x/index.m3u8
