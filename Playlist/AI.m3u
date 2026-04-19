@@ -2978,3 +2978,18 @@ https://mumt01.tangotv.in/SINDHTV/index.m3u8
 
 #EXTINF:-1 tvg-id="SiriKannada.in@SD",Siri Kannada (576p)
 https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="SirippoliTV.in@SD",Sirippoli TV (576p) Source 1
+http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
+
+#EXTINF:-1 tvg-id="SirippoliTV.in@SD",Sirippoli TV (576p) Source 2
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SohamTV.in@SD",Soham TV (576p)
+https://mumt03.tangotv.in/SOHAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SongdewTV.in@SD",Songdew TV (396p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="Sonic.in@SD",Sonic (576p)
+http://103.229.254.25:7001/play/a0dl/index.m3u8
