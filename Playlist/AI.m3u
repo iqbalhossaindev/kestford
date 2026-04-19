@@ -2993,3 +2993,21 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="Sonic.in@SD",Sonic (576p)
 http://103.229.254.25:7001/play/a0dl/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p)
+http://103.157.248.140:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax.in@SD",Sony Max (576p)
+http://103.157.248.140:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in@SD",Sony SAB (576p)
+http://103.157.248.140:8000/play/a05i/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p) Source 1
+http://103.157.248.140:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p) Source 2
+http://103.229.254.25:7001/play/a0db/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD",Sony Sports Ten 2 HD (1080p)
+http://103.229.254.25:7001/play/a02t/index.m3u8
