@@ -2930,3 +2930,51 @@ https://cdn-2.pishow.tv/live/475/master.m3u8
 
 #EXTINF:-1 tvg-id="SathiyamTV.in@SD",Sathiyam TV (720p)
 https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
+
+#EXTINF:-1 ,Satsang TV (1080p)
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+
+#EXTINF:-1 ,Satsang Web TV (1080p)
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in@SD",Shalom (1080p)
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in@Global",Shalom Global (1080p)
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="ShekinahTV.in@SD",Shekinah TV (1080p)
+https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD",Shemaroo Josh (720p)
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD",Shemaroo TV (720p)
+https://cdn-3.pishow.tv/live/230/master.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD",Shemaroo Umang (720p)
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903" group-title="Hindi",ShemarooTV
+https://cdn-3.pishow.tv/live/230/master.m3u8
+
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD",Shubh Cinema TV (720p)
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+
+#EXTINF:-1 ,Shubh TV (1080p)
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
+
+#EXTINF:-1 ,Shubhsandesh (720p) [Not 24/7]
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD",Shubhsandesh TV (720p) [Not 24/7]
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="SindhTV.pk@SD",Sindh TV (576p)
+https://mumt01.tangotv.in/SINDHTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SiriKannada.in@SD",Siri Kannada (576p)
+https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="SirippoliTV.in@SD",Sirippoli TV (576p) Source 1
+http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
