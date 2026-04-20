@@ -9263,3 +9263,21 @@ https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OANPlus.us@SD",OAN Plus (720p) Source 1
 https://a-cdn.klowdtv.com/live1/oane/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OANPlus.us@SD",OAN Plus (720p) Source 2
+https://jmp2.uk/plu-5e7cf6c7b156d500078c5f44.m3u8
+
+#EXTINF:-1 tvg-id="OANPlus.us@SD",OANPlus (1080p)
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Ocean Vibes (2160p) [Geo-blocked]
+https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
+
+#EXTINF:-1 tvg-id="KOCTChannel18.us@SD",Oceanside Community Television (KOCT) Community Channel 18 (720p)
+https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8
+
+#EXTINF:-1 tvg-id="KOCTChannel19.us@SD",Oceanside Community Television (KOCT) Education and Government Channel 19 (720p)
+https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
+
+#EXTINF:-1 tvg-id="OCNTV.us@SD",OCN TV
+https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
