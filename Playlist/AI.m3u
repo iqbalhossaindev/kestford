@@ -3914,3 +3914,6 @@ https://hls.nejat.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVITN.ir@SD",TV ITN
 https://itnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="WiseHumanTv.ir@HD",WiseHumanTv (1080p)
+https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
