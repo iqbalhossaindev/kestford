@@ -11015,3 +11015,69 @@ https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSTallyHo.us@SD",TVS Tally Ho (360p)
 https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSTavern.us@SD",TVS Tavern (480p)
+https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us@SD",TVS Television Network (480p)
+https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSTravelNetwork.us@SD",TVS Travel Network (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSTurbo.us@SD",TVS Turbo (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSVintageNetwork.us@SD",TVS Vintage Network (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsvintage/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSWesternMovie.us@SD",TVS Western Movie (270p)
+https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSWomenSports.us@SD",TVS Women Sports (720p)
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSConsumerDirect.us@SD",TVSConsumerDirect (720p)
+https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
+
+#EXTINF:-1 tvg-id="UCTV.us@SD",UCTV University of California (720p) [Not 24/7]
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",UEFA Champions League (720p)
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+
+#EXTINF:-1 tvg-id="",UFC
+https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
+
+#EXTINF:-1 tvg-id="",UFC (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",UFC (1080p) Source 2
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",UFC (1080p) [Geo-blocked]
+https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Ultimate Builds (720p)
+https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
+
+#EXTINF:-1 tvg-id="UNWebTV.us@SD",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="Unbeaten.us@SD",Unbeaten (1080p)
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Unbeaten.us@SD",Unbeaten Sports Channel (1080p)
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+
+#EXTINF:-1 tvg-id="",Unchained TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Unidentified.us@SD",Unidentified (1080p)
+https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UniquelyThai.vn@SD",Uniquely Thai (720p)
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Universal Action (1080p)
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
