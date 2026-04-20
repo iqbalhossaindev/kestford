@@ -3602,3 +3602,6 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-
 
 #EXTINF:-1 tvg-id="Minimax.pk@SD",Minimax (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NeoNews.pk@SD",Neo News (1080p) Source 2
+https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
