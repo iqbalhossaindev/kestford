@@ -7886,3 +7886,57 @@ https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playl
 
 #EXTINF:-1 tvg-id="IranNationalRevolutionTV.us@HD",Iran National Revolution TV
 https://hls.irannrtv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IslandLuckTV.bs@SD",Island Luck TV
+https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Island Vibes (1080p)
+https://d3fe47ml3w3qj1.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ItIsWrittenTV.us@SD",It Is Written TV (1080p)
+https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us@SD",It's Supernatural! Network (ISN Network) (1080p)
+https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
+
+#EXTINF:-1 tvg-id="",ITSF (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",It’s Anime (1080p)
+https://d1isoijd9dbbf7.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Jacksonville Freedom Fountain Camera Live
+https://reflect-jacksonville.cablecast.tv/live-7/live/live.m3u8
+
+#EXTINF:-1 tvg-id="G10TV.us@SD",Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)
+https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8
+
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us@SD",Jamie Oliver (1080p) [Geo-blocked]
+https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8
+
+#EXTINF:-1 tvg-id="JBS.us@SD",JBS (404p) [Not 24/7] Source 1
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="JBS.us@SD",JBS (404p) [Not 24/7] Source 2
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JBS.us@SD",JBS (404p) [Not 24/7] Source 3
+https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="JerseyShore.us@SD",Jersey Shore
+https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
+
+#EXTINF:-1 tvg-id="JewelryTV.us@SD",Jewelry Television (720p)
+https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
+
+#EXTINF:-1 tvg-id="",Jewelry Television Espanol (720p)
+https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8
+
+#EXTINF:-1 tvg-id="JewelryTV2.us@SD",Jewelry TV 2 (720p)
+https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
+
+#EXTINF:-1 tvg-id="JewishLifeTelevision.us@SD",Jewish Life Television (1080p) Source 1
+https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8
+
+#EXTINF:-1 tvg-id="JewishLifeTelevision.us@SD",Jewish Life Television (1080p) Source 2
+https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
