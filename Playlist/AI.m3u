@@ -8243,3 +8243,27 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LGTV.us@SD",LGTV (1080p)
 https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LakeHavasuCity4.us@SD",LHCAZTV
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Life Minute (720p)
+https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSCEDT1.us@SD",Life! Christian Broadcasting Network (360p)
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSCEDT3.us@SD",LIFE! End Times TV (360p)
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime_720.m3u8
+
+#EXTINF:-1 tvg-id="",Lifetime Movie Favorites (720p)
+https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
+
+#EXTINF:-1 tvg-id="",Lifetime Movie Favorites (720p) [Geo-blocked]
+https://pb-137agpk5fqieb.akamaized.net/v1/aenetworks_holidaymoviefavorites_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies East (360p) [Not 24/7]
+https://tvpass.org/live/LifetimeMoviesEast/sd
