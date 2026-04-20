@@ -6599,3 +6599,36 @@ https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (720p)
 https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
+
+#EXTINF:-1 tvg-id="",Dating Disasters
+https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8
+
+#EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (1080p) Source 1
+https://hls-live-media-gc.cdn01.net/mpegts/232076_2222904/ApFvejWjRVUzPbyYzS8d9g/1776816000/master_mpegts.m3u8
+
+#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD",Daystar TV Espanol (1080p)
+https://hls-live-media-gc.cdn01.net/mpegts/232076_2222907/karlKyiKToEdHsTFUcjs9g/1776816000/master_mpegts.m3u8
+
+#EXTINF:-1 tvg-id="",Dazn Ringside (1080p)
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",DCC: Making the Team
+https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD",Deal or No Deal
+https://jmp2.uk/plu-5e9debf8c881310007d7bde1.m3u8
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD",Deal or No Deal (1080p) [Geo-blocked]
+https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD",Deal or No Deal (720p)
+https://aegis-cloudfront-1.tubi.video/65eef95b-7b52-42be-8b08-faa459153ed9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Deal Zone (720p) [Geo-blocked]
+https://pb-2x4r5igjtn1o7.akamaized.net/v1/aenetworks_dealzone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Death Valley Days (1080p)
+https://d49k4i5y48mxv.cloudfront.net/SONO66.m3u8
+
+#EXTINF:-1 tvg-id="",Def Jam (720p)
+https://aegis-cloudfront-1.tubi.video/ff2a53ec-9887-4aa3-a9e4-38746eba97de/index.m3u8
