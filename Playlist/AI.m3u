@@ -9665,3 +9665,66 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PSLTV.us@SD",Port St Lucie PSL TV (Port St Lucie FL) (360p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Portlandia.us@SD",Portlandia
+https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Portlandia.us@SD",Portlandia (720p)
+https://d1uvnirn6lhs2f.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PositivTV.us@SD",Positiv TV (1080p)
+https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="PositivTV.us@SD",Positiv TV (636p)
+http://trn03.bozztv.com/gin-positiv/index.m3u8
+
+#EXTINF:-1 tvg-id="PottaDivineTVUSA.us@SD",Potta-Divine TV USA (480p)
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PSDTV.us@SD",Poudre School District TV (PSD TV) (Fort Collins CO) (720p)
+https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
+
+#EXTINF:-1 tvg-id="",Power Rangers (1080p) [Geo-blocked]
+https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us@SD",POWERNATION
+https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us@SD",POWERNATION (1080p)
+https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8
+
+#EXTINF:-1 tvg-id="",Powertube TV (1080p)
+https://streams2.sofast.tv/powertube_live/master.m3u8
+
+#EXTINF:-1 tvg-id="",Project Runway
+https://jmp2.uk/plu-68757c60552299d2b080eab6.m3u8
+
+#EXTINF:-1 tvg-id="",Project Runway (1080p) [Geo-blocked]
+https://pb-w5i1ok5f9169m.akamaized.net/Project_Runway.m3u8
+
+#EXTINF:-1 tvg-id="",Property & Reno (1080p) [Geo-blocked] Source 1
+https://linear-476.frequency.stream/dist/glewedtv/476/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Property & Reno (1080p) [Geo-blocked] Source 2
+https://linear-476.frequency.stream/dist/xumo/476/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PTLTVNetwork.us@SD",PTL Television Network (1080p)
+https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PursuitChannel.us@SD",Pursuit Channel (1080p)
+https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8
+
+#EXTINF:-1 tvg-id="PursuitUP.us@SD",Pursuit UP (1080p)
+https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PursuitUP.us@SD",Pursuit UP (720p)
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PursuitUP.us@SD",PursuitUP (1080p) Source 1
+https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PursuitUP.us@SD",PursuitUp (1080p) Source 2
+https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PursuitUP.us@SD",PursuitUP (720p) [Geo-blocked]
+https://pursuitup-klowdtv.amagi.tv/playlist.m3u8
