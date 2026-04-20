@@ -10625,3 +10625,45 @@ https://d34e6a6i7rp7yc.cloudfront.net/SONO91_Spotify.m3u8
 
 #EXTINF:-1 tvg-id="TSC.ca@SD",The Shopping Channel (720p)
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1 tvg-id="",The Try Guys (1080p)
+https://d173iv46agmwo9.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTheTwilightZone.us@SD",The Twilight Zone
+https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
+
+#EXTINF:-1 tvg-id="",The UnXplained with William Shatner (1080p) [Geo-blocked]
+https://pb-ii1ggyq6hduy9.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheWalkTV.us@SD",The Walk TV (720p)
+https://cdn-unified-hls.streamspot.com/ingest1/8b0796adaf/playlist.m3u8?origin=1
+
+#EXTINF:-1 tvg-id="TheWalkingDeadenEspanol.us@SD",The Walking Dead en español (720p)
+https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
+
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD",The Walking Dead Universe
+https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD",The Walking Dead Universe (720p)
+https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD",The Walking Dead Universe (720p) [Geo-blocked]
+https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",The Wild Wild West
+https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
+
+#EXTINF:-1 tvg-id="TheWordNetwork.us@SD",The Word Network (1080p)
+https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",The X-Files
+https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
+
+#EXTINF:-1 tvg-id="TheYoungTurks.us@SD",The Young Turks (1080p) [Geo-blocked]
+https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheYoungTurks.us@SD",The Young Turks (TYT) (1080p) [Not 24/7]
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="TheYoungTurks.us@SD",The Young Turks (TYT) (720p)
+https://tyt-samsungus.amagi.tv/playlist.m3u8
