@@ -9110,3 +9110,39 @@ https://tvpass.org/live/NewsmaxTV/sd
 
 #EXTINF:-1 tvg-id="NewsmaxTV.us@SD",Newsmax TV (720p) Source 1
 https://amg00217-newsmax-amg00217c2-zeasn-us-2412.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-zeasnus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",Newsmax TV (720p) Source 2
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax2.us@SD",Newsmax2 (720p)
+https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8
+
+#EXTINF:-1 tvg-id="NewsNet.us@SD",NewsNet (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Newsy.us@SD",Newsy (1080p)
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLChannel.us@SD",NFL Channel (1080p) [Geo-blocked]
+https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-id="NFLChannel.us@SD",NFL Channel (720p)
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD",NFL RedZone (360p) [Not 24/7]
+https://tvpass.org/live/NFLRedZone/sd
+
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD",NFL RedZone (720p) [Not 24/7]
+https://tvpass.org/live/NFLRedZone/hd
+
+#EXTINF:-1 tvg-id="",NHL (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",NHL (1080p) Source 2
+https://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHRATV.us@SD",NHRA TV (1080p)
+https://d265y4sk8257lt.cloudfront.net/nh.m3u8
+
+#EXTINF:-1 tvg-id="NHRATV.us@SD",NHRA TV (720p)
+https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
