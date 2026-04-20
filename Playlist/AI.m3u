@@ -10766,3 +10766,36 @@ https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 
 #EXTINF:-1 tvg-id="ToonamiAftermath.us@East",Toonami Aftermath East (480p)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Toonami Aftermath Movies (540p)
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Toonami Aftermath Radio (480p)
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Top Chef Vault (1080p)
+https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk@SD",Top Gear (720p) Source 1
+https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk@SD",Top Gear (720p) Source 2
+https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk@SD",Top Gear (720p) Source 3
+https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
+
+#EXTINF:-1 tvg-id="",Top Rank Classics
+https://jmp2.uk/plu-64d160f53c785e0008df525e.m3u8
+
+#EXTINF:-1 tvg-id="",Top Rank Classics (1080p)
+https://aegis-cloudfront-1.tubi.video/0b971699-b91c-4cad-8a17-4a4c0110665a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopStoriesbyNewsy.us@SD",Top Stories by Newsy (720p)
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+
+#EXTINF:-1 tvg-id="",Torque (720p) [Geo-blocked]
+https://pb-57ztemps4qd39.akamaized.net/v1/aenetworks_torque_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CitiCABLE.us@SD",Torrance CitiCABLE (Torrance CA) (360p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/playlist.m3u8
