@@ -11237,3 +11237,51 @@ https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 
 #EXTINF:-1 tvg-id="",Vevo Íconos Latinos
 https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
+
+#EXTINF:-1 tvg-id="",VH1 Queens of Reality
+https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
+
+#EXTINF:-1 tvg-id="VICETV.us@SD",VICE (1080p)
+https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
+
+#EXTINF:-1 tvg-id="ViceNews.us@SD",Vice News (1080p)
+https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VICETV.us@SD",Vice TV (1080p)
+https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Victory+ (1080p)
+https://d2otd2h2i5t24h.cloudfront.net/Victory_National.m3u8
+
+#EXTINF:-1 tvg-id="VidaMejorTV.us@SD",Vida Mejor TV (480p)
+https://tgn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8
+
+#EXTINF:-1 tvg-id="",Vidas Extremas
+https://jmp2.uk/plu-673249afc7626f0008c7205d.m3u8
+
+#EXTINF:-1 tvg-id="WHOHTV.us@SD",Village of Hastings-On-Hudson NY (WHOH-TV) (360p)
+https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VisionGlobalTV.us@SD",Vision Global TV (720p) [Geo-blocked]
+https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="VoATVPersian.us@SD",VOA Persian (1080p)
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VoATV.us@SD",VOA TV Africa (1080p)
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Voyages+ (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
+
+#EXTINF:-1 tvg-id="VSiN.us@SD",VSiN (720p)
+https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KVTNDT1.us@SD",VTN Victory Television Network (720p)
+https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="W14DKD1.us@SD",W14DK-D 14.1 TV Delmarva
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="W14DKD2.us@SD",W14DK-D 14.2 NEWSNET
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
