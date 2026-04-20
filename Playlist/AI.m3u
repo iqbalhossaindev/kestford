@@ -3350,3 +3350,6 @@ http://103.161.153.165:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD",Star Sports 3 (576p)
 http://103.161.153.165:8000/play/a05p/index.m3u8
+
+#EXTINF:-1 tvg-id="VCV.in@SD",VCV (720p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
