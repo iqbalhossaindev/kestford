@@ -12,9 +12,6 @@ https://tvsen6.aynascope.net/asports/index.m3u8?e=1775526010&u=78be6644-0a65-48e
 #EXTINF:-1 group-title="Sports | United Arab Emirates",Abu Dhabi Sports 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
-#EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV (1080p)
-https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
-
 #EXTINF:-1 group-title="Sports | United Arab Emirates",Abu Dhabi Sports 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
@@ -23,12 +20,6 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 
 #EXTINF:-1 ,& Flix HD Source 1
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-
-#EXTINF:-1 tvg-id="ATNNews.bd@SD",ATN News (1080p)
-https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg" group-title="Bangla",Star Jalsha HD Source 3
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
 
 #EXTINF:-1 ,157.Bein Sports Xtra HD
 https://chostv.mobie.in/choos/sports/beinxtra.m3u8
