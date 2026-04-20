@@ -5987,3 +5987,30 @@ https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.
 
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD",CBS News Bay Area (720p) Source 1
 https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD",CBS News Bay Area (720p) Source 2
+https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsBoston.us@SD",CBS News Boston (720p) Source 1
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsBoston.us@SD",CBS News Boston (720p) Source 2
+https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsBoston.us@SD",CBS News Boston (720p) Source 3
+https://jmp2.uk/plu-5eb1af2ad345340008fccd1e.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsChicago.us@SD",CBS News Chicago (720p) Source 1
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsChicago.us@SD",CBS News Chicago (720p) Source 2
+https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsColorado.us@SD",CBS News Colorado (720p) Source 1
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsColorado.us@SD",CBS News Colorado (720p) Source 2
+https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsDetroit.us@SD",CBS News Detroit (720p) Source 1
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
