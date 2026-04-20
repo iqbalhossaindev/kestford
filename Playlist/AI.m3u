@@ -9533,3 +9533,39 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PCTV28.us@SD",Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PixLTV.us@SD",PixL TV
+https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
+#EXTINF:-1 tvg-id="",Playing for Change (1080p)
+https://streams2.sofast.tv/vglive-sk-860453/index.m3u8
+
+#EXTINF:-1 tvg-id="",PLL Network (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/185b9f38-635d-4cd8-b744-0ffca8ed48ba/pllne.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAction.us@US",Pluto TV Action
+https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@US",Pluto TV Anime
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimeMovies.us@SD",Pluto TV Anime Movies
+https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVBackcountry.us@SD",Pluto TV Backcountry
+https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCars.us@SD",Pluto TV Cars Source 1
+https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVComedy.us@US",Pluto TV Comedy
+https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
+
+#EXTINF:-1 tvg-id="",Pluto TV Competition
+https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@SD",Pluto TV Crime Drama
+https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCrimeMovies.us@SD",Pluto TV Crime Movies
+https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
