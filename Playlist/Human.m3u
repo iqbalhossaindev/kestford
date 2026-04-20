@@ -158,3 +158,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist
 
 #EXTINF:-1 group-title="Sports | Qatar",Alkass Seven
 https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+
+#EXTINF:-1 group-title="Sports | United States",Bek TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
