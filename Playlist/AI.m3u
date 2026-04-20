@@ -6557,3 +6557,45 @@ https://d19h40d1rxo1la.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CVTVChannel192.us@SD",CVTV Channel 192 (1080p)
 https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CVTVChannel194.us@SD",CVTV Channel 194 (1080p)
+https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",CW FOREVER (1080p)
+https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",CW Gold (1080p)
+https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CypressChannel36.us@SD",Cypress Public Access Channel 36 (Cypress CA) (360p)
+https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dance Moms (1080p)
+https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dance Moms (1080p) [Geo-blocked]
+https://pb-z02izgi68rhao.akamaized.net/Dance_Moms.m3u8
+
+#EXTINF:-1 tvg-id="",Danger Vision (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DangerTV.us@SD",DangerTV (720p)
+https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DarkMatterTV.us@SD",Dark Matter TV (720p)
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) Source 2
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) Source 3
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (1080p) [Geo-blocked]
+https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us@SD",Dateline 24/7 (720p)
+https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
