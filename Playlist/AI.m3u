@@ -3908,3 +3908,6 @@ https://sltwohls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="T2TV.ir@SD",T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TBNNejatTV.ir@SD",TBN Nejat TV
+https://hls.nejat.live/hls/stream.m3u8
