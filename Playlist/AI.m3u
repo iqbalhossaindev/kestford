@@ -4778,3 +4778,66 @@ https://tvpass.org/live/AEEast/sd
 
 #EXTINF:-1 tvg-id="AE.us@East",A&E East (720p) [Not 24/7]
 https://tvpass.org/live/AEEast/hd
+
+#EXTINF:-1 tvg-id="KIIOLD4.us@SD",AABC TV (480p)
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us@East",ABC (720p)
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="WPLGDT1.us@SD",ABC (WPLG-DT1) Miami FL (720p)
+https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
+
+#EXTINF:-1 tvg-id="WDIODT1.us@SD",ABC 10 Duluth MN (WDIO) (1080p)
+https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KGTVDT1.us@SD",ABC 10 San Diego CA (KGTV) (720p)
+https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WISNDT1.us@SD",ABC 12 Milwaukee WI (WISN) (720p)
+https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WLOSDT1.us@SD",ABC 13 Asheville NC (WLOS) (1080p)
+https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTNVDT1.us@SD",ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+
+#EXTINF:-1 tvg-id="WPDEDT1.us@SD",ABC 15 Myrtle Beach FL (WPDE) (1080p)
+https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KNXVDT1.us@SD",ABC 15 Phoenix AZ (KNXV) (720p)
+https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KNXVDT1.us@SD",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+
+#EXTINF:-1 tvg-id="WMARDT1.us@SD",ABC 2 Baltimore MD (WMAR) (720p)
+https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KATUDT1.us@SD",ABC 2 Portland OR (KATU) (1080p)
+https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",ABC 20/20 (1080p)
+https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
+
+#EXTINF:-1 tvg-id="WKEFDT1.us@SD",ABC 22 Dayton OH (WKEF) (1080p)
+https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KERODT1.us@SD",ABC 23 Bakersfield CA (KERO) (720p)
+https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KXXVDT1.us@SD",ABC 25 News Central Texas (720p)
+https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+
+#EXTINF:-1 tvg-id="WTXLDT1.us@SD",ABC 27 Tallahassee FL (WTXL) (720p)
+https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCIVDT1.us@SD",ABC 4 Charleston SC (WCIV) (1080p)
+https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KOMODT1.us@SD",ABC 4 Seattle WA (KOMO) (1080p)
+https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KRGVDT1.us@SD",ABC 5
+https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
