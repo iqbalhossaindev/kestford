@@ -11468,3 +11468,45 @@ https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 
 #EXTINF:-1 tvg-id="WGGSDT2.us@SD",WGGS-DT2 (720p)
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
+
+#EXTINF:-1 tvg-id="WGTVDT3.us@SD",WGTV-DT3 (1080p)
+https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+
+#EXTINF:-1 tvg-id="WHBQDT1.us@SD",WHBQ-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WHIODT1.us@SD",WHIO-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WhitePlainsCommunityMedia.us@SD",White Plains Community Media (360p)
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityTVWhittier.us@SD",Whittier CityTV (Whittier CA) (720p)
+https://whittier.cablecast.tv/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="WHPSCD2.us@SD",WHPS Detroit
+https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Wicked Tuna (720p)
+https://jmp2.uk/plu-686c2677ed17cf4c900a496d.m3u8
+
+#EXTINF:-1 tvg-id="WildNOut.us@SD",Wild 'N Out
+https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
+
+#EXTINF:-1 tvg-id="",Wild Nature (1080p) Source 2
+https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8
+
+#EXTINF:-1 tvg-id="WildTV.ca@SD",Wild TV (1080p)
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
+#EXTINF:-1 tvg-id="",Wild West TV (1080p)
+https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Wild West TV (1080p) [Geo-blocked]
+https://pb-7m2kwpwgu3dqf.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za@SD",WildEarth (1080p)
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+
+#EXTINF:-1 tvg-id="",Wildest Wish TV (1080p)
+https://streams2.sofast.tv/sofast3/v1/0197e8dd18f31ebd4704322ec12ab7/0197e8dd477d1ea506ec3673c3696b/playlist.m3u8
