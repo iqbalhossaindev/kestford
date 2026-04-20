@@ -6290,3 +6290,30 @@ https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 
 #EXTINF:-1 tvg-id="ClassicMoviesChannel.us@SD",Classic Movies Channel
 https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTVComedy.us@SD",Classic TV Comedy
+https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+
+#EXTINF:-1 tvg-id="",Classic TV Crime Drama
+https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTVDrama.us@SD",Classic TV Drama
+https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTVFamilies.us@SD",Classic TV: Families
+https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
+
+#EXTINF:-1 tvg-id="Classica.us@SD",Classica (720p)
+https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
+
+#EXTINF:-1 tvg-id="CloudflareTV.us@SD",Cloudflare TV (720p)
+https://cloudflare.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="ClubbingTV.us@France",Clubbing TV France
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us@SD",CMC (California Music Channel) (1080p)
+https://cmc-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us@SD",CMC-USA (California Music Channel) (720p)
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
