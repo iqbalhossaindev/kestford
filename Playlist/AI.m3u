@@ -10799,3 +10799,45 @@ https://pb-57ztemps4qd39.akamaized.net/v1/aenetworks_torque_1/samsungheadend_us/
 
 #EXTINF:-1 tvg-id="CitiCABLE.us@SD",Torrance CitiCABLE (Torrance CA) (360p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Tosh.0
+https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
+
+#EXTINF:-1 tvg-id="TotalCrime.ca@CA",Total Crime (1080p)
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TotallyTurtles.us@US",TOTALLY TURTLES
+https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
+
+#EXTINF:-1 tvg-id="",Tough Jobs
+https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
+
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@SD",TRACE Brazuca (1080p)
+https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceLatina.fr@SD",TRACE Latina (1080p) Source 1
+https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceLatina.fr@SD",Trace Latina (1080p) Source 2
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceLatina.fr@SD",Trace Latina (720p)
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD",Trace Sports Stars (1080p)
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD",TRACE Sportstar (1080p)
+https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",TRACE UK (1080p)
+https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr@SD",TRACE Urban (1080p) Source 1
+https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr@SD",Trace Urban (1080p) Source 2
+https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr@SD",Trace Urban (720p)
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
