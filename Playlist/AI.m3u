@@ -5960,3 +5960,30 @@ https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playl
 
 #EXTINF:-1 tvg-id="KCCIDT1.us@SD",CBS 8 Des Moines IA (KCCI) (720p)
 https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KWTVDT1.us@SD",CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
+
+#EXTINF:-1 tvg-id="",CBS en español
+https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
+
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" tvg-id="CBSNews.us" tvg-country="US" group-title="USA",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews247.us@SD",CBS News 24/7 (720p) Source 1
+https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews247.us@SD",CBS News 24/7 (720p) Source 2
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews247.us@SD",CBS News 24/7 (720p) Source 3
+https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us@SD",CBS News Baltimore (720p) Source 1
+https://jmp2.uk/plu-60f75919718aed0007250d7a.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us@SD",CBS News Baltimore (720p) Source 2
+https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD",CBS News Bay Area (720p) Source 1
+https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
