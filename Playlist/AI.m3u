@@ -3437,3 +3437,24 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCafe.in@HD",Zee Cafe HD (1080p) Source 1
 http://103.229.254.25:7001/play/a0cx/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
+http://103.157.248.140:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinemalu.in@HD",Zee Cinemalu HD (1080p)
+https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeClassic.in@SD",Zee Classic (576p)
+http://103.229.254.25:7001/play/a09w/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeDelhiNCRHaryana.in@SD",Zee Delhi NCR Haryana (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
+
+#EXTINF:-1 tvg-id="ZeeKannadaNews.in@SD",Zee Kannada News (720p)
+https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="ZeeMadhyaPradeshChhattisgarh.in@SD",Zee Madhya Pradesh Chhattisgarh (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
+
+#EXTINF:-1 tvg-id="ZeeMalayalamNews.in@SD",Zee Malayalam News (720p)
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
