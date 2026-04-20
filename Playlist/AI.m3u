@@ -7247,3 +7247,36 @@ https://tvpass.org/live/FoxSports2/sd
 
 #EXTINF:-1 tvg-id="FoxSports2.us@HD",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
+
+#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional",Fox Sports 3 Latin America (1080p)
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD",Fox Sports en Espanol (720p)
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxWeather.us@SD",Fox Weather (1080p)
+https://foxweather-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxWeather.us@SD",FOX Weather (1080p) [Geo-blocked] Source 2
+https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
+
+#EXTINF:-1 tvg-id="FoxWeather.us@SD",Fox Weather (720p) Source 1
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxWeather.us@SD",FOX Weather (720p) Source 2
+https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
+
+#EXTINF:-1 tvg-id="FoxWeather.us@SD",Fox Weather (720p) [Not 24/7]
+https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 (720p)
+https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FreeSpeechTV.us@SD",Free Speech TV (720p)
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+
+#EXTINF:-1 tvg-id="Freeform.us@East",Freeform (720p) [Geo-blocked]
+https://tvpass.org/live/FreeformEast/hd
+
+#EXTINF:-1 tvg-id="",FreeTV Estelar (1080p)
+https://d38sud5af047z8.cloudfront.net/ftveu.m3u8
