@@ -3827,3 +3827,9 @@ https://klmhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="KanalJadid.uk@SD",Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="KhabarbinTV.ir@HD",Khabarbin TV
+https://khbhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="KhalijTV.ir@HD",Khalij TV
+https://khalijhls.wns.live/hls/stream.m3u8
