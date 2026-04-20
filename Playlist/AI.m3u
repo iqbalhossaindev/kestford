@@ -5345,3 +5345,48 @@ https://d3kx0b11i5yg0n.cloudfront.net/v1/aenetworks_axmen_1/samsungheadend_us/la
 
 #EXTINF:-1 tvg-id="",Ax Men (720p) Source 2
 https://live-manifest.production-public.tubi.io/live/b1fdb228-c169-48b3-b6a3-8dee2dd91839/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South",AXN Latin America South (2160p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Baby Einstein (720p)
+https://ds25p79iq4576.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD",Baby Shark TV
+https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD",BABY SHARK TV (1080p) Source 1
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US17000208H&channel_id=newid_346&tp=samsung_tvplus
+
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD",Baby Shark TV (1080p) Source 2
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Backstage.us@SD",Backstage (1080p)
+https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
+
+#EXTINF:-1 tvg-id="Backstage.us@SD",Backstage (1080p) [Geo-blocked]
+https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Bad Girls Club (1080p)
+https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",Bad Girls Club (720p)
+https://jmp2.uk/plu-654932fa4d6d8f00084c4723.m3u8
+
+#EXTINF:-1 tvg-id="",Bang Bang TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BarRescue.us@SD",Bar Rescue
+https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
+
+#EXTINF:-1 tvg-id="",Barbie and Friends (1080p)
+https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
+
+#EXTINF:-1 tvg-id="",Barney and Friends (720p)
+https://d3vm2nhw5t7pkh.cloudfront.net/v1/cinedigm_entertainment_corp_barneyandfriends_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",batteryPOP (720p)
+https://d24c0gmuazjo9x.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Baywatch.us@US",Baywatch (1080p) [Geo-blocked] Source 1
+https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8
