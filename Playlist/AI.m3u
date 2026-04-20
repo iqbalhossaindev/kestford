@@ -8573,3 +8573,36 @@ https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders (720p)
 https://aegis-cloudfront-1.tubi.video/d76934f9-bea8-4cc2-a812-c2e8a9c5d40a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders (720p) [Geo-blocked]
+https://pb-10d2295rjh7ki.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Military Heroes (1080p)
+https://d25lps4m0jar17.cloudfront.net/Military_Heroes.m3u8
+
+#EXTINF:-1 tvg-id="MCTV.us@SD",Millbrae Community Television (720p)
+https://685c08ed6d81a.streamlock.net/live/mp4:MCTV_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Million Dollar Dream Home (1080p) [Geo-blocked]
+https://pb-tc6lcocnesxgi.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Million Dollar Listing Vault (1080p)
+https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",Million Dollar Listing Vault (720p)
+https://jmp2.uk/plu-6549322e53fc97000838febc.m3u8
+
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph@SD",Mindanow Network TV (1080p)
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Miramax Channel (1080p) [Geo-blocked]
+https://pb-w5d3w3kisxahy.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MissionImpossible.us@SD",Mission Impossible
+https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
+
+#EXTINF:-1 tvg-id="MissionTV.us@SD",Mission TV (1080p) [Not 24/7]
+https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MissionTV.us@SD",Mission TV (720p) [Not 24/7]
+http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
