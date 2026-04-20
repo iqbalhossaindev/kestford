@@ -7112,3 +7112,51 @@ https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 tvg-id="FITE247.us@SD",FITE 24/7 (720p)
 https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FlicksofFury.us@SD",Flicks of Fury
+https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
+
+#EXTINF:-1 tvg-id="",Flipping Nation (720p)
+https://d21mkcgtx2frod.cloudfront.net/v1/aenetworks_flippingnation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FlowersTVUSA.us@SD",Flowers TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FNX.us@SD",FNX (1080p)
+https://fnx.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="KVCRDT2.us@SD",FNX [Geo-blocked]
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-id="KFONTV.us@SD",Fontana Community Television (720p) [Geo-blocked]
+https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us@SD",Forensic Files
+https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseForensicFiles.us@SD",Forensic Files (720p) [Geo-blocked]
+https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
+
+#EXTINF:-1 tvg-id="ForeverKids.us@SD",Forever Kids
+https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+
+#EXTINF:-1 tvg-id="",Forged In Fire (720p) [Geo-blocked]
+https://pb-7zbm16kmdn8iw.akamaized.net/v1/aenetworks_forgedinfire_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Fork & Flight (1080p) Source 1
+https://amg00346-vizioono-amg00346c1-distrotv-us-1397.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-forkandflight-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Fork & Flight (1080p) Source 2
+https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FCTV.us@SD",Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)
+https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="CityofFortPierce.us@SD",Fort Pierce Live Stream (Fort Pierce FL) (720p)
+https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSAZDT1.us@SD",FOX 10 Phoenix AZ (KSAZ) (720p)
+https://aegis-cloudfront-1.tubi.video/6bb80abf-8f73-46f3-a520-bb810d93f1d0/index.m3u8
+
+#EXTINF:-1 tvg-id="WLUKDT1.us@SD",FOX 11 Green Bay WI (WLUK) (1080p)
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
