@@ -3860,3 +3860,9 @@ https://mtchls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="NationalIranianCongressTV.ir@SD",National Iranian Congress TV
 https://tv.iraniancongress.com/stream/tv.m3u8
+
+#EXTINF:-1 tvg-id="OmideIranTV.us@SD",Omide Iran
+https://oitnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="OXIRTV.ir@SD",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
