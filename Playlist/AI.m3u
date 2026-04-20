@@ -10292,3 +10292,63 @@ https://dgwfm675921lp.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",Surfing+ (1080p)
 https://dr4jwhk0sty71.cloudfront.net/scheduler/scheduleMaster/444.m3u8
+
+#EXTINF:-1 tvg-id="Survivor.us@SD",Survivor
+https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
+
+#EXTINF:-1 tvg-id="",Swamp People (1080p) [Geo-blocked]
+https://pb-fbdfahhani6sz.akamaized.net/Swamp_People.m3u8
+
+#EXTINF:-1 tvg-id="SwerveSports.us@SD",Swerve Combat (1080p) Source 2
+https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SwerveSports.us@SD",Swerve Combat (1080p) Source 3
+https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SwerveSports.us@SD",Swerve Sports (1080p)
+https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SwerveSports.us@SD",Swerve Sports (720p)
+https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
+
+#EXTINF:-1 tvg-id="",T2 Tennis Channel (1080p)
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TalkinLiveClassicsTV.us@SD",Talkin Live Classics TV (480p)
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBCN.us@SD",Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)
+https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us@US",Tastemade (1080p) [Geo-blocked] Source 1
+https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us@US",Tastemade (1080p) [Geo-blocked] Source 2
+https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us@SD",Tastemade en Espanol (1080p) [Geo-blocked]
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Tastemade Home (1080p)
+https://d3ca4qxsdzlrju.cloudfront.net/Tastemade_Home.m3u8
+
+#EXTINF:-1 tvg-id="",Tastemade Home (1080p) [Geo-blocked]
+https://amg00047-tastemade-amg00047c2-cineverse-us-1357.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadehome-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Tastemade Smokehouse (720p)
+https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeTravel.us@SD",Tastemade Travel (1080p)
+https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeTravel.us@SD",Tastemade Travel (1080p) [Geo-blocked] Source 1
+https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeTravel.us@SD",Tastemade Travel (1080p) [Geo-blocked] Source 2
+https://tm-tmtar-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBN.us@East",TBN (1080p)
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TBNArmenia.us@SD",TBN Armenia
+https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
