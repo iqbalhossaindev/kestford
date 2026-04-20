@@ -6632,3 +6632,39 @@ https://d49k4i5y48mxv.cloudfront.net/SONO66.m3u8
 
 #EXTINF:-1 tvg-id="",Def Jam (720p)
 https://aegis-cloudfront-1.tubi.video/ff2a53ec-9887-4aa3-a9e4-38746eba97de/index.m3u8
+
+#EXTINF:-1 tvg-id="DeFianceMedia.pr@SD",DeFiance Media (1080p) Source 1
+https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeFianceMedia.pr@SD",DeFiance Media (1080p) Source 2
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Degrassi.us@US",Degrassi
+https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
+
+#EXTINF:-1 tvg-id="Degrassi.us@US",Degrassi (720p)
+https://d3537vnymvfque.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DMTV.us@SD",Del Mar TV (720p)
+https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Delicious Eats by Food Network (720p)
+https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8
+
+#EXTINF:-1 tvg-id="Denver8TV.us@SD",Denver 8 TV (Denver CO) (720p)
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DerryTV17.us@SD",DerryTV 17 (720p)
+https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DerryTV23.us@SD",DerryTV 23 (720p)
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Designated Survivor (1080p) [Geo-blocked]
+https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dhar Mann TV (1080p)
+https://d3p03mkvhnk6ll.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DidgahTV.us@SD",Didgah TV (576p)
+https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
