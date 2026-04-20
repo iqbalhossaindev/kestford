@@ -3785,3 +3785,6 @@ https://toonixhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="GoldStar.ir@SD",Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GrandCinema.tr@SD",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
