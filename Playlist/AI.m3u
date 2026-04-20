@@ -11633,3 +11633,24 @@ https://world.lls.pbs.org/index.m3u8
 
 #EXTINF:-1 tvg-id="WorldHarvestTV.us@SD",World Harvest TV (360p)
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",World of Love Island (720p)
+https://jmp2.uk/plu-69699b6d23ea437206f4a036.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us@US",World Poker Tour
+https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us@US",World Poker Tour (1080p) Source 1
+https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us@US",World Poker Tour (1080p) Source 2
+https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us@US",World Poker Tour (1080p) [Geo-blocked]
+https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us@US",World Poker Tour (720p)
+https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",World’s Most Evil Killers (1080p) [Geo-blocked]
+https://pb-b62f663v8jteu.akamaized.net/Worlds_Most_Evil_Killers.m3u8
