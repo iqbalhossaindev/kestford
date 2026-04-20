@@ -6815,3 +6815,30 @@ https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
 
 #EXTINF:-1 tvg-id="E.us@East",E! East (1080p) [Not 24/7]
 https://tvpass.org/live/EEast/hd
+
+#EXTINF:-1 tvg-id="E.us@East",E! East (360p) [Not 24/7]
+https://tvpass.org/live/EEast/sd
+
+#EXTINF:-1 tvg-id="EKeepingUp.us@SD",E! Keeping Up (1080p)
+https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",Ebony TV (1080p)
+https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Ebony TV (1080p) [Geo-blocked]
+https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Ebony TV by Lionsgate (1080p) [Geo-blocked]
+https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
+
+#EXTINF:-1 tvg-id="",Ebony TV Drama (720p)
+https://jmp2.uk/plu-6675c713fc3a46000863dde7.m3u8
+
+#EXTINF:-1 tvg-id="",Edgy TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/49f275ac-7129-4492-93c0-854b3c3138f0/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Edgy Urban (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVElReinoInfantil.us@SD",El Reino Infantil
+https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
