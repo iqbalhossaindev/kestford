@@ -7748,3 +7748,36 @@ https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 
 #EXTINF:-1 tvg-id="HumorMill.us@SD",Humor Mill TV (1080p)
 https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8
+
+#EXTINF:-1 tvg-id="HumraazTV.us@SD",Humraaz TV [Not 24/7]
+https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+
+#EXTINF:-1 tvg-id="Hungry.us@SD",Hungry (720p)
+https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Hunt Fish TV (1080p)
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
+
+#EXTINF:-1 tvg-id="",Hunter x Hunter (1080p)
+https://d190au8yjmla79.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBTV.us@SD",Huntington Beach TV Channel 3 (720p)
+https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="",I Love Lucy
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+
+#EXTINF:-1 tvg-id="",I Survived… (720p)
+https://d1ewp56x5c748d.cloudfront.net/v1/aenetworks_i_survived_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="iCarly.us@East",iCarly TV
+https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
+
+#EXTINF:-1 tvg-id="",Ice Road Truckers (720p)
+https://d27c7ivrw07fxl.cloudfront.net/v1/aenetworks_iceroadtruckers_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IFC.us@East",IFC East (360p) [Not 24/7]
+https://tvpass.org/live/IFCEast/sd
+
+#EXTINF:-1 tvg-id="IFC.us@East",IFC East (720p) [Not 24/7]
+https://tvpass.org/live/IFCEast/hd
