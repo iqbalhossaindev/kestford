@@ -9146,3 +9146,6 @@ https://d265y4sk8257lt.cloudfront.net/nh.m3u8
 
 #EXTINF:-1 tvg-id="NHRATV.us@SD",NHRA TV (720p)
 https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Nick Jr. Pluto TV (720p)
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
