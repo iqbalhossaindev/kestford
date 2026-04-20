@@ -3815,3 +3815,9 @@ https://live.presstv.ir/hls/ifilmen.m3u8
 
 #EXTINF:-1 tvg-id="iFilmPersian.ir@SD",iFilm Persian
 https://live.presstv.ir/hls/ifilmfa.m3u8
+
+#EXTINF:-1 tvg-id="IranJewishTV.ir@SD",Iran Jewish TV
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IranPress.ir@SD",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
