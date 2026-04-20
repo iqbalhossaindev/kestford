@@ -152,3 +152,6 @@ http://115.42.65.142:9981/stream/channelid/1064070262
 
 #EXTINF:-1 tvg-id="ATV.pk@SD",ATV (1080p)
 http://115.42.65.142:9981/stream/channelid/299762256
+
+#EXTINF:-1 tvg-id="AajNews.pk@SD",Aaj News (576p)
+http://115.42.65.142:9981/stream/channelid/750987367
