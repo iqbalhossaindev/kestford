@@ -7940,3 +7940,36 @@ https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8
 
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us@SD",Jewish Life Television (1080p) Source 2
 https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
+
+#EXTINF:-1 tvg-id="JewishLifeTelevision.us@SD",Jewish Life Television (720p)
+https://a-cdn.klowdtv.com/live3/jltv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Joel Osteen Network (1080p)
+https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JohnnyCarsonTV.us@SD",Johnny Carson TV (720p)
+https://johnnycarson-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",JoJo's Bizarre Adventure (1080p)
+https://d2kqaqstkr42e1.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Journy.us@SD",JOURNY TV (720p)
+https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",JTV Jewelry Love (1080p) [Geo-blocked]
+https://jewelrytv-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JudgeNosey.us@US",Judge Nosey
+https://jmp2.uk/plu-5e9decb953e157000752321c.m3u8
+
+#EXTINF:-1 tvg-id="JudgeNosey.us@US",Judge Nosey (1080p)
+https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Jupiter TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8
+
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD",Just for Laughs Gags (1080p)
+https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD",Just for Laughs GAGS (720p)
+https://dzmydakq7xf9n.cloudfront.net/playlist.m3u8
