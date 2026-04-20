@@ -7430,3 +7430,51 @@ https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GloryKickboxing.us@US",GLORY Kickboxing
 https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
+
+#EXTINF:-1 tvg-id="GMTV.us@SD",GMTV (1080p)
+https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341
+
+#EXTINF:-1 tvg-id="",Go Go Gadget!
+https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
+
+#EXTINF:-1 tvg-id="Go2Travel.us@SD",Go2Travel (1080p)
+https://go2thls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="",Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+
+#EXTINF:-1 tvg-id="",GOD TV (720p)
+https://ott.god.tv/live/us/master.m3u8
+
+#EXTINF:-1 tvg-id="KPCBDT1.us@SD",God's Learning Channel (480p)
+https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD",Golazo Network (720p)
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+#EXTINF:-1 tvg-id="",Golden Boy
+https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
+
+#EXTINF:-1 tvg-id="GCOtv.us@SD",Golden Community Television (GCO.tv) (Golden CO) (1080p)
+https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden TV (240p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
+
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel (1080p) [Not 24/7]
+https://tvpass.org/live/GolfChannel/hd
+
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel (360p) [Not 24/7]
+https://tvpass.org/live/GolfChannel/sd
+
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+
+#EXTINF:-1 tvg-id="",GolfPass (1080p)
+https://d2icntm6fhxrry.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="",GolfPass (720p)
+https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
+
+#EXTINF:-1 tvg-id="GoodLife45.us@SD",GoodLife 45 (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
