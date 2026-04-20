@@ -9326,3 +9326,54 @@ https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",Outer Vision (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",OuterSphere
+https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
+
+#EXTINF:-1 tvg-id="",Outersphere (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",OuterSphere (1080p) Source 2
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+
+#EXTINF:-1 tvg-id="",OuterSphere (1080p) [Geo-blocked]
+https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",OUTflix Movies (1080p)
+https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
+
+#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV (1080p) Source 2
+https://desdobebr2wri.cloudfront.net/Outside.m3u8
+
+#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV (1080p) Source 3
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV (1080p) [Geo-blocked]
+https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Overtime.us@SD",Overtime (1080p)
+https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
+
+#EXTINF:-1 tvg-id="",Oxygen True Crime Archives (720p)
+https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
+
+#EXTINF:-1 tvg-id="P3TV.us@SD",P3TV [Not 24/7]
+https://5790d294af2dc.streamlock.net/8042/8042/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pac12Insider.us@SD",Pac 12 Insider (1080p) Source 1
+https://pac12-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pac12Insider.us@SD",Pac 12 Insider (1080p) Source 2
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pac12Insider.us@SD",Pac 12 Insider (1080p) Source 3
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pac12Insider.us@SD",Pac 12 Insider (720p)
+https://pac12-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PCTChannel27.us@SD",Pacific Coast TV HMB Coastside Channel 27 (720p)
+https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PCTChannel26.us@SD",Pacific Coast TV MWSD Channel 26 (720p)
+https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
