@@ -7211,3 +7211,39 @@ https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (144p)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (360p) [Not 24/7]
+https://tvpass.org/live/FoxNewsChannel/sd
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (480p)
+http://41.205.93.154/FOX-NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p) [Not 24/7]
+https://tvpass.org/live/FoxNewsChannel/hd
+
+#EXTINF:-1 tvg-id="FoxNewsRadio.us@SD",Fox News Radio (720p)
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSoul.us@SD",Fox Soul (1080p) Source 2
+https://foxsoul-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSoul.us@SD",Fox Soul (720p)
+https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
+
+#EXTINF:-1 tvg-id="",FOX Sports (1080p)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
+#EXTINF:-1 tvg-id="",FOX Sports (1080p) [Geo-blocked]
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",FOX Sports (720p) Source 1
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+
+#EXTINF:-1 tvg-id="",Fox Sports (720p) Source 2
+https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.us@HD",Fox Sports 2 (360p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/sd
+
+#EXTINF:-1 tvg-id="FoxSports2.us@HD",Fox Sports 2 (720p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/hd
