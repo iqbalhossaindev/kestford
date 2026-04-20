@@ -10574,3 +10574,30 @@ https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 
 #EXTINF:-1 tvg-id="",The Martha Stewart Channel (1080p)
 https://d1ob22c3xga9bf.cloudfront.net/Martha_Stewart_.m3u8
+
+#EXTINF:-1 tvg-id="",The Martha Stewart Channel (720p)
+https://jmp2.uk/plu-67c62ac2095aea2ec805eb34.m3u8
+
+#EXTINF:-1 tvg-id="",The Masked Singer (720p)
+https://aegis-cloudfront-1.tubi.video/af138c2c-c4f2-49f7-88d7-64eeabbad414/index.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us@SD",The NBA Channel (1080p) [Geo-blocked]
+https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8
+
+#EXTINF:-1 tvg-id="",The NBA Channel (720p)
+https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
+
+#EXTINF:-1 tvg-id="TheNest.us@SD",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+
+#EXTINF:-1 tvg-id="TheNewDetectives.us@US",The New Detectives
+https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
+
+#EXTINF:-1 tvg-id="TheNowNetwork.us@SD",The Now Network (480p) [Not 24/7]
+https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollective.us@US",The Pet Collective (1080p) [Geo-blocked]
+https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollective.us@US",The Pet Collective (720p)
+https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8
