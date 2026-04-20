@@ -6044,3 +6044,21 @@ https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
 
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us@SD",CBS News New York (720p) Source 1
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us@SD",CBS News New York (720p) Source 2
+https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us@SD",CBS News New York (720p) Source 3
+https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsPhilly.us@SD",CBS News Philadelphia (720p) Source 1
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+
+#EXTINF:-1 tvg-id="",CBS News Philadelphia (720p) Source 2
+https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us@SD",CBS News Pittsburgh (720p) Source 1
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us@SD",CBS News Pittsburgh (720p) Source 2
+https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
