@@ -7700,3 +7700,51 @@ https://aegis-cloudfront-1.tubi.video/acac036c-181a-413a-a102-cd294c83320d/playl
 
 #EXTINF:-1 tvg-id="",Horror by ALTER (1080p) Source 2
 https://d3opw4b2eztyyq.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Horror Machine (720p) [Geo-blocked]
+https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Horror TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+
+#EXTINF:-1 tvg-id="HorseTV.it@SD",Horse TV (720p) Source 1
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseTV.it@SD",Horse TV (720p) Source 2
+https://streams2.sofast.tv/vglive-sk-469239/index.m3u8
+
+#EXTINF:-1 tvg-id="",Hot Bench (720p)
+https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
+
+#EXTINF:-1 tvg-id="",Hot Ones (1080p)
+https://d532j1ra4v4q9.cloudfront.net/SONO65.m3u8
+
+#EXTINF:-1 tvg-id="",Hot Wheels Action (1080p)
+https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us@East",HSN (720p) Source 1
+https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us@East",HSN (720p) Source 2
+https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us@East",HSN (720p) Source 3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us@West",HSN West (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+
+#EXTINF:-1 tvg-id="HSN2.us@SD",HSN2 (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+
+#EXTINF:-1 tvg-id="HTV1HoustonTelevision.us@SD",HTV 1 Houston Television (720p)
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HTV2HoustonTelevision.us@SD",HTV 2 Houston Television (720p)
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HumorMill.us@SD",Humor Mill (1080p) [Not 24/7]
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
+
+#EXTINF:-1 tvg-id="HumorMill.us@SD",Humor Mill TV (1080p)
+https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8
