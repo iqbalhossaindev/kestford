@@ -10667,3 +10667,36 @@ https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3
 
 #EXTINF:-1 tvg-id="TheYoungTurks.us@SD",The Young Turks (TYT) (720p)
 https://tyt-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="theDoveTV.us@SD",theDove TV (720p)
+https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8
+
+#EXTINF:-1 tvg-id="",TheSorryGirls TV (1080p)
+https://d11iia85bv1ffj.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThisOldHouse.us@SD",This Old House
+https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
+
+#EXTINF:-1 tvg-id="ThisOldHouse.us@SD",This Old House (1080p)
+https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThisOldHouse.us@SD",This Old House (1080p) [Geo-blocked]
+https://pb-qmu0m4a1cb5dj.akamaized.net/This_Old_House.m3u8
+
+#EXTINF:-1 tvg-id="",This Old House Makers (1080p)
+https://d1v8bveimipl8w.cloudfront.net/This_Old_House_Makers.m3u8
+
+#EXTINF:-1 tvg-id="Thornton8.us@SD",Thornton Government Access Channel 17 (Thornton CO) (1080p)
+https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8
+
+#EXTINF:-1 tvg-id="ThreesCompany.us@SD",Three's Company
+https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
+
+#EXTINF:-1 tvg-id="Timeline.us@SD",Timeline (1080p)
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TinTV.us@SD",Tin TV (720p)
+https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TinTV.us@SD",Tin TV (720p) [Not 24/7]
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
