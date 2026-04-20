@@ -3323,3 +3323,6 @@ https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Bangla",Jalsha Movies HD
 http://103.161.153.165:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title="Sports | India",Star Sports 3
+http://103.161.153.165:8000/play/a05p/index.m3u8
