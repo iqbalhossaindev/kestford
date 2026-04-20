@@ -10121,3 +10121,36 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_cha
 
 #EXTINF:-1 tvg-id="SNLVault.us@SD",SNL Vault (1080p) Source 2
 https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",Sonic The Hedgehog (720p)
+https://dtwdcugadwtnw.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyCanalEscapePerfecto.us@SD",Sony Canal Escape Perfecto
+https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us@SD",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SoundViewCommunityMedia.us@SD",Sound View Community Media Education (480p)
+https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Sound View Community Media Government (480p)
+https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SoundViewCommunityMedia.us@SD",Sound View Community Media Public (480p)
+https://livestream.telvue.com/soundviewcmt1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Space Series (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
+
+#EXTINF:-1 tvg-id="SparkTV.uk@SD",Spark TV (1080p)
+https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Spark TV Luz & Amor (1080p)
+https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Speed Sport 1 (1080p)
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SpikeOutdoors.us@SD",Spike Outdoors
+https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
