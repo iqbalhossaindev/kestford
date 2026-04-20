@@ -10205,3 +10205,48 @@ https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 
 #EXTINF:-1 tvg-id="",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
+
+#EXTINF:-1 tvg-id="Starz.us@East",Starz East (1080p) [Not 24/7]
+https://tvpass.org/live/StarzEast/hd
+
+#EXTINF:-1 tvg-id="Starz.us@East",Starz East (360p) [Not 24/7]
+https://tvpass.org/live/StarzEast/sd
+
+#EXTINF:-1 tvg-id="",StashTV Black Stories (720p) [Geo-blocked]
+https://amg01720-amg01720c1-klowdtv-us-4664.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvblackstories-klowdtvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",StashTV The Classics (720p) [Geo-blocked]
+https://amg01720-amg01720c2-klowdtv-us-4689.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvtheclassics-klowdtvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us@SD",Stingray Greatest Holiday Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
+
+#EXTINF:-1 tvg-id="StocktonGovTV.us@SD",Stockton GovTV (Stockton CA) (720p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Storage Wars by A&E (720p)
+https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
+
+#EXTINF:-1 tvg-id="",Storage Wars LA (720p) [Geo-blocked]
+https://pb-312sgyls2cddh.akamaized.net/v1/aenetworks_storagewarsla_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StoriesbyAMC.us@SD",Stories by AMC Source 1
+https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Storm Vibes (1080p)
+https://d23gs0zonql31y.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCIUDT5.us@SD",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="",Strawberry Shortcake (720p)
+https://d2tdny619yw5x1.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="",Strawberry Shortcake and Friends
+https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
+
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.pl@SD",Strongman Champions League
+https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StrykTV.us@HD",Stryk TV (1080p)
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
