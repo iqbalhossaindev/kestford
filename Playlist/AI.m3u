@@ -8267,3 +8267,54 @@ https://pb-137agpk5fqieb.akamaized.net/v1/aenetworks_holidaymoviefavorites_1/sam
 
 #EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies East (360p) [Not 24/7]
 https://tvpass.org/live/LifetimeMoviesEast/sd
+
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies East (720p) [Not 24/7]
+https://tvpass.org/live/LifetimeMoviesEast/hd
+
+#EXTINF:-1 tvg-id="",Lifetime Movies Love & Drama (1080p)
+https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
+
+#EXTINF:-1 tvg-id="LifevisionTV.us@SD",LifevisionTV (406p) [Not 24/7]
+https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
+
+#EXTINF:-1 tvg-id="LLBNHisLight.us@SD",Lighting Lives Blessing Nations His Light (LLBN) (720p)
+https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8
+
+#EXTINF:-1 tvg-id="LLBNHisWord.us@SD",Lighting Lives Blessing Nations His Word (LLBN) (720p)
+https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8
+
+#EXTINF:-1 tvg-id="SmartLifeStyleTV.us@SD",Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)
+https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
+
+#EXTINF:-1 tvg-id="LLBNTVArabic.us@SD",Lighting Lives Blessing Nations TV Arabic (LLBN) (480p)
+https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8
+
+#EXTINF:-1 tvg-id="LLBNTVChinese.us@SD",Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
+https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
+
+#EXTINF:-1 tvg-id="LLBNTVKorean.us@SD",Lighting Lives Blessing Nations TV Korean (LLBN) (480p)
+https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
+
+#EXTINF:-1 tvg-id="LLBNTVLatino.us@SD",Lighting Lives Blessing Nations TV Latino (LLBN) (480p)
+https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
+
+#EXTINF:-1 tvg-id="LLBNTVRomanian.us@SD",Lighting Lives Blessing Nations TV Romanian (LLBN) (480p)
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
+
+#EXTINF:-1 tvg-id="LLBNTVSouthAsia.us@SD",Lighting Lives Blessing Nations TV South Asia (LLBN) (480p)
+https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8
+
+#EXTINF:-1 tvg-id="",Little Angel's Playroom
+https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
+
+#EXTINF:-1 tvg-id="",Little Angel's Playroom en Español
+https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
+
+#EXTINF:-1 tvg-id="LittleGuyanaTV.us@SD",Little Guyana TV (1080p)
+https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Little House on the Prairie (1080p)
+https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",Little House on the Prairie (720p)
+https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
