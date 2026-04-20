@@ -10013,3 +10013,57 @@ https://pb-syzbb4sicfx4g.akamaized.net/ScrippsNews_US.m3u8
 
 #EXTINF:-1 tvg-id="SCVTV.us@SD",SCVTV (Santa Clarita CA) (1080p)
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
+
+#EXTINF:-1 tvg-id="",Sensical Jr (1080p)
+https://d1p10fe1a9f857.cloudfront.net/Sensical_Jr.m3u8
+
+#EXTINF:-1 tvg-id="",Sensical Makers (1080p)
+https://d2dxg18pxtlgy0.cloudfront.net/Sensical_Makers.m3u8
+
+#EXTINF:-1 tvg-id="SGTN49.us@SD",Sent TV Global Network Atlanta (SGTN-49) (720p)
+https://rpn.bozztv.com/gusa/gusa-stgn/index.m3u8
+
+#EXTINF:-1 tvg-id="",Series K Edge (1080p)
+https://d3mznj2vub522l.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Series K Heart (1080p)
+https://d28efmnqar6ea8.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Series K Legacy (1080p)
+https://d2uvezlpjwbhrx.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SFCommons29.us@SD",SF Commons Channel 29 (San Francisco CA) (480p)
+https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8
+
+#EXTINF:-1 tvg-id="SFCommons76.us@SD",SF Commons Channel 76 (San Francisco CA) (480p)
+https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8
+
+#EXTINF:-1 tvg-id="SFGovTV.us@SD",SFGovTV San Francisco The Government Channel (720p)
+https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SFGovTV2.us@SD",SFGovTV2 San Francisco The City Channel (720p)
+https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SGTV.us@SD",SGTV (Seminole County FL) (1080p)
+https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="",Shades of Black (1080p) [Geo-blocked] Source 1
+https://pb-mn2nw2xfj5wcy.akamaized.net/Shades_of_Black.m3u8
+
+#EXTINF:-1 tvg-id="ShadesofBlack.pl@SD",Shades of Black (1080p) [Geo-blocked] Source 2
+https://xumo-fusebeats.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShalomWorld.us@NorthAmerica",Shalom World (1080p)
+https://broadcaster-1.cclouds.in/srt-2/channel2_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShalomWorld.us@Europe",Shalom World Europe (1080p)
+https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShalomWorldPrayer.us@SD",Shalom World Prayer (1080p)
+https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooBollywood.us@SD",Shemaroo Bollywood (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Shooting Sports Life (1080p)
+https://linear-1312.frequency.stream/dist/stirr/1312/hls/master/playlist.m3u8
