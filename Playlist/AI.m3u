@@ -11177,3 +11177,36 @@ https://d3svsvgc81yfe1.cloudfront.net/Vevo_80s.m3u8
 
 #EXTINF:-1 tvg-id="Vevo90s.us@SD",Vevo '90s
 https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+
+#EXTINF:-1 tvg-id="Vevo90s.us@SD",Vevo '90s (1080p)
+https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8
+
+#EXTINF:-1 tvg-id="",Vevo 2010s (1080p)
+https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8
+
+#EXTINF:-1 tvg-id="Vevo2K.us@SD",Vevo 2K
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+
+#EXTINF:-1 tvg-id="Vevo2K.us@SD",Vevo 2K (1080p)
+https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8
+
+#EXTINF:-1 tvg-id="VevoCountry.us@SD",Vevo Country
+https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
+
+#EXTINF:-1 tvg-id="VevoCountry.us@SD",Vevo Country (1080p) [Geo-blocked]
+https://pb-xrdbj9zdgm6ez.akamaized.net/Vevo_Country.m3u8
+
+#EXTINF:-1 tvg-id="",Vevo Country Rewind (1080p)
+https://dtpafgv4jlncv.cloudfront.net/mt/rsu/v1/channel/AZlegsFKILvcvwCBYqT4vQ-V2/index.m3u8
+
+#EXTINF:-1 tvg-id="VevoHipHop.us@SD",Vevo Hip Hop (1080p)
+https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
+
+#EXTINF:-1 tvg-id="VevoLatino.us@SD",Vevo Latino (1080p)
+https://d1vgg34wqvwdqj.cloudfront.net/Vevo_Latino.m3u8
+
+#EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop
+https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
+
+#EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop (1080p) Source 1
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
