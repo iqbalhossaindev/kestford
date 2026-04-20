@@ -10466,3 +10466,36 @@ https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
 
 #EXTINF:-1 tvg-id="",The Biggest Loser (1080p)
 https://aegis-cloudfront-1.tubi.video/5e65c946-0563-42f1-ae32-0d260c85fc63/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheBobRossChannel.us@SD",The Bob Ross Channel
+https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
+
+#EXTINF:-1 tvg-id="TheBobRossChannel.us@SD",The Bob Ross Channel (720p) [Geo-blocked]
+https://pb-yxyesssss0re7.akamaized.net/v1/cinedigm_entertainment_corp_thebobrosschannel_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",The Breakfast Club on iHeartRadio (1080p)
+https://aegis-cloudfront-1.tubi.video/94121431-038e-4a12-9634-3978765cde03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us@SD",The Carol Burnett Show (1080p)
+https://carolburnett-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us@SD",The Carol Burnett Show (720p)
+https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheChallenge.us@SD",The Challenge
+https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
+
+#EXTINF:-1 tvg-id="",The Conners (1080p) [Geo-blocked]
+https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",The Conners (720p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheCountryNetwork.us@SD",The Country Network (1080p)
+https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheCountryNetwork.us@SD",The Country Network (720p)
+https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",The Curse of Oak Island (1080p) [Geo-blocked]
+https://pb-jx22izjb024ns.akamaized.net/The_Curse_of_Oak_Island.m3u8
