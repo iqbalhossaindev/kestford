@@ -6668,3 +6668,21 @@ https://d3p03mkvhnk6ll.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DidgahTV.us@SD",Didgah TV (576p)
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dinos 24/7
+https://jmp2.uk/plu-673bf05ddaad7f0008ac7a5c.m3u8
+
+#EXTINF:-1 tvg-id="",Dinos 24/7 (1080p)
+https://d3jxyaglfha0h3.cloudfront.net/Dinos_247.m3u8
+
+#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional",DirecTV Sports (1080p)
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-id="DiscoveringChina.cn@SD",Discovering China (1080p)
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel Source 2
+https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyChannelEast/sd
