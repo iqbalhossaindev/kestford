@@ -4121,3 +4121,6 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="KTVSportPlus.kw@SD",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MarinaTV.kw@SD",Marina TV (1080p)
+https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
