@@ -6767,3 +6767,51 @@ https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
 
 #EXTINF:-1 tvg-id="",Dr. G Medical Examiner (1080p)
 https://d3gjnizphdm6xi.cloudfront.net/Dr_G_Medical_Examiner_SONO15.m3u8
+
+#EXTINF:-1 tvg-id="DrGeneScott.us@SD",Dr. Gene Scott (1080p)
+https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DrGeneScott.us@SD",Dr. Gene Scott (480p)
+https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8
+
+#EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD",DraftKings Network (1080p) Source 1
+https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
+
+#EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD",DraftKings Network (1080p) Source 2
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+
+#EXTINF:-1 tvg-id="",Drive + Speed (1080p)
+https://streams2.sofast.tv/umaxx/v1/0196fce247271eb4611d16bd20c1ac/0196fce2a9361ea5064918d106ecf8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Drive In Movie Channel (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Drone TV (1080p)
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Drool (1080p)
+https://d119f55zk8yovc.cloudfront.net/Drool.m3u8
+
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD",Dry Bar Comedy (720p)
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DuckDynasty.us@US",Duck Dynasty (1080p)
+https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DuckDynasty.us@UK",Duck Dynasty (1080p) [Geo-blocked]
+https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8
+
+#EXTINF:-1 tvg-id="DuckHuntingTV.us@SD",Duck Hunting TV (1080p)
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+
+#EXTINF:-1 tvg-id="ducktv.sk@SD",ducktv (720p)
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dungeons & Dragons Adventures (1080p) [Geo-blocked]
+https://amg00461-eone-amg00461c3-firetv-us-5211.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Dynasty
+https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
+
+#EXTINF:-1 tvg-id="E.us@East",E! East (1080p) [Not 24/7]
+https://tvpass.org/live/EEast/hd
