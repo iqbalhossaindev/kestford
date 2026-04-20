@@ -9872,3 +9872,51 @@ https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RevryQueer.us@SD",Revry Queer (720p) Source 2
 https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RiffTrax.us@US",RiffTrax
+https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
+
+#EXTINF:-1 tvg-id="RiffTrax.us@US",RiffTrax (720p)
+https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCTV.us@SD",Rifle Community TV RCTV (Rifle CO) (720p)
+https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Rig TV (1080p) Source 1
+https://buzzr-rigtv-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",RIG TV (1080p) Source 2
+https://d3czphc6lk67kh.cloudfront.net/RIG_TV.m3u8
+
+#EXTINF:-1 tvg-id="RightNowTV.us@SD",RightNow TV (720p) Source 1
+https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
+
+#EXTINF:-1 tvg-id="RightNowTV.us@SD",RightNow TV (720p) Source 2
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Road Renegades (720p) [Geo-blocked]
+https://pb-cy00m4ei0fe6a.akamaized.net/v1/aenetworks_roadrenegades_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Roar.us@SD",Roar (1080p)
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+
+#EXTINF:-1 tvg-id="",Robot Wars by MECH+
+https://jmp2.uk/plu-677d672ef090ab00085b8e9b.m3u8
+
+#EXTINF:-1 tvg-id="RockyHillChannel16.us@SD",Rocky Hill Government Access Channel 16 (480p)
+https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
+
+#EXTINF:-1 tvg-id="",Roku Sports Channel (1080p)
+https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
+
+#EXTINF:-1 tvg-id="",Rovr Pets (1080p) [Geo-blocked]
+https://pb-vbv1er6nemjg9.akamaized.net/Rovr_Pets.m3u8
+
+#EXTINF:-1 tvg-id="RTHTV2Gospel.us@SD",RTH-TV2 Gospel (720p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RugbyPassTV.uk@SD",RugbyPass TV (720p)
+https://dt1kh32hg3tft.cloudfront.net/v1/world_rugby_rugbypasstv_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD",Runtime Espanol (720p)
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
