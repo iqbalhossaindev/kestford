@@ -11285,3 +11285,54 @@ https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 
 #EXTINF:-1 tvg-id="W14DKD2.us@SD",W14DK-D 14.2 NEWSNET
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WABCDT1.us@SD",WABC-DT1 (360p) [Not 24/7]
+https://tvpass.org/live/WABCDT1/sd
+
+#EXTINF:-1 tvg-id="WABCDT1.us@SD",WABC-DT1 (720p) [Not 24/7]
+https://tvpass.org/live/WABCDT1/hd
+
+#EXTINF:-1 tvg-id="WantedDeadorAlive.us@SD",Wanted: Dead or Alive (720p)
+https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",WAPA+ (1080p)
+https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Warner Bros. TV Say Yes to the Dress (720p)
+https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8
+
+#EXTINF:-1 tvg-id="",Warner Bros. TV Sweet Escapes
+https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
+
+#EXTINF:-1 tvg-id="WaypointTV.us@SD",Waypoint TV (1080p) Source 1
+https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
+
+#EXTINF:-1 tvg-id="WaypointTV.us@SD",Waypoint TV (1080p) Source 2
+https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WaypointTV.us@SD",Waypoint TV (720p)
+https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WaypointTV.us@SD",WaypointTV (1080p)
+https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WBBJDT1.us@SD",WBBJ (Jackson TN) (432p)
+https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
+
+#EXTINF:-1 tvg-id="WBRZDT1.us@SD",WBRZ Weather Channel Baton Rouge LA (480p)
+https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WBTSCD1.us@SD",WBTS-CD1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
+
+#EXTINF:-1 tvg-id="",WBTV At the Movies (720p) [Geo-blocked]
+https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",WBTV Chasing Criminals [Geo-blocked]
+https://live-manifest.production-public.tubi.io/live/2bbace1f-ef14-4f1d-84f3-4fa07e4cf498/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",WBTV Classic Cinema (720p) [Geo-blocked]
+https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",WBTV Crime scenes (720p) [Geo-blocked]
+https://live-manifest.production-public.tubi.io/live/f825d887-cd89-4520-9960-699bb3ef076d/playlist.m3u8
