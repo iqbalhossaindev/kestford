@@ -5162,3 +5162,36 @@ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMCenEspanol.us@SD",AMC en Español (720p) [Geo-blocked]
 https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD",AMC Latin America (1280p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
+
+#EXTINF:-1 tvg-id="",America's Boating Channel (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",America's Funniest Home Videos
+https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8
+
+#EXTINF:-1 tvg-id="",America's Got Talent (720p)
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
+
+#EXTINF:-1 tvg-id="",America's Next Top Model
+https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
+
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD",America's Test Kitchen (1080p) [Geo-blocked] Source 1
+https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD",America's Test Kitchen (1080p) [Geo-blocked] Source 2
+https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8
+
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD",America's Test Kitchen (720p)
+https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
+
+#EXTINF:-1 tvg-id="AmericasVoice.us@SD",America's Voice (720p)
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+
+#EXTINF:-1 tvg-id="AmericasVoiceNews.us@SD",America's Voice News (720p)
+https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
+
+#EXTINF:-1 tvg-id="",American Crimes (1080p)
+https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8
