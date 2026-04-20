@@ -9392,3 +9392,66 @@ https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 
 #EXTINF:-1 tvg-id="PascoTV.us@SD",Pasco TV (Pasco County FL) (480p)
 https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Pawn Stars (720p) [Geo-blocked]
+https://pb-jo4rx96uyjcxx.akamaized.net/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PayamJavanTV.us@SD",Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PayameAfghanTV.us@SD",Payam-e-Afghan TV (480p) [Not 24/7]
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-id="PayameArameshTV.us@SD",Payame Aramesh TV (720p)
+https://hls.keshishhamid.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PayvandTV.us@SD",Payvand TV (720p)
+https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8
+
+#EXTINF:-1 tvg-id="PayvandTV.us@SD",Payvand TV (720p) [Not 24/7]
+https://bozztv.com/cus01/ucur1/Payvand/index.m3u8
+
+#EXTINF:-1 tvg-id="PBCTapeshTV.us@SD",PBC Tapesh TV (720p)
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBRRidePass.us@SD",PBR RidePass (720p)
+https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
+
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD",PBS Antiques Roadshow (1080p) [Geo-blocked] Source 1
+https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD",PBS Antiques Roadshow (1080p) [Geo-blocked] Source 2
+https://pb-ft51qiiwihqtb.akamaized.net/PBS_Antiques_Roadshow.m3u8
+
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD",PBS Antiques Roadshow (720p)
+https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
+
+#EXTINF:-1 tvg-id="",PBS Digital Studios (1080p)
+https://d1l4qxz5lz9v2h.cloudfront.net/10501/88886029/hls/master.m3u8?ads.xumo_channelId=88886029
+
+#EXTINF:-1 tvg-id="",PBS Food (1080p)
+https://d3w43rc3ob044a.cloudfront.net/PBS_Food.m3u8
+
+#EXTINF:-1 tvg-id="",PBS Genealogy (1080p)
+https://d21xx25clbv3i1.cloudfront.net/PBS_Genealogy.m3u8
+
+#EXTINF:-1 tvg-id="WKPCDT3.us@SD",PBS KET KY (480p)
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WKMJDT1.us@SD",PBS KET Louisville KY (WKMJ-TV) (720p)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WKMJDT3.us@SD",PBS KET World (480p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WKPCDT2.us@SD",PBS KET2 (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids.us@SD",PBS Kids (720p)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us@SD",PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us@SD",PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
