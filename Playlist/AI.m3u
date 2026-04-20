@@ -10736,3 +10736,33 @@ https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
 
 #EXTINF:-1 tvg-id="TODAYAllDay.us@SD",Today All Day (1080p) Source 1
 https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/master.m3u8
+
+#EXTINF:-1 tvg-id="TODAYAllDay.us@SD",TODAY All Day (1080p) Source 2
+https://d37kx062o4ii0p.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="",Todo Cine (1080p)
+https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TollyTV.in@HD",Tolly TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Tony Robbins Network (720p)
+https://jmp2.uk/plu-68757effdf333e336be1e49f.m3u8
+
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles (720p) Source 1
+https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
+
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles (720p) Source 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles (720p) [Geo-blocked]
+https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8
+
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles en Espanol (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+
+#EXTINF:-1 tvg-id="TGJunior.us@SD",Toon Goggles Junior (720p)
+https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
+
+#EXTINF:-1 tvg-id="ToonamiAftermath.us@East",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
