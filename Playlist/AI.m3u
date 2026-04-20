@@ -7973,3 +7973,33 @@ https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_
 
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD",Just for Laughs GAGS (720p)
 https://dzmydakq7xf9n.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",K Drama by CJ ENM (1080p)
+https://d2fdocl6hmu0hh.cloudfront.net/dfa54c7d_1154_425d_a2b8_6ea994157976/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",K Drama+ (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US1700017NM&channel_id=newid_271&tp=samsung_tvplus
+
+#EXTINF:-1 tvg-id="",K Food by CJ ENM (1080p)
+https://dmxcualdgbo80.cloudfront.net/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",K POP by CJ ENM (1080p)
+https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",K Stories by CJ ENM (1080p)
+https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KABCDT1.us@SD",KABC-DT1 (360p) [Not 24/7]
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-id="KajouTV.us@SD",Kajou TV (720p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD",Kartoon Channel (720p)
+https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD",Kartoon Channel!
+https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD",Kartoon Channel! (720p)
+https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
