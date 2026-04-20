@@ -10700,3 +10700,39 @@ https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TinTV.us@SD",Tin TV (720p) [Not 24/7]
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TinyHouseNation.us@SD",Tiny House Nation (720p)
+https://jmp2.uk/plu-601a0342dcf4370007566891.m3u8
+
+#EXTINF:-1 tvg-id="TinyHouseNation.us@SD",Tiny House Nation (720p) [Geo-blocked]
+https://pb-yxy31pwnm3mp2.akamaized.net/v1/aenetworks_tinyhousenation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLNMediaChicago.us@SD",TLN Media Chicago (720p)
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8
+
+#EXTINF:-1 tvg-id="TLNMediaSanFrancisco.us@SD",TLN Media San Francisco (720p)
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8
+
+#EXTINF:-1 tvg-id="TMTV.us@SD",TM TV (720p)
+https://hls.tmtv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TMZ.us@SD",TMZ (1080p) [Geo-blocked]
+https://pb-ryciga1q62u8o.akamaized.net/TMZ.m3u8
+
+#EXTINF:-1 tvg-id="TMZ.us@SD",TMZ (720p)
+https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8
+
+#EXTINF:-1 tvg-id="",TNA Wrestling (1080p)
+https://dpltey7dr5q2g.cloudfront.net/TNA_Wrestling.m3u8
+
+#EXTINF:-1 tvg-id="TNAWrestlingChannel.pl@SD",TNA Wrestling (720p)
+https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
+
+#EXTINF:-1 tvg-id="TNAWrestlingChannel.pl@SD",TNA Wrestling Channel (1080p) [Geo-blocked]
+https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TODAYAllDay.us@SD",TODAY All Day
+https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
+
+#EXTINF:-1 tvg-id="TODAYAllDay.us@SD",Today All Day (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/master.m3u8
