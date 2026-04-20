@@ -9971,3 +9971,45 @@ https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sd
 
 #EXTINF:-1 tvg-id="SMCTVChannel23.us@SD",Santa Maria Community Television Government Channel (720p)
 https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SMCTVChannel25.us@SD",Santa Maria Community Television Public Access Channel (720p)
+https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityTV20SantaMonica.us@SD",Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7]
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Saved by the Bell (1080p)
+https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="SCCurrents.us@SD",SC Currents
+https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
+
+#EXTINF:-1 tvg-id="",Scares by Shudder
+https://amc-scaresbyshudder-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SchwabNetwork.us@SD",Schwab Network (1080p) Source 1
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+
+#EXTINF:-1 tvg-id="SchwabNetwork.us@SD",Schwab Network (1080p) Source 2
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Sci-Fi World (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ScientologyNetwork.us@SD",Scientology Network (1080p)
+https://stream6.scientology.org/master.m3u8
+
+#EXTINF:-1 tvg-id="KGUNDT6.us@SD",Scripps News
+https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8
+
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD",Scripps News (1080p)
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD",Scripps News (720p)
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD",Scripps News (720p) [Geo-blocked]
+https://pb-syzbb4sicfx4g.akamaized.net/ScrippsNews_US.m3u8
+
+#EXTINF:-1 tvg-id="SCVTV.us@SD",SCVTV (Santa Clarita CA) (1080p)
+https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
