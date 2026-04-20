@@ -9149,3 +9149,63 @@ https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playl
 
 #EXTINF:-1 tvg-id="",Nick Jr. Pluto TV (720p)
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (576i)
+http://79.127.207.193/Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickenEspanol.us@SD",Nickelodeon en español
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@North",Nickelodeon Latin America North (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8
+
+#EXTINF:-1 tvg-id="NickPlutoTV.us@US",Nickelodeon Pluto TV (720p)
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-id="NingTV.la@SD",Ning TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NinjaKidzTV.us@SD",Ninja Kidz (720p)
+https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NinjaKidzTV.us@SD",Ninja Kidz TV
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Nitro TV (1080p)
+https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="",No Reservations (720p)
+https://jmp2.uk/plu-66ff0cf663292d0008320cf8.m3u8
+
+#EXTINF:-1 tvg-id="NollyAfrica.uk@SD",Nolly Africa [Geo-blocked]
+https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NollyAfrica.uk@SD",Nolly Africa HD (1080p) [Geo-blocked]
+https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NMBTV.us@SD",North Miami Beach TV (NMBTV) (North Miami Beach FL) (720p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Nosey
+https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8
+
+#EXTINF:-1 tvg-id="Nosey.us@US",Nosey (1080p)
+https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nosey.us@US",Nosey (720p) Source 1
+https://aegis-cloudfront-1.tubi.video/f111d6c2-02bf-45fb-9a90-2e55b18d9f70/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nosey.us@US",Nosey (720p) Source 2
+https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Nosey Confess
+https://nosey-confessbynosey-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Noticias Telemundo Ahora (1080p) [Geo-blocked]
+https://pb-21qh1uz4mmkrs.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-id="KNOVCD1.us@SD",NOTV New Orleans TV (720p) Source 1
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
