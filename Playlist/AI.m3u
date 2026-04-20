@@ -7478,3 +7478,51 @@ https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
 
 #EXTINF:-1 tvg-id="GoodLife45.us@SD",GoodLife 45 (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD",Gordon Ramsay (720p)
+https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD",Gordon Ramsay's Hell's Kitchen
+https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
+
+#EXTINF:-1 tvg-id="GBNTV.us@SD",Gospel Broadcasting Network (GBN) (1080p)
+https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GospelTruthTV.us@SD",Gospel Truth TV (1080p)
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
+
+#EXTINF:-1 tvg-id="GoTraveler.us@SD",GoTraveler (720p) [Geo-blocked]
+https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GravitasMovies.us@SD",Gravitas Movies (1080p)
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+
+#EXTINF:-1 tvg-id="GreensboroTV.us@SD",Greensboro TV (Greensboro NC) (720p)
+https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
+
+#EXTINF:-1 tvg-id="GritXtra.us@SD",Grit Xtra (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/3bda1ff3-ae32-45ab-ad49-f5e206511a70/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GritXtra.us@SD",Grit Xtra (1080p) Source 2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GritXtra.us@SD",Grit Xtra (1080p) [Geo-blocked]
+https://pb-7k9tqpp5wqdnj.akamaized.net/Grit_Xtra_US.m3u8
+
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD",Grjngo (720p) [Geo-blocked]
+https://pb-rtme7tnh9wa6k.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gunsmoke.us@SD",Gunsmoke
+https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
+
+#EXTINF:-1 tvg-id="GustoTV.ca@SD",Gusto (1080p)
+https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GustoTV.ca@SD",Gusto TV (720p)
+https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GustoTV.ca@SD",GustoTV (1080p)
+https://gusto-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GuyBaiTV.us@SD",GuyBai TV (1080p)
+https://livechannel.mdc.akamaized.net/stitch/livechannel/1342/master1400000.m3u8;session=live_stream_1342
