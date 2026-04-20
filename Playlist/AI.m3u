@@ -6686,3 +6686,39 @@ https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95
 
 #EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East (360p) [Not 24/7]
 https://tvpass.org/live/DisneyChannelEast/sd
+
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyChannelEast/hd
+
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/sd
+
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/hd
+
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD East (360p) [Not 24/7]
+https://tvpass.org/live/DisneyXDEast/sd
+
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyXDEast/hd
+
+#EXTINF:-1 tvg-id="",Divorce Court (720p)
+https://d2ydcdd81wyosr.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",DIY Art (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US",Doctor Who Classic
+https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US",Doctor Who Classic (1080p)
+https://aegis-cloudfront-1.tubi.video/34cd3ae2-bb20-4594-af20-01f241a525ba/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US",Doctor Who Classic (720p)
+https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
+
+#EXTINF:-1 tvg-id="",Docu Vision (1080p)
+https://streams2.sofast.tv/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US",Documentary+ (1080p) Source 1
+https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
