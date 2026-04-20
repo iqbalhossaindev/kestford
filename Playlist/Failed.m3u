@@ -146,3 +146,6 @@ http://103.250.28.74:8000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="ARYNews.pk@Pakistan",ARY News (576p)
 http://115.42.65.142:9981/stream/channelid/322092446
+
+#EXTINF:-1 tvg-id="ARYZindagi.pk@SD",ARY Zindagi (576p)
+http://115.42.65.142:9981/stream/channelid/1064070262
