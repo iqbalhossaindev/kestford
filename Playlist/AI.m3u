@@ -10187,3 +10187,21 @@ https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playl
 
 #EXTINF:-1 tvg-id="Stadium.us@SD",Stadium (720p) Source 2
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South",Star Channel Latin America South (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarTrek.us@SD",Star Trek
+https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
+
+#EXTINF:-1 tvg-id="",Star Trek: Deep Space Nine
+https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+
+#EXTINF:-1 tvg-id="",Star Trek: The Next Generation
+https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
+
+#EXTINF:-1 tvg-id="",Star Trek: Voyager
+https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
+
+#EXTINF:-1 tvg-id="",Stargate
+https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
