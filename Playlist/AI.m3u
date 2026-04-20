@@ -10499,3 +10499,39 @@ https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",The Curse of Oak Island (1080p) [Geo-blocked]
 https://pb-jx22izjb024ns.akamaized.net/The_Curse_of_Oak_Island.m3u8
+
+#EXTINF:-1 tvg-id="TheDesignNetwork.us@SD",The Design Network (1080p)
+https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
+
+#EXTINF:-1 tvg-id="TheDesignNetwork.us@SD",The Design Network (1080p) [Geo-blocked]
+https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",The Emeril Lagasse Channel (720p)
+https://jmp2.uk/plu-67d07b7b798df95b8e9484b5.m3u8
+
+#EXTINF:-1 tvg-id="",The Explorers (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TheFilmDetective.us@SD",The Film Detective (720p)
+https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheFirstTV.us@SD",The First
+https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
+
+#EXTINF:-1 tvg-id="TheFirstTV.us@SD",The First (1080p) [Geo-blocked]
+https://pb-7dne0wn288z2f.akamaized.net/The_First.m3u8
+
+#EXTINF:-1 tvg-id="",The First 48 (720p) [Geo-blocked]
+https://pb-bp21lplgw5225.akamaized.net/v1/ae_networks_first48_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",The First 48 by A&E (720p)
+https://jmp2.uk/plu-6887aaade3703b7d42b64be8.m3u8
+
+#EXTINF:-1 tvg-id="TheFirstTV.us@SD",The First TV (1080p)
+https://thefirst-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",The Grappling Network (1080p)
+https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8
+
+#EXTINF:-1 tvg-id="TheHillTV.us@SD",The Hill (1080p) [Geo-blocked]
+https://pb-aq5tqlshz44jr.akamaized.net/playlist.m3u8
