@@ -3890,3 +3890,6 @@ https://proshls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="RasoulallahTv.ir@HD",RasoulallahTv (1080p)
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sat7Pars.cy@SD",Sat7 Pars
+https://sat7phls.wns.live/hls/stream.m3u8
