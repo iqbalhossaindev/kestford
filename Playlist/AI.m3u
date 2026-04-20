@@ -5594,3 +5594,54 @@ https://videoelephantlimited-beyondparanormal-1-us.ohlscdn.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",Beyond the Gates
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
+
+#EXTINF:-1 tvg-id="",Big 12 Studios (1080p) Source 1
+https://amg01258-raycom-amg01258c7-xumo-us-5514.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Big 12 Studios (1080p) Source 2
+https://d18pj8s9gbivdq.cloudfront.net/The_Big_12.m3u8
+
+#EXTINF:-1 tvg-id="",Big 12 Studios (720p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/d61265ac-4c98-4243-8e23-31fff4d399e1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Big Brother
+https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
+
+#EXTINF:-1 tvg-id="BIGCivicChannel.us@SD",BIG Civic Channel
+https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-id="BIGCommunityChannel.us@SD",BIG Community Channel
+https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="",Billboard TV (1080p)
+https://d2zmd59prfyzho.cloudfront.net/Billboard_TV.m3u8
+
+#EXTINF:-1 tvg-id="BilliardTV.us@SD",Billiard TV (1080p) Source 1
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+
+#EXTINF:-1 tvg-id="BilliardTV.us@SD",Billiard TV (1080p) [Geo-blocked]
+https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
+
+#EXTINF:-1 tvg-id="",Billiards+ (1080p)
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+
+#EXTINF:-1 tvg-id="Binge.us@SD",Binge
+https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Biography The Icons (1080p)
+https://dkaiai6digij6.cloudfront.net/Lights_Legends_Icons.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.us@SD",Biz TV (1080p) Source 1
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.us@SD",Biz TV (1080p) Source 2
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",BizaarTV (720p)
+https://d3s08lnvd4zcd7.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886061/master.m3u8
+
+#EXTINF:-1 tvg-id="",Black Enterprise Streaming Network (1080p)
+https://videoelephant-limited-blackenterprisestreamingnetwork-1-us.ohlscdn.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Black Family Sitcoms
+https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
