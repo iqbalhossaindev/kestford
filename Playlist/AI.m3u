@@ -3722,3 +3722,12 @@ https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="247BoxTV.ir@SD",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AFNTV.ir@SD",AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfraFilm.ir@SD",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AfraSeries.ir@SD",Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
