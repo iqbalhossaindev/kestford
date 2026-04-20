@@ -3086,3 +3086,21 @@ http://103.229.254.25:7001/play/a09z/index.m3u8
 
 #EXTINF:-1 ,Steelbird Music (720p) [Not 24/7] Source 1
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StudioOnePlus.in@SD",Studio One + (720p)
+https://cdn-1.pishow.tv/live/276/master.m3u8
+
+#EXTINF:-1 tvg-id="StudioYuva.in@SD",Studio Yuva (576p)
+https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
+
+#EXTINF:-1 tvg-id="STVHaryanaNews.in@SD",STV Haryana News (576p)
+https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="SubhartiTV.in@SD",Subharti TV (576p)
+https://mumt04.tangotv.in/SUBHARTITV/index.m3u8
+
+#EXTINF:-1 ,Subhavaartha TV (720p)
+https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SubinTV.in@SD",Subin TV (1080p)
+https://stream.galaxyott.live/live/subintv/index.m3u8
