@@ -10421,3 +10421,48 @@ https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 
 #EXTINF:-1 tvg-id="Teletubbies.uk@SD",Teletubbies (720p)
 https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="TemeculaTV.us@SD",Temecula TV (Temecula CA) (1080p)
+https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="Tempe11.us@SD",Tempe Channel 11
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Tennis Channel 2 (1080p) [Geo-blocked]
+https://pb-vuh0zokcxo4al.akamaized.net/T2.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us@Plus2",TennisChannel 2 (720p)
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+
+#EXTINF:-1 tvg-id="",Tensions TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Test My Ride (1080p)
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_21/master.m3u8
+
+#EXTINF:-1 tvg-id="TeveVidaNetwork.us@SD",Teve Vida Network (480p) [Not 24/7]
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
+
+#EXTINF:-1 tvg-id="ThalaaTV.in@HD",Thalaa TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TheAddamsFamily.us@SD",The Addams Family
+https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
+
+#EXTINF:-1 tvg-id="TheAmazingRace.us@SD",The Amazing Race
+https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
+
+#EXTINF:-1 tvg-id="TheAndyGriffithShow.us@SD",The Andy Griffith Show
+https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
+
+#EXTINF:-1 tvg-id="TheArchive.us@SD",The Archive (1080p)
+https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheAsylum.us@US",The Asylum (1080p)
+https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
+
+#EXTINF:-1 tvg-id="",The Biggest Loser (1080p)
+https://aegis-cloudfront-1.tubi.video/5e65c946-0563-42f1-ae32-0d260c85fc63/playlist.m3u8
