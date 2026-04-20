@@ -11705,3 +11705,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiaw
 
 #EXTINF:-1 tvg-id="WVCULP.us@SD",WVCU-LP Concord University Radio The Cure 97.7 (1080p)
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WVITDT1.us@SD",WVIT-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
+
+#EXTINF:-1 tvg-id="",WWE Superstar Central (1080p)
+https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WWONTVChannel48.us@SD",WWON TV CH 48
+https://tv2.fastcast4u.com:3943/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="WWORDT1.us@SD",WWOR-DT1
+http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
+
+#EXTINF:-1 tvg-id="WXTVDT1.us@SD",WXTV-DT1
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
