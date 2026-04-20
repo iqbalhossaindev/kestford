@@ -9209,3 +9209,57 @@ https://pb-21qh1uz4mmkrs.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="KNOVCD1.us@SD",NOTV New Orleans TV (720p) Source 1
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Novelas Turcas (1080p)
+https://d3p1t3yzbr6q5d.cloudfront.net/Novelas_Turcas.m3u8
+
+#EXTINF:-1 tvg-id="NRBTV.us@SD",NRB TV (480p)
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTV.us@East",NTD TV
+https://live.ntdtv.com/live900/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVAsiaPacific.us@SD",NTD TV Asia-Pacific
+https://live.ntdtv.com/aplive200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVCanada.us@East",NTD TV Canada
+https://live.ntdtv.com/mllive860/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVCanada.us@West",NTD TV Canada West
+https://live.ntdtv.com/cwlive220/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVChina.us@SD",NTD TV China
+https://live.ntdtv.com/cnlive900/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVEnglish.us@USA",NTD TV English (1080p) Source 1
+https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVEnglish.us@USA",NTD TV English (1080p) Source 2
+https://amg17596-ntdtv-amg17596c1-stirr-us-4738.playouts.now.amagi.tv/ntd.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVEnglish.us@USA",NTD TV English (720p)
+https://ntd02.akamaized.net/NTDA/index.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVEnglish.us@UK",NTD TV English UK (1080p)
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+
+#EXTINF:-1 tvg-id="NTDTV.us@West",NTD TV West
+https://live.ntdtv.com/uwlive990/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NYXT.us@SD",NYXT (1080p)
+https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
+
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD",OAN (1080p) Source 1
+https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD",OAN (1080p) Source 2
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD",OAN (720p)
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OANEncore.us@SD",OAN Encore (720p) [Geo-blocked]
+https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OANPlus.us@SD",OAN Plus (720p) Source 1
+https://a-cdn.klowdtv.com/live1/oane/playlist.m3u8
