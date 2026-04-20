@@ -3836,3 +3836,6 @@ https://khalijhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="KomalaTV.se@SD",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="KurdChannel.iq@SD",Kurd Channel
+https://kurdchhls.wns.live/hls/stream.m3u8
