@@ -11081,3 +11081,6 @@ https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",Universal Action (1080p)
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",Universal Action (720p)
+https://jmp2.uk/plu-654933e253fc970008390114.m3u8
