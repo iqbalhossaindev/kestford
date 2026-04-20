@@ -11417,3 +11417,54 @@ https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WEDQDT4.us@SD",WEDQ-DT4 (1080p)
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+
+#EXTINF:-1 tvg-id="",WeShort (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8
+
+#EXTINF:-1 tvg-id="WeHoTV.us@SD",West Hollywood WeHoTV (West Hollywood CA) (360p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Western Bound (1080p)
+https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8
+
+#EXTINF:-1 tvg-id="",Western Bound (1080p) [Geo-blocked]
+https://pb-idvkhrn30b0jf.akamaized.net/cw.m3u8
+
+#EXTINF:-1 tvg-id="",Western TV
+https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
+
+#EXTINF:-1 tvg-id="WFLDDT1.us@SD",WFLD-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",WFMZ Dorney Park Camera
+https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",WFMZ PennST camera
+https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",WFMZ PPL Tower Camera
+https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8
+
+#EXTINF:-1 tvg-id="",WFMZ Traffic
+https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
+
+#EXTINF:-1 tvg-id="WFTTDT1.us@SD",WFTT-DT1
+https://stream-tampa.scientology.org/master.m3u8
+
+#EXTINF:-1 tvg-id="WFTXDT1.us@SD",WFTX News Fort Myers FL (720p)
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+
+#EXTINF:-1 tvg-id="WFUTDT1.us@SD",WFUT-DT1 (720p) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+
+#EXTINF:-1 tvg-id="WFXTDT2.us@SD",WFXT-DT2 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WGALDT3.us@SD",WGAL-DT3 (1080p) [Geo-blocked]
+https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8
+
+#EXTINF:-1 tvg-id="WGGSDT1.us@SD",WGGS-DT1 (720p)
+https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
+
+#EXTINF:-1 tvg-id="WGGSDT2.us@SD",WGGS-DT2 (720p)
+https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
