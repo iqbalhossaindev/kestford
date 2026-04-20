@@ -149,3 +149,6 @@ http://115.42.65.142:9981/stream/channelid/322092446
 
 #EXTINF:-1 tvg-id="AbbTakk.pk@SD",Abb Takk (576p)
 http://115.42.65.142:9981/stream/channelid/852828604
+
+#EXTINF:-1 tvg-id="ABNNews.pk@SD",ABN News (1080p)
+http://115.42.65.142:9981/stream/channelid/966869781
