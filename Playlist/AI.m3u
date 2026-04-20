@@ -8624,3 +8624,42 @@ https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD",MMA TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MCPSSTV.us@SD",Mobile County Public Schools TV Network (MCPSS)
+https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Modern Marvels by HISTORY (720p)
+https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
+
+#EXTINF:-1 tvg-id="",Modern Marvels Presented by History (720p) [Geo-blocked]
+https://pb-m89wlp8flmjzf.akamaized.net/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MohabatTV.us@SD",Mohabat TV (540p)
+http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MonroeCountyTV.us@SD",Monroe County Television MCTV (Monroe County FL) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-id="MonsterJam.pl@SD",Monster Jam
+https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD",Moonbug (1080p)
+https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",More True Crime
+https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
+
+#EXTINF:-1 tvg-id="MoreTVDrama.us@SD",More TV Drama
+https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
+
+#EXTINF:-1 tvg-id="MoreTVSitcoms.us@SD",More TV Sitcoms
+https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
+
+#EXTINF:-1 tvg-id="",MotoGP Channel (1080p)
+https://d1kqz1q7knpsue.cloudfront.net/MotoGP.m3u8
+
+#EXTINF:-1 tvg-id="",MotorRacing
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8
