@@ -9281,3 +9281,48 @@ https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
 
 #EXTINF:-1 tvg-id="OCNTV.us@SD",OCN TV
 https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
+
+#EXTINF:-1 tvg-id="Olelo49.us@SD",Olelo Community Media Channel 49 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Olelo53.us@SD",Olelo Community Media Channel 53 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Olelo54.us@SD",Olelo Community Media Channel 54 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Olelo55.us@SD",Olelo Community Media Channel 55 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Omstars (1080p)
+https://d1too6m5v9oyet.cloudfront.net/scheduler/scheduleMaster/281.m3u8
+
+#EXTINF:-1 tvg-id="",ONE Championship TV (720p)
+https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
+
+#EXTINF:-1 tvg-id="OnePiece.us@SD",One Piece
+https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
+
+#EXTINF:-1 tvg-id="OntarioPublicAccessChannel.us@SD",Ontario Public Access Channel (360p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnTV4U.us@SD",OnTV4U (1080p) [Geo-blocked]
+https://stirr.b-cdn.net/stirr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Operation Repo (1080p)
+https://d14kyo3ex6k293.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OrangeGovernmentAccessTV.us@SD",Orange Government Access TV (Orange CT) (720p)
+https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Our Vinyl (1080p)
+https://d29rvfbwwm1vce.cloudfront.net/scheduler/scheduleMaster/459.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorAmerica.us@SD",Outdoor America (1080p) Source 1
+https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorAmerica.us@SD",Outdoor America (1080p) Source 2
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Outer Vision (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/manifest.m3u8
