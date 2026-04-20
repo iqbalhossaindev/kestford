@@ -3149,18 +3149,3 @@ https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8
 
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD",Steelbird Music (720p) [Not 24/7] Source 2
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-
-#EXTINF:-1 tvg-id="TaazaTV.in@SD",Taaza TV (720p)
-https://live.we2live.in/taazatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="",Tadka (576p)
-https://mumt03.tangotv.in/TADKA/index.m3u8
-
-#EXTINF:-1 tvg-id="TamilJanam.in@SD",Tamil Janam (576p)
-https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
-
-#EXTINF:-1 tvg-id="TamilanTV.in@SD",Tamilan TV (1080p)
-https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TarangMusic.in@SD",Tarang Music (720p)
-https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
