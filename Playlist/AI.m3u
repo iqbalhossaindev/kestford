@@ -5522,3 +5522,33 @@ https://amg01681-beondtv-amg01681c1-klowdtv-us-1826.playouts.now.amagi.tv/playli
 
 #EXTINF:-1 tvg-id="BerksCommunityTV.us@SD",Berks Community TV (1080p)
 https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Best Action TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Best Drama TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Best of Bobby Flay by Food Network (720p)
+https://jmp2.uk/plu-68bb167e00a2f063fdf7ee8f.m3u8
+
+#EXTINF:-1 tvg-id="",Best of Dr. Phil
+https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8
+
+#EXTINF:-1 tvg-id="",Best Thriller TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BlackCinema.us@SD",BET Cinema
+https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+
+#EXTINF:-1 tvg-id="BETClassicsPlutoTV.us@France",BET Classics
+https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
+
+#EXTINF:-1 tvg-id="",BET Comedy Movies
+https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
+
+#EXTINF:-1 tvg-id="BETPlutoTV.us@US",BET Pluto TV
+https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+
+#EXTINF:-1 tvg-id="",BET Throwbacks
+https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
