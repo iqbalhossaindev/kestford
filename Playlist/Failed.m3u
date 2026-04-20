@@ -21,9 +21,6 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTINF:-1 ,& Flix HD Source 1
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 
-#EXTINF:-1 ,157.Bein Sports Xtra HD
-https://chostv.mobie.in/choos/sports/beinxtra.m3u8
-
 #EXTINF:-1 ,165.Dubai Sports
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 
