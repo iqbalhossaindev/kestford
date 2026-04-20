@@ -8513,3 +8513,63 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac
 
 #EXTINF:-1 tvg-id="MCN6MainChannel.us@SD",MCN6 (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="MCN6ArtsChannel.us@SD",MCN6 Arts Channel (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="MCN6MusicChannel.us@SD",MCN6 Music Channel (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="",MeatEater (1080p)
+https://d7hbn1ntae5ib.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Mercury+ (1080p)
+https://streams2.sofast.tv/sofastplayout/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="",MHz Mysteries (720p)
+https://mhz-samsung-linear-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Mi Miedo Canal (1080p)
+https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7dd1ea506ec3d330f48ad/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Mi Raza Canal (1080p)
+https://streams2.sofast.tv/umaxx/v1/01971c1e82751ebd47042b72b0c032/01971c2023791ea506492f5bf73b63/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Mi Raza Canal Plus (1080p)
+https://streams2.sofast.tv/sofast3/v1/019835b55bef1ebd4704326f84ec86/019835ca63dd1ebd416a5a78cf461/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBTV.us@SD",Miami Beach Tv (MBTV) (Miami Beach FL) (720p)
+https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidnightPulp.us@SD",Midnight Pulp (1080p) Source 1
+https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidnightPulp.us@SD",Midnight Pulp (1080p) Source 2
+https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel30.us@SD",Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel75.us@SD",Midpen Media Center Diversity and Culture Channel 75 (720p)
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us@SD",Midpen Media Center Government etc Channel 26 (720p)
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us@SD",Midpen Media Center Government etc Channel 29 (720p)
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us@SD",Midpen Media Center Youth Education and Sports Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders Source 1
+https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders Source 2
+https://jmp2.uk/plu-5cbf6a868a1bce4a3d52a5e9.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders (1080p)
+https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD",Midsomer Murders (720p)
+https://aegis-cloudfront-1.tubi.video/d76934f9-bea8-4cc2-a812-c2e8a9c5d40a/playlist.m3u8
