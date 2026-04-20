@@ -3128,3 +3128,12 @@ https://cdn-2.pishow.tv/live/465/master.m3u8
 
 #EXTINF:-1 tvg-id="Swantham.in@SD",Swantham (576p)
 http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+
+#EXTINF:-1 tvg-id="SwarajExpressSMBC.in@SD",Swaraj Express SMBC (720p) [Not 24/7]
+https://cdn-2.pishow.tv/live/477/master.m3u8
+
+#EXTINF:-1 tvg-id="SwatantraTV.in@SD",Swatantra TV (1080p)
+https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in@SD",T News (720p)
+https://cdn-1.pishow.tv/live/385/master.m3u8
