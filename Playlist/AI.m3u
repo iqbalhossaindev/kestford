@@ -11123,3 +11123,21 @@ https://jmp2.uk/plu-656538f8954b020008d389db.m3u8
 
 #EXTINF:-1 tvg-id="",Urban Action TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
+
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network East (1080p) [Not 24/7]
+https://tvpass.org/live/USANetworkEast/hd
+
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network East (360p) [Not 24/7]
+https://tvpass.org/live/USANetworkEast/sd
+
+#EXTINF:-1 tvg-id="USATODAY.us@SD",USA Today (1080p) Source 1
+https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USATODAY.us@SD",USA Today (1080p) Source 2
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USATODAY.us@SD",USA Today (1080p) [Geo-blocked]
+https://usatodaynews-samsungus-tsv2-ghkcu.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USATODAY.us@SD",USA Today News (1080p) [Geo-blocked]
+https://usatodaynews-xumo.amagi.tv/playlist.m3u8
