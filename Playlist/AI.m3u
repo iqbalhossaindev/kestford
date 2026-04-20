@@ -11819,3 +11819,48 @@ https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
 
 #EXTINF:-1 tvg-id="YoMTV.us@SD",Yo! MTV (1080p)
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
+
+#EXTINF:-1 tvg-id="YouDotGov.us@SD",YouDotGov
+https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="YoungHollywood.us@SD",Young Hollywood (1080p) [Geo-blocked]
+https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YoungHollywood.us@SD",Young Hollywood (720p) Source 1
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YoungHollywood.us@SD",Young Hollywood (720p) Source 2
+https://younghollywood-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YoungHollywood.us@SD",Young Hollywood (720p) Source 3
+https://younghollywood-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YTATV.us@SD",YTA TV
+https://yta.unitedteleports.tv/hls/YTA.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh.us@SD",Yu Gi Oh (1080p)
+https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh.us@SD",Yu-Gi-Oh!
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh.us@SD",Yu-Gi-Oh! (1080p)
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YumaChannel72.us@SD",Yuma AZ CH 72 (1080p)
+https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YumaChannel73.us@SD",Yuma AZ CH 73 (1080p)
+https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yuma77.us@SD",Yuma77
+https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
+
+#EXTINF:-1 tvg-id="ZarinTV.us@SD",Zarin TV (1080p)
+https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+
+#EXTINF:-1 tvg-id="",Zoomer TV (1080p)
+https://d3p8ecnk6t4t73.cloudfront.net/scheduler/scheduleMaster/316.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD",ZooMoo (1080p)
+https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8
