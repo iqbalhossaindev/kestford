@@ -143,3 +143,12 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 
 #EXTINF:-1 tvg-id="Rohi.pk@SD",Rohi (576p)
 http://103.250.28.74:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="ARYNews.pk@Pakistan",ARY News (576p)
+http://115.42.65.142:9981/stream/channelid/322092446
+
+#EXTINF:-1 tvg-id="AbbTakk.pk@SD",Abb Takk (576p)
+http://115.42.65.142:9981/stream/channelid/852828604
+
+#EXTINF:-1 tvg-id="ABNNews.pk@SD",ABN News (1080p)
+http://115.42.65.142:9981/stream/channelid/966869781
