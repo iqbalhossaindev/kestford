@@ -5447,3 +5447,18 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC News (1080p) [Geo-blocked]
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk@Africa",BBC News (720p)
+https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
+
+#EXTINF:-1 tvg-id="",BBC Top Gear (1080p)
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",BBC Top Gear (1080p) [Geo-blocked]
+https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Beach Bonfire Vibes (1080p)
+https://d104o6d3ybbtr3.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Beach Day (720p)
+https://jmp2.uk/plu-68bb162bb3900870ec364cbe.m3u8
