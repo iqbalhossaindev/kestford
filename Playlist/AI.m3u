@@ -3893,3 +3893,15 @@ https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sat7Pars.cy@SD",Sat7 Pars
 https://sat7phls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SetarehTV.uk@HD",Setareh TV
+https://setarehhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Shabakeh7.us@SD",Shabakeh 7
+https://sh7hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL1.ir@SD",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL2.ir@SD",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
