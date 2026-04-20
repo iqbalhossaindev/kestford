@@ -36,20 +36,8 @@ http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
 #EXTINF:-1 ,Colors Bangla HD Source 3
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EkhonTV.bd@SD",Ekhon TV (1080p)
-https://tplay.live/out/bangladesh/ekhontv.index.m3u8
-
 #EXTINF:-1 group-title="Pakistani",224.Subrang TV
 https://cdn20.liveonlineservices.com/hls/subrang.m3u8
-
-#EXTINF:-1 ,Bloomberg Asia Source 2
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png" group-title="Bangla",BONGO DRAMAS
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
-
-#EXTINF:-1 ,Eawaz TV (CA)
-https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
