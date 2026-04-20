@@ -8384,3 +8384,45 @@ https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",LOL TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TAPTVChannel23.us@SD",Lompoc TAP TV Channel 23 (720p)
+https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPTVChannel24.us@SD",Lompoc TAP TV Channel 24 (720p)
+https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAPTVChannel25.us@SD",Lompoc TAP TV Channel 25 (720p)
+https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LBTV.us@SD",Long Beach Television (720p)
+https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LA36.us@SD",Los Angeles Local Television Channel 36 (1080p)
+https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="LoveHipHop.us@SD",Love & Hip Hop
+https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
+
+#EXTINF:-1 tvg-id="",Love 2 Hate TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature (1080p) [Geo-blocked]
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature (720p)
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature (720p) [Geo-blocked]
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca@4K",Love Nature 4K (2160p) [Geo-blocked]
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+
+#EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD",Love Nature en Espanol (1080p) [Geo-blocked]
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Love Pets (1080p)
+https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
