@@ -9455,3 +9455,48 @@ https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us@SD",PBS Kids Eastern/Central (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD",PBS Kids Hawaii (720p)
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD",PBS Kids Mountain (1080p)
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsPacific.us@SD",PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+
+#EXTINF:-1 tvg-id="WMPTDT1.us@SD",PBS MPT Baltimore MD (WMPB) (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us@East",PBS National East (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us@East",PBS National West (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSNature.us@SD",PBS Nature (1080p)
+https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
+
+#EXTINF:-1 tvg-id="PBSNature.us@SD",PBS Nature (1080p) [Geo-blocked] Source 1
+https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSNature.us@SD",PBS Nature (1080p) [Geo-blocked] Source 2
+https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSNature.us@SD",PBS Nature (720p)
+https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
+
+#EXTINF:-1 tvg-id="KMOSDT1.us@SD",PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]
+https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSTravel.us@SD",PBS Travel (1080p)
+https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+
+#EXTINF:-1 tvg-id="",PeekFlick (1080p)
+https://streams2.sofast.tv/WiseM3U8_26/sofast/cleanhls/master.m3u8
+
+#EXTINF:-1 tvg-id="",Peppa Pig
+https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
+
+#EXTINF:-1 tvg-id="",Perform (720p)
+https://d3shpb2wdlx9qj.cloudfront.net/v1/aenetworks_perform_1/samsungheadend_us/latest/main/hls/playlist.m3u8
