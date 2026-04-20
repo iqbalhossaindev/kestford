@@ -6158,3 +6158,36 @@ https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 
 #EXTINF:-1 tvg-id="ChefRocShow.us@SD",Chef Roc Show (720p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 tvg-id="",Chef vs Chef by Food Network (720p)
+https://jmp2.uk/plu-68bb16a500a2f063fdf89f8c.m3u8
+
+#EXTINF:-1 tvg-id="ChinaTravel.cn@SD",China Travel (1080p)
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityTVChannel341.us@SD",Chino Hills City TV Channel 3/41 (360p)
+https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Chip & Jo: Feels Like Home by Magnolia Network (720p)
+https://jmp2.uk/plu-68bb16e7f89c82a68bcc4397.m3u8
+
+#EXTINF:-1 tvg-id="Choppertown.us@SD",Choppertown (720p)
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Choppertown.us@SD",Choppertown (720p) [Not 24/7]
+https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD",Christian Youth Channel (CYC) (1080p) Source 1
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD",Christian Youth Channel (CYC) (1080p) Source 2
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Chrono (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Chukker (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/manifest.m3u8
+
+#EXTINF:-1 tvg-id="",Cigar TV (1080p)
+https://streams2.sofast.tv/vglive-sk-798765/index.m3u8
