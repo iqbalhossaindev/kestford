@@ -10250,3 +10250,45 @@ https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StrykTV.us@HD",Stryk TV (1080p)
 https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
+
+#EXTINF:-1 tvg-id="SUMtvEnglish.us@SD",SUMtv English (1080p) Source 1
+https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SUMtvEnglish.us@SD",SUMtv English (1080p) Source 2
+https://rpn.bozztv.com/ssstv/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SUMtvLatino.us@SD",SUMtv Latino (1080p) Source 1
+https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SUMtvLatino.us@SD",SUMtv Latino (1080p) Source 2
+https://rpn.bozztv.com/ssstv/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperSimpleSongs.us@SD",Super Simple Songs (1080p)
+https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Supermarket Sweep
+https://jmp2.uk/plu-649ddbfb6f29ec000874ca9e.m3u8
+
+#EXTINF:-1 tvg-id="",Supermarket Sweep (1080p) [Geo-blocked] Source 1
+https://aegis-cloudfront-1.tubi.video/4541ec70-497a-4a92-87cf-50258fbab999/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Supermarket Sweep (1080p) [Geo-blocked] Source 2
+https://amg00145-buzzr-bigballs-supermarket-rokuus-iqx8g.amagi.tv/playlist/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Supermarket Sweep (1080p) [Geo-blocked] Source 3
+https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Supermarket Sweep (1080p) [Geo-blocked] Source 4
+https://pb-zp5s7cka1vjrd.akamaized.net/Supermarket_Sweep.m3u8
+
+#EXTINF:-1 tvg-id="",Supernatural Drama
+https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
+
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw@SD",Supreme Master TV (720p)
+https://lbs-us1.suprememastertv.com/720p.m3u8
+
+#EXTINF:-1 tvg-id="",SURFER TV (1080p)
+https://dgwfm675921lp.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Surfing+ (1080p)
+https://dr4jwhk0sty71.cloudfront.net/scheduler/scheduleMaster/444.m3u8
