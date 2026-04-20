@@ -8828,3 +8828,33 @@ https://aegis-cloudfront-1.tubi.video/07f838db-e5bc-47c9-b2b8-6d7037b06b9b/playl
 
 #EXTINF:-1 tvg-id="",Nash Bridges Channel (1080p) [Geo-blocked]
 https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NashuaETV.us@SD",Nashua ETV Channel 22 Nashua NH (720p)
+https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GovernmentTV16.us@SD",Nashua GTV Channel 16 Nashua NH (720p)
+https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatickEducationChannel.us@SD",Natick Education Channel (720p)
+https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatickGovernmentChannel.us@SD",Natick Government Channel (720p)
+https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatickPublicAccessChannel.us@SD",Natick Public Access Channel (720p)
+https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast",National Geographic HD East (360p) [Not 24/7]
+https://tvpass.org/live/NationalGeographicEast/sd
+
+#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast",National Geographic HD East (720p) [Not 24/7]
+https://tvpass.org/live/NationalGeographicEast/hd
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast",National Geographic Wild HD East (360p) [Not 24/7]
+https://tvpass.org/live/NationalGeographicWildEast/sd
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast",National Geographic Wild HD East (720p) [Not 24/7]
+https://tvpass.org/live/NationalGeographicWildEast/hd
+
+#EXTINF:-1 tvg-id="",National Lampoon (1080p) [Geo-blocked]
+https://pb-4l6m6c7pca5dy.akamaized.net/playlist.m3u8
