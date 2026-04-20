@@ -10067,3 +10067,21 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 #EXTINF:-1 tvg-id="",Shooting Sports Life (1080p)
 https://linear-1312.frequency.stream/dist/stirr/1312/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Shop LC
+https://jmp2.uk/plu-68ee9a999938143525bfc385.m3u8
+
+#EXTINF:-1 tvg-id="ShopLC.us@SD",Shop LC (1080p) Source 1
+https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
+
+#EXTINF:-1 tvg-id="ShopLC.us@SD",Shop LC (1080p) Source 2
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+
+#EXTINF:-1 tvg-id="ShopLC.us@SD",Shop LC (1080p) Source 3
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+
+#EXTINF:-1 tvg-id="ShopLC.us@SD",Shop LC (1080p) Source 4
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/master.m3u8
+
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us@SD",Shout! TV (1080p)
+https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
