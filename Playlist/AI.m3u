@@ -7616,3 +7616,42 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
 #EXTINF:-1 tvg-id="",History & Warfare Now (1080p)
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
+
+#EXTINF:-1 tvg-id="",History 365 (1080p) [Geo-blocked]
+https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
+
+#EXTINF:-1 tvg-id="HistoryAsia.us@SD",History Asia
+https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryenEspanol.us@SD",History en Espanol (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
+
+#EXTINF:-1 tvg-id="HistoryHit.us@SD",History Hit (720p)
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Hit Sitcoms (720p)
+https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
+
+#EXTINF:-1 tvg-id="HMIPROMZNEWS.us@SD",HMI PROMZ NEWS (720p)
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HmongTVNetwork.us@SD",Hmong TV Network (720p)
+https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Hoarders by A&E (720p)
+https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Hogan's Heroes
+https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
+
+#EXTINF:-1 tvg-id="HollyWire.us@SD",HollyWire (720p) Source 1
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HollyWire.us@SD",Hollywire (720p) Source 2
+https://di1slo8304ver.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Home Cooking by Food Network
+https://jmp2.uk/plu-68bb16916523408b14bac7f8.m3u8
