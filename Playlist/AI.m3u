@@ -6110,3 +6110,51 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD",CGTN Español (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
+
+#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn@SD",CGTN Global Biz (1080p)
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Challenge Accepted (1080p)
+https://d1vy897y7cwgcv.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTV.us@SD",Champaign Government Television (CGTV) (Champaign IL) (720p)
+https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-id="Channel10.us@SD",Channel 10 (720p)
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ScottsdaleChannel11.us@SD",Channel 11 (Scottsdale AZ)
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="",Channel Fight (1080p) Source 1
+https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8
+
+#EXTINF:-1 tvg-id="",Channel Fight (1080p) Source 2
+https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8?ads.vf=KqVbYyU2qD8
+
+#EXTINF:-1 tvg-id="Charge.us@SD",Charge! (1080p)
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV.us@SD",Charlotte County CC-TV (Charlotte County FA) (720p)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Cheaters
+https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8
+
+#EXTINF:-1 tvg-id="",Cheaters (1080p) [Geo-blocked]
+https://pb-yu0ylzo7vk8v4.akamaized.net/Cheaters_SONO39.m3u8
+
+#EXTINF:-1 tvg-id="CheddarNews.us@SD",Cheddar News (1080p)
+https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CheddarNews.us@SD",Cheddar News (720p)
+https://aegis-cloudfront-1.tubi.video/27ff1997-507a-41c4-8433-08875fe5f40f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Cheers + Frasier
+https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
+
+#EXTINF:-1 tvg-id="ChefChampion.us@SD",Chef Champion (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+
+#EXTINF:-1 tvg-id="ChefRocShow.us@SD",Chef Roc Show (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
