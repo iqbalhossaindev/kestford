@@ -3572,3 +3572,12 @@ https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HarPalGeo.pk@SD",HarPal Geo (360p)
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IsaacTV.pk@SD",Isaac TV (720p)
+https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JooMusic.pk@SD",JooMusic (720p)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JoshuaTV.pk@SD",Joshua TV (720p)
+https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
