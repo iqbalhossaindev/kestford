@@ -8858,3 +8858,57 @@ https://tvpass.org/live/NationalGeographicWildEast/hd
 
 #EXTINF:-1 tvg-id="",National Lampoon (1080p) [Geo-blocked]
 https://pb-4l6m6c7pca5dy.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Naturescape (720p)
+https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8
+
+#EXTINF:-1 tvg-id="NauticalChannel.it@SD",Nautical Channel (720p) Source 1
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NauticalChannel.it@SD",Nautical Channel (720p) Source 2
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+
+#EXTINF:-1 tvg-id="",NBA FAST Channel (720p)
+https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (1080p) [Geo-blocked]
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WJARDT1.us@SD",NBC 10 Cranston RI (WJAR) (1080p)
+https://linear-694.frequency.stream/dist/stirr/694/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WJARDT1.us@SD",NBC 10 Providence MA (1080p)
+https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
+
+#EXTINF:-1 tvg-id="WHECDT1.us@SD",NBC 10 Rochester NY (WHEC) (1080p)
+https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WBALDT1.us@SD",NBC 11 Baltimore MD (WBAL) (720p)
+https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WXIIDT1.us@SD",NBC 12 Winston-Salem NC (WXII) (720p)
+https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNYTDT1.us@SD",NBC 13 Albany NY (WNYT) (1080p)
+https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WGBADT1.us@SD",NBC 26 Green Bay WI (WGBA) (720p)
+https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WGBADT1.us@SD",NBC 26 Green Bay WI (WGBA-DT1) (720p)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+
+#EXTINF:-1 tvg-id="KSNVDT1.us@SD",NBC 3 Las Vegas NV (KSNV) (1080p)
+https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KCRADT1.us@SD",NBC 3 Sacramento CA (KCRA) (720p)
+https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KOBDT1.us@SD",NBC 4 Albuquerque NM (KOB) (1080p)
+https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WTMJDT1.us@SD",NBC 4 Milwaukee WI (WTMJ) (720p)
+https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WOAIDT1.us@SD",NBC 4 San Antonio TX (WOAI) (1080p)
+https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8
