@@ -3218,27 +3218,3 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 
 #EXTINF:-1 ,Tribe TV (720p)
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-
-#EXTINF:-1 tvg-id="TrueAfrican.za@SD",True African (720p)
-https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfrican/index.m3u8
-
-#EXTINF:-1 tvg-id="Tunes6.in@SD",Tunes 6 (720p)
-https://stream.d6-pro.com/tunes6music/live/video.m3u8
-
-#EXTINF:-1 ,TV Punjab (720p) Source 1
-https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVPunjab.ca@SD",TV Punjab (720p) [Geo-blocked]
-https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV5Kannada.in@SD",TV5 Kannada (576p)
-https://cdn-3.pishow.tv/live/1526/master.m3u8
-
-#EXTINF:-1 tvg-id="TV5News.in@SD",TV5 News (576p)
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV9Bangla.in@SD",TV9 Bangla (720p) Source 2
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (720p) Source 2
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
