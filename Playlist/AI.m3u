@@ -4331,3 +4331,51 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 
 #EXTINF:-1 tvg-id="AlSaudiya.sa@SD",Al Saudiya (360p)
 https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-id="AlSaudiyaAlaan.sa" tvg-country="SA" group-title="Saudi Arabia",Al Saudiya Alaan
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa@SD",Al Saudiya Alaan (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD",Al Sunnah Al Nabawiyah TV (360p)
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="AlMajdHolyQuran.sa@SD",Al-Majd Holy Quran
+https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD",Asharq Discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa@SD",Asharq Documentary (1080p)
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa@SD",Asharq News (1080p) Source 1
+https://live-news.asharq.com/asharq.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa@SD",Asharq News (1080p) Source 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa@SD",Asharq News (1080p) Source 3
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="AsharqNews.sa@SD",Asharq News (1080p) Source 4
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqRadio.sa@SD",Asharq Radio (1080p)
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa@SD",Atfal & Mawaheb TV (1080p) Source 1
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa@SD",Atfal & Mawaheb TV (1080p) Source 2
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabAlHara.sa@SD",Bab Al Hara (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+
+#EXTINF:-1 tvg-id="BigTimePlus.sa@SD",Big Time Plus (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
+
+#EXTINF:-1 tvg-id="Fairuz.sa@HD",Fairuz (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
