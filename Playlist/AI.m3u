@@ -9728,3 +9728,66 @@ https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PursuitUP.us@SD",PursuitUP (720p) [Geo-blocked]
 https://pursuitup-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Q2 News Billings (1080p)
+https://aegis-cloudfront-1.tubi.video/e6096a30-3bca-4157-b9c7-d7aa84d16e9e/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Qué Culpa Tiene Fatmagül (1080p)
+https://d1lnbiqw2cduwy.cloudfront.net/que_culpa_tiene_fatmagul.m3u8
+
+#EXTINF:-1 tvg-id="",QVC
+https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8
+
+#EXTINF:-1 tvg-id="QVC.us@SD",QVC (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC2.us@SD",QVC 2 (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC3.us@SD",QVC 3 (1080p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC.us@SD",QVC Live (720p) [Not 24/7]
+https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",QVC West (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
+
+#EXTINF:-1 tvg-id="",QVC2
+https://jmp2.uk/plu-67817323dd7846fe546940dd.m3u8
+
+#EXTINF:-1 tvg-id="QwestTV.fr@SD",QwestTV (1080p)
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RacerSelect.us@SD",RACER Select (1080p)
+https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8
+
+#EXTINF:-1 tvg-id="",Rachael Ray Presents (1080p)
+https://dhy1wwavvr8nc.cloudfront.net/Rachel_Ray_Presents.m3u8
+
+#EXTINF:-1 tvg-id="RJTV.us@SD",Radio Javan TV (1080p)
+https://rjtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RadioRitmoFM.cl@SD",Radio Ritmo (1080p) [Not 24/7]
+https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTelePuissance.us@SD",Radio Tele Puissance
+https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleSentinel.us@SD",Radio Tele Sentinel
+https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioMensajeTV.us@SD",RadioMensaje TV (720p)
+https://eu1.servers10.com:8081/8230/index.m3u8
+
+#EXTINF:-1 tvg-id="RainbowRuby.us@SD",Rainbow Ruby (720p)
+https://dt9mwqwe98q7o.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="",Rainy Day Vibes (1080p)
+https://d2fbuk9n5icao0.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenViki.us@US",Rakuten Viki (1080p)
+https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCTV3.us@SD",Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)
+https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
