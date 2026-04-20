@@ -11210,3 +11210,30 @@ https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
 
 #EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop (1080p) Source 1
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop (1080p) Source 2
+https://d2n5ee9u100agb.cloudfront.net/Vevo_Pop.m3u8
+
+#EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop (1080p) Source 3
+https://jmp2.uk/stvp-GBBC19000017V
+
+#EXTINF:-1 tvg-id="VevoRB.us@SD",Vevo R&B
+https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
+
+#EXTINF:-1 tvg-id="VevoRB.us@SD",Vevo R&B (1080p)
+https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
+
+#EXTINF:-1 tvg-id="",Vevo Regional Mexicano
+https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8
+
+#EXTINF:-1 tvg-id="VevoRetroRock.us@SD",Vevo Retro Rock (1080p)
+https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
+
+#EXTINF:-1 tvg-id="",Vevo Rock
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+
+#EXTINF:-1 tvg-id="",Vevo True School Hip-Hop
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+
+#EXTINF:-1 tvg-id="",Vevo Íconos Latinos
+https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
