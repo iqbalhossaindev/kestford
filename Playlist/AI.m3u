@@ -10931,3 +10931,87 @@ https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 
 #EXTINF:-1 tvg-id="TVLandDrama.us@SD",TV Land Drama Source 1
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
+
+#EXTINF:-1 tvg-id="TVLandSitcoms.us@SD",TV Land Sitcoms Source 1
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
+
+#EXTINF:-1 tvg-id="",TV One Crime & Justice (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/66353608-b293-407b-9e79-d69ba8b17594/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",TV One Crime & Justice (1080p) Source 2
+https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV4.us@SD",TV4 (360p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSBowlingNetwork.us@SD",TVS Bowling Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSBoxing.us@SD",TVS Boxing (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSCipherNetwork.us@SD",TVS Cipher Network (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSClassicMovies.us@SD",TVS Classic Movies (288p)
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSClassicSports.us@SD",TVS Classic Sports (360p)
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us@SD",TVS Comedy Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us@SD",TVS Drive In Movie (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSFamilyChannel.us@SD",TVS Family Channel (360p)
+https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us@SD",TVS Film Noir Network (720p)
+https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSFlashbackNetwork.us@SD",TVS Flashback Network (360p)
+https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSHiTops.us@SD",TVS Hi Tops (720p)
+https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us@SD",TVS Hollywood History (582p)
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSMainstreet.us@SD",TVS Mainstreet (360p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSMusicNetwork.us@SD",TVS Music Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSNostalgia.us@SD",TVS Nostalgia (472p)
+https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us@SD",TVS Nostalgia Movies (480p)
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSPetParadeNetwork.us@SD",TVS Pet Parade Network (360p)
+https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us@SD",TVS Pinball Network (480p)
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSQuizShowNetwork.us@SD",TVS Quiz Show Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSSelectNetwork.us@SD",TVS Select Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsselect/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSSports.us@SD",TVS Sports (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSSportsBureau.us@SD",TVS Sports Bureau (720p)
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSTalkNetwork.us@SD",TVS Talk Network (360p)
+https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSTallyHo.us@SD",TVS Tally Ho (360p)
+https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
