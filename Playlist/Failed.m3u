@@ -147,14 +147,8 @@ http://103.250.28.74:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="ARYNews.pk@Pakistan",ARY News (576p)
 http://115.42.65.142:9981/stream/channelid/322092446
 
-#EXTINF:-1 tvg-id="ARYZindagi.pk@SD",ARY Zindagi (576p)
-http://115.42.65.142:9981/stream/channelid/1064070262
+#EXTINF:-1 tvg-id="AbbTakk.pk@SD",Abb Takk (576p)
+http://115.42.65.142:9981/stream/channelid/852828604
 
-#EXTINF:-1 tvg-id="ATV.pk@SD",ATV (1080p)
-http://115.42.65.142:9981/stream/channelid/299762256
-
-#EXTINF:-1 tvg-id="AajNews.pk@SD",Aaj News (576p)
-http://115.42.65.142:9981/stream/channelid/750987367
-
-#EXTINF:-1 tvg-id="ABNNews.pk@SD",ABN News (360p)
-https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
+#EXTINF:-1 tvg-id="ABNNews.pk@SD",ABN News (1080p)
+http://115.42.65.142:9981/stream/channelid/966869781
