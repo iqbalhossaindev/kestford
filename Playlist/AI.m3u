@@ -3788,3 +3788,18 @@ https://moviethls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="GrandCinema.tr@SD",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="HomePlus.ir@SD",Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ICCplus.us@SD",ICC Plus (1080p)
+https://icchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ICnet1.ca@SD",icnet 1
+https://icnet1hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ICnet2.ca@SD",icnet 2
+https://icnet2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="icnet3.ca@SD",icnet 3
+https://ic3hls.wns.live/hls/stream.m3u8
