@@ -9500,3 +9500,36 @@ https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 
 #EXTINF:-1 tvg-id="",Perform (720p)
 https://d3shpb2wdlx9qj.cloudfront.net/v1/aenetworks_perform_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PerryMason.us@SD",Perry Mason
+https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8
+
+#EXTINF:-1 tvg-id="",PFL (720p)
+https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PFLMMA.pl@SD",PFL MMA
+https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
+
+#EXTINF:-1 tvg-id="PGATour.us@SD",PGA TOUR
+https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8
+
+#EXTINF:-1 tvg-id="PGATour.us@SD",PGA Tour (1080p) [Geo-blocked]
+https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PGATour.us@SD",PGA Tour (720p)
+https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PHXTV.us@SD",PHXTV
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Pickers & Pawn
+https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
+
+#EXTINF:-1 tvg-id="",PickleballTV (1080p) [Geo-blocked]
+https://pb-p82n52ztxtyz8.akamaized.net/PickleballTV.m3u8
+
+#EXTINF:-1 tvg-id="PCTV26.us@SD",Pinole Community Television (PCTV) Channel 26 (Pinole CA) (480p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PCTV28.us@SD",Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
