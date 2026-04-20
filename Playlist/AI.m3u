@@ -10358,3 +10358,66 @@ https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.is
 
 #EXTINF:-1 tvg-id="TBNPacific.us@SD",TBN Pacific
 https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCT.us@SD",TCT Network (720p)
+https://a-cdn.klowdtv.com/live2/tct_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeaTV.vn@SD",Tea TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Team Liquid (1080p)
+https://d3qzt5cx2j8lfl.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Team USA (1080p)
+https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Team USA TV (1080p)
+https://d8b6mh9us4zvx.cloudfront.net/TEAM_USA_TV.m3u8
+
+#EXTINF:-1 tvg-id="TED.us@SD",TED (1080p)
+https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
+
+#EXTINF:-1 tvg-id="TeenMom.us@SD",Teen Mom
+https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
+
+#EXTINF:-1 tvg-id="TeleBoston.us@SD",Tele Boston (480p)
+https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
+
+#EXTINF:-1 tvg-id="",Telemundo Accion (1080p)
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD",Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+
+#EXTINF:-1 tvg-id="",Telemundo Al Día (720p)
+https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us@SD",Telemundo Corpus Christi (720p)
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional
+http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica",Telemundo Internacional Central America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Telemundo Noticias Ahora (1080p)
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",Telemundo Noticias Florida (1080p)
+https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Telemundo Noticias Noreste (1080p)
+https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Telemundo Romance (1080p)
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us@SD",Telemundo telenovelas clásicas
+https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
+
+#EXTINF:-1 tvg-id="Teletubbies.uk@SD",Teletubbies (720p)
+https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
