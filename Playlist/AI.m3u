@@ -3959,3 +3959,45 @@ https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 
 #EXTINF:-1 tvg-id="Alquran.iq@SD",Alquran (1080p)
 https://ktvlive.online/stream/hls/ch1.m3u8
+
+#EXTINF:-1 tvg-id="AvarTV.iq@HD",Avar TV (1080p)
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq@SD",BeitolAbbas TV Channel (720p)
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.iq@SD",Channel 8 Kurdish (720p)
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="Dijlah TV" tvg-logo="https://i.imgur.com/FJEeYiz.png" tvg-id="DijlahTV.iq" tvg-country="IQ" group-title="Iraq",Dijlah TV
+https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DijlahTV.iq@SD",Dijlah TV (1080p)
+https://ghaasiflu.online/Dijlah/index.m3u8
+
+#EXTINF:-1 tvg-id="EmanTv.iq@HD",EmanTv (1080p)
+https://avr.host247.net/live/emantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FarmodaTV.iq@HD",FarmodaTV (1080p)
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV1.iq@SD",Imam Hussein TV 1 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih1.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV2.iq@SD",Imam Hussein TV 2 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih2.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV3.iq@SD",Imam Hussein TV 3 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih3.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV4.iq@SD",Imam Hussein TV 4 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih4.m3u8
+
+#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://i.imgur.com/PeuBkaH.png" tvg-id="INews.iq" tvg-country="IQ" group-title="Iraq",iNEWS
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INews.iq@SD",iNEWS TV (1080p)
+https://live.i-news.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IraqFuture.iq@SD",Iraq Future (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
