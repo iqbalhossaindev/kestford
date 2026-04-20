@@ -11141,3 +11141,39 @@ https://usatodaynews-samsungus-tsv2-ghkcu.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USATODAY.us@SD",USA Today News (1080p) [Geo-blocked]
 https://usatodaynews-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VallenatoInternacional.us@SD",Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VSCTV.us@SD",Valley Shore Community Television (VSCTV) (Clinton CT) (1080p)
+https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="",Valuetainment (1080p)
+https://videoelephant-limited-valuetainment-1-us.ohlscdn.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Van Helsing (1080p)
+https://dfis0p7athkt.cloudfront.net/Van_Helsing.m3u8
+
+#EXTINF:-1 tvg-id="VBSTV.us@SD",VBS TV (480p) [Not 24/7]
+https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VegasLifeTV.us@HD",Vegas Life TV (1080p)
+https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VelayatTVNetwork.us@SD",Velayat TV (480p)
+https://nl.livekadeh.com/hls2/velayattv.m3u8
+
+#EXTINF:-1 tvg-id="Vevo70s.us@SD",Vevo '70s
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
+
+#EXTINF:-1 tvg-id="Vevo70s.us@SD",Vevo '70s (1080p)
+https://d341pfs1smb2ef.cloudfront.net/Vevo_70s.m3u8
+
+#EXTINF:-1 tvg-id="Vevo80s.us@SD",Vevo '80s
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+
+#EXTINF:-1 tvg-id="Vevo80s.us@SD",Vevo '80s (1080p)
+https://d3svsvgc81yfe1.cloudfront.net/Vevo_80s.m3u8
+
+#EXTINF:-1 tvg-id="Vevo90s.us@SD",Vevo '90s
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
