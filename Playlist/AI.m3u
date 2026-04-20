@@ -3128,3 +3128,30 @@ https://cdn-2.pishow.tv/live/465/master.m3u8
 
 #EXTINF:-1 tvg-id="Swantham.in@SD",Swantham (576p)
 http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+
+#EXTINF:-1 tvg-id="SwarajExpressSMBC.in@SD",Swaraj Express SMBC (720p) [Not 24/7]
+https://cdn-2.pishow.tv/live/477/master.m3u8
+
+#EXTINF:-1 tvg-id="SwatantraTV.in@SD",Swatantra TV (1080p)
+https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in@SD",T News (720p)
+https://cdn-1.pishow.tv/live/385/master.m3u8
+
+#EXTINF:-1 tvg-id="TaazaTV.in@SD",Taaza TV (720p)
+https://live.we2live.in/taazatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Tadka (576p)
+https://mumt03.tangotv.in/TADKA/index.m3u8
+
+#EXTINF:-1 tvg-id="TamilJanam.in@SD",Tamil Janam (576p)
+https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
+
+#EXTINF:-1 tvg-id="TamilanTV.in@SD",Tamilan TV (1080p)
+https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TarangMusic.in@SD",Tarang Music (720p)
+https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TarangTV.in@SD",Tarang TV (720p)
+https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
