@@ -5249,3 +5249,63 @@ https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 
 #EXTINF:-1 tvg-id="AnimexHIDIVE.us@SD",ANIME x HIDIVE (720p)
 https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD",Antiques Road Trip
+https://jmp2.uk/plu-615b8ec39e878900073f419a.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD",Antiques Road Trip (1080p) [Geo-blocked]
+https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD",Antiques Road Trip (720p)
+https://aegis-cloudfront-1.tubi.video/b42ac280-5300-4db0-8a63-2ec2e52c5b5c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD",Antiques Roadshow PBS (1080p)
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD",Antiques Roadshow UK
+https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD",Antiques Roadshow UK (1080p)
+https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD",Antiques Roadshow UK (720p) Source 1
+https://dbbg0ax8bgo7d.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD",Antiques Roadshow UK (720p) Source 2
+https://jmp2.uk/plu-5ce44810b421747ae467b7cd.m3u8
+
+#EXTINF:-1 tvg-id="AppleValleyChannel180.us@SD",Apple Valley Channel 180
+https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="AreWeThereYet.us@SD",Are We There Yet? (720p)
+https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianCultureTV.us@HD",Asian Culture TV (1080p)
+https://cdn.vegasplus.us/vegas/actv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianCrush.us@SD",AsianCrush (1080p)
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBSVDT1.us@SD",AssyriaSat (720p) [Not 24/7]
+http://66.242.170.53/hls/live/temp/index.m3u8
+
+#EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us@SD",At Home with Family Handyman (720p) Source 1
+https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us@SD",At Home with Family Handyman (720p) Source 2
+https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtlantaChannel.us@SD",Atlanta Channel (720p) Source 1
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WATCDT1.us@SD",Atlanta's 57 WATC 57.1 (720p)
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WATCDT2.us@SD",Atlanta's 57 WATC TOO 57.2 (720p)
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATXN1.us@SD",ATXN1 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
+
+#EXTINF:-1 tvg-id="ATXN2.us@SD",ATXN2 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
