@@ -5750,3 +5750,45 @@ https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 
 #EXTINF:-1 tvg-id="",Bondi Rescue (1080p) [Geo-blocked]
 https://pb-xcqdiadvt1x0q.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us@SD",Bounce XL
+https://jmp2.uk/plu-6176fd25e83a5f0007a464c9.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us@SD",Bounce XL (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us@SD",Bounce XL (1080p) [Geo-blocked]
+https://pb-xp0ozx9lyqeiv.akamaized.net/BounceXL_US.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us@SD",Bounce XL (720p)
+https://aegis-cloudfront-1.tubi.video/22eea4e9-00a6-427c-92dd-57e78cc160dc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BPXTVRadio.us@SD",BPX TV Radio
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BratTV.us@SD",Brat TV (1080p)
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BratTV.us@SD",Brat TV (720p) [Geo-blocked]
+https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Brave Wilderness (1080p)
+https://d95zc3i1pxhs7.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Bravo Vault (1080p)
+https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",Bravo Vault (720p)
+https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
+
+#EXTINF:-1 tvg-id="BrevardGovernmentAccessTV.us@SD",Brevard County Government Access TV (Brevard FL) (720p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Bring It! (1080p) [Geo-blocked]
+https://pb-46i4usnz2g1z1.akamaized.net/Bring_It.m3u8
+
+#EXTINF:-1 tvg-id="BritBoxMysteries.us@SD",BritBox Mysteries (1080p)
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BritBoxMysteries.us@SD",BritBox Mysteries (1080p) [Geo-blocked]
+https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
