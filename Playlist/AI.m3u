@@ -8318,3 +8318,33 @@ https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="",Little House on the Prairie (720p)
 https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
+
+#EXTINF:-1 tvg-id="LittleStarsUniverse.us@SD",Little Stars Universe
+https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
+
+#EXTINF:-1 tvg-id="",Little Women LA (1080p) [Geo-blocked]
+https://pb-dg3i75yovavc4.akamaized.net/Little_Women_LA.m3u8
+
+#EXTINF:-1 tvg-id="",Live Music
+https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
+
+#EXTINF:-1 tvg-id="",Live PD Presents (1080p)
+https://d8o79xse42g9s.cloudfront.net/Live_PD_Presents.m3u8
+
+#EXTINF:-1 tvg-id="",Live PD Presents (720p)
+https://jmp2.uk/plu-6887a4e01067b66fa16966ec.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD",LiveNOW from FOX (1080p) [Geo-blocked]
+https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD",LiveNOW from FOX (720p) Source 1
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD",LiveNOW from FOX (720p) Source 2
+https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD",LiveNOW from FOX (720p) [Geo-blocked]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LIVExLIVE.us@SD",LiveXLive (1080p)
+https://livestream.liveone.com/lc1/p1.m3u8
