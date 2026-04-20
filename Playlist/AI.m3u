@@ -10841,3 +10841,51 @@ https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr@SD",Trace Urban (720p)
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Transformers (1080p) [Geo-blocked]
+https://amg00461-eone-amg00461c1-firetv-us-5209.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Transformers TV
+https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
+
+#EXTINF:-1 tvg-id="",Travel Escapes (1080p)
+https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CommunityTVChannel189.us@SD",Traverse Area Community Media CommunityTV Channel 189 (Traverse City MI) (1080p) [Geo-blocked]
+https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="TribecaChannel.us@SD",Tribeca Channel (1080p) [Geo-blocked]
+https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrinityChannel.us@SD",Trinity Channel
+https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="",Triton Poker (720p)
+https://jmp2.uk/plu-661827ffe8fba800086b217d.m3u8
+
+#EXTINF:-1 tvg-id="TropicalMusicTV.us@SD",Tropical Music TV (720p)
+https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",TruBlu (720p)
+https://dx5izydu5moez.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us@SD",True Crime Network+ (1080p) [Geo-blocked]
+https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueHistory.us@SD",True History (720p)
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",True History Channel (720p)
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Trufa (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/728c02aa-8bf4-4711-a911-30c6d1ad8570/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TSN1.ca@SD",TSN1 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn1/hd
+
+#EXTINF:-1 tvg-id="TSN1.ca@SD",TSN1 (360p) [Not 24/7]
+https://tvpass.org/live/tsn1/sd
+
+#EXTINF:-1 tvg-id="TSN2.ca@SD",TSN2 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn2/hd
