@@ -9791,3 +9791,51 @@ https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTV3.us@SD",Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="",Rawhide
+https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co@SD",RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co@SD",RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealAmericasVoice.us@SD",Real America's Voice (720p) Source 1
+https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8
+
+#EXTINF:-1 tvg-id="",Real Crime (1080p) [Geo-blocked]
+https://d1qznhvm4vjve7.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Real Disaster Channel
+https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
+
+#EXTINF:-1 tvg-id="",Real Disaster Channel (1080p) [Geo-blocked] Source 1
+https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Real Disaster Channel (1080p) [Geo-blocked] Source 2
+https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Real Housewives Vault
+https://jmp2.uk/plu-6549316d2c1d330008631496.m3u8
+
+#EXTINF:-1 tvg-id="",Real Housewives Vault (1080p)
+https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="RedApple21.us@SD",Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedseatTheFirst.us@SD",Redseat The First (720p)
+https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Reelz Famous & Infamous (1080p) Source 1
+https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Reelz.us@SD",REELZ Famous & Infamous (1080p) Source 2
+https://d3serb1fmh623s.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Reelz Famous & Infamous (1080p) Source 3
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroCrush.us@SD",RetroCrush (1080p) Source 1
+https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
