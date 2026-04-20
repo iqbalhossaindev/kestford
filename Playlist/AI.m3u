@@ -10601,3 +10601,27 @@ https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThePetCollective.us@US",The Pet Collective (720p)
 https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8
+
+#EXTINF:-1 tvg-id="ThePriceIsRight.us@HD",The Price Is Right
+https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
+
+#EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us@SD",The Price Is Right: The Barker Era (1080p) [Geo-blocked] Source 1
+https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us@SD",The Price is Right: The Barker Era (1080p) [Geo-blocked] Source 2
+https://amg00145-letsplayinc-thepriceisright-xumo-eqq6a.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us@SD",The Price Is Right: The Barker Era (720p)
+https://jmp2.uk/plu-5f7791b8372da90007fd45e6.m3u8
+
+#EXTINF:-1 tvg-id="TheQIndia.us@SD",The Q India (576p)
+https://mumt05.tangotv.in/THEQ/index.m3u8
+
+#EXTINF:-1 tvg-id="TheRifleman.us@SD",The Rifleman
+https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
+
+#EXTINF:-1 tvg-id="",The Ringer from Spotify (1080p)
+https://d34e6a6i7rp7yc.cloudfront.net/SONO91_Spotify.m3u8
+
+#EXTINF:-1 tvg-id="TSC.ca@SD",The Shopping Channel (720p)
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
