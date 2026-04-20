@@ -6341,3 +6341,12 @@ https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playl
 
 #EXTINF:-1 tvg-id="ColdCaseFiles.us@SD",Cold Case Files (1080p) [Geo-blocked]
 https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8
+
+#EXTINF:-1 tvg-id="",Cold Case Files by A&E
+https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8
+
+#EXTINF:-1 tvg-id="CollierTV.us@SD",Collier Television CTV (Naples FL) (720p)
+https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="",Colour Blind (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8
