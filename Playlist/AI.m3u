@@ -9920,3 +9920,9 @@ https://dt1kh32hg3tft.cloudfront.net/v1/world_rugby_rugbypasstv_1/samsungheadend
 
 #EXTINF:-1 tvg-id="RuntimeEspanol.us@SD",Runtime Espanol (720p)
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+
+#EXTINF:-1 tvg-id="",Rustic Retreats
+https://jmp2.uk/plu-6565430c9d5ac4000822f508.m3u8
+
+#EXTINF:-1 tvg-id="RVTV.us@HD",RVTV (1080p) [Geo-blocked]
+https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8
