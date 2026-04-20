@@ -5195,3 +5195,9 @@ https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
 
 #EXTINF:-1 tvg-id="",American Crimes (1080p)
 https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",American Crimes (1080p) [Geo-blocked]
+https://pb-kdyzf3w51y7oz.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-id="",American Crimes (720p)
+https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
