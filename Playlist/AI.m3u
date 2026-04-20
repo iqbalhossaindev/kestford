@@ -6896,3 +6896,66 @@ https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playl
 
 #EXTINF:-1 tvg-id="EstrellaGames.us@SD",Estrella Games (1080p) Source 2
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaGames.us@SD",Estrella Games (1080p) Source 3
+https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaGames.us@SD",Estrella Games (1080p) [Geo-blocked]
+https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD",Estrella News (1080p) Source 1
+https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD",Estrella News (1080p) Source 2
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD",Estrella News (1080p) Source 3
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD",Estrella News (1080p) Source 4
+https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD",Estrella News (1080p) Source 5
+https://estrellanews-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD",Estrella News (720p) Source 1
+https://aegis-cloudfront-1.tubi.video/0383cf2d-1ca5-4765-aa18-ba81329a7b05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD",Estrella News (720p) Source 2
+https://estrellanews-glewed.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD",Estrella News (720p) Source 3
+https://jmp2.uk/plu-60492e6d7f3f560007ab0f62.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD",Estrella TV (1080p) Source 1
+https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD",Estrella TV (1080p) Source 2
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD",Estrella TV (1080p) Source 3
+https://estrellatv-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD",Estrella TV (720p)
+https://aegis-cloudfront-1.tubi.video/20bf77c0-dc60-46ae-8e87-c01cc7a836fc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD",Estrella TV East (1080p) Source 1
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD",Estrella TV East (1080p) Source 2
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD",EstrellaTV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD",EstrellaTV (720p)
+https://jmp2.uk/plu-5cf0622da00ca1e2f6fac712.m3u8
+
+#EXTINF:-1 tvg-id="EntertainmentTonight.us@SD",ET (720p)
+https://jmp2.uk/plu-5dc0c78281eddb0009a02d5e.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD",Euronews English (720p) Source 1
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD",Euronews English (720p) Source 2
+https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
