@@ -1773,9 +1773,6 @@ https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 tvg-id="GoUSATV.us@SD",Go USA
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Goa365.in@SD",Goa365 (1080p)
-https://ktismaservers.in:3086/live/goa365live.m3u8
-
 #EXTINF:-1 tvg-id="Goldmines.in@SD",Goldmines (576p) Source 1
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
