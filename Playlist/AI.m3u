@@ -69,9 +69,6 @@ https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
 #EXTINF:-1 group-title="Sports | Spain",Esport3
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 
-#EXTINF:-1 group-title="Sports | Poland",Extreme Sports Channel Polska
-https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc124/extremesportshdraw/extremesportshdraw.mpd
-
 #EXTINF:-1 group-title="Sports | United States",Fox Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
