@@ -540,9 +540,6 @@ https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
 #EXTINF:-1 tvg-name="Charterfeber" group-title="Norway",Charterfeber
 https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8
 
-#EXTINF:-1 tvg-name="Stimmungsgarten TV" group-title="Austria",Stimmungsgarten TV
-https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TV Artequatre (576p)" group-title="Spain",TV Artequatre (576p)
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 
