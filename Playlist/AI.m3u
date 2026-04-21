@@ -3060,9 +3060,6 @@ https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 #EXTINF:-1 tvg-id="ShaliniTV.in@SD",Shalini TV (576p)
 https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
 
-#EXTINF:-1 tvg-id="DDSaptagiri.in@SD",DD Saptagiri (576p)
-https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8
-
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD",Steelbird Music (720p) [Not 24/7] Source 2
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
