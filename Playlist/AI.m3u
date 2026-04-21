@@ -1659,9 +1659,6 @@ https://mumt05.tangotv.in/DDYADAGIRI/index.m3u8
 #EXTINF:-1 tvg-id="DesiChannel.in@SD",Desi Channel (720p) Source 2
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 
-#EXTINF:-1 tvg-id="DhamakaMoviesB4U.in@SD",Dhamaka Movies B4U (576p)
-https://cdn-1.pishow.tv/live/235/master.m3u8
-
 #EXTINF:-1 tvg-id="DharmSandesh.in@SD",Dharm Sandesh (576p)
 https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8
 
@@ -1670,9 +1667,6 @@ https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DishaTV.in@SD",Disha TV (576p)
 https://mumt04.tangotv.in/DISHATV/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.in@SD",Disney Channel (576p) Source 2
-http://ajkiptv.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="DivyavaniTV.in@SD",Divyavani TV (576p)
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
