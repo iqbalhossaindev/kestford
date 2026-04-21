@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 ,Ekushey TV Source 1
-http://103.135.208.14/live/ibox/bd/20.m3u8
-
-#EXTINF:-1 ,127.Disney XD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-
-#EXTINF:-1 ,129.Tom & Jerry
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-
-#EXTINF:-1 ,130.Mr Bean Show
-http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
-
-#EXTINF:-1 ,131.Sonic
-https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
-
 #EXTINF:-1 ,154.Sony Ten 2 [Extra]
 http://103.205.133.14/hls/ten2.m3u8
 
