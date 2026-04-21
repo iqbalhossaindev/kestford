@@ -2406,9 +2406,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/outpu
 #EXTINF:-1 tvg-id="News9Live.in@SD",News9Live (720p) Source 2
 https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
 
-#EXTINF:-1 tvg-id="NickJr.in@SD",Nick Jr. (576p) Source 2
-http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8
-
 #EXTINF:-1 tvg-id="NireekshanaTV.in@SD",Nireekshana TV (576p)
 https://cdn-1.pishow.tv/live/965/master.m3u8
 
