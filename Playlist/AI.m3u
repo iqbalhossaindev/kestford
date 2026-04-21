@@ -11918,3 +11918,6 @@ https://rpn.bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
 
 #EXTINF:-1 tvg-id="AELatinAmerica.us@South",A&E Latin America South (480p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Espanol (720p)
+https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
