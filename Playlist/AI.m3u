@@ -1272,9 +1272,6 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/75f6b460a3b05eb2614b04ab013710dc" group-title="Hindi",B4u Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 
-#EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music (1080p) Source 1
-https://cdn-2.pishow.tv/live/415/master.m3u8
-
 #EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music (1080p) Source 2
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 
