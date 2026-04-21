@@ -390,9 +390,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1 tvg-name="Rai 3" group-title="Italy",Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-name="La7" group-title="Italy",La7
-https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
-
 #EXTINF:-1 tvg-name="RTP 1" group-title="Portugal",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 
