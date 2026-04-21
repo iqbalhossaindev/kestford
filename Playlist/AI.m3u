@@ -243,9 +243,6 @@ https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports | Macao",Tdm Sports Ch. 93
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports | El Salvador",Tigo Sports TV El Salvador
-https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
-
 #EXTINF:-1 group-title="Sports | Italy",Tr Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 
