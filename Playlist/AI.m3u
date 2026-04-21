@@ -11891,3 +11891,6 @@ https://chostv.mobie.in/choos/sports/beinxtra.m3u8
 
 #EXTINF:-1 tvg-id="TrueAfrican.za@SD",True African (720p)
 https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfrican/index.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsMiami.us@SD",CBS News Miami
+https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
