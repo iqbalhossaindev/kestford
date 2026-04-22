@@ -4860,9 +4860,6 @@ https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMahdiTV.us@SD",Al-MahdiTV (1080p)
 https://iptv.almahditv.com/almahditv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlbdreamsTV.us@SD",AlbDreams TV (720p)
-http://live.albavision.net:1123/live/albdreams.m3u8
-
 #EXTINF:-1 tvg-id="",Alfred Hitchcock Presents (1080p)
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 
