@@ -8730,12 +8730,6 @@ https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us@SD",NBC Sports Bay Area (360p) [Not 24/7]
-https://tvpass.org/live/nbc-sports-bay-area/sd
-
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us@SD",NBC Sports Bay Area (720p) [Not 24/7]
-https://tvpass.org/live/nbc-sports-bay-area/hd
-
 #EXTINF:-1 tvg-id="NBCSportsBoston.us@SD",NBC Sports Boston (1080p) [Not 24/7]
 https://tvpass.org/live/nbc-sports-boston/hd
 
