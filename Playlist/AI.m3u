@@ -3183,12 +3183,6 @@ https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 group-title="Sports | India",Star Sports 3
 http://103.161.153.165:8000/play/a05p/index.m3u8
 
-#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD",Movies Now + (1080p) Source 1
-http://103.161.153.165:8000/play/a04o/index.m3u8
-
-#EXTINF:-1 tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
-http://103.161.153.165:8000/play/mnh/index.m3u8
-
 #EXTINF:-1 tvg-id="SonyAath.in@SD",Sony Aath (720p)
 http://103.161.153.165:8000/play/sonyatth/index.m3u8
 
