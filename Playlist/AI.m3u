@@ -1725,9 +1725,6 @@ https://cdn-6.pishow.tv/live/10002/master.m3u8
 #EXTINF:-1 tvg-id="",Fast Mix (576p)
 https://mumt01.tangotv.in/FASTMIX/index.m3u8
 
-#EXTINF:-1 tvg-id="FatehTV.in@SD",Fateh TV (1080p) [Not 24/7]
-https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
-
 #EXTINF:-1 tvg-id="FatehTV.in@SD",Fateh TV (576p)
 https://mumt05.tangotv.in/FATEHTV/index.m3u8
 
