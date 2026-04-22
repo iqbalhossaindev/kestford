@@ -11274,12 +11274,6 @@ https://aegis-cloudfront-1.tubi.video/e0a81cae-d483-46f9-aaa1-d0b87faa13cf/playl
 #EXTINF:-1 tvg-id="Wired2FishTV.us@SD",Wired2Fish (720p) [Geo-blocked]
 https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WISDT2.us@SD",WIS-DT2 (360p) [Not 24/7]
-https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-
-#EXTINF:-1 tvg-id="WISDT2.us@SD",WIS-DT2 (720p) [Not 24/7]
-https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
-
 #EXTINF:-1 tvg-id="WITIDT1.us@SD",WITI-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
 
