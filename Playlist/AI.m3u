@@ -819,12 +819,6 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 #EXTINF:-1 tvg-name="Global TV Source 1" group-title="Bangla",Global TV Source 1
 http://sm-monirul.top/AyNa/play.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="Bangla",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="GreenTV.bd@SD",Green TV (1080p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="IndependentTV.bd@SD",Independent TV (1080p)
 https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
 
@@ -3188,9 +3182,6 @@ https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
 
 #EXTINF:-1 tvg-id="VyasChannel.in@SD",Vyas NIC (576p)
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Bangla",Jalsha Movies HD
-http://103.161.153.165:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 group-title="Sports | India",Star Sports 3
 http://103.161.153.165:8000/play/a05p/index.m3u8
