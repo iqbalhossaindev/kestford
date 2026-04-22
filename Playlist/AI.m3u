@@ -810,9 +810,6 @@ https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="Bangla",Mohona TV Source 3
 http://103.229.254.25:7001/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-id="MohonaTV.bd@SD",Mohona TV (1080p)
-https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8
-
 #EXTINF:-1 tvg-id="MovieBangla.bd@SD",Movie Bangla Source 1
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
@@ -821,9 +818,6 @@ https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 
 #EXTINF:-1 ,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-
-#EXTINF:-1 tvg-id="News24.bd@SD",News 24 (1080p)
-https://bozztv.com/rongo/rongo-News24HD/index.m3u8
 
 #EXTINF:-1 ,News Max
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
