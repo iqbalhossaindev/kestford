@@ -93,9 +93,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="Sports | United States",Golf Channel
 https://tvpass.org/live/GolfChannel/hd
 
-#EXTINF:-1 group-title="Sports | United States",Golf Channel Latin America
-http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
-
 #EXTINF:-1 group-title="Sports | Japan",J Sports 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 
