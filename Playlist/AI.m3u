@@ -717,9 +717,6 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 ,CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-id="Channel24.bd@SD",Channel 24 (1080p)
-https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204" group-title="Bangla",Channel I Source 7
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 
