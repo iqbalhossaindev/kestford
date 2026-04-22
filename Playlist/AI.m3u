@@ -1329,9 +1329,6 @@ https://mumt02.tangotv.in/CHAUKASTV/index.m3u8
 #EXTINF:-1 tvg-id="Chithiram.in@SD",Chithiram (576p)
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 
-#EXTINF:-1 tvg-id="CinemaHausa.za@SD",Cinema Hausa (720p)
-https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8
-
 #EXTINF:-1 tvg-id="",Cinema Yoruba (720p)
 https://streamdot.broadpeak.io/cff02a74da64d1457f33a61a45801a4f/afxpstr/CinemaYoruba/index.m3u8
 
