@@ -3465,9 +3465,6 @@ https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 tvg-id="AfraFilm.ir@SD",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="AfraSeries.ir@SD",Afra Series
-https://afrashls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="AlAlam.ir@SD",Al Alam (360p)
 https://live2.alalam.ir/alalam.m3u8
 
