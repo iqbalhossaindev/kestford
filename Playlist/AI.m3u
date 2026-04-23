@@ -822,9 +822,6 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/chunklist_w904097509.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Bangla",Sangeet Bangla Source 1
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-id="SangsadTV.bd@SD",Sangsad TV (1080p)
-https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
-
 #EXTINF:-1 ,Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 
@@ -833,9 +830,6 @@ http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u
 
 #EXTINF:-1 ,Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-
-#EXTINF:-1 tvg-id="SomoyNewsTV.bd@SD",Somoy News TV (1080p)
-https://bozztv.com/rongo/rongo-somoy/index.m3u8
 
 #EXTINF:-1 ,Sony Ten 1 HD Source 2
 https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
