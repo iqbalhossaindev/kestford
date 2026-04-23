@@ -7695,12 +7695,6 @@ https://brightonco.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="KCAT.us@SD",KCAT Public Media TV (1080p)
 https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 
-#EXTINF:-1 tvg-id="KCBSDT1.us@SD",KCBS-DT1 (1080p) [Not 24/7]
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
-
-#EXTINF:-1 tvg-id="KCBSDT1.us@SD",KCBS-DT1 (360p) [Not 24/7]
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-
 #EXTINF:-1 tvg-id="KCMNLD6.us@SD",KCMN-LD6 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
