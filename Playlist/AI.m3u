@@ -2619,9 +2619,6 @@ https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
 #EXTINF:-1 tvg-id="",Punjabi TV (720p)
 https://mumt02.tangotv.in/PUNJABITV/index.m3u8
 
-#EXTINF:-1 tvg-id="RaftaarMedia.in@SD",Raftaar Media (240p)
-https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RepublicBharat.in@SD",Republic Bharat (1080p) [Geo-blocked]
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 
