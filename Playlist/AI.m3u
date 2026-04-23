@@ -10074,12 +10074,6 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional
 http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8
-
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica",Telemundo Internacional Central America (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8
-
 #EXTINF:-1 tvg-id="",Telemundo Noticias Ahora (1080p)
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 
