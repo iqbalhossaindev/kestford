@@ -8841,12 +8841,6 @@ http://79.127.207.193/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="NickenEspanol.us@SD",Nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8
-
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@North",Nickelodeon Latin America North (480p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8
-
 #EXTINF:-1 tvg-id="NickPlutoTV.us@US",Nickelodeon Pluto TV (720p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 
