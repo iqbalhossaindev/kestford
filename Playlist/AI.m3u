@@ -771,14 +771,8 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 #EXTINF:-1 tvg-name="Global TV Source 1" group-title="Bangla",Global TV Source 1
 http://sm-monirul.top/AyNa/play.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&e=.m3u8
 
-#EXTINF:-1 tvg-id="IndependentTV.bd@SD",Independent TV (1080p)
-https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
-
 #EXTINF:-1 ,India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-
-#EXTINF:-1 tvg-id="JamunaTV.bd@SD",Jamuna TV (1080p)
-https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="Bangla",Mohona TV Source 3
 http://103.229.254.25:7001/play/a05t/index.m3u8
