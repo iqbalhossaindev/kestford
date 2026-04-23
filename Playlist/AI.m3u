@@ -2910,9 +2910,6 @@ https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
 #EXTINF:-1 tvg-id="TNews.in@SD",T News (720p)
 https://cdn-1.pishow.tv/live/385/master.m3u8
 
-#EXTINF:-1 tvg-id="ShaliniTV.in@SD",Shalini TV (576p)
-https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
-
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD",Steelbird Music (720p) [Not 24/7] Source 2
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
