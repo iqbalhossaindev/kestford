@@ -2025,9 +2025,6 @@ https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-id="",Live Times (576p)
 https://mumt01.tangotv.in/LIVETIMES/index.m3u8
 
-#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD",Living India News (1080p) Source 2
-https://stream.ottlive.co.in/livingindia/index.m3u8
-
 #EXTINF:-1 tvg-id="LivingIndiaNews.in@SD",Living India News (576p)
 https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8
 
