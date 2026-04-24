@@ -3105,9 +3105,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 tvg-id="ZainabiaChannel.in@SD",Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 
-#EXTINF:-1 tvg-id="ZBCinema.in@HD",ZB Cinema (720p)
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-
 #EXTINF:-1 tvg-id="ZBMusic.in@HD",ZB Music (720p)
 https://server.zillarbarta.com/zbmusic/index.m3u8
 
