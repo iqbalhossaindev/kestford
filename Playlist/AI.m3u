@@ -6927,9 +6927,6 @@ https://tvpass.org/live/FreeformEast/hd
 #EXTINF:-1 tvg-id="",FreeTV Estelar (1080p)
 https://d38sud5af047z8.cloudfront.net/ftveu.m3u8
 
-#EXTINF:-1 tvg-id="CMAC2.us@SD",Fresno CMAC 2 Education Channel (720p)
-https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
-
 #EXTINF:-1 tvg-id="CMAC3.us@SD",Fresno CMAC 3 Government Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
 
