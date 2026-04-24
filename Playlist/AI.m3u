@@ -5919,9 +5919,6 @@ https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CinevaultWesterns.us@SD",Cinevault Westerns (540p) [Geo-blocked]
 https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CinevaultWesterns.us@SD",Cinevault Westerns (720p)
-https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Circle.us@SD",Circle (1080p) Source 1
 https://circle-roku.amagi.tv/playlist.m3u8
 
