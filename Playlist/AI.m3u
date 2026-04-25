@@ -2523,9 +2523,6 @@ https://mumt02.tangotv.in/INDIADAILY24X7/index.m3u8
 #EXTINF:-1 tvg-id="KNewsIndia.in@SD",K News India (576p)
 https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8
 
-#EXTINF:-1 tvg-id="KCLTV.in@SD",KCL TV (720p)
-https://kcltv.livebox.co.in/kclhls/live.m3u8
-
 #EXTINF:-1 tvg-id="MadhaTV.in@SD",Madha TV (576p)
 https://mumt02.tangotv.in/MADHATV/index.m3u8
 
