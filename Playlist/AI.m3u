@@ -4038,12 +4038,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f
 #EXTINF:-1 tvg-id="MohammedAbdo.sa@SD",Mohammed Abdo (1080p)
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
 
-#EXTINF:-1 tvg-id="MoviesAction.sa@SD",Movies Action (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-
-#EXTINF:-1 tvg-id="MoviesThriller.sa@SD",Movies Thriller (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-
 #EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa@SD",Nidae AlIslam Radio (1080p)
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 
