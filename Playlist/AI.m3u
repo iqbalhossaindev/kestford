@@ -1848,12 +1848,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangla",Ekushey TV Source 8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-name="India Today Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" tvg-id="IndiaToday.in" tvg-country="IN" group-title="India",India Today Ⓨ
-https://www.youtube.com/watch?v=sYZtOFzM78M
-
-#EXTINF:-1 tvg-name="India TV Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/India_tv_logo-en.png/500px-India_tv_logo-en.png" tvg-id="IndiaTV.in" tvg-country="IN" group-title="India",India TV Ⓨ
-https://www.youtube.com/watch?v=e1FIApIafWE
-
 #EXTINF:-1 tvg-id="INews.in@SD",INews (720p)
 https://cdn-1.pishow.tv/live/411/master.m3u8
 
