@@ -624,9 +624,6 @@ https://tv3ecuador.site/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/640px-TVP2_logo.svg.png" tvg-name="TVP2" group-title="Poland",TVP2
 https://strims.top/tv/tvp2.m3u8
 
-#EXTINF:-1 group-title="Pakistani",225.Tag TV 1
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-
 #EXTINF:-1 ,5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
