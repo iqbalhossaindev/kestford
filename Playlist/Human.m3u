@@ -66,9 +66,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 group-title="Sports | Qatar",Alkass Five
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 
-#EXTINF:-1 ,Tag TV
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Bangla",TV9 Bangla Source 2
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
