@@ -1185,9 +1185,6 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="BIGTV.in@SD",BIG TV (720p)
 https://cdn-1.pishow.tv/live/1059/master.m3u8
 
-#EXTINF:-1 tvg-id="BigTV24x7.in@SD",Big TV 24x7 (576i)
-https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
-
 #EXTINF:-1 tvg-id="BrioTV.in@SD",Brio TV (576p)
 https://mumt02.tangotv.in/BRIOTV/index.m3u8
 
