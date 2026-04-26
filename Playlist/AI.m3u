@@ -3570,9 +3570,6 @@ https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:-1 tvg-id="Channel8.iq@SD",Channel 8 Kurdish (720p)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="EmanTv.iq@HD",EmanTv (1080p)
-https://avr.host247.net/live/emantv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FarmodaTV.iq@HD",FarmodaTV (1080p)
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 
