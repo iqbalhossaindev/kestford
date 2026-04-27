@@ -366,9 +366,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1 tvg-name="Rai 3" group-title="Italy",Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 
-#EXTINF:-1 tvg-name="RTP 1" group-title="Portugal",RTP 1
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RTP Internacional" group-title="Portugal",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
