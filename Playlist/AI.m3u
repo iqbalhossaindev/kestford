@@ -3306,12 +3306,6 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg@SD",Rotana Cinema Egypt (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Watan TV" tvg-logo="" tvg-id="WatanTV.eg" tvg-country="EG" group-title="Egypt",Watan TV
-https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WatanTV.eg@SD",Watan TV (1080p)
-https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="247BoxTV.ir@SD",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
 
