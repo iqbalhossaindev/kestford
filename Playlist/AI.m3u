@@ -2172,9 +2172,6 @@ https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
 #EXTINF:-1 tvg-id="NENews.in@SD",NE News (576p)
 https://mumt05.tangotv.in/NENEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="Nepal1.in@SD",Nepal 1 (396p)
-https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Network10.in@SD",Network 10 Source 1
 https://network10.livebox.co.in/network10hls/live.m3u8
 
