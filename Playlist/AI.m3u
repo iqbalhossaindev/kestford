@@ -1764,9 +1764,6 @@ https://mumt04.tangotv.in/HMTV/index.m3u8
 #EXTINF:-1 tvg-id="HMTV.in@SD",HMTV (720p)
 https://cdn-1.pishow.tv/live/280/master.m3u8
 
-#EXTINF:-1 tvg-id="HNN24x7.in@SD",HNN 24x7 (576p) Source 2
-https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-id="HopeChannelIndia.in@SD",Hope Channel India (576p)
 https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8
 
