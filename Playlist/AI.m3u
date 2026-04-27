@@ -11295,9 +11295,6 @@ http://103.229.254.25:7001/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg" group-title="Bangla",Star Jalsha HD Source 3
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
 
-#EXTINF:-1 tvg-id="CBSNewsMiami.us@SD",CBS News Miami
-https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
-
 #EXTINF:-1 tvg-id="RVTVCivic.us@SD",RVTV Civic (720p)
 https://livestream.telvue.com/roguevalleycmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
