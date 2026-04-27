@@ -147,12 +147,6 @@ https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #EXTINF:-1 group-title="Sports | Philippines",Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports | Iran",Pro Sport International
-https://proshls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Sports | Unknown",Pro Sports International
-https://proshls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1 group-title="Sports | United States",Nbc Sports Philadelphia
 https://tvpass.org/live/nbc-sports-philadelphia/hd
 
