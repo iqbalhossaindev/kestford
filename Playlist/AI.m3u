@@ -3468,9 +3468,6 @@ https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-id="PressTVFrench.ir@SD",Press TV French (1080p)
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PROSportInternational.my@SD",PRO Sport International
-https://proshls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="RasoulallahTv.ir@HD",RasoulallahTv (1080p)
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 
