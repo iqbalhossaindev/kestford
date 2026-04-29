@@ -2763,9 +2763,6 @@ http://ptuf.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@HD",Star Vijay HD (1080p) Source 1
 http://103.157.248.140:8000/play/a06b/index.m3u8
 
-#EXTINF:-1 tvg-id="Starnet.in@SD",Starnet (480p)
-https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-
 #EXTINF:-1 tvg-id="StarPlus.in@SD",StarPlus (1080p)
 http://103.229.254.25:7001/play/a09z/index.m3u8
 
