@@ -1167,9 +1167,6 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Captain.in@SD",Captain (576p)
 https://mumt01.tangotv.in/CAPTAIN/index.m3u8
 
-#EXTINF:-1 tvg-id="CCV.in@SD",CCV (480p)
-https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ChannelDivya.in@SD",Channel Divya (1080p)
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 
