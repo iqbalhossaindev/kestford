@@ -6453,9 +6453,6 @@ https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.us@SD",Extrema TV (720p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="F1Channel.ie@SD",F1 Channel (720p)
-https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
-
 #EXTINF:-1 tvg-id="FailArmy.us@US",FailArmy
 https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
 
