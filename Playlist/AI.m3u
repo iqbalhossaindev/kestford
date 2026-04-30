@@ -2040,9 +2040,6 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Music.in@SD",Mh 1 Music (576p)
 https://mumt04.tangotv.in/MHONE/index.m3u8
 
-#EXTINF:-1 tvg-id="Mh1News.in@SD",Mh 1 News (360p)
-https://livestream.jswk.online/mhonenews/live/index.m3u8
-
 #EXTINF:-1 tvg-id="Mh1News.in@SD",Mh 1 News (576p)
 https://mumt04.tangotv.in/MHONENEWS/index.m3u8
 
