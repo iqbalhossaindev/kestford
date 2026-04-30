@@ -8052,9 +8052,6 @@ https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 #EXTINF:-1 tvg-id="",MotoGP Channel (1080p)
 https://d1kqz1q7knpsue.cloudfront.net/MotoGP.m3u8
 
-#EXTINF:-1 tvg-id="",MotorRacing
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8
-
 #EXTINF:-1 tvg-id="FastTV.us@SD",MotorTrend FAST TV (720p)
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 
