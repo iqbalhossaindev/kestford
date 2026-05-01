@@ -1047,9 +1047,6 @@ https://mumt01.tangotv.in/APN/index.m3u8
 #EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD",Apna Punjab
 https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8
 
-#EXTINF:-1 ,Apna Punjab TV (720p)
-https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AradanaTV.in@SD",Aradana TV (576p)
 https://cdn-1.pishow.tv/live/961/master.m3u8
 
