@@ -4095,9 +4095,6 @@ https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="30AMusic.us@SD",30A Music Channel (720p)
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 
-#EXTINF:-1 tvg-id="30ARidiculousTV.us@SD",30A Ridiculous TV (720p)
-https://30a-tv.com/feeds/720p/63.m3u8
-
 #EXTINF:-1 tvg-id="30ASidewalks.us@SD",30A Sidewalks (720p)
 https://30a-tv.com/sidewalks.m3u8
 
